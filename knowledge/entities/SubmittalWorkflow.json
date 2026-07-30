@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ent_SubmittalWorkflow_2d6e21070d73ea24",
+    "schemaVersion": "1.0.0",
+    "type": "SubmittalWorkflow",
+    "name": "Submittal Builder",
+    "normalizedKey": "submittal-builder",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_093897e217dcfbd8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  }
+]

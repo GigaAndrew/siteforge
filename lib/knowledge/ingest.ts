@@ -17,6 +17,9 @@ import { ProjectKnowledgeSliceSchema } from "@/lib/schemas/knowledge";
 import { fileExists, projectPath } from "@/lib/project";
 import { writeProjectStatus } from "@/lib/status";
 import { appendFileSync, readFileSync, existsSync } from "node:fs";
+import { normalizeProject } from "@/lib/normalization/engine";
+import { refreshCanonicalCandidatePatterns } from "@/lib/normalization/patterns";
+import { ensureConceptRegistry } from "@/lib/normalization/registry";
 
 export type IngestOptions = {
   slug: string;
@@ -169,6 +172,18 @@ export function ingestProjectKnowledge(opts: IngestOptions): IngestResult {
     new Set(parsed.evidence.map((e) => e.id)),
   );
   const patternStats = refreshCandidatePatterns(store);
+  // Canonical cross-company candidates (no-op until ≥2 normalized projects)
+  let canonicalCreated = 0;
+  let canonicalBlocked = 0;
+  try {
+    ensureConceptRegistry();
+    normalizeProject({ slug, rebuild: false });
+    const canon = refreshCanonicalCandidatePatterns(store);
+    canonicalCreated = canon.created;
+    canonicalBlocked = canon.blocked;
+  } catch {
+    /* normalization is additive — never fail ingest */
+  }
   const index = buildIndex(store);
   persistStore(store, index);
 
@@ -179,7 +194,13 @@ export function ingestProjectKnowledge(opts: IngestOptions): IngestResult {
     actor: "system",
     projectSlug: slug,
     reason: "Ingested project knowledge slice",
-    details: { ...mergeStats, staleMarked, ...patternStats },
+    details: {
+      ...mergeStats,
+      staleMarked,
+      ...patternStats,
+      canonicalCandidatesCreated: canonicalCreated,
+      canonicalCandidatesBlocked: canonicalBlocked,
+    },
   });
   // Persist audit after append
   persistStore(store, index);

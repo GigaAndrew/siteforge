@@ -336,5 +336,28 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_UxIssue_a6edfee0f6a06f3d",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Document management: score 3/10",
+    "normalizedKey": "document-management-document-management-weak",
+    "properties": {
+      "observationKey": "document-management-document-management-weak",
+      "score": 3
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

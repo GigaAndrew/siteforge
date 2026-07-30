@@ -1,9 +1,12 @@
 {
   "schemaVersion": "1.0.0",
-  "updatedAt": "2026-07-30T19:20:20.728Z",
+  "updatedAt": "2026-07-30T20:33:30.898Z",
   "byCompany": {
     "eb-metal-us": [
       "ent_Company_a8f4eb58069d61ce"
+    ],
+    "northline-framing": [
+      "ent_Company_e66e358a84112db0"
     ],
     "eb-metal": [
       "ent_Company_a8f4eb58069d61ce"
@@ -167,17 +170,34 @@
       "ent_DigitalOpportunity_7e78c1dc918cf633",
       "ent_Calculator_e4cb4514d39b6e8b",
       "ent_NavigationPattern_3b70ec4f8d719161"
+    ],
+    "northline-framing": [
+      "ent_Industry_70ec175cbe33aa88",
+      "ent_Company_e66e358a84112db0",
+      "ent_Website_4811adfb7dcf9801",
+      "ent_TechnicalResource_e59dc7ed5caf35f6",
+      "ent_Calculator_7715f13f68300c83",
+      "ent_SubmittalWorkflow_2d6e21070d73ea24",
+      "ent_ProductFamily_bf2507a5d08440e7",
+      "ent_Document_b39f2ac25b4e2470",
+      "ent_NavigationPattern_ae90b0247e8dc745",
+      "ent_ProcessIssue_edf950ad0d45d2c0",
+      "ent_UxIssue_a6edfee0f6a06f3d",
+      "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+      "ent_ProcessIssue_fc95659fb0568643"
     ]
   },
   "byEntityType": {
     "Company": [
-      "ent_Company_a8f4eb58069d61ce"
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
     ],
     "Industry": [
       "ent_Industry_70ec175cbe33aa88"
     ],
     "Website": [
-      "ent_Website_9e36b38a46d6b5dc"
+      "ent_Website_9e36b38a46d6b5dc",
+      "ent_Website_4811adfb7dcf9801"
     ],
     "Audience": [
       "ent_Audience_7f6d3bf1e32c3268"
@@ -186,7 +206,8 @@
       "ent_ProductFamily_94b4a026bd1b88fe",
       "ent_ProductFamily_f0d1eb4a46fd2989",
       "ent_ProductFamily_7693e630527dc0f8",
-      "ent_ProductFamily_0fcb7e2b94738898"
+      "ent_ProductFamily_0fcb7e2b94738898",
+      "ent_ProductFamily_bf2507a5d08440e7"
     ],
     "Product": [
       "ent_Product_b1582b087e13eeed",
@@ -236,7 +257,8 @@
       "ent_Document_5208a9fabe2e62ab",
       "ent_Document_e136257a25385ac9",
       "ent_Document_81733ab8960cebba",
-      "ent_Document_a77e1118c8237cf2"
+      "ent_Document_a77e1118c8237cf2",
+      "ent_Document_b39f2ac25b4e2470"
     ],
     "DocumentType": [
       "ent_DocumentType_6a74daf6a0617051"
@@ -316,7 +338,8 @@
       "ent_UxIssue_b196222259f20188",
       "ent_UxIssue_e7a854a32ab7775b",
       "ent_UxIssue_1abc7609df3e42e0",
-      "ent_UxIssue_e8cea8c79b04760d"
+      "ent_UxIssue_e8cea8c79b04760d",
+      "ent_UxIssue_a6edfee0f6a06f3d"
     ],
     "DigitalOpportunity": [
       "ent_DigitalOpportunity_ec79f7aab71ef317",
@@ -342,10 +365,13 @@
     "ProcessIssue": [
       "ent_ProcessIssue_5ed51aae563eaebd",
       "ent_ProcessIssue_fddb9cc58e34ee08",
-      "ent_ProcessIssue_70f4c3b8ea876530"
+      "ent_ProcessIssue_70f4c3b8ea876530",
+      "ent_ProcessIssue_edf950ad0d45d2c0",
+      "ent_ProcessIssue_fc95659fb0568643"
     ],
     "AccessibilityIssue": [
-      "ent_AccessibilityIssue_82e606025a5070f5"
+      "ent_AccessibilityIssue_82e606025a5070f5",
+      "ent_AccessibilityIssue_ecedd7ec08cc0c6a"
     ],
     "PerformanceIssue": [
       "ent_PerformanceIssue_c563ff419ffcd80b"
@@ -354,18 +380,28 @@
       "ent_SeoIssue_deb1746f05c34d2b"
     ],
     "Calculator": [
-      "ent_Calculator_e4cb4514d39b6e8b"
+      "ent_Calculator_e4cb4514d39b6e8b",
+      "ent_Calculator_7715f13f68300c83"
     ],
     "NavigationPattern": [
-      "ent_NavigationPattern_3b70ec4f8d719161"
+      "ent_NavigationPattern_3b70ec4f8d719161",
+      "ent_NavigationPattern_ae90b0247e8dc745"
+    ],
+    "TechnicalResource": [
+      "ent_TechnicalResource_e59dc7ed5caf35f6"
+    ],
+    "SubmittalWorkflow": [
+      "ent_SubmittalWorkflow_2d6e21070d73ea24"
     ]
   },
   "byRelationshipType": {
     "COMPANY_OPERATES_IN_INDUSTRY": [
-      "rel_COMPANY_OPERATES_IN_INDUSTRY_aec44ff34ed98afa"
+      "rel_COMPANY_OPERATES_IN_INDUSTRY_aec44ff34ed98afa",
+      "rel_COMPANY_OPERATES_IN_INDUSTRY_3c881c3d7b38b9b7"
     ],
     "COMPANY_HAS_WEBSITE": [
-      "rel_COMPANY_HAS_WEBSITE_3b47288bce64f3ef"
+      "rel_COMPANY_HAS_WEBSITE_3b47288bce64f3ef",
+      "rel_COMPANY_HAS_WEBSITE_b0ae4571ed5c7903"
     ],
     "COMPANY_SERVES_AUDIENCE": [
       "rel_COMPANY_SERVES_AUDIENCE_323062532c0b7f7e"
@@ -744,7 +780,8 @@
       "rel_PAGE_EXHIBITS_SEO_ISSUE_e3044c2c0e3b9e01"
     ],
     "COMPANY_PROVIDES_CALCULATOR": [
-      "rel_COMPANY_PROVIDES_CALCULATOR_3ff6f0289362f18f"
+      "rel_COMPANY_PROVIDES_CALCULATOR_3ff6f0289362f18f",
+      "rel_COMPANY_PROVIDES_CALCULATOR_3ca16f24e5264492"
     ],
     "COMPANY_EXHIBITS_NAVIGATION_PATTERN": [
       "rel_COMPANY_EXHIBITS_NAVIGATION_PATTERN_734ca5a0d0a5f1f2"
@@ -954,8 +991,25 @@
       "ev_72260d6f05055a07",
       "ev_bde5d1021d76ec5c",
       "ev_24a1727f892d6c77",
-      "ev_5153ea7164bd2e18"
+      "ev_5153ea7164bd2e18",
+      "ev_d07df11295e03360",
+      "ev_be2366d89f533f42",
+      "ev_093897e217dcfbd8",
+      "ev_ea2a7f9bf7701a6c",
+      "ev_521ca973f083b392",
+      "ev_089381e2a98ae459"
     ]
   },
-  "candidatePatternIds": []
+  "candidatePatternIds": [
+    "cpat_2141679f816caef3",
+    "cpat_0f6d9bcf7730adfa",
+    "cpat_440f37b637530597",
+    "cpat_da800947e225539a",
+    "cpat_e0d6fa986a2beff5",
+    "cpat_a6f6c7ffa0b5e568",
+    "cpat_2d96485f3a665c98",
+    "cpat_0da5ce11377ff625",
+    "cpat_372ca7be591e56d6",
+    "cpat_c9a77497953fccfe"
+  ]
 }

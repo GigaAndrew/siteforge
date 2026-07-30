@@ -583,5 +583,27 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.648Z",
     "updatedAt": "2026-07-30T19:20:20.669Z"
+  },
+  {
+    "id": "ent_Document_b39f2ac25b4e2470",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "Limiting Height Tables",
+    "normalizedKey": "limiting-height-tables",
+    "properties": {
+      "documentKind": "engineering_table"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

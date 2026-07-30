@@ -51,6 +51,12 @@ const TEMPLATE: SeedNode[] = [
     dependencies: ["n_extract"],
   },
   {
+    id: "n_normalize",
+    type: "Normalization",
+    capability: "normalization.run",
+    dependencies: ["n_knowledge"],
+  },
+  {
     id: "n_reliability",
     type: "Reliability",
     capability: "reliability.score",

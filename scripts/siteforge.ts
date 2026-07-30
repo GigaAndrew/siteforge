@@ -45,6 +45,12 @@ Commands:
   reject      --key <approvalKey>
   cancel      Cancel run
   reset-node  --node <nodeId>
+  normalize              --slug <project> [--dry-run] [--rebuild]
+  normalization-status   --slug <project>
+  normalization-review   --slug <project>
+  normalization-confirm  --slug <project> --mapping <id> --concept <id>
+  compare                --slugs a,b
+  seed-peer              Seed second-manufacturer fixture + normalize
 
 Options:
   --slug <slug>
@@ -59,9 +65,26 @@ Options:
   process.exit(1);
 }
 
+const NORMALIZATION_COMMANDS = new Set([
+  "normalize",
+  "normalization-status",
+  "normalization-review",
+  "normalization-confirm",
+  "compare",
+  "seed-peer",
+]);
+
 async function main() {
   const command = process.argv[2];
   if (!command || command.startsWith("--")) usage();
+
+  if (NORMALIZATION_COMMANDS.has(command)) {
+    const { runNormalizationCommand } = await import(
+      "@/scripts/normalize-knowledge"
+    );
+    await runNormalizationCommand(command);
+    return;
+  }
 
   const slug = arg("--slug");
   if (!slug) {

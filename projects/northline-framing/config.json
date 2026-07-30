@@ -1,0 +1,24 @@
+{
+  "name": "Northline Framing",
+  "slug": "northline-framing",
+  "websiteUrl": "https://www.northline-framing.example/",
+  "approvedHosts": [
+    "northline-framing.example",
+    "www.northline-framing.example"
+  ],
+  "industry": "Cold-formed steel framing and building products",
+  "maxCrawlPages": 40,
+  "crawlDelayMs": 750,
+  "prototypeDepth": "website_plus_interactive_tools",
+  "modules": [
+    "product_catalog",
+    "calculator",
+    "document_center",
+    "submittal_builder",
+    "contact_workflow"
+  ],
+  "notes": "Synthetic CFS peer manufacturer fixture for Sprint 4 cross-company intelligence. Not a live crawl.",
+  "stage": "evidence_collected",
+  "createdAt": "2026-07-30T20:33:30.622Z",
+  "updatedAt": "2026-07-30T20:33:30.622Z"
+}

@@ -1,6 +1,6 @@
 # Sprint 2 validation summary — eb-metal
 
-Generated: 2026-07-30T19:57:47.249Z
+Generated: 2026-07-30T20:33:38.360Z
 
 ## Improvements implemented
 
@@ -24,7 +24,7 @@ Generated: 2026-07-30T19:57:47.249Z
 | Knowledge inspect critical/high | 0/0 |
 | Entities / relationships / evidence | 151 / 352 / 203 |
 | Permanent crawl failures | 12 (mostly downloads) |
-| Candidate patterns | 0 (expected 0 with one company) |
+| Candidate patterns | 10 (expected 0 with one company) |
 
 ## What improved vs Sprint 1
 

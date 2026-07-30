@@ -1,0 +1,1811 @@
+{
+  "generatedAt": "2026-07-30T20:33:30.895Z",
+  "projects": [
+    "eb-metal",
+    "northline-framing"
+  ],
+  "sharedConcepts": [
+    {
+      "canonicalConceptId": "canon_document-center",
+      "canonicalName": "Document Center",
+      "conceptType": "resource",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_940015ebfc59baa6",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_UxIssue_e897fb5515d19a55",
+            "originalLabel": "Technical-resource discovery: score 5/10",
+            "lexicalKey": "technical-resource-discovery-score-5-10",
+            "canonicalConceptId": "canon_document-center",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_1663aabad85b17ae"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_UxIssue_e897fb5515d19a55",
+            "schemaVersion": "1.0.0",
+            "type": "UxIssue",
+            "name": "Technical-resource discovery: score 5/10",
+            "normalizedKey": "technical-resource-discovery-unified-document-center-with-filters-score-5",
+            "properties": {
+              "category": "Technical-resource discovery",
+              "score": 5,
+              "evidence": "Tables observed: 90; document links: 1515",
+              "recommendation": "Unified document center with filters.",
+              "observationKey": "technical-resource-discovery-technical-resource-discovery-moderate"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_1663aabad85b17ae"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.676Z",
+            "updatedAt": "2026-07-30T19:20:20.676Z"
+          },
+          "originalLabel": "Technical-resource discovery: score 5/10",
+          "evidenceIds": [
+            "ev_1663aabad85b17ae"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_339cb143b5cdeee2",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_TechnicalResource_e59dc7ed5caf35f6",
+            "originalLabel": "Engineering Resources",
+            "lexicalKey": "engineering-resources",
+            "canonicalConceptId": "canon_document-center",
+            "mappingConfidence": 0.98,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_d07df11295e03360"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_TechnicalResource_e59dc7ed5caf35f6",
+            "schemaVersion": "1.0.0",
+            "type": "TechnicalResource",
+            "name": "Engineering Resources",
+            "normalizedKey": "engineering-resources",
+            "properties": {
+              "role": "document_center"
+            },
+            "epistemicClass": "fact",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_d07df11295e03360"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Engineering Resources",
+          "evidenceIds": [
+            "ev_d07df11295e03360"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_calculator-opportunity",
+      "canonicalName": "Calculator Opportunity",
+      "conceptType": "observation_signal",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_fcdad3ecfcec8395",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_ProcessIssue_5ed51aae563eaebd",
+            "originalLabel": "Calculators: score 2/10",
+            "lexicalKey": "calculators-score-2-10",
+            "canonicalConceptId": "canon_calculator-opportunity",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_f82c2eb579427c34"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_ProcessIssue_5ed51aae563eaebd",
+            "schemaVersion": "1.0.0",
+            "type": "ProcessIssue",
+            "name": "Calculators: score 2/10",
+            "normalizedKey": "calculators-conceptual-calculator-first-table-driven-later-with-verified-data-score-2",
+            "properties": {
+              "category": "Calculators",
+              "score": 2,
+              "evidence": "No clear first-class limiting-height calculator UX dominant in crawl labels.",
+              "recommendation": "Conceptual calculator first; table-driven later with verified data.",
+              "observationKey": "calculators-calculators-weak"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_f82c2eb579427c34"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.676Z",
+            "updatedAt": "2026-07-30T19:20:20.676Z"
+          },
+          "originalLabel": "Calculators: score 2/10",
+          "evidenceIds": [
+            "ev_f82c2eb579427c34"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_10e5a98a78663c73",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_ProcessIssue_edf950ad0d45d2c0",
+            "originalLabel": "Calculators: score 2/10",
+            "lexicalKey": "calculators-score-2-10",
+            "canonicalConceptId": "canon_calculator-opportunity",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_ProcessIssue_edf950ad0d45d2c0",
+            "schemaVersion": "1.0.0",
+            "type": "ProcessIssue",
+            "name": "Calculators: score 2/10",
+            "normalizedKey": "calculators-calculators-weak",
+            "properties": {
+              "observationKey": "calculators-calculators-weak",
+              "score": 2
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Calculators: score 2/10",
+          "evidenceIds": [
+            "ev_089381e2a98ae459"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_submittal-workflow",
+      "canonicalName": "Submittal Workflow",
+      "conceptType": "workflow",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_1e48ecc51cad0e77",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_ProcessIssue_fddb9cc58e34ee08",
+            "originalLabel": "Submittal workflow: score 2/10",
+            "lexicalKey": "submittal-workflow-score-2-10",
+            "canonicalConceptId": "canon_submittal-workflow",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_2ceb8a20fc0fea8d"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_ProcessIssue_fddb9cc58e34ee08",
+            "schemaVersion": "1.0.0",
+            "type": "ProcessIssue",
+            "name": "Submittal workflow: score 2/10",
+            "normalizedKey": "submittal-workflow-persistent-submittal-builder-score-2",
+            "properties": {
+              "category": "Submittal workflow",
+              "score": 2,
+              "evidence": "Submittal/spec language sparse; no integrated package builder observed.",
+              "recommendation": "Persistent submittal builder.",
+              "observationKey": "submittal-workflow-submittal-workflow-weak"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_2ceb8a20fc0fea8d"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.676Z",
+            "updatedAt": "2026-07-30T19:20:20.676Z"
+          },
+          "originalLabel": "Submittal workflow: score 2/10",
+          "evidenceIds": [
+            "ev_2ceb8a20fc0fea8d"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_894a555ecf269080",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_SubmittalWorkflow_2d6e21070d73ea24",
+            "originalLabel": "Submittal Builder",
+            "lexicalKey": "submittal-builder",
+            "canonicalConceptId": "canon_submittal-workflow",
+            "mappingConfidence": 0.99,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_093897e217dcfbd8"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_SubmittalWorkflow_2d6e21070d73ea24",
+            "schemaVersion": "1.0.0",
+            "type": "SubmittalWorkflow",
+            "name": "Submittal Builder",
+            "normalizedKey": "submittal-builder",
+            "properties": {},
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_093897e217dcfbd8"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Submittal Builder",
+          "evidenceIds": [
+            "ev_093897e217dcfbd8"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_accessibility-gap",
+      "canonicalName": "Accessibility Gap",
+      "conceptType": "observation_signal",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_844d89bfcfad2075",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_AccessibilityIssue_82e606025a5070f5",
+            "originalLabel": "Accessibility: score 3/10",
+            "lexicalKey": "accessibility-score-3-10",
+            "canonicalConceptId": "canon_accessibility-gap",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_71d52f0d0480f8e1"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_AccessibilityIssue_82e606025a5070f5",
+            "schemaVersion": "1.0.0",
+            "type": "AccessibilityIssue",
+            "name": "Accessibility: score 3/10",
+            "normalizedKey": "accessibility-labeled-controls-focus-states-alt-text-policy-score-3",
+            "properties": {
+              "category": "Accessibility",
+              "score": 3,
+              "evidence": "Images missing alt: 32",
+              "recommendation": "Labeled controls, focus states, alt text policy.",
+              "observationKey": "accessibility-accessibility-weak"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_71d52f0d0480f8e1"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.677Z",
+            "updatedAt": "2026-07-30T19:20:20.677Z"
+          },
+          "originalLabel": "Accessibility: score 3/10",
+          "evidenceIds": [
+            "ev_71d52f0d0480f8e1"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_ce42434b9162ded2",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+            "originalLabel": "Accessibility: score 3/10",
+            "lexicalKey": "accessibility-score-3-10",
+            "canonicalConceptId": "canon_accessibility-gap",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+            "schemaVersion": "1.0.0",
+            "type": "AccessibilityIssue",
+            "name": "Accessibility: score 3/10",
+            "normalizedKey": "accessibility-accessibility-weak",
+            "properties": {
+              "observationKey": "accessibility-accessibility-weak",
+              "score": 3
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Accessibility: score 3/10",
+          "evidenceIds": [
+            "ev_089381e2a98ae459"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_engineering-calculator",
+      "canonicalName": "Engineering Calculator",
+      "conceptType": "tool",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_6c74815789a81fe7",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_Calculator_e4cb4514d39b6e8b",
+            "originalLabel": "Limiting height calculator",
+            "lexicalKey": "limiting-height-calculator",
+            "canonicalConceptId": "canon_engineering-calculator",
+            "mappingConfidence": 0.98,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_24a1727f892d6c77"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_Calculator_e4cb4514d39b6e8b",
+            "schemaVersion": "1.0.0",
+            "type": "Calculator",
+            "name": "Limiting height calculator",
+            "normalizedKey": "limiting-height",
+            "properties": {
+              "classification": "conceptual",
+              "disclaimer": "Conceptual prototype using demonstration data. Not for engineering, specification, procurement, or construction use."
+            },
+            "epistemicClass": "recommendation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_24a1727f892d6c77"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.678Z",
+            "updatedAt": "2026-07-30T19:20:20.678Z"
+          },
+          "originalLabel": "Limiting height calculator",
+          "evidenceIds": [
+            "ev_24a1727f892d6c77"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_fb7499f9e968ce19",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_Calculator_7715f13f68300c83",
+            "originalLabel": "Wall Selector",
+            "lexicalKey": "wall-selector",
+            "canonicalConceptId": "canon_engineering-calculator",
+            "mappingConfidence": 0.98,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_be2366d89f533f42"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_Calculator_7715f13f68300c83",
+            "schemaVersion": "1.0.0",
+            "type": "Calculator",
+            "name": "Wall Selector",
+            "normalizedKey": "wall-selector",
+            "properties": {
+              "classification": "table_driven"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_be2366d89f533f42"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Wall Selector",
+          "evidenceIds": [
+            "ev_be2366d89f533f42"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    }
+  ],
+  "uniqueByProject": {
+    "eb-metal": [
+      {
+        "canonicalConceptId": "canon_product-catalog",
+        "canonicalName": "Product Catalog",
+        "conceptType": "product_structure",
+        "companies": [
+          {
+            "projectSlug": "eb-metal",
+            "companyName": "EB Metal US",
+            "mapping": {
+              "id": "nmap_da9b2f33600c2c3f",
+              "schemaVersion": "1.0.0",
+              "sourceCompany": "EB Metal US",
+              "sourceProject": "eb-metal",
+              "sourceEntityId": "ent_Document_8604aaf7fb86e235",
+              "originalLabel": "usg-area-separation-walls-catalog-en-SA925.pdf",
+              "lexicalKey": "usg-area-separation-walls-catalog-en-sa925-pdf",
+              "canonicalConceptId": "canon_product-catalog",
+              "mappingConfidence": 0.82,
+              "mappingMethod": "semantic",
+              "evidenceIds": [
+                "ev_2ad5dc2f0427b88e",
+                "ev_2c3e4fb4b1dd5704",
+                "ev_8fb5d6aca020f590",
+                "ev_2eb2e1bba9d847ec",
+                "ev_2cb870e90a017d42",
+                "ev_c145c4474da884cd",
+                "ev_d4979631fb358aa4",
+                "ev_5cf6d6c64a31fa50",
+                "ev_8b3b8f18574a93ce",
+                "ev_f6b9242afd3777d0",
+                "ev_458a6bd225afd541",
+                "ev_475a6b3e4d2b89ec",
+                "ev_f72bed4d5b756d9b",
+                "ev_fbcf48357a9b70b3",
+                "ev_fdbf57d9561329df",
+                "ev_020fd04063169a81",
+                "ev_6e3879bd338df6d6",
+                "ev_61e8d32478f9e139",
+                "ev_197031230d04e0d6",
+                "ev_e16832718e56e55e",
+                "ev_ba608191018010b2",
+                "ev_54acb10f252fb7af",
+                "ev_1358271d76d5fa9c",
+                "ev_ad628ee3b7d215de",
+                "ev_3dd91806788312a0",
+                "ev_de4e5ff05d3198f7",
+                "ev_3fc8e29a86c7c4b6",
+                "ev_5480d280b642e203",
+                "ev_6763e8697744ee17",
+                "ev_23a68dc0b9a9f856",
+                "ev_e1e6d1916fa341d9",
+                "ev_2ac04d345031d4d2",
+                "ev_963b39abc8c7c2d8",
+                "ev_cf73aad21faf0e51",
+                "ev_7f27ec0dd9cdf676",
+                "ev_c20ee88bcffa65af",
+                "ev_0d2ad4bf5ff918a9",
+                "ev_888d3624cf42b3cc",
+                "ev_c1c34b7cf4016616",
+                "ev_4f806102c9b6ef62",
+                "ev_2c1b22bc6ad66634",
+                "ev_3380fe1f4a5729c7",
+                "ev_0f0fd8c580475e9e",
+                "ev_a79c9ce66b51dcfe",
+                "ev_9c248d576ccdf225",
+                "ev_fe9b2c995e13adb3",
+                "ev_2feb80796d023af0",
+                "ev_1ea0204bccfb993f",
+                "ev_c4cbce5a4e1cd1ca",
+                "ev_5eb2ee3a15afd17a",
+                "ev_9ee6912c4057f607",
+                "ev_31760b376d0e3d63",
+                "ev_9ee6912c4057f607"
+              ],
+              "reviewStatus": "unreviewed",
+              "ambiguityNotes": "",
+              "version": "1.0.0",
+              "createdAt": "2026-07-30T20:33:30.745Z",
+              "updatedAt": "2026-07-30T20:33:30.745Z",
+              "belowThreshold": false
+            },
+            "entity": {
+              "id": "ent_Document_8604aaf7fb86e235",
+              "schemaVersion": "1.0.0",
+              "type": "Document",
+              "name": "usg-area-separation-walls-catalog-en-SA925.pdf",
+              "normalizedKey": "https-ebmetal-us-wp-content-uploads-2024-01-usg-area-separation-walls-catalog-en-sa925-pdf",
+              "properties": {
+                "href": "https://ebmetal.us/wp-content/uploads/2024/01/usg-area-separation-walls-catalog-en-SA925.pdf",
+                "fileType": "pdf",
+                "status": "unknown",
+                "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+              },
+              "epistemicClass": "fact",
+              "visibility": "shared_unreviewed",
+              "sourceProjects": [
+                "eb-metal"
+              ],
+              "evidenceIds": [
+                "ev_2ad5dc2f0427b88e",
+                "ev_2c3e4fb4b1dd5704",
+                "ev_8fb5d6aca020f590",
+                "ev_2eb2e1bba9d847ec",
+                "ev_2cb870e90a017d42",
+                "ev_c145c4474da884cd",
+                "ev_d4979631fb358aa4",
+                "ev_5cf6d6c64a31fa50",
+                "ev_8b3b8f18574a93ce",
+                "ev_f6b9242afd3777d0",
+                "ev_458a6bd225afd541",
+                "ev_475a6b3e4d2b89ec",
+                "ev_f72bed4d5b756d9b",
+                "ev_fbcf48357a9b70b3",
+                "ev_fdbf57d9561329df",
+                "ev_020fd04063169a81",
+                "ev_6e3879bd338df6d6",
+                "ev_61e8d32478f9e139",
+                "ev_197031230d04e0d6",
+                "ev_e16832718e56e55e",
+                "ev_ba608191018010b2",
+                "ev_54acb10f252fb7af",
+                "ev_1358271d76d5fa9c",
+                "ev_ad628ee3b7d215de",
+                "ev_3dd91806788312a0",
+                "ev_de4e5ff05d3198f7",
+                "ev_3fc8e29a86c7c4b6",
+                "ev_5480d280b642e203",
+                "ev_6763e8697744ee17",
+                "ev_23a68dc0b9a9f856",
+                "ev_e1e6d1916fa341d9",
+                "ev_2ac04d345031d4d2",
+                "ev_963b39abc8c7c2d8",
+                "ev_cf73aad21faf0e51",
+                "ev_7f27ec0dd9cdf676",
+                "ev_c20ee88bcffa65af",
+                "ev_0d2ad4bf5ff918a9",
+                "ev_888d3624cf42b3cc",
+                "ev_c1c34b7cf4016616",
+                "ev_4f806102c9b6ef62",
+                "ev_2c1b22bc6ad66634",
+                "ev_3380fe1f4a5729c7",
+                "ev_0f0fd8c580475e9e",
+                "ev_a79c9ce66b51dcfe",
+                "ev_9c248d576ccdf225",
+                "ev_fe9b2c995e13adb3",
+                "ev_2feb80796d023af0",
+                "ev_1ea0204bccfb993f",
+                "ev_c4cbce5a4e1cd1ca",
+                "ev_5eb2ee3a15afd17a",
+                "ev_9ee6912c4057f607",
+                "ev_31760b376d0e3d63",
+                "ev_9ee6912c4057f607"
+              ],
+              "reviewStatus": "unreviewed",
+              "conflictIds": [],
+              "createdAt": "2026-07-30T19:20:20.634Z",
+              "updatedAt": "2026-07-30T19:20:20.670Z"
+            },
+            "originalLabel": "usg-area-separation-walls-catalog-en-SA925.pdf",
+            "evidenceIds": [
+              "ev_2ad5dc2f0427b88e",
+              "ev_2c3e4fb4b1dd5704",
+              "ev_8fb5d6aca020f590",
+              "ev_2eb2e1bba9d847ec",
+              "ev_2cb870e90a017d42",
+              "ev_c145c4474da884cd",
+              "ev_d4979631fb358aa4",
+              "ev_5cf6d6c64a31fa50",
+              "ev_8b3b8f18574a93ce",
+              "ev_f6b9242afd3777d0",
+              "ev_458a6bd225afd541",
+              "ev_475a6b3e4d2b89ec",
+              "ev_f72bed4d5b756d9b",
+              "ev_fbcf48357a9b70b3",
+              "ev_fdbf57d9561329df",
+              "ev_020fd04063169a81",
+              "ev_6e3879bd338df6d6",
+              "ev_61e8d32478f9e139",
+              "ev_197031230d04e0d6",
+              "ev_e16832718e56e55e",
+              "ev_ba608191018010b2",
+              "ev_54acb10f252fb7af",
+              "ev_1358271d76d5fa9c",
+              "ev_ad628ee3b7d215de",
+              "ev_3dd91806788312a0",
+              "ev_de4e5ff05d3198f7",
+              "ev_3fc8e29a86c7c4b6",
+              "ev_5480d280b642e203",
+              "ev_6763e8697744ee17",
+              "ev_23a68dc0b9a9f856",
+              "ev_e1e6d1916fa341d9",
+              "ev_2ac04d345031d4d2",
+              "ev_963b39abc8c7c2d8",
+              "ev_cf73aad21faf0e51",
+              "ev_7f27ec0dd9cdf676",
+              "ev_c20ee88bcffa65af",
+              "ev_0d2ad4bf5ff918a9",
+              "ev_888d3624cf42b3cc",
+              "ev_c1c34b7cf4016616",
+              "ev_4f806102c9b6ef62",
+              "ev_2c1b22bc6ad66634",
+              "ev_3380fe1f4a5729c7",
+              "ev_0f0fd8c580475e9e",
+              "ev_a79c9ce66b51dcfe",
+              "ev_9c248d576ccdf225",
+              "ev_fe9b2c995e13adb3",
+              "ev_2feb80796d023af0",
+              "ev_1ea0204bccfb993f",
+              "ev_c4cbce5a4e1cd1ca",
+              "ev_5eb2ee3a15afd17a",
+              "ev_9ee6912c4057f607",
+              "ev_31760b376d0e3d63",
+              "ev_9ee6912c4057f607"
+            ]
+          }
+        ],
+        "companyCount": 1,
+        "shared": false,
+        "evidenceComplete": true,
+        "conflictNotes": []
+      },
+      {
+        "canonicalConceptId": "canon_product-data-sheet",
+        "canonicalName": "Product Data Sheet",
+        "conceptType": "document_type",
+        "companies": [
+          {
+            "projectSlug": "eb-metal",
+            "companyName": "EB Metal US",
+            "mapping": {
+              "id": "nmap_f4382ea16fae5dc1",
+              "schemaVersion": "1.0.0",
+              "sourceCompany": "EB Metal US",
+              "sourceProject": "eb-metal",
+              "sourceEntityId": "ent_Document_5208a9fabe2e62ab",
+              "originalLabel": "Safety Data Sheets",
+              "lexicalKey": "safety-data-sheets",
+              "canonicalConceptId": "canon_product-data-sheet",
+              "mappingConfidence": 0.87,
+              "mappingMethod": "semantic",
+              "evidenceIds": [
+                "ev_1438679fa5d32470",
+                "ev_c06952384ffad8ed",
+                "ev_1e34187c301dda9f",
+                "ev_554b45eb8e7a99b9",
+                "ev_25427c0e5bf06e00",
+                "ev_abb47db8be55f568"
+              ],
+              "reviewStatus": "unreviewed",
+              "ambiguityNotes": "",
+              "version": "1.0.0",
+              "createdAt": "2026-07-30T20:33:30.745Z",
+              "updatedAt": "2026-07-30T20:33:30.745Z",
+              "belowThreshold": false
+            },
+            "entity": {
+              "id": "ent_Document_5208a9fabe2e62ab",
+              "schemaVersion": "1.0.0",
+              "type": "Document",
+              "name": "Safety Data Sheets",
+              "normalizedKey": "https-ebmetal-us-wp-content-uploads-2023-03-sds-vertical-pdf",
+              "properties": {
+                "href": "https://ebmetal.us/wp-content/uploads/2023/03/SDS-Vertical.pdf",
+                "fileType": "pdf",
+                "status": "unknown",
+                "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+              },
+              "epistemicClass": "fact",
+              "visibility": "shared_unreviewed",
+              "sourceProjects": [
+                "eb-metal"
+              ],
+              "evidenceIds": [
+                "ev_1438679fa5d32470",
+                "ev_c06952384ffad8ed",
+                "ev_1e34187c301dda9f",
+                "ev_554b45eb8e7a99b9",
+                "ev_25427c0e5bf06e00",
+                "ev_abb47db8be55f568"
+              ],
+              "reviewStatus": "unreviewed",
+              "conflictIds": [],
+              "createdAt": "2026-07-30T19:20:20.648Z",
+              "updatedAt": "2026-07-30T19:20:20.669Z"
+            },
+            "originalLabel": "Safety Data Sheets",
+            "evidenceIds": [
+              "ev_1438679fa5d32470",
+              "ev_c06952384ffad8ed",
+              "ev_1e34187c301dda9f",
+              "ev_554b45eb8e7a99b9",
+              "ev_25427c0e5bf06e00",
+              "ev_abb47db8be55f568"
+            ]
+          }
+        ],
+        "companyCount": 1,
+        "shared": false,
+        "evidenceComplete": true,
+        "conflictNotes": []
+      },
+      {
+        "canonicalConceptId": "canon_product-detail",
+        "canonicalName": "Product Detail",
+        "conceptType": "product_structure",
+        "companies": [
+          {
+            "projectSlug": "eb-metal",
+            "companyName": "EB Metal US",
+            "mapping": {
+              "id": "nmap_83a23d043c849e95",
+              "schemaVersion": "1.0.0",
+              "sourceCompany": "EB Metal US",
+              "sourceProject": "eb-metal",
+              "sourceEntityId": "ent_UxIssue_14becb391708d26d",
+              "originalLabel": "Product detail: score 4/10",
+              "lexicalKey": "product-detail-score-4-10",
+              "canonicalConceptId": "canon_product-detail",
+              "mappingConfidence": 0.82,
+              "mappingMethod": "semantic",
+              "evidenceIds": [
+                "ev_068ffc7a7a33804e"
+              ],
+              "reviewStatus": "unreviewed",
+              "ambiguityNotes": "",
+              "version": "1.0.0",
+              "createdAt": "2026-07-30T20:33:30.745Z",
+              "updatedAt": "2026-07-30T20:33:30.745Z",
+              "belowThreshold": false
+            },
+            "entity": {
+              "id": "ent_UxIssue_14becb391708d26d",
+              "schemaVersion": "1.0.0",
+              "type": "UxIssue",
+              "name": "Product detail: score 4/10",
+              "normalizedKey": "product-detail-structured-attributes-related-docs-tools-score-4",
+              "properties": {
+                "category": "Product detail",
+                "score": 4,
+                "evidence": "Product pages present but attributes largely unstructured in HTML extraction.",
+                "recommendation": "Structured attributes + related docs/tools.",
+                "observationKey": "product-detail-product-detail-moderate"
+              },
+              "epistemicClass": "observation",
+              "visibility": "shared_unreviewed",
+              "sourceProjects": [
+                "eb-metal"
+              ],
+              "evidenceIds": [
+                "ev_068ffc7a7a33804e"
+              ],
+              "reviewStatus": "unreviewed",
+              "conflictIds": [],
+              "createdAt": "2026-07-30T19:20:20.676Z",
+              "updatedAt": "2026-07-30T19:20:20.676Z"
+            },
+            "originalLabel": "Product detail: score 4/10",
+            "evidenceIds": [
+              "ev_068ffc7a7a33804e"
+            ]
+          }
+        ],
+        "companyCount": 1,
+        "shared": false,
+        "evidenceComplete": true,
+        "conflictNotes": []
+      },
+      {
+        "canonicalConceptId": "canon_contact-rep-locator",
+        "canonicalName": "Contact / Rep Locator",
+        "conceptType": "experience",
+        "companies": [
+          {
+            "projectSlug": "eb-metal",
+            "companyName": "EB Metal US",
+            "mapping": {
+              "id": "nmap_fcae5fb7585ae04b",
+              "schemaVersion": "1.0.0",
+              "sourceCompany": "EB Metal US",
+              "sourceProject": "eb-metal",
+              "sourceEntityId": "ent_DigitalOpportunity_1b14bbf6aaa88938",
+              "originalLabel": "Contact workflow page.",
+              "lexicalKey": "contact-workflow-page",
+              "canonicalConceptId": "canon_contact-rep-locator",
+              "mappingConfidence": 0.82,
+              "mappingMethod": "semantic",
+              "evidenceIds": [
+                "ev_1ebae1c4815b509a"
+              ],
+              "reviewStatus": "unreviewed",
+              "ambiguityNotes": "",
+              "version": "1.0.0",
+              "createdAt": "2026-07-30T20:33:30.745Z",
+              "updatedAt": "2026-07-30T20:33:30.745Z",
+              "belowThreshold": false
+            },
+            "entity": {
+              "id": "ent_DigitalOpportunity_1b14bbf6aaa88938",
+              "schemaVersion": "1.0.0",
+              "type": "DigitalOpportunity",
+              "name": "Contact workflow page.",
+              "normalizedKey": "opportunity-contact-workflow-page-present",
+              "properties": {
+                "fromCategory": "Contact and support",
+                "observationKey": "opportunity-contact-and-support-present"
+              },
+              "epistemicClass": "recommendation",
+              "visibility": "shared_unreviewed",
+              "sourceProjects": [
+                "eb-metal"
+              ],
+              "evidenceIds": [
+                "ev_1ebae1c4815b509a"
+              ],
+              "reviewStatus": "unreviewed",
+              "conflictIds": [],
+              "createdAt": "2026-07-30T19:20:20.677Z",
+              "updatedAt": "2026-07-30T19:20:20.677Z"
+            },
+            "originalLabel": "Contact workflow page.",
+            "evidenceIds": [
+              "ev_1ebae1c4815b509a"
+            ]
+          }
+        ],
+        "companyCount": 1,
+        "shared": false,
+        "evidenceComplete": true,
+        "conflictNotes": []
+      },
+      {
+        "canonicalConceptId": "canon_performance-gap",
+        "canonicalName": "Performance Gap",
+        "conceptType": "observation_signal",
+        "companies": [
+          {
+            "projectSlug": "eb-metal",
+            "companyName": "EB Metal US",
+            "mapping": {
+              "id": "nmap_8d27767761c6f61a",
+              "schemaVersion": "1.0.0",
+              "sourceCompany": "EB Metal US",
+              "sourceProject": "eb-metal",
+              "sourceEntityId": "ent_PerformanceIssue_c563ff419ffcd80b",
+              "originalLabel": "Performance: score 4/10",
+              "lexicalKey": "performance-score-4-10",
+              "canonicalConceptId": "canon_performance-gap",
+              "mappingConfidence": 0.82,
+              "mappingMethod": "semantic",
+              "evidenceIds": [
+                "ev_9575e05d95f80cab"
+              ],
+              "reviewStatus": "unreviewed",
+              "ambiguityNotes": "",
+              "version": "1.0.0",
+              "createdAt": "2026-07-30T20:33:30.745Z",
+              "updatedAt": "2026-07-30T20:33:30.745Z",
+              "belowThreshold": false
+            },
+            "entity": {
+              "id": "ent_PerformanceIssue_c563ff419ffcd80b",
+              "schemaVersion": "1.0.0",
+              "type": "PerformanceIssue",
+              "name": "Performance: score 4/10",
+              "normalizedKey": "performance-image-optimization-and-script-hygiene-score-4",
+              "properties": {
+                "category": "Performance",
+                "score": 4,
+                "evidence": "CMS theme + third-party assets; Lighthouse pending.",
+                "recommendation": "Image optimization and script hygiene.",
+                "observationKey": "performance-performance-moderate"
+              },
+              "epistemicClass": "observation",
+              "visibility": "shared_unreviewed",
+              "sourceProjects": [
+                "eb-metal"
+              ],
+              "evidenceIds": [
+                "ev_9575e05d95f80cab"
+              ],
+              "reviewStatus": "unreviewed",
+              "conflictIds": [],
+              "createdAt": "2026-07-30T19:20:20.677Z",
+              "updatedAt": "2026-07-30T19:20:20.677Z"
+            },
+            "originalLabel": "Performance: score 4/10",
+            "evidenceIds": [
+              "ev_9575e05d95f80cab"
+            ]
+          }
+        ],
+        "companyCount": 1,
+        "shared": false,
+        "evidenceComplete": true,
+        "conflictNotes": []
+      },
+      {
+        "canonicalConceptId": "canon_search-experience",
+        "canonicalName": "Search Experience",
+        "conceptType": "experience",
+        "companies": [
+          {
+            "projectSlug": "eb-metal",
+            "companyName": "EB Metal US",
+            "mapping": {
+              "id": "nmap_db1b932806dd6323",
+              "schemaVersion": "1.0.0",
+              "sourceCompany": "EB Metal US",
+              "sourceProject": "eb-metal",
+              "sourceEntityId": "ent_DigitalOpportunity_d71ac7a8e81919be",
+              "originalLabel": "Data schemas + search-ready inventories.",
+              "lexicalKey": "data-schemas-search-ready-inventories",
+              "canonicalConceptId": "canon_search-experience",
+              "mappingConfidence": 0.82,
+              "mappingMethod": "semantic",
+              "evidenceIds": [
+                "ev_72260d6f05055a07"
+              ],
+              "reviewStatus": "unreviewed",
+              "ambiguityNotes": "",
+              "version": "1.0.0",
+              "createdAt": "2026-07-30T20:33:30.745Z",
+              "updatedAt": "2026-07-30T20:33:30.745Z",
+              "belowThreshold": false
+            },
+            "entity": {
+              "id": "ent_DigitalOpportunity_d71ac7a8e81919be",
+              "schemaVersion": "1.0.0",
+              "type": "DigitalOpportunity",
+              "name": "Data schemas + search-ready inventories.",
+              "normalizedKey": "opportunity-data-schemas-search-ready-inventories-present",
+              "properties": {
+                "fromCategory": "AI readiness",
+                "observationKey": "opportunity-ai-readiness-present"
+              },
+              "epistemicClass": "recommendation",
+              "visibility": "shared_unreviewed",
+              "sourceProjects": [
+                "eb-metal"
+              ],
+              "evidenceIds": [
+                "ev_72260d6f05055a07"
+              ],
+              "reviewStatus": "unreviewed",
+              "conflictIds": [],
+              "createdAt": "2026-07-30T19:20:20.677Z",
+              "updatedAt": "2026-07-30T19:20:20.677Z"
+            },
+            "originalLabel": "Data schemas + search-ready inventories.",
+            "evidenceIds": [
+              "ev_72260d6f05055a07"
+            ]
+          }
+        ],
+        "companyCount": 1,
+        "shared": false,
+        "evidenceComplete": true,
+        "conflictNotes": []
+      }
+    ],
+    "northline-framing": [
+      {
+        "canonicalConceptId": "canon_engineering-table",
+        "canonicalName": "Engineering Table",
+        "conceptType": "document_type",
+        "companies": [
+          {
+            "projectSlug": "northline-framing",
+            "companyName": "Northline Framing",
+            "mapping": {
+              "id": "nmap_583555967ee014f5",
+              "schemaVersion": "1.0.0",
+              "sourceCompany": "Northline Framing",
+              "sourceProject": "northline-framing",
+              "sourceEntityId": "ent_Document_b39f2ac25b4e2470",
+              "originalLabel": "Limiting Height Tables",
+              "lexicalKey": "limiting-height-tables",
+              "canonicalConceptId": "canon_engineering-table",
+              "mappingConfidence": 0.9500000000000001,
+              "mappingMethod": "alias",
+              "evidenceIds": [
+                "ev_d07df11295e03360"
+              ],
+              "reviewStatus": "unreviewed",
+              "ambiguityNotes": "",
+              "version": "1.0.0",
+              "createdAt": "2026-07-30T20:33:30.844Z",
+              "updatedAt": "2026-07-30T20:33:30.844Z",
+              "belowThreshold": false
+            },
+            "entity": {
+              "id": "ent_Document_b39f2ac25b4e2470",
+              "schemaVersion": "1.0.0",
+              "type": "Document",
+              "name": "Limiting Height Tables",
+              "normalizedKey": "limiting-height-tables",
+              "properties": {
+                "documentKind": "engineering_table"
+              },
+              "epistemicClass": "fact",
+              "visibility": "shared_unreviewed",
+              "sourceProjects": [
+                "northline-framing"
+              ],
+              "evidenceIds": [
+                "ev_d07df11295e03360"
+              ],
+              "reviewStatus": "unreviewed",
+              "conflictIds": [],
+              "createdAt": "2026-07-30T20:33:30.627Z",
+              "updatedAt": "2026-07-30T20:33:30.627Z"
+            },
+            "originalLabel": "Limiting Height Tables",
+            "evidenceIds": [
+              "ev_d07df11295e03360"
+            ]
+          }
+        ],
+        "companyCount": 1,
+        "shared": false,
+        "evidenceComplete": true,
+        "conflictNotes": []
+      }
+    ]
+  },
+  "unmappedCounts": {
+    "eb-metal": 35,
+    "northline-framing": 3
+  },
+  "candidatePatternReady": [
+    {
+      "canonicalConceptId": "canon_document-center",
+      "canonicalName": "Document Center",
+      "conceptType": "resource",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_940015ebfc59baa6",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_UxIssue_e897fb5515d19a55",
+            "originalLabel": "Technical-resource discovery: score 5/10",
+            "lexicalKey": "technical-resource-discovery-score-5-10",
+            "canonicalConceptId": "canon_document-center",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_1663aabad85b17ae"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_UxIssue_e897fb5515d19a55",
+            "schemaVersion": "1.0.0",
+            "type": "UxIssue",
+            "name": "Technical-resource discovery: score 5/10",
+            "normalizedKey": "technical-resource-discovery-unified-document-center-with-filters-score-5",
+            "properties": {
+              "category": "Technical-resource discovery",
+              "score": 5,
+              "evidence": "Tables observed: 90; document links: 1515",
+              "recommendation": "Unified document center with filters.",
+              "observationKey": "technical-resource-discovery-technical-resource-discovery-moderate"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_1663aabad85b17ae"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.676Z",
+            "updatedAt": "2026-07-30T19:20:20.676Z"
+          },
+          "originalLabel": "Technical-resource discovery: score 5/10",
+          "evidenceIds": [
+            "ev_1663aabad85b17ae"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_339cb143b5cdeee2",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_TechnicalResource_e59dc7ed5caf35f6",
+            "originalLabel": "Engineering Resources",
+            "lexicalKey": "engineering-resources",
+            "canonicalConceptId": "canon_document-center",
+            "mappingConfidence": 0.98,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_d07df11295e03360"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_TechnicalResource_e59dc7ed5caf35f6",
+            "schemaVersion": "1.0.0",
+            "type": "TechnicalResource",
+            "name": "Engineering Resources",
+            "normalizedKey": "engineering-resources",
+            "properties": {
+              "role": "document_center"
+            },
+            "epistemicClass": "fact",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_d07df11295e03360"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Engineering Resources",
+          "evidenceIds": [
+            "ev_d07df11295e03360"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_calculator-opportunity",
+      "canonicalName": "Calculator Opportunity",
+      "conceptType": "observation_signal",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_fcdad3ecfcec8395",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_ProcessIssue_5ed51aae563eaebd",
+            "originalLabel": "Calculators: score 2/10",
+            "lexicalKey": "calculators-score-2-10",
+            "canonicalConceptId": "canon_calculator-opportunity",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_f82c2eb579427c34"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_ProcessIssue_5ed51aae563eaebd",
+            "schemaVersion": "1.0.0",
+            "type": "ProcessIssue",
+            "name": "Calculators: score 2/10",
+            "normalizedKey": "calculators-conceptual-calculator-first-table-driven-later-with-verified-data-score-2",
+            "properties": {
+              "category": "Calculators",
+              "score": 2,
+              "evidence": "No clear first-class limiting-height calculator UX dominant in crawl labels.",
+              "recommendation": "Conceptual calculator first; table-driven later with verified data.",
+              "observationKey": "calculators-calculators-weak"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_f82c2eb579427c34"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.676Z",
+            "updatedAt": "2026-07-30T19:20:20.676Z"
+          },
+          "originalLabel": "Calculators: score 2/10",
+          "evidenceIds": [
+            "ev_f82c2eb579427c34"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_10e5a98a78663c73",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_ProcessIssue_edf950ad0d45d2c0",
+            "originalLabel": "Calculators: score 2/10",
+            "lexicalKey": "calculators-score-2-10",
+            "canonicalConceptId": "canon_calculator-opportunity",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_ProcessIssue_edf950ad0d45d2c0",
+            "schemaVersion": "1.0.0",
+            "type": "ProcessIssue",
+            "name": "Calculators: score 2/10",
+            "normalizedKey": "calculators-calculators-weak",
+            "properties": {
+              "observationKey": "calculators-calculators-weak",
+              "score": 2
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Calculators: score 2/10",
+          "evidenceIds": [
+            "ev_089381e2a98ae459"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_submittal-workflow",
+      "canonicalName": "Submittal Workflow",
+      "conceptType": "workflow",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_1e48ecc51cad0e77",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_ProcessIssue_fddb9cc58e34ee08",
+            "originalLabel": "Submittal workflow: score 2/10",
+            "lexicalKey": "submittal-workflow-score-2-10",
+            "canonicalConceptId": "canon_submittal-workflow",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_2ceb8a20fc0fea8d"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_ProcessIssue_fddb9cc58e34ee08",
+            "schemaVersion": "1.0.0",
+            "type": "ProcessIssue",
+            "name": "Submittal workflow: score 2/10",
+            "normalizedKey": "submittal-workflow-persistent-submittal-builder-score-2",
+            "properties": {
+              "category": "Submittal workflow",
+              "score": 2,
+              "evidence": "Submittal/spec language sparse; no integrated package builder observed.",
+              "recommendation": "Persistent submittal builder.",
+              "observationKey": "submittal-workflow-submittal-workflow-weak"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_2ceb8a20fc0fea8d"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.676Z",
+            "updatedAt": "2026-07-30T19:20:20.676Z"
+          },
+          "originalLabel": "Submittal workflow: score 2/10",
+          "evidenceIds": [
+            "ev_2ceb8a20fc0fea8d"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_894a555ecf269080",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_SubmittalWorkflow_2d6e21070d73ea24",
+            "originalLabel": "Submittal Builder",
+            "lexicalKey": "submittal-builder",
+            "canonicalConceptId": "canon_submittal-workflow",
+            "mappingConfidence": 0.99,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_093897e217dcfbd8"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_SubmittalWorkflow_2d6e21070d73ea24",
+            "schemaVersion": "1.0.0",
+            "type": "SubmittalWorkflow",
+            "name": "Submittal Builder",
+            "normalizedKey": "submittal-builder",
+            "properties": {},
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_093897e217dcfbd8"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Submittal Builder",
+          "evidenceIds": [
+            "ev_093897e217dcfbd8"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_accessibility-gap",
+      "canonicalName": "Accessibility Gap",
+      "conceptType": "observation_signal",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_844d89bfcfad2075",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_AccessibilityIssue_82e606025a5070f5",
+            "originalLabel": "Accessibility: score 3/10",
+            "lexicalKey": "accessibility-score-3-10",
+            "canonicalConceptId": "canon_accessibility-gap",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_71d52f0d0480f8e1"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_AccessibilityIssue_82e606025a5070f5",
+            "schemaVersion": "1.0.0",
+            "type": "AccessibilityIssue",
+            "name": "Accessibility: score 3/10",
+            "normalizedKey": "accessibility-labeled-controls-focus-states-alt-text-policy-score-3",
+            "properties": {
+              "category": "Accessibility",
+              "score": 3,
+              "evidence": "Images missing alt: 32",
+              "recommendation": "Labeled controls, focus states, alt text policy.",
+              "observationKey": "accessibility-accessibility-weak"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_71d52f0d0480f8e1"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.677Z",
+            "updatedAt": "2026-07-30T19:20:20.677Z"
+          },
+          "originalLabel": "Accessibility: score 3/10",
+          "evidenceIds": [
+            "ev_71d52f0d0480f8e1"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_ce42434b9162ded2",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+            "originalLabel": "Accessibility: score 3/10",
+            "lexicalKey": "accessibility-score-3-10",
+            "canonicalConceptId": "canon_accessibility-gap",
+            "mappingConfidence": 0.82,
+            "mappingMethod": "semantic",
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+            "schemaVersion": "1.0.0",
+            "type": "AccessibilityIssue",
+            "name": "Accessibility: score 3/10",
+            "normalizedKey": "accessibility-accessibility-weak",
+            "properties": {
+              "observationKey": "accessibility-accessibility-weak",
+              "score": 3
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_089381e2a98ae459"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Accessibility: score 3/10",
+          "evidenceIds": [
+            "ev_089381e2a98ae459"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    },
+    {
+      "canonicalConceptId": "canon_engineering-calculator",
+      "canonicalName": "Engineering Calculator",
+      "conceptType": "tool",
+      "companies": [
+        {
+          "projectSlug": "eb-metal",
+          "companyName": "EB Metal US",
+          "mapping": {
+            "id": "nmap_6c74815789a81fe7",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "EB Metal US",
+            "sourceProject": "eb-metal",
+            "sourceEntityId": "ent_Calculator_e4cb4514d39b6e8b",
+            "originalLabel": "Limiting height calculator",
+            "lexicalKey": "limiting-height-calculator",
+            "canonicalConceptId": "canon_engineering-calculator",
+            "mappingConfidence": 0.98,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_24a1727f892d6c77"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.745Z",
+            "updatedAt": "2026-07-30T20:33:30.745Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_Calculator_e4cb4514d39b6e8b",
+            "schemaVersion": "1.0.0",
+            "type": "Calculator",
+            "name": "Limiting height calculator",
+            "normalizedKey": "limiting-height",
+            "properties": {
+              "classification": "conceptual",
+              "disclaimer": "Conceptual prototype using demonstration data. Not for engineering, specification, procurement, or construction use."
+            },
+            "epistemicClass": "recommendation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "eb-metal"
+            ],
+            "evidenceIds": [
+              "ev_24a1727f892d6c77"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T19:20:20.678Z",
+            "updatedAt": "2026-07-30T19:20:20.678Z"
+          },
+          "originalLabel": "Limiting height calculator",
+          "evidenceIds": [
+            "ev_24a1727f892d6c77"
+          ]
+        },
+        {
+          "projectSlug": "northline-framing",
+          "companyName": "Northline Framing",
+          "mapping": {
+            "id": "nmap_fb7499f9e968ce19",
+            "schemaVersion": "1.0.0",
+            "sourceCompany": "Northline Framing",
+            "sourceProject": "northline-framing",
+            "sourceEntityId": "ent_Calculator_7715f13f68300c83",
+            "originalLabel": "Wall Selector",
+            "lexicalKey": "wall-selector",
+            "canonicalConceptId": "canon_engineering-calculator",
+            "mappingConfidence": 0.98,
+            "mappingMethod": "alias",
+            "evidenceIds": [
+              "ev_be2366d89f533f42"
+            ],
+            "reviewStatus": "unreviewed",
+            "ambiguityNotes": "",
+            "version": "1.0.0",
+            "createdAt": "2026-07-30T20:33:30.844Z",
+            "updatedAt": "2026-07-30T20:33:30.844Z",
+            "belowThreshold": false
+          },
+          "entity": {
+            "id": "ent_Calculator_7715f13f68300c83",
+            "schemaVersion": "1.0.0",
+            "type": "Calculator",
+            "name": "Wall Selector",
+            "normalizedKey": "wall-selector",
+            "properties": {
+              "classification": "table_driven"
+            },
+            "epistemicClass": "observation",
+            "visibility": "shared_unreviewed",
+            "sourceProjects": [
+              "northline-framing"
+            ],
+            "evidenceIds": [
+              "ev_be2366d89f533f42"
+            ],
+            "reviewStatus": "unreviewed",
+            "conflictIds": [],
+            "createdAt": "2026-07-30T20:33:30.627Z",
+            "updatedAt": "2026-07-30T20:33:30.627Z"
+          },
+          "originalLabel": "Wall Selector",
+          "evidenceIds": [
+            "ev_be2366d89f533f42"
+          ]
+        }
+      ],
+      "companyCount": 2,
+      "shared": true,
+      "evidenceComplete": true,
+      "conflictNotes": []
+    }
+  ],
+  "patternStats": {
+    "created": 2,
+    "blocked": 0,
+    "refreshed": 5
+  }
+}

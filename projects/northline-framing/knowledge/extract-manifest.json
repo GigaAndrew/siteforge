@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "northline-framing",
+  "extractedAt": "2026-07-30T20:33:30.627Z",
+  "sourceArtifactHashes": {
+    "fixture": "northline-framing-v1"
+  },
+  "fixture": true
+}

@@ -18,5 +18,25 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.633Z",
     "updatedAt": "2026-07-30T19:20:20.633Z"
+  },
+  {
+    "id": "rel_COMPANY_OPERATES_IN_INDUSTRY_3c881c3d7b38b9b7",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_OPERATES_IN_INDUSTRY",
+    "fromId": "ent_Company_e66e358a84112db0",
+    "toId": "ent_Industry_70ec175cbe33aa88",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

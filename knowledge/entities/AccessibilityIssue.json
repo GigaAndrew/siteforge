@@ -24,5 +24,28 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+    "schemaVersion": "1.0.0",
+    "type": "AccessibilityIssue",
+    "name": "Accessibility: score 3/10",
+    "normalizedKey": "accessibility-accessibility-weak",
+    "properties": {
+      "observationKey": "accessibility-accessibility-weak",
+      "score": 3
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

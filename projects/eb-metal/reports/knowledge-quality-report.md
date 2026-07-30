@@ -1,6 +1,6 @@
 # Knowledge quality report — eb-metal
 
-Generated: 2026-07-30T19:57:47.210Z  
+Generated: 2026-07-30T20:33:38.282Z  
 Schema version: 1.0.0
 
 ## Totals
@@ -11,7 +11,7 @@ Schema version: 1.0.0
 | Relationships | 352 |
 | Evidence | 203 |
 | Conflicts | 0 |
-| Candidate patterns | 0 |
+| Candidate patterns | 10 |
 | Stale evidence | 0 |
 | Critical issues | 0 |
 | High issues | 0 |
@@ -201,6 +201,10 @@ Schema version: 1.0.0
 - `knowledge/exports/entities-2026-07-30T19-13-27-856Z.jsonl`
 - `knowledge/exports/entities-2026-07-30T19-20-20-773Z.jsonl`
 - `knowledge/exports/entities-2026-07-30T19-20-20-826Z.jsonl`
+- `knowledge/exports/entities-2026-07-30T20-32-48-920Z.jsonl`
+- `knowledge/exports/entities-2026-07-30T20-32-49-155Z.jsonl`
+- `knowledge/exports/entities-2026-07-30T20-33-30-705Z.jsonl`
+- `knowledge/exports/entities-2026-07-30T20-33-30-940Z.jsonl`
 - `knowledge/exports/evidence-2026-07-30T18-42-08-171Z.jsonl`
 - `knowledge/exports/evidence-2026-07-30T18-42-08-245Z.jsonl`
 - `knowledge/exports/evidence-2026-07-30T18-43-21-171Z.jsonl`
@@ -213,6 +217,10 @@ Schema version: 1.0.0
 - `knowledge/exports/evidence-2026-07-30T19-13-27-856Z.jsonl`
 - `knowledge/exports/evidence-2026-07-30T19-20-20-773Z.jsonl`
 - `knowledge/exports/evidence-2026-07-30T19-20-20-826Z.jsonl`
+- `knowledge/exports/evidence-2026-07-30T20-32-48-920Z.jsonl`
+- `knowledge/exports/evidence-2026-07-30T20-32-49-155Z.jsonl`
+- `knowledge/exports/evidence-2026-07-30T20-33-30-705Z.jsonl`
+- `knowledge/exports/evidence-2026-07-30T20-33-30-940Z.jsonl`
 - `knowledge/exports/latest.json`
 - `knowledge/exports/relationships-2026-07-30T18-42-08-171Z.jsonl`
 - `knowledge/exports/relationships-2026-07-30T18-42-08-245Z.jsonl`
@@ -226,6 +234,10 @@ Schema version: 1.0.0
 - `knowledge/exports/relationships-2026-07-30T19-13-27-856Z.jsonl`
 - `knowledge/exports/relationships-2026-07-30T19-20-20-773Z.jsonl`
 - `knowledge/exports/relationships-2026-07-30T19-20-20-826Z.jsonl`
+- `knowledge/exports/relationships-2026-07-30T20-32-48-920Z.jsonl`
+- `knowledge/exports/relationships-2026-07-30T20-32-49-155Z.jsonl`
+- `knowledge/exports/relationships-2026-07-30T20-33-30-705Z.jsonl`
+- `knowledge/exports/relationships-2026-07-30T20-33-30-940Z.jsonl`
 - `knowledge/exports/snapshot-2026-07-30T18-42-08-171Z.json`
 - `knowledge/exports/snapshot-2026-07-30T18-42-08-245Z.json`
 - `knowledge/exports/snapshot-2026-07-30T18-43-21-171Z.json`
@@ -238,6 +250,10 @@ Schema version: 1.0.0
 - `knowledge/exports/snapshot-2026-07-30T19-13-27-856Z.json`
 - `knowledge/exports/snapshot-2026-07-30T19-20-20-773Z.json`
 - `knowledge/exports/snapshot-2026-07-30T19-20-20-826Z.json`
+- `knowledge/exports/snapshot-2026-07-30T20-32-48-920Z.json`
+- `knowledge/exports/snapshot-2026-07-30T20-32-49-155Z.json`
+- `knowledge/exports/snapshot-2026-07-30T20-33-30-705Z.json`
+- `knowledge/exports/snapshot-2026-07-30T20-33-30-940Z.json`
 
 ## Readiness notes
 

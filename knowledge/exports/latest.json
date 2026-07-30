@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-07-30T19:20:20.831Z",
+  "exportedAt": "2026-07-30T20:33:30.948Z",
   "schemaVersion": "1.0.0",
   "files": {
     "entities": "entities/all.json",
@@ -9,10 +9,10 @@
     "index": "indexes/main.json"
   },
   "counts": {
-    "entities": 151,
-    "relationships": 352,
-    "evidence": 203,
+    "entities": 163,
+    "relationships": 355,
+    "evidence": 209,
     "conflicts": 0,
-    "candidatePatterns": 0
+    "candidatePatterns": 10
   }
 }

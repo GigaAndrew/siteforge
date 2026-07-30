@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "northline-framing",
+  "generatedAt": "2026-07-30T20:33:30.851Z",
+  "entityCount": 13,
+  "mappedCount": 7,
+  "unmappedCount": 3,
+  "ambiguousCount": 1,
+  "belowThresholdCount": 3,
+  "averageConfidence": 0.9086,
+  "conceptCoverage": {
+    "canon_document-center": 1,
+    "canon_engineering-calculator": 1,
+    "canon_submittal-workflow": 2,
+    "canon_engineering-table": 1,
+    "canon_calculator-opportunity": 1,
+    "canon_accessibility-gap": 1
+  },
+  "dryRun": false
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "eb-metal",
+  "generatedAt": "2026-07-30T20:33:30.792Z",
+  "entityCount": 151,
+  "mappedCount": 23,
+  "unmappedCount": 35,
+  "ambiguousCount": 3,
+  "belowThresholdCount": 35,
+  "averageConfidence": 0.8361,
+  "conceptCoverage": {
+    "canon_product-catalog": 7,
+    "canon_product-data-sheet": 1,
+    "canon_product-detail": 2,
+    "canon_document-center": 2,
+    "canon_calculator-opportunity": 2,
+    "canon_submittal-workflow": 2,
+    "canon_contact-rep-locator": 1,
+    "canon_accessibility-gap": 2,
+    "canon_performance-gap": 2,
+    "canon_search-experience": 1,
+    "canon_engineering-calculator": 1
+  },
+  "dryRun": false
+}
