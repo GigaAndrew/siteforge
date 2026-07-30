@@ -1,0 +1,23 @@
+{
+  "level": "company",
+  "id": "company:eb-metal:cfs-digital-capability:1.0.0",
+  "label": "eb-metal",
+  "projectSlug": "eb-metal",
+  "rawScore": 75.00925925925928,
+  "weightedScore": 75.00925925925928,
+  "confidence": 0.6090833333333333,
+  "evidenceCoverage": 0.47424242424242424,
+  "completeness": 0.47424242424242424,
+  "uncertainty": 0.3909166666666667,
+  "exclusions": [],
+  "caveats": [
+    "Overall score is weighted across eligible dimensions only; see component scores",
+    "Candidate patterns excluded from benchmark criteria (remain unapproved)"
+  ],
+  "benchmarkId": "cfs-digital-capability",
+  "benchmarkVersion": "1.0.0",
+  "eligible": true,
+  "calculationTrace": [
+    "eligibleDims=10 weightSum=0.900 overall=75.01"
+  ]
+}

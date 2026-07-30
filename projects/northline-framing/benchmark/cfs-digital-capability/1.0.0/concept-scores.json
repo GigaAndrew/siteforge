@@ -1,0 +1,482 @@
+[
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_document-center",
+    "label": "Document Center",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_document-center",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.7,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.30000000000000004,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_engineering-calculator",
+    "label": "Engineering Calculator",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_engineering-calculator",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.7,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.30000000000000004,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_product-selector",
+    "label": "Product Selector",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_product-selector",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_submittal-workflow",
+    "label": "Submittal Workflow",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.7,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.30000000000000004,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_technical-resources",
+    "label": "Technical Resources",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_technical-resources",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_product-catalog",
+    "label": "Product Catalog",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_product-catalog",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_product-data-sheet",
+    "label": "Product Data Sheet",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_product-data-sheet",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_installation-guide",
+    "label": "Installation Guide",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_installation-guide",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_specification",
+    "label": "Specification",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_specification",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_cad-bim-resource",
+    "label": "CAD/BIM Resource",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_cad-bim-resource",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_code-report",
+    "label": "Code Report",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_code-report",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_engineering-table",
+    "label": "Engineering Table",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_engineering-table",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.7,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.30000000000000004,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_limiting-height-tool",
+    "label": "Limiting Height Tool",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_limiting-height-tool",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_product-family",
+    "label": "Product Family",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_product-family",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_product-detail",
+    "label": "Product Detail",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_product-detail",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_contact-rep-locator",
+    "label": "Contact / Rep Locator",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_contact-rep-locator",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_search-experience",
+    "label": "Search Experience",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_search-experience",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_navigation-pattern",
+    "label": "Navigation Pattern",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_navigation-pattern",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_download-workflow",
+    "label": "Download Workflow",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_download-workflow",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:northline-framing:canon_calculator-opportunity",
+    "label": "Calculator Opportunity",
+    "projectSlug": "northline-framing",
+    "canonicalConceptId": "canon_calculator-opportunity",
+    "rawScore": 25,
+    "weightedScore": 25,
+    "confidence": 0.7,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.30000000000000004,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.25 → raw=25"
+    ]
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:capability_presence",
+    "label": "Capability Presence",
+    "projectSlug": "northline-framing",
+    "dimensionId": "capability_presence",
+    "rawScore": 85,
+    "weightedScore": 17,
+    "confidence": 0.43749999999999983,
+    "evidenceCoverage": 0.25,
+    "completeness": 0.25,
+    "uncertainty": 0.5625000000000002,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.8500 → raw=85.00",
+      "weight=0.2 → weighted=17.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:discoverability",
+    "label": "Discoverability",
+    "projectSlug": "northline-framing",
+    "dimensionId": "discoverability",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.4375,
+    "evidenceCoverage": 0.25,
+    "completeness": 0.25,
+    "uncertainty": 0.5625,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:information_completeness",
+    "label": "Information Completeness",
+    "projectSlug": "northline-framing",
+    "dimensionId": "information_completeness",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.4083333333333334,
+    "evidenceCoverage": 0.16666666666666666,
+    "completeness": 0.16666666666666666,
+    "uncertainty": 0.5916666666666666,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:technical_depth",
+    "label": "Technical Depth",
+    "projectSlug": "northline-framing",
+    "dimensionId": "technical_depth",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.41999999999999993,
+    "evidenceCoverage": 0.2,
+    "completeness": 0.2,
+    "uncertainty": 0.5800000000000001,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:workflow_support",
+    "label": "Workflow Support",
+    "projectSlug": "northline-framing",
+    "dimensionId": "workflow_support",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.4666666666666666,
+    "evidenceCoverage": 0.3333333333333333,
+    "completeness": 0.3333333333333333,
+    "uncertainty": 0.5333333333333334,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:document_accessibility",
+    "label": "Document Accessibility",
+    "projectSlug": "northline-framing",
+    "dimensionId": "document_accessibility",
+    "rawScore": 100,
+    "weightedScore": 8,
+    "confidence": 0.5249999999999999,
+    "evidenceCoverage": 0.5,
+    "completeness": 0.5,
+    "uncertainty": 0.4750000000000001,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.08 → weighted=8.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:product_navigation",
+    "label": "Product Navigation",
+    "projectSlug": "northline-framing",
+    "dimensionId": "product_navigation",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "insufficient_known_observations"
+    ],
+    "caveats": [
+      "Dimension lacks known observations — score suppressed (unknown ≠ absent)"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "no scorable values; unknowns present"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:engineering_utility",
+    "label": "Engineering Utility",
+    "projectSlug": "northline-framing",
+    "dimensionId": "engineering_utility",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.6125,
+    "evidenceCoverage": 0.75,
+    "completeness": 0.75,
+    "uncertainty": 0.38749999999999996,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "engineering_utility uses tool concepts n=2",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:evidence_quality",
+    "label": "Evidence Quality",
+    "projectSlug": "northline-framing",
+    "dimensionId": "evidence_quality",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.43749999999999983,
+    "evidenceCoverage": 0.25,
+    "completeness": 0.25,
+    "uncertainty": 0.5625000000000002,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "evidence_quality good=5/5",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:evidence_recency",
+    "label": "Evidence Recency",
+    "projectSlug": "northline-framing",
+    "dimensionId": "evidence_recency",
+    "rawScore": 95,
+    "weightedScore": 2.85,
+    "confidence": 0.43749999999999983,
+    "evidenceCoverage": 0.25,
+    "completeness": 0.25,
+    "uncertainty": 0.5625000000000002,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.9500 → raw=95.00",
+      "weight=0.03 → weighted=2.85"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:northline-framing:cross_channel_consistency",
+    "label": "Cross-Channel Consistency",
+    "projectSlug": "northline-framing",
+    "dimensionId": "cross_channel_consistency",
+    "rawScore": 100,
+    "weightedScore": 2,
+    "confidence": 0.43749999999999983,
+    "evidenceCoverage": 0.25,
+    "completeness": 0.25,
+    "uncertainty": 0.5625000000000002,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "consistency bad=0/20",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.02 → weighted=2.00"
+    ]
+  }
+]

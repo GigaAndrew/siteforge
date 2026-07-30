@@ -777,7 +777,13 @@ ${rows
   return { markdown, improvements };
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+const isDirect =
+  typeof process.argv[1] === "string" &&
+  process.argv[1].includes("generate-platform-reports");
+
+if (isDirect) {
+  main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
+}

@@ -1,0 +1,25 @@
+{
+  "level": "company",
+  "id": "company:northline-framing:cfs-digital-capability:1.0.0",
+  "label": "northline-framing",
+  "projectSlug": "northline-framing",
+  "rawScore": null,
+  "weightedScore": null,
+  "confidence": 0.462,
+  "evidenceCoverage": 0.29090909090909095,
+  "completeness": 0.29090909090909095,
+  "uncertainty": 0.538,
+  "exclusions": [
+    "eligibility_threshold_not_met"
+  ],
+  "caveats": [
+    "Evidence coverage 0.29 below threshold — overall suppressed to avoid false precision",
+    "Candidate patterns excluded from benchmark criteria (remain unapproved)"
+  ],
+  "benchmarkId": "cfs-digital-capability",
+  "benchmarkVersion": "1.0.0",
+  "eligible": false,
+  "calculationTrace": [
+    "overall suppressed"
+  ]
+}
