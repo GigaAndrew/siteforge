@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ent_Audience_7f6d3bf1e32c3268",
+    "schemaVersion": "1.0.0",
+    "type": "Audience",
+    "name": "Site language targets construction professionals and distribution partners (distributors listed publicly).",
+    "normalizedKey": "site-language-targets-construction-professionals-and-distribution-partners-dist",
+    "properties": {
+      "notes": "Audience inferred from distributor listings and industry copy; not an explicit persona statement."
+    },
+    "epistemicClass": "inference",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61a189e805a24045"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.633Z",
+    "updatedAt": "2026-07-30T19:20:20.633Z"
+  }
+]

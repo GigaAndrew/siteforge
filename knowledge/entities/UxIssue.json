@@ -1,0 +1,340 @@
+[
+  {
+    "id": "ent_UxIssue_657b0461aca0b3b1",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Visual design: score 4/10",
+    "normalizedKey": "visual-design-original-industrial-art-direction-not-theme-restyle-score-4",
+    "properties": {
+      "category": "Visual design",
+      "score": 4,
+      "evidence": "Public WordPress Velvet theme presentation; dated industrial brochure pattern.",
+      "recommendation": "Original industrial art direction, not theme restyle.",
+      "observationKey": "visual-design-visual-design-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_72cbdc8946f5cc06"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_UxIssue_871f4e61b1d78b6c",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Navigation: score 5/10",
+    "normalizedKey": "navigation-task-based-ia-products-engineering-resources-distributors-contact-score-5",
+    "properties": {
+      "category": "Navigation",
+      "score": 5,
+      "evidence": "Products/Tools/Tables/Documents menu taxonomy observed.",
+      "recommendation": "Task-based IA: Products, Engineering, Resources, Distributors, Contact.",
+      "observationKey": "navigation-navigation-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_b6d9b1c2c1dc58f9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_UxIssue_789dd65dccc47992",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Product discovery: score 4/10",
+    "normalizedKey": "product-discovery-structured-catalog-with-filters-score-4",
+    "properties": {
+      "category": "Product discovery",
+      "score": 4,
+      "evidence": "Product-related pages in crawl: 42",
+      "recommendation": "Structured catalog with filters.",
+      "observationKey": "product-discovery-product-discovery-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d2bb073a8665043c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_UxIssue_14becb391708d26d",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Product detail: score 4/10",
+    "normalizedKey": "product-detail-structured-attributes-related-docs-tools-score-4",
+    "properties": {
+      "category": "Product detail",
+      "score": 4,
+      "evidence": "Product pages present but attributes largely unstructured in HTML extraction.",
+      "recommendation": "Structured attributes + related docs/tools.",
+      "observationKey": "product-detail-product-detail-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_068ffc7a7a33804e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_UxIssue_e897fb5515d19a55",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Technical-resource discovery: score 5/10",
+    "normalizedKey": "technical-resource-discovery-unified-document-center-with-filters-score-5",
+    "properties": {
+      "category": "Technical-resource discovery",
+      "score": 5,
+      "evidence": "Tables observed: 90; document links: 1515",
+      "recommendation": "Unified document center with filters.",
+      "observationKey": "technical-resource-discovery-technical-resource-discovery-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1663aabad85b17ae"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_UxIssue_946309756fba925e",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Document management: score 3/10",
+    "normalizedKey": "document-management-revision-dates-current-archived-status-score-3",
+    "properties": {
+      "category": "Document management",
+      "score": 3,
+      "evidence": "Document inventory lacks consistent revision metadata in crawl.",
+      "recommendation": "Revision dates + current/archived status.",
+      "observationKey": "document-management-document-management-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8cc9ff706ef27c82"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_UxIssue_a1d7ec6b70cc815e",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Contact and support: score 5/10",
+    "normalizedKey": "contact-and-support-intent-based-contact-technical-support-pathways-score-5",
+    "properties": {
+      "category": "Contact and support",
+      "score": 5,
+      "evidence": "Forms observed: 90",
+      "recommendation": "Intent-based contact + technical support pathways.",
+      "observationKey": "contact-and-support-contact-and-support-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1ebae1c4815b509a"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_UxIssue_cd98cfb3b136b842",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Mobile usability: score 4/10",
+    "normalizedKey": "mobile-usability-mobile-first-tables-filters-patterns-score-4",
+    "properties": {
+      "category": "Mobile usability",
+      "score": 4,
+      "evidence": "Theme includes mobile viewport meta; dense homepage content likely stressful on small screens.",
+      "recommendation": "Mobile-first tables/filters patterns.",
+      "observationKey": "mobile-usability-mobile-usability-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_a0fad283cd197a7b"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_UxIssue_0a709ca9d4a312ae",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Content quality: score 5/10",
+    "normalizedKey": "content-quality-editorial-hierarchy-tied-to-tasks-score-5",
+    "properties": {
+      "category": "Content quality",
+      "score": 5,
+      "evidence": "Technically oriented copy present; long undifferentiated blocks on homepage.",
+      "recommendation": "Editorial hierarchy tied to tasks.",
+      "observationKey": "content-quality-content-quality-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61dc7ec44891b591"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_UxIssue_b196222259f20188",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Content freshness: score 4/10",
+    "normalizedKey": "content-freshness-publish-revision-dates-score-4",
+    "properties": {
+      "category": "Content freshness",
+      "score": 4,
+      "evidence": "Revision metadata largely unknown in document inventory.",
+      "recommendation": "Publish revision dates.",
+      "observationKey": "content-freshness-content-freshness-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_b513ed4ae5b828d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_UxIssue_e7a854a32ab7775b",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Conversion: score 4/10",
+    "normalizedKey": "conversion-task-completion-before-form-gates-where-possible-score-4",
+    "properties": {
+      "category": "Conversion",
+      "score": 4,
+      "evidence": "Download form CTAs observed; weak product-to-lead progressive paths.",
+      "recommendation": "Task completion before form gates where possible.",
+      "observationKey": "conversion-conversion-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_4329f54fc70874d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_UxIssue_1abc7609df3e42e0",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "AI readiness: score 2/10",
+    "normalizedKey": "ai-readiness-structure-products-docs-first-score-2",
+    "properties": {
+      "category": "AI readiness",
+      "score": 2,
+      "evidence": "No structured product graph or document metadata layer evident for retrieval.",
+      "recommendation": "Structure products/docs first.",
+      "observationKey": "ai-readiness-ai-readiness-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_72260d6f05055a07"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_UxIssue_e8cea8c79b04760d",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Overall digital maturity: score 4/10",
+    "normalizedKey": "overall-digital-maturity-phased-digital-product-roadmap-score-4",
+    "properties": {
+      "category": "Overall digital maturity",
+      "score": 4,
+      "evidence": "Average of category scores; brochure-site maturity with strong distributor content and weak interactive tooling.",
+      "recommendation": "Phased digital product roadmap.",
+      "observationKey": "overall-digital-maturity-overall-digital-maturity-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_bde5d1021d76ec5c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

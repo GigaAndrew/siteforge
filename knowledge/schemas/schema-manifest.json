@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "1.0.0",
+  "description": "Forge Knowledge MVP schema mirror. Source of truth: lib/schemas/knowledge.ts",
+  "modules": [
+    "KnowledgeEntity",
+    "KnowledgeRelationship",
+    "EvidenceRecord",
+    "ConflictRecord",
+    "CandidatePattern",
+    "PromotionAuditEntry",
+    "ProjectKnowledgeSlice",
+    "KnowledgeIndex"
+  ],
+  "safeguards": [
+    "stable entity IDs",
+    "schema versioning",
+    "idempotent ingestion via artifact hashes",
+    "dry-run mode",
+    "incremental ingestion",
+    "source-project isolation",
+    "visibility classification",
+    "conflict preservation",
+    "stale-evidence handling",
+    "rebuild preserves audit log",
+    "human review status",
+    "promotion audit log"
+  ]
+}

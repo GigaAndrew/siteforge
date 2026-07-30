@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ent_Website_9e36b38a46d6b5dc",
+    "schemaVersion": "1.0.0",
+    "type": "Website",
+    "name": "https://www.ebmetal.us/",
+    "normalizedKey": "https-www-ebmetal-us",
+    "properties": {
+      "approvedHosts": [
+        "ebmetal.us",
+        "www.ebmetal.us"
+      ]
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0f036f93d11c50c9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.631Z",
+    "updatedAt": "2026-07-30T19:20:20.631Z"
+  }
+]

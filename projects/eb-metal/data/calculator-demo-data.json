@@ -1,0 +1,69 @@
+{
+  "projectSlug": "eb-metal",
+  "calculatorId": "limiting-height",
+  "classification": "conceptual",
+  "disclaimer": "Conceptual prototype using demonstration data. Not for engineering, specification, procurement, or construction use.",
+  "assumptions": [
+    "Demo rows are illustrative and not manufacturer-approved.",
+    "Units are imperial as commonly published in US CFS catalogs."
+  ],
+  "members": [
+    {
+      "designation": "362S162-33 (demo)",
+      "family": "Stud",
+      "depthIn": 3.625,
+      "thicknessMils": 33,
+      "spacingIn": 16,
+      "lateralLoadPsf": 5,
+      "deflectionLimit": "L/240",
+      "maxHeightFt": 12.5,
+      "composite": false,
+      "sourceDocument": "DEMO — replace with verified table",
+      "sourcePage": "n/a",
+      "demoOnly": true
+    },
+    {
+      "designation": "362S162-43 (demo)",
+      "family": "Stud",
+      "depthIn": 3.625,
+      "thicknessMils": 43,
+      "spacingIn": 16,
+      "lateralLoadPsf": 5,
+      "deflectionLimit": "L/240",
+      "maxHeightFt": 14.2,
+      "composite": false,
+      "sourceDocument": "DEMO — replace with verified table",
+      "sourcePage": "n/a",
+      "demoOnly": true
+    },
+    {
+      "designation": "600S162-33 (demo)",
+      "family": "Stud",
+      "depthIn": 6,
+      "thicknessMils": 33,
+      "spacingIn": 16,
+      "lateralLoadPsf": 5,
+      "deflectionLimit": "L/240",
+      "maxHeightFt": 16,
+      "composite": false,
+      "sourceDocument": "DEMO — replace with verified table",
+      "sourcePage": "n/a",
+      "demoOnly": true
+    },
+    {
+      "designation": "600S162-43 (demo)",
+      "family": "Stud",
+      "depthIn": 6,
+      "thicknessMils": 43,
+      "spacingIn": 16,
+      "lateralLoadPsf": 5,
+      "deflectionLimit": "L/240",
+      "maxHeightFt": 18.5,
+      "composite": false,
+      "sourceDocument": "DEMO — replace with verified table",
+      "sourcePage": "n/a",
+      "demoOnly": true
+    }
+  ],
+  "updatedAt": "2026-07-30T18:27:37.676Z"
+}

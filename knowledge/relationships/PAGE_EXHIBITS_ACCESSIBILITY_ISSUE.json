@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rel_PAGE_EXHIBITS_ACCESSIBILITY_ISSUE_495fb67e923335cd",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_ACCESSIBILITY_ISSUE",
+    "fromId": "ent_Website_9e36b38a46d6b5dc",
+    "toId": "ent_AccessibilityIssue_82e606025a5070f5",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_71d52f0d0480f8e1"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

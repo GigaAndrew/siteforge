@@ -1,0 +1,382 @@
+[
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_dfd91e9db6873c78",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_ec79f7aab71ef317",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_72cbdc8946f5cc06"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_e2e911ec15335ea4",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_0b4cf41de70cd202",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_b6d9b1c2c1dc58f9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_f204c1db5b00cb11",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_5fac2f0b42ace8fc",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d2bb073a8665043c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_68abeaf97cf420c0",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_b3b9d43d7b36e39c",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_068ffc7a7a33804e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_6dce3d8dac6dec62",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_37385e33d827258d",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1663aabad85b17ae"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_f1dfefa065dd10b7",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_bd06c7d92f51edd2",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8cc9ff706ef27c82"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_03d65225e8cc5684",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_96cbd31b8980774d",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f82c2eb579427c34"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_192d4338af94116f",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_4a6ab9807ac9cadd",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_8573a5757dde53e5",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_1b14bbf6aaa88938",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1ebae1c4815b509a"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_352dfecf932f5e77",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_11083bb46d5ab7a6",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_a0fad283cd197a7b"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_2a6e56743ef80ad7",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_9135da6ca92f9595",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_71d52f0d0480f8e1"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_4c207805daa895cd",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_8bdabda9d95482d8",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_9575e05d95f80cab"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_ddf7feb6397e7905",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_8565c1980145cf28",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e3fb403a4ec76ef8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_e88fd14755a53831",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_5359f7ed8f4afbb1",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61dc7ec44891b591"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_2b8edc23c3b13414",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_0993054393bd5c7d",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_b513ed4ae5b828d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_11be4eb881b68b4c",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_5fa62a8fd20cf6f5",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_4329f54fc70874d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_2b23569d8291e489",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_68fcb1ea79f08e9d",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5f915825a3198bba"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_63dff30332ad3589",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_d71ac7a8e81919be",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_72260d6f05055a07"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_DIGITAL_OPPORTUNITY_e09aacd084539056",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_DIGITAL_OPPORTUNITY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_DigitalOpportunity_7e78c1dc918cf633",
+    "properties": {},
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_bde5d1021d76ec5c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

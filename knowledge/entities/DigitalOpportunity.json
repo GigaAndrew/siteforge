@@ -1,0 +1,439 @@
+[
+  {
+    "id": "ent_DigitalOpportunity_ec79f7aab71ef317",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Gate 4–5 design system.",
+    "normalizedKey": "opportunity-gate-4-5-design-system-present",
+    "properties": {
+      "fromCategory": "Visual design",
+      "observationKey": "opportunity-visual-design-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_72cbdc8946f5cc06"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_0b4cf41de70cd202",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Proposed sitemap in strategy.",
+    "normalizedKey": "opportunity-proposed-sitemap-in-strategy-present",
+    "properties": {
+      "fromCategory": "Navigation",
+      "observationKey": "opportunity-navigation-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_b6d9b1c2c1dc58f9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_5fac2f0b42ace8fc",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Products catalog module (Gate 6).",
+    "normalizedKey": "opportunity-products-catalog-module-gate-6-present",
+    "properties": {
+      "fromCategory": "Product discovery",
+      "observationKey": "opportunity-product-discovery-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d2bb073a8665043c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_b3b9d43d7b36e39c",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "NITROSTUD detail prototype.",
+    "normalizedKey": "opportunity-nitrostud-detail-prototype-present",
+    "properties": {
+      "fromCategory": "Product detail",
+      "observationKey": "opportunity-product-detail-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_068ffc7a7a33804e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_37385e33d827258d",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Resources center.",
+    "normalizedKey": "opportunity-resources-center-present",
+    "properties": {
+      "fromCategory": "Technical-resource discovery",
+      "observationKey": "opportunity-technical-resource-discovery-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1663aabad85b17ae"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_bd06c7d92f51edd2",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Document rows with status fields (unknown when missing).",
+    "normalizedKey": "opportunity-document-rows-with-status-fields-unknown-when-missing-present",
+    "properties": {
+      "fromCategory": "Document management",
+      "observationKey": "opportunity-document-management-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8cc9ff706ef27c82"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_96cbd31b8980774d",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Limiting-height calculator (conceptual).",
+    "normalizedKey": "opportunity-limiting-height-calculator-conceptual-present",
+    "properties": {
+      "fromCategory": "Calculators",
+      "observationKey": "opportunity-calculators-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f82c2eb579427c34"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_4a6ab9807ac9cadd",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Submittal drawer/sheet.",
+    "normalizedKey": "opportunity-submittal-drawer-sheet-present",
+    "properties": {
+      "fromCategory": "Submittal workflow",
+      "observationKey": "opportunity-submittal-workflow-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_1b14bbf6aaa88938",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Contact workflow page.",
+    "normalizedKey": "opportunity-contact-workflow-page-present",
+    "properties": {
+      "fromCategory": "Contact and support",
+      "observationKey": "opportunity-contact-and-support-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1ebae1c4815b509a"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_11083bb46d5ab7a6",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Responsive design-system patterns.",
+    "normalizedKey": "opportunity-responsive-design-system-patterns-present",
+    "properties": {
+      "fromCategory": "Mobile usability",
+      "observationKey": "opportunity-mobile-usability-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_a0fad283cd197a7b"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_9135da6ca92f9595",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Accessible component system.",
+    "normalizedKey": "opportunity-accessible-component-system-present",
+    "properties": {
+      "fromCategory": "Accessibility",
+      "observationKey": "opportunity-accessibility-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_71d52f0d0480f8e1"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_8bdabda9d95482d8",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Lean prototype; production perf backlog.",
+    "normalizedKey": "opportunity-lean-prototype-production-perf-backlog-present",
+    "properties": {
+      "fromCategory": "Performance",
+      "observationKey": "opportunity-performance-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_9575e05d95f80cab"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_8565c1980145cf28",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Template-level metadata model.",
+    "normalizedKey": "opportunity-template-level-metadata-model-present",
+    "properties": {
+      "fromCategory": "SEO",
+      "observationKey": "opportunity-seo-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e3fb403a4ec76ef8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_5359f7ed8f4afbb1",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "prototype-copy.md",
+    "normalizedKey": "opportunity-prototype-copy-md-present",
+    "properties": {
+      "fromCategory": "Content quality",
+      "observationKey": "opportunity-content-quality-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61dc7ec44891b591"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_0993054393bd5c7d",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Status unknown labels when missing.",
+    "normalizedKey": "opportunity-status-unknown-labels-when-missing-present",
+    "properties": {
+      "fromCategory": "Content freshness",
+      "observationKey": "opportunity-content-freshness-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_b513ed4ae5b828d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_5fa62a8fd20cf6f5",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Tools before gated brochure asks.",
+    "normalizedKey": "opportunity-tools-before-gated-brochure-asks-present",
+    "properties": {
+      "fromCategory": "Conversion",
+      "observationKey": "opportunity-conversion-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_4329f54fc70874d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_68fcb1ea79f08e9d",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Catalog + calculator + submittal.",
+    "normalizedKey": "opportunity-catalog-calculator-submittal-present",
+    "properties": {
+      "fromCategory": "Process efficiency",
+      "observationKey": "opportunity-process-efficiency-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5f915825a3198bba"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_d71ac7a8e81919be",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Data schemas + search-ready inventories.",
+    "normalizedKey": "opportunity-data-schemas-search-ready-inventories-present",
+    "properties": {
+      "fromCategory": "AI readiness",
+      "observationKey": "opportunity-ai-readiness-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_72260d6f05055a07"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_DigitalOpportunity_7e78c1dc918cf633",
+    "schemaVersion": "1.0.0",
+    "type": "DigitalOpportunity",
+    "name": "Full SiteForge prototype path.",
+    "normalizedKey": "opportunity-full-siteforge-prototype-path-present",
+    "properties": {
+      "fromCategory": "Overall digital maturity",
+      "observationKey": "opportunity-overall-digital-maturity-present"
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_bde5d1021d76ec5c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

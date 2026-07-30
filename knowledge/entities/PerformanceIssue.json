@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ent_PerformanceIssue_c563ff419ffcd80b",
+    "schemaVersion": "1.0.0",
+    "type": "PerformanceIssue",
+    "name": "Performance: score 4/10",
+    "normalizedKey": "performance-image-optimization-and-script-hygiene-score-4",
+    "properties": {
+      "category": "Performance",
+      "score": 4,
+      "evidence": "CMS theme + third-party assets; Lighthouse pending.",
+      "recommendation": "Image optimization and script hygiene.",
+      "observationKey": "performance-performance-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_9575e05d95f80cab"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

@@ -1,0 +1,31 @@
+---
+description: Industrial prototype design constraints — anti-AI-slop
+globs: components/prototype/**,app/prototype/**
+alwaysApply: false
+---
+
+# Prototype design rules
+
+## Direction
+Industrial, precise, engineered, established, dependable. Premium but not luxurious. Modern without startup-SaaS aesthetics.
+
+## Reject
+- Purple/cream AI-template palettes
+- Generic shadcn/Tailwind defaults unchanged
+- Luxury editorial or fashion layouts
+- Vague marketing copy ("unlock", "seamless", "revolutionary")
+- Decorative filler sections with no task purpose
+
+## Require
+- Task-first homepage (products, calculator, submittal, distributors, support)
+- Realistic manufacturer content density
+- Readable data tables and document rows
+- Intentional radius, shadow, border, and spacing from `design/design-tokens.json`
+- Mobile navigation and data-table alternatives
+- Footer disclaimer on all prototype pages
+
+## Components
+Build under `components/prototype/` using approved tokens. Design-system route must showcase all control types before full pages.
+
+## Content
+Use `design/prototype-copy.md`. No fabricated stats, testimonials, or client logos. Label demo data clearly.

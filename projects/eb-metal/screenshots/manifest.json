@@ -1,0 +1,276 @@
+{
+  "projectSlug": "eb-metal",
+  "entries": [
+    {
+      "url": "https://ebmetal.us/",
+      "pageLabel": "homepage",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/homepage.png",
+      "capturedAt": "2026-07-30T18:25:58.237Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/",
+      "pageLabel": "catalog",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/catalog.png",
+      "capturedAt": "2026-07-30T18:26:01.900Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/floor-joist-span-tables/",
+      "pageLabel": "product-category",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/product-category.png",
+      "capturedAt": "2026-07-30T18:26:05.513Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/nitrostud/",
+      "pageLabel": "nitrostud",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/nitrostud.png",
+      "capturedAt": "2026-07-30T18:26:08.851Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/ceiling-span-tables/",
+      "pageLabel": "technical-resources",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/technical-resources.png",
+      "capturedAt": "2026-07-30T18:26:12.087Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/brochures/",
+      "pageLabel": "documents",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/documents.png",
+      "capturedAt": "2026-07-30T18:26:15.249Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/contact-us/",
+      "pageLabel": "contact",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/contact.png",
+      "capturedAt": "2026-07-30T18:26:18.564Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/architectural-specifications-2/",
+      "pageLabel": "submittal",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/submittal.png",
+      "capturedAt": "2026-07-30T18:26:22.396Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/hat-furring-channel-ceiling-spans/",
+      "pageLabel": "calculator-or-tool",
+      "viewport": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "filePath": "screenshots/current/desktop/calculator-or-tool.png",
+      "capturedAt": "2026-07-30T18:26:25.959Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/",
+      "pageLabel": "homepage",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/homepage.png",
+      "capturedAt": "2026-07-30T18:26:29.917Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/",
+      "pageLabel": "catalog",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/catalog.png",
+      "capturedAt": "2026-07-30T18:26:33.246Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/floor-joist-span-tables/",
+      "pageLabel": "product-category",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/product-category.png",
+      "capturedAt": "2026-07-30T18:26:36.646Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/nitrostud/",
+      "pageLabel": "nitrostud",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/nitrostud.png",
+      "capturedAt": "2026-07-30T18:26:39.784Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/ceiling-span-tables/",
+      "pageLabel": "technical-resources",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/technical-resources.png",
+      "capturedAt": "2026-07-30T18:26:43.264Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/brochures/",
+      "pageLabel": "documents",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/documents.png",
+      "capturedAt": "2026-07-30T18:26:47.672Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/contact-us/",
+      "pageLabel": "contact",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/contact.png",
+      "capturedAt": "2026-07-30T18:26:51.125Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/architectural-specifications-2/",
+      "pageLabel": "submittal",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/submittal.png",
+      "capturedAt": "2026-07-30T18:26:54.531Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/hat-furring-channel-ceiling-spans/",
+      "pageLabel": "calculator-or-tool",
+      "viewport": "tablet",
+      "width": 768,
+      "height": 1024,
+      "filePath": "screenshots/current/tablet/calculator-or-tool.png",
+      "capturedAt": "2026-07-30T18:26:57.777Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/",
+      "pageLabel": "homepage",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/homepage.png",
+      "capturedAt": "2026-07-30T18:27:02.799Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/",
+      "pageLabel": "catalog",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/catalog.png",
+      "capturedAt": "2026-07-30T18:27:06.065Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/floor-joist-span-tables/",
+      "pageLabel": "product-category",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/product-category.png",
+      "capturedAt": "2026-07-30T18:27:09.368Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/nitrostud/",
+      "pageLabel": "nitrostud",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/nitrostud.png",
+      "capturedAt": "2026-07-30T18:27:12.911Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/ceiling-span-tables/",
+      "pageLabel": "technical-resources",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/technical-resources.png",
+      "capturedAt": "2026-07-30T18:27:16.325Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/brochures/",
+      "pageLabel": "documents",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/documents.png",
+      "capturedAt": "2026-07-30T18:27:19.718Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/contact-us/",
+      "pageLabel": "contact",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/contact.png",
+      "capturedAt": "2026-07-30T18:27:22.776Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/architectural-specifications-2/",
+      "pageLabel": "submittal",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/submittal.png",
+      "capturedAt": "2026-07-30T18:27:26.133Z",
+      "success": true
+    },
+    {
+      "url": "https://ebmetal.us/hat-furring-channel-ceiling-spans/",
+      "pageLabel": "calculator-or-tool",
+      "viewport": "mobile",
+      "width": 390,
+      "height": 844,
+      "filePath": "screenshots/current/mobile/calculator-or-tool.png",
+      "capturedAt": "2026-07-30T18:27:29.313Z",
+      "success": true
+    }
+  ],
+  "updatedAt": "2026-07-30T18:27:29.404Z"
+}

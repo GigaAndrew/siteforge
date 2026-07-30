@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "eb-metal",
+  "extractedAt": "2026-07-30T19:20:20.688Z",
+  "sourceArtifactHashes": {
+    "data/company-profile.json": "8e843c62628dc83f",
+    "data/product-inventory.json": "3a4b67e126366b20",
+    "data/document-inventory.json": "c2e36559c3655f64",
+    "analysis/digital-maturity.json": "15e443e0725cf467",
+    "source/pages.json": "357cf1ec534c1508"
+  },
+  "counts": {
+    "entities": 151,
+    "relationships": 352,
+    "evidence": 203,
+    "conflicts": 0
+  },
+  "mergedAt": "2026-07-30T19:20:20.832Z"
+}

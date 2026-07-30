@@ -1,0 +1,36 @@
+{
+  "projectSlug": "eb-metal",
+  "calculators": [
+    {
+      "id": "limiting-height",
+      "name": "Limiting height calculator",
+      "classification": "conceptual",
+      "problemSolved": "Manual PDF/HTML table lookup for wall stud limiting heights",
+      "inputs": [
+        "required wall height",
+        "product family",
+        "member depth",
+        "stud spacing",
+        "lateral load",
+        "deflection limit"
+      ],
+      "outputs": [
+        "passing members",
+        "failing members",
+        "max supported height",
+        "margin",
+        "document reference placeholder"
+      ],
+      "dataDependencies": [
+        "Verified manufacturer limiting-height tables for production"
+      ],
+      "disclaimer": "Conceptual prototype using demonstration data. Not for engineering, specification, procurement, or construction use.",
+      "prototypeScope": "Deterministic demo lookup with validation and states",
+      "productionScope": "Manufacturer-approved tables, formulas, validation, signoff",
+      "risks": [
+        "Users may misread conceptual results as approved"
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-30T18:27:37.674Z"
+}

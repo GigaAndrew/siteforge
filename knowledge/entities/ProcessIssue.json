@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ent_ProcessIssue_5ed51aae563eaebd",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Calculators: score 2/10",
+    "normalizedKey": "calculators-conceptual-calculator-first-table-driven-later-with-verified-data-score-2",
+    "properties": {
+      "category": "Calculators",
+      "score": 2,
+      "evidence": "No clear first-class limiting-height calculator UX dominant in crawl labels.",
+      "recommendation": "Conceptual calculator first; table-driven later with verified data.",
+      "observationKey": "calculators-calculators-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f82c2eb579427c34"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_ProcessIssue_fddb9cc58e34ee08",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Submittal workflow: score 2/10",
+    "normalizedKey": "submittal-workflow-persistent-submittal-builder-score-2",
+    "properties": {
+      "category": "Submittal workflow",
+      "score": 2,
+      "evidence": "Submittal/spec language sparse; no integrated package builder observed.",
+      "recommendation": "Persistent submittal builder.",
+      "observationKey": "submittal-workflow-submittal-workflow-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "ent_ProcessIssue_70f4c3b8ea876530",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Process efficiency: score 3/10",
+    "normalizedKey": "process-efficiency-process-improvement-map-modules-score-3",
+    "properties": {
+      "category": "Process efficiency",
+      "score": 3,
+      "evidence": "PDF-heavy and list-heavy workflows dominate public experience.",
+      "recommendation": "Process-improvement map modules.",
+      "observationKey": "process-efficiency-process-efficiency-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5f915825a3198bba"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

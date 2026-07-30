@@ -1,0 +1,3375 @@
+[
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_a45465eaafa36bb3",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_b1582b087e13eeed",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ad5dc2f0427b88e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_741d9899961bdf73",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_b1582b087e13eeed",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ad5dc2f0427b88e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_59b63649dd19a1b2",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_b1582b087e13eeed",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ad5dc2f0427b88e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_53a9c20d3fa8af9f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_b1582b087e13eeed",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ad5dc2f0427b88e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_0b060a706c85bb7e",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_b1582b087e13eeed",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ad5dc2f0427b88e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_d5a82e97eb97b55a",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e404d900016779aa",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2c3e4fb4b1dd5704"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c6b7e8faa59e7061",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e404d900016779aa",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2c3e4fb4b1dd5704"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_b68c83ab26fb96c5",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e404d900016779aa",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2c3e4fb4b1dd5704"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_3da8ae8d75a7d838",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e404d900016779aa",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2c3e4fb4b1dd5704"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4ca6a7c66329d774",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e404d900016779aa",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2c3e4fb4b1dd5704"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4d234afe54813a40",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_d33311a4f7829933",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8fb5d6aca020f590"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f408a4955840af87",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_d33311a4f7829933",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8fb5d6aca020f590"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c787efb275ad981b",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_d33311a4f7829933",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8fb5d6aca020f590"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_3b27c23fcd7b7ce2",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_d33311a4f7829933",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8fb5d6aca020f590"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_50baa11d599c9294",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_d33311a4f7829933",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8fb5d6aca020f590"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4886d0d688445eaf",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_dfba1dade7d7fc7f",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2eb2e1bba9d847ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_8d7170c734c60c11",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_dfba1dade7d7fc7f",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2eb2e1bba9d847ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_6a10a5304436998c",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_dfba1dade7d7fc7f",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2eb2e1bba9d847ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_5b3304fddb005f21",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_dfba1dade7d7fc7f",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2eb2e1bba9d847ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_a3221d6ced2bbc24",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_dfba1dade7d7fc7f",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2eb2e1bba9d847ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_dcdbc6025fb63828",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f93f768177a10a6d",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2cb870e90a017d42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_837fa01529eec2ac",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f93f768177a10a6d",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2cb870e90a017d42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f5c3c5fe3d9e7472",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f93f768177a10a6d",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2cb870e90a017d42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c9dabd0ecc59910d",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f93f768177a10a6d",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2cb870e90a017d42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_d9809656718fba71",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f93f768177a10a6d",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2cb870e90a017d42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_06478085248c57e2",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3177e72b99abd346",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c145c4474da884cd",
+      "ev_e16832718e56e55e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_0cefcab86cf9060d",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3177e72b99abd346",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c145c4474da884cd",
+      "ev_e16832718e56e55e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f39521c8879636b3",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3177e72b99abd346",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c145c4474da884cd",
+      "ev_e16832718e56e55e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_9482a075d514c1a8",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3177e72b99abd346",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c145c4474da884cd",
+      "ev_e16832718e56e55e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_0e86c4fabcb81657",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3177e72b99abd346",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c145c4474da884cd",
+      "ev_e16832718e56e55e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_7d904435d8d4856a",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_8db2cf39b7a7b746",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d4979631fb358aa4"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4e0f851c9ed7b534",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_8db2cf39b7a7b746",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d4979631fb358aa4"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2594da9fa00f9b36",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_8db2cf39b7a7b746",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d4979631fb358aa4"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_fb28f49e349cacfd",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_8db2cf39b7a7b746",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d4979631fb358aa4"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_33439917a2d5ca7f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_8db2cf39b7a7b746",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d4979631fb358aa4"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_93ad2ce4b6472bf5",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4d1584eaf7ea6d8",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5cf6d6c64a31fa50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_e5295ffe14ff2dfb",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4d1584eaf7ea6d8",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5cf6d6c64a31fa50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f0cfc724a85ecf8f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4d1584eaf7ea6d8",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5cf6d6c64a31fa50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_b77a117feb3fef4f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4d1584eaf7ea6d8",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5cf6d6c64a31fa50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ec6e73ffd1886617",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4d1584eaf7ea6d8",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5cf6d6c64a31fa50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_b9273863ff55f69b",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_9f5fa653a2aed119",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_6763e8697744ee17"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_bd3a800b6301bef8",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_9f5fa653a2aed119",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_6763e8697744ee17"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_3f08643bd312eca5",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_9f5fa653a2aed119",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_6763e8697744ee17"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_fcb0b88c9e6d6fec",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_9f5fa653a2aed119",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_6763e8697744ee17"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ac3ade70f7c4f92b",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_9f5fa653a2aed119",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_6763e8697744ee17"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f0513c3df71bfc65",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_112a8cc6249ea8a9",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_458a6bd225afd541"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_e25427cc717ccde7",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_112a8cc6249ea8a9",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_458a6bd225afd541"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_e3ff3805036d48c1",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_112a8cc6249ea8a9",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_458a6bd225afd541"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_0d56fca02f152595",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_112a8cc6249ea8a9",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_458a6bd225afd541"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2012f88e0d2c65dd",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_112a8cc6249ea8a9",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_458a6bd225afd541"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_6e1f9f0fbd722dd5",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2f371a59d4f3fac6",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_475a6b3e4d2b89ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_773d4e5fda487275",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2f371a59d4f3fac6",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_475a6b3e4d2b89ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_0276a4f52d1c5127",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2f371a59d4f3fac6",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_475a6b3e4d2b89ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_d54485fb1508c0a2",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2f371a59d4f3fac6",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_475a6b3e4d2b89ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_b67e289c0d359a33",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2f371a59d4f3fac6",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_475a6b3e4d2b89ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f5394735d932fb10",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_bc34be37173050a7",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_90a55f93c48fa2e1",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_bc34be37173050a7",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ab902bcb54a1b0ba",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_bc34be37173050a7",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_92bb2b03e2472835",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_bc34be37173050a7",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_784cc80500f2cbc2",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_bc34be37173050a7",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_6bf96e28628236c1",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2d6b5aba0880a038",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_fdbf57d9561329df"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_bf8d98a4745b8670",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2d6b5aba0880a038",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_fdbf57d9561329df"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_925a6e5281914994",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2d6b5aba0880a038",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_fdbf57d9561329df"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_b0dc13bdf4c34167",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2d6b5aba0880a038",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_fdbf57d9561329df"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2bf8d953c9dc522b",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_2d6b5aba0880a038",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_fdbf57d9561329df"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f8ded1ea715b3388",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_abc1fc577d84d255",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_020fd04063169a81"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_6dcbe6474636520b",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_abc1fc577d84d255",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_020fd04063169a81"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_9fff320d0b0e253f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_abc1fc577d84d255",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_020fd04063169a81"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_971a0bfa2f14f04d",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_abc1fc577d84d255",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_020fd04063169a81"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_65d7bbccf271ea9d",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_abc1fc577d84d255",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_020fd04063169a81"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_b8806c18049d27dc",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a9d082b31acba0e",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_6e3879bd338df6d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4fd3514c59f6aabf",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a9d082b31acba0e",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_6e3879bd338df6d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_a4faedc2b7b87c9a",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a9d082b31acba0e",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_6e3879bd338df6d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_48880396b0f583d9",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a9d082b31acba0e",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_6e3879bd338df6d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c9a09ad1c7cf9696",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a9d082b31acba0e",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_6e3879bd338df6d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_51d36e7360da1c69",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_de62efda4aff8545",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61e8d32478f9e139"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2562ebcd504ce057",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_de62efda4aff8545",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61e8d32478f9e139"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ffda4d28f6c2d240",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_de62efda4aff8545",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61e8d32478f9e139"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_378a769237fe519e",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_de62efda4aff8545",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61e8d32478f9e139"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_de000548906773d9",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_de62efda4aff8545",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61e8d32478f9e139"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_36cf9ce38217c90f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a5699fd3117d47e",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_197031230d04e0d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_444e900255a3d6c7",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a5699fd3117d47e",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_197031230d04e0d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_d336f8c0657b4932",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a5699fd3117d47e",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_197031230d04e0d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_9660c3f46f8f0847",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a5699fd3117d47e",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_197031230d04e0d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_a4127dcd9d0bc764",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6a5699fd3117d47e",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_197031230d04e0d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_923042a75b79c5ff",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f7eb7966a7f4c98e",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ba608191018010b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f491fd5f069a6074",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f7eb7966a7f4c98e",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ba608191018010b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_aececff46be2fbae",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f7eb7966a7f4c98e",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ba608191018010b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c57f41da4cf8f956",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f7eb7966a7f4c98e",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ba608191018010b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_81d91da60faeb339",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f7eb7966a7f4c98e",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ba608191018010b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_51435bf03a69a58a",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0d9588b4c8771453",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_54acb10f252fb7af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_37e5677759e7d622",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0d9588b4c8771453",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_54acb10f252fb7af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_9c47b1fd4457bef1",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0d9588b4c8771453",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_54acb10f252fb7af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_adb98f7ef2a074b0",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0d9588b4c8771453",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_54acb10f252fb7af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_3b65e094165ee908",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0d9588b4c8771453",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_54acb10f252fb7af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_cb34dc8f661eca00",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_23c34a9dba84f6a8",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1358271d76d5fa9c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_7411b2b628e8fca0",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_23c34a9dba84f6a8",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1358271d76d5fa9c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_92e94a218023248c",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_23c34a9dba84f6a8",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1358271d76d5fa9c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_72b571c00a57170a",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_23c34a9dba84f6a8",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1358271d76d5fa9c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4d3b8cf9fc64b1c6",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_23c34a9dba84f6a8",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1358271d76d5fa9c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_eb6d1b7ec423a913",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0f0395c85128884d",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ad628ee3b7d215de"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_fa29b66a7004600e",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0f0395c85128884d",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ad628ee3b7d215de"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_877dbcd0f8d1edfc",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0f0395c85128884d",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ad628ee3b7d215de"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_bdab3c7d1fb0cfde",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0f0395c85128884d",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ad628ee3b7d215de"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_421cf0e8c4f4ea59",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_0f0395c85128884d",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ad628ee3b7d215de"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ced053814bcc3880",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_38ba733675f2f4c6",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3dd91806788312a0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_63e85ce6b2038583",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_38ba733675f2f4c6",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3dd91806788312a0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_80c4a73596f63355",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_38ba733675f2f4c6",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3dd91806788312a0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_22436e8fecf9e297",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_38ba733675f2f4c6",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3dd91806788312a0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_205565648ba0cdc2",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_38ba733675f2f4c6",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3dd91806788312a0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4605eb713c251a98",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_63c977690f09fd0f",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_de4e5ff05d3198f7"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_08073e283b03294c",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_63c977690f09fd0f",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_de4e5ff05d3198f7"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_1aee52465f1d55f4",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_63c977690f09fd0f",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_de4e5ff05d3198f7"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_a59350a55551f6f1",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_63c977690f09fd0f",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_de4e5ff05d3198f7"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_492c4aead22cc7ce",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_63c977690f09fd0f",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_de4e5ff05d3198f7"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_cf5f3a74fbfd04b7",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4cc02a249c28cb9",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3fc8e29a86c7c4b6",
+      "ev_cf73aad21faf0e51"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_5adfd4330dbef721",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4cc02a249c28cb9",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3fc8e29a86c7c4b6",
+      "ev_cf73aad21faf0e51"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_bfc69f8b3f0e7e3f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4cc02a249c28cb9",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3fc8e29a86c7c4b6",
+      "ev_cf73aad21faf0e51"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2e72583441166b33",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4cc02a249c28cb9",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3fc8e29a86c7c4b6",
+      "ev_cf73aad21faf0e51"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_89ffd659efa9e7fa",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_e4cc02a249c28cb9",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3fc8e29a86c7c4b6",
+      "ev_cf73aad21faf0e51"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_02bf33c6f5ebe62c",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3e5f7495d12ea4af",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5480d280b642e203"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_7681999223bba5d3",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3e5f7495d12ea4af",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5480d280b642e203"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_b0f943fb3614e0c5",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3e5f7495d12ea4af",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5480d280b642e203"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f2ce4387444a97f0",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3e5f7495d12ea4af",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5480d280b642e203"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2ba88a941b331ffa",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_3e5f7495d12ea4af",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5480d280b642e203"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_7127d45b4876910e",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6b7a835009305b83",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_23a68dc0b9a9f856"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_56c69b24cd5b9d38",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6b7a835009305b83",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_23a68dc0b9a9f856"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_9ea74f022bdbe155",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6b7a835009305b83",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_23a68dc0b9a9f856"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_429040bccec9e065",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6b7a835009305b83",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_23a68dc0b9a9f856"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_4088862c21f80f85",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6b7a835009305b83",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_23a68dc0b9a9f856"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_9801a72c1581b50c",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_1c327041dc196275",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e1e6d1916fa341d9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ebe9f12ad4f40107",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_1c327041dc196275",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e1e6d1916fa341d9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ae08b0a1797ca205",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_1c327041dc196275",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e1e6d1916fa341d9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_44340115f6045c0b",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_1c327041dc196275",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e1e6d1916fa341d9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_792f334958800e68",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_1c327041dc196275",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e1e6d1916fa341d9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_5950af562537edec",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f26202af6e841377",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ac04d345031d4d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_518493a857852ff0",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f26202af6e841377",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ac04d345031d4d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_dce49fd3f00c9059",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f26202af6e841377",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ac04d345031d4d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_8ccad998a665dc58",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f26202af6e841377",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ac04d345031d4d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_fa4d0917da22b627",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_f26202af6e841377",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ac04d345031d4d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_d2eaa62ed65a7547",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_952e1a53a07818e2",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_963b39abc8c7c2d8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2866366e1ce77f83",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_952e1a53a07818e2",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_963b39abc8c7c2d8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_17c38eff23db21da",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_952e1a53a07818e2",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_963b39abc8c7c2d8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c0568af014030878",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_952e1a53a07818e2",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_963b39abc8c7c2d8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_358206261a1b6d15",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_952e1a53a07818e2",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_963b39abc8c7c2d8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_f3379c84bfd6db6b",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_85c91a32f95886b5",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_7f27ec0dd9cdf676"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_3b134e2200f5d8af",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_85c91a32f95886b5",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_7f27ec0dd9cdf676"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_468ebfc84786da92",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_85c91a32f95886b5",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_7f27ec0dd9cdf676"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_cc37466d8ef5c422",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_85c91a32f95886b5",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_7f27ec0dd9cdf676"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_e3ec89d35b19f1b3",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_85c91a32f95886b5",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_7f27ec0dd9cdf676"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_dc447959cce556b3",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_535f33343b8ac05e",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c20ee88bcffa65af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c365518d65f88eb5",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_535f33343b8ac05e",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c20ee88bcffa65af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_c25b66d49a17ae41",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_535f33343b8ac05e",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c20ee88bcffa65af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_369a96c3cd7bd3cc",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_535f33343b8ac05e",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c20ee88bcffa65af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_6135fc82d16bd1b3",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_535f33343b8ac05e",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c20ee88bcffa65af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_284ec896b4cc138e",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_741bcb26b69951c1",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0d2ad4bf5ff918a9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ca8568564ee46780",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_741bcb26b69951c1",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0d2ad4bf5ff918a9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_2a462beee7627075",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_741bcb26b69951c1",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0d2ad4bf5ff918a9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_736f9fb27a4a758a",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_741bcb26b69951c1",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0d2ad4bf5ff918a9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_ab90983f9afd65b6",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_741bcb26b69951c1",
+    "toId": "ent_Document_a4bd1b81fc7904da",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0d2ad4bf5ff918a9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_e5f4322c2b2a9e9e",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6e386896f96294ac",
+    "toId": "ent_Document_8604aaf7fb86e235",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_888d3624cf42b3cc",
+      "ev_c1c34b7cf4016616",
+      "ev_4f806102c9b6ef62"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.647Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_674ddcd95e47fb69",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6e386896f96294ac",
+    "toId": "ent_Document_d03c0fc30a4ce97e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_888d3624cf42b3cc",
+      "ev_c1c34b7cf4016616",
+      "ev_4f806102c9b6ef62"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.647Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_315445758ebf0b68",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6e386896f96294ac",
+    "toId": "ent_Document_17f029dba411bd2e",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_888d3624cf42b3cc",
+      "ev_c1c34b7cf4016616",
+      "ev_4f806102c9b6ef62"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.647Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_e5ea44deca00b09e",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6e386896f96294ac",
+    "toId": "ent_Document_39a5e94e27056a63",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_888d3624cf42b3cc"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.647Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_3f8bd6b9d2118147",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6e386896f96294ac",
+    "toId": "ent_Document_01a83ca9b37555ca",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_888d3624cf42b3cc",
+      "ev_c1c34b7cf4016616",
+      "ev_4f806102c9b6ef62"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.647Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_1c0cf8eb7f2b05e9",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6e386896f96294ac",
+    "toId": "ent_Document_8bddc0409e7ae237",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c1c34b7cf4016616"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.647Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "rel_PRODUCT_HAS_DOCUMENT_583f87bf969ef68c",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_HAS_DOCUMENT",
+    "fromId": "ent_Product_6e386896f96294ac",
+    "toId": "ent_Document_4e05d18480539e03",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_4f806102c9b6ef62"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.647Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  }
+]

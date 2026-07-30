@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://ebmetal.us/architectural-specifications-2/architectural-specifications-2",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/architectural-specifications-2/architectural-specifications-2\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:07:29.857Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/acier-plat-janvier-2015",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/acier-plat-janvier-2015\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:07:31.840Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/baguette-en-l-pour-isolant-rigide",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/baguette-en-l-pour-isolant-rigide\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:07:33.287Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/barre-en-z-trouee-janvier-2015",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/barre-en-z-trouee-janvier-2015\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:07:34.772Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/bridging-clip-janvier-2015",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/bridging-clip-janvier-2015\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:07:47.310Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/coin-de-fer-90-degre-janvier-2015",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/coin-de-fer-90-degre-janvier-2015\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:07:49.103Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015_1",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015_1\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:07:58.694Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:08:00.137Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/fourrure-porteuse-g90",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/fourrure-porteuse-g90\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:08:01.618Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/joint-de-controle-093",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/joint-de-controle-093\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:08:03.083Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/accessories/sabliere-trouee-janvier-2015",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/sabliere-trouee-janvier-2015\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:08:04.687Z",
+    "stage": "page_fetch"
+  },
+  {
+    "url": "https://ebmetal.us/msds/sds-vertical",
+    "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/msds/sds-vertical\", waiting until \"domcontentloaded\"\n",
+    "timestamp": "2026-07-30T19:08:08.162Z",
+    "stage": "page_fetch"
+  }
+]

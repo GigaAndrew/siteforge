@@ -1,0 +1,1339 @@
+[
+  {
+    "pageUrl": "https://ebmetal.us/ul-test-results",
+    "headers": [
+      "You may choose to Refine Your Search. Company Name Category Name Link to File Design No. U411 Fire-resistance Ratings – ANSI/UL 263 BXUV.U411 Design No. U412 Fire-resistance Ratings – ANSI/UL 263 BXUV.U412 Design No. U419 Fire-resistance Ratings – ANSI/UL 263 BXUV.U419 Design No. U420 Fire-resistance Ratings – ANSI/UL 263 BXUV.U420 Design No. U425 Fire-resistance Ratings – ANSI/UL 263 BXUV.U425 Design No. U435 Fire-resistance Ratings – ANSI/UL 263 BXUV.U435 Design No. U451 Fire-resistance Ratings – ANSI/UL 263 BXUV.U451 Design No. U465 Fire-resistance Ratings – ANSI/UL 263 BXUV.U465 E.B. METAL INC Framing Members CIKV.R38201 E.B. METAL INC Framing Members Certified for Canada CIKV7.R38201",
+      "You may choose to Refine Your Search.",
+      "Company Name",
+      "Category Name",
+      "Link to File",
+      "Design No. U411",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U411",
+      "Design No. U412",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U412",
+      "Design No. U419",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U419",
+      "Design No. U420",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U420",
+      "Design No. U425",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U425",
+      "Design No. U435",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U435",
+      "Design No. U451",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U451",
+      "Design No. U465",
+      "Fire-resistance Ratings – ANSI/UL 263",
+      "BXUV.U465",
+      "E.B. METAL INC",
+      "Framing Members",
+      "CIKV.R38201",
+      "E.B. METAL INC",
+      "Framing Members Certified for Canada",
+      "CIKV7.R38201",
+      "UL 263 Fire-resistance Ratings – ANSI/UL 263",
+      "CAN/ULC S101 Building Construction & Materials"
+    ],
+    "rowCount": 70,
+    "sampleRows": [
+      "You may choose to Refine Your Search.",
+      "Company Name",
+      "Category Name",
+      "Link to File",
+      "Design No. U411"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/ul-test-results",
+    "headers": [
+      "You may choose to Refine Your Search."
+    ],
+    "rowCount": 33,
+    "sampleRows": [
+      "Company Name",
+      "Category Name",
+      "Link to File",
+      "Design No. U411",
+      "Fire-resistance Ratings – ANSI/UL 263"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/information-generale-des-produits",
+    "headers": [
+      "Épaisseur Et Composante D’acier"
+    ],
+    "rowCount": 50,
+    "sampleRows": [
+      "Désignation Du Profilé (Mils)",
+      "Epaisseur Minimum (Pouce)",
+      "Epaisseur De Conception (Pouce)",
+      "Rayon Intérieur",
+      "Jauge"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/information-generale-des-produits",
+    "headers": [
+      "Longueur De Rebord"
+    ],
+    "rowCount": 24,
+    "sampleRows": [
+      "Colombage",
+      "Largeur Du Rebord",
+      "Longueur Du Rebord",
+      "S125",
+      "11/4”"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing-3",
+    "headers": [
+      "Interior Composite"
+    ],
+    "rowCount": 939,
+    "sampleRows": [
+      "",
+      "5psf",
+      "7.5psf",
+      "10psf",
+      "StudMember"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing-3",
+    "headers": [
+      "Interior Non-Structural Non-Composite"
+    ],
+    "rowCount": 2320,
+    "sampleRows": [
+      "",
+      "5psf",
+      "7.5psf",
+      "10psf",
+      "StudMember"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing-2-2",
+    "headers": [
+      "NITROSTUD 17 Section Properties"
+    ],
+    "rowCount": 130,
+    "sampleRows": [
+      "",
+      "Effective Properties",
+      "Gross Properties",
+      "Torsional Properties",
+      "Member"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing-2-2",
+    "headers": [
+      "Non Structural (S) Stud Section Properties"
+    ],
+    "rowCount": 420,
+    "sampleRows": [
+      "",
+      "",
+      "Effective Properties",
+      "Gross Properties",
+      "Torsional Properties"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing-2-2",
+    "headers": [
+      "NITROSTUD 20 Section Properties"
+    ],
+    "rowCount": 130,
+    "sampleRows": [
+      "",
+      "Effective Properties",
+      "Gross Properties",
+      "Torsional Properties",
+      "Member"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing-2-2",
+    "headers": [
+      "Non Structural Track Section Properties"
+    ],
+    "rowCount": 844,
+    "sampleRows": [
+      "",
+      "Effective Properties",
+      "Gross Properties",
+      "Torsional Properties",
+      "Member"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing-2-2",
+    "headers": [
+      "NITROSTUD 20 Track Section Properties"
+    ],
+    "rowCount": 277,
+    "sampleRows": [
+      "",
+      "EFFECTIVE",
+      "GROSS",
+      "TORSIONAL",
+      "Member"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/fasteners-screws-and-welds",
+    "headers": [
+      "Allowable Screw Capacity (pounds per screw)"
+    ],
+    "rowCount": 192,
+    "sampleRows": [
+      "Thickness(mils)",
+      "Yield StrengthFy(ksi)",
+      "Tensile StrengthFu(ksi)",
+      "#6 Screw",
+      "#8 Screw"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/fasteners-screws-and-welds",
+    "headers": [
+      "Allowable Screw Capacity (pounds) for 1-inch of Weld"
+    ],
+    "rowCount": 84,
+    "sampleRows": [
+      "Thickness(mils)",
+      "DesignThickness",
+      "FyYield(ksi)",
+      "FuTensile(ksi)",
+      "Fillet Welds"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/hat-furring-channel-ceiling-spans",
+    "headers": [
+      "(Hat) Furring (F) Channel Allowable Ceiling Spans L/360"
+    ],
+    "rowCount": 114,
+    "sampleRows": [
+      "Member",
+      "Yield Strength, FY (ksi)",
+      "Spans",
+      "4 PSF",
+      "6 PSF"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/hat-furring-channel-ceiling-spans",
+    "headers": [
+      "(Hat) Furring (F) Channel Allowable Ceiling Spans L/240"
+    ],
+    "rowCount": 114,
+    "sampleRows": [
+      "Member",
+      "Yield Strength, FY (ksi)",
+      "Spans",
+      "4 PSF",
+      "6 PSF"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/hat-furring-channel-ceiling-spans",
+    "headers": [
+      "(Hat) Furring (F) Channel Allowable Ceiling Spans L/120"
+    ],
+    "rowCount": 114,
+    "sampleRows": [
+      "Member",
+      "Yield Strength, FY (ksi)",
+      "Spans",
+      "4 PSF",
+      "6 PSF"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/u-channel-ceiling-spans",
+    "headers": [
+      "U-Channel Allowable Ceiling Spans L/360"
+    ],
+    "rowCount": 74,
+    "sampleRows": [
+      "Member",
+      "Spans",
+      "4 PSF",
+      "6 PSF",
+      "13 PSF"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/u-channel-ceiling-spans",
+    "headers": [
+      "U-Channel Allowable Ceiling Spans L/360"
+    ],
+    "rowCount": 74,
+    "sampleRows": [
+      "Member",
+      "Spans",
+      "4 PSF",
+      "6 PSF",
+      "13 PSF"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/u-channel-ceiling-spans",
+    "headers": [
+      "U-Channel Allowable Ceiling Spans L/360"
+    ],
+    "rowCount": 74,
+    "sampleRows": [
+      "Member",
+      "Spans",
+      "4 PSF",
+      "6 PSF",
+      "13 PSF"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/accessories-2",
+    "headers": [],
+    "rowCount": 20,
+    "sampleRows": [
+      "Pcs/Ctn",
+      "Feet/Ctn",
+      "Ctn/Pallet",
+      "8′",
+      "63"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/accessories-2",
+    "headers": [
+      "U-Channel Section"
+    ],
+    "rowCount": 77,
+    "sampleRows": [
+      "Member",
+      "Design Thickness (in)",
+      "Yield strength, Fy (ksi)",
+      "Gross Properties",
+      "Effective Properties"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/accessories-2",
+    "headers": [
+      "(Hat) Furring (F) Channel"
+    ],
+    "rowCount": 181,
+    "sampleRows": [
+      "Member",
+      "Design Thickness (in)",
+      "Yield strength, Fy (ksi)",
+      "Gross Properties",
+      "Effective Properties"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/accessories-2",
+    "headers": [
+      "Leg Length",
+      "Thickness (mils)",
+      "Gauge",
+      "Length"
+    ],
+    "rowCount": 48,
+    "sampleRows": [
+      "Thickness (mils)",
+      "Gauge",
+      "Length",
+      "7/8″ x 1‐3/8″",
+      "18"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/accessories-2",
+    "headers": [
+      "Leg Length",
+      "Thickness (mils)",
+      "Gauge",
+      "Length"
+    ],
+    "rowCount": 19,
+    "sampleRows": [
+      "Thickness (mils)",
+      "Gauge",
+      "Length",
+      "1″",
+      "18, 27, 30, 33, 43, 54, 68, 97"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/accessories-2",
+    "headers": [
+      "Size",
+      "Thickness (mils)",
+      "Gauge",
+      "Length"
+    ],
+    "rowCount": 46,
+    "sampleRows": [
+      "Thickness (mils)",
+      "Gauge",
+      "Length",
+      "1″",
+      "18"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/accessories-2",
+    "headers": [
+      "Thickness (in)"
+    ],
+    "rowCount": 24,
+    "sampleRows": [
+      "Mills",
+      "Gauge",
+      "Design",
+      "Minimum *",
+      "18"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-forms-2",
+    "headers": [
+      "Contractor Information"
+    ],
+    "rowCount": 19,
+    "sampleRows": [
+      "Nom De La Compagnie:",
+      "",
+      "Adresse:",
+      "",
+      "Ville:"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-forms-2",
+    "headers": [
+      "Composition",
+      "Galvanized Steel"
+    ],
+    "rowCount": 17,
+    "sampleRows": [
+      "Galvanized Steel",
+      "Manufacturier",
+      "EB Metal INC",
+      "% Post consommation",
+      "31%"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-form-nh",
+    "headers": [
+      "Contractor Information"
+    ],
+    "rowCount": 19,
+    "sampleRows": [
+      "Contractor Name:",
+      "",
+      "Address:",
+      "",
+      "City:"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-form-nh",
+    "headers": [
+      "Composition",
+      "Galvanized Steel"
+    ],
+    "rowCount": 17,
+    "sampleRows": [
+      "Galvanized Steel",
+      "Manufacturer",
+      "EB Metal US",
+      "% post consumer",
+      "34.8%"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-form-al",
+    "headers": [
+      "Contractor Information"
+    ],
+    "rowCount": 19,
+    "sampleRows": [
+      "Contractor Name:",
+      "",
+      "Address:",
+      "",
+      "City:"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-form-al",
+    "headers": [
+      "Composition",
+      "Galvanized Steel"
+    ],
+    "rowCount": 17,
+    "sampleRows": [
+      "Galvanized Steel",
+      "Manufacturer",
+      "EB Metal US",
+      "% post consumer",
+      "31%"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "5 psf Lateral Load (Interior Walls Only)"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "350S162-(mils)",
+      "362S137-(mils)",
+      "362S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "5 psf Lateral Load (Interior Walls Only)"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "362S200-(mils)",
+      "400S137-(mils)",
+      "400S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "5 psf Lateral Load (Interior Walls Only)"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "400S200-(mils)",
+      "550S162-(mils)",
+      "600S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "5 psf Lateral Load (Interior Walls Only)"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "600S162-(mils)",
+      "600S200-(mils)",
+      "800S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "5 psf Lateral Load (Interior Walls Only)"
+    ],
+    "rowCount": 226,
+    "sampleRows": [
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)",
+      ""
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "15 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "350S162-(mils)",
+      "362S137-(mils)",
+      "362S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "15 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "362S200-(mils)",
+      "400S137-(mils)",
+      "400S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "15 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "400S200-(mils)",
+      "550S162-(mils)",
+      "600S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "15 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "600S162-(mils)",
+      "600S200-(mils)",
+      "800S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "15 psf Lateral Load"
+    ],
+    "rowCount": 226,
+    "sampleRows": [
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)",
+      ""
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "20 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "350S162-(mils)",
+      "362S137-(mils)",
+      "362S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "20 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "362S200-(mils)",
+      "400S137-(mils)",
+      "400S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "20 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "400S200-(mils)",
+      "550S162-(mils)",
+      "600S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "20 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "600S162-(mils)",
+      "600S200-(mils)",
+      "800S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "20 psf Lateral Load"
+    ],
+    "rowCount": 226,
+    "sampleRows": [
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)",
+      ""
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "25 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "350S162-(mils)",
+      "362S137-(mils)",
+      "362S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "25 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "362S200-(mils)",
+      "400S137-(mils)",
+      "400S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "25 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "400S200-(mils)",
+      "550S162-(mils)",
+      "600S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "25 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "600S162-(mils)",
+      "600S200-(mils)",
+      "800S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "25 psf Lateral Load"
+    ],
+    "rowCount": 226,
+    "sampleRows": [
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)",
+      ""
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "30 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "350S162-(mils)",
+      "362S137-(mils)",
+      "362S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "30 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "362S200-(mils)",
+      "400S137-(mils)",
+      "400S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "30 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "400S200-(mils)",
+      "550S162-(mils)",
+      "600S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "30 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "600S162-(mils)",
+      "600S200-(mils)",
+      "800S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "30 psf Lateral Load"
+    ],
+    "rowCount": 226,
+    "sampleRows": [
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)",
+      ""
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "35 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "350S162-(mils)",
+      "362S137-(mils)",
+      "362S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "35 psf Lateral Load"
+    ],
+    "rowCount": 304,
+    "sampleRows": [
+      "",
+      "",
+      "362S200-(mils)",
+      "400S137-(mils)",
+      "400S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "35 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "400S200-(mils)",
+      "550S162-(mils)",
+      "600S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "35 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "600S162-(mils)",
+      "600S200-(mils)",
+      "800S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "35 psf Lateral Load",
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)"
+    ],
+    "rowCount": 226,
+    "sampleRows": [
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)",
+      ""
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "40 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "350S162-(mils)",
+      "362S137-(mils)",
+      "362S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "40 psf Lateral Load"
+    ],
+    "rowCount": 305,
+    "sampleRows": [
+      "",
+      "",
+      "362S200-(mils)",
+      "400S137-(mils)",
+      "400S162-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "40 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "400S200-(mils)",
+      "550S162-(mils)",
+      "600S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "40 psf Lateral Load"
+    ],
+    "rowCount": 324,
+    "sampleRows": [
+      "",
+      "",
+      "600S162-(mils)",
+      "600S200-(mils)",
+      "800S137-(mils)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/axial-and-lateral-load",
+    "headers": [
+      "40 psf Lateral Load"
+    ],
+    "rowCount": 226,
+    "sampleRows": [
+      "",
+      "",
+      "800S162-(mils)",
+      "800S200-(mils)",
+      ""
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/ceiling-span-tables",
+    "headers": [
+      "Allowable Ceiling Spans – Deflection Limit L/360"
+    ],
+    "rowCount": 1298,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "4 psf",
+      "6 psf",
+      "13 psf"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/ceiling-span-tables",
+    "headers": [
+      "Member",
+      "Fy (ksi)",
+      "4 psf",
+      "6 psf",
+      "13 psf"
+    ],
+    "rowCount": 1297,
+    "sampleRows": [
+      "Fy (ksi)",
+      "4 psf",
+      "6 psf",
+      "13 psf",
+      "Lateral Support of Compression Flange"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/ceiling-span-tables",
+    "headers": [
+      "Allowable Ceiling Spans – Deflection Limit L/120"
+    ],
+    "rowCount": 1298,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "4 psf",
+      "6 psf",
+      "13 psf"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/exterior-framing-2",
+    "headers": [
+      "Limiting Wall Heights – Curtain Wall 1-span"
+    ],
+    "rowCount": 8533,
+    "sampleRows": [
+      "",
+      "15 psf",
+      "20 psf",
+      "25 psf",
+      "30 psf"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/general-product-information",
+    "headers": [
+      "Thickness – Steel Components"
+    ],
+    "rowCount": 50,
+    "sampleRows": [
+      "Designation Thickness (Mils)",
+      "Thickness Minimum (in) 1",
+      "Thickness Design (in)",
+      "Inside Radii Design Corner 2 (in)",
+      "Reference Gauge No."
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/general-product-information",
+    "headers": [
+      "Stiffening Lip Length"
+    ],
+    "rowCount": 24,
+    "sampleRows": [
+      "Member",
+      "FlangeWidth",
+      "DesignLipLengthStiffening(in)",
+      "S125",
+      "11/4”"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing",
+    "headers": [
+      "Interior Composite"
+    ],
+    "rowCount": 1104,
+    "sampleRows": [
+      "",
+      "5psf",
+      "7.5psf",
+      "10psf",
+      "StudMember"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/interior-framing",
+    "headers": [
+      "Interior Non-Structural Non-Composite"
+    ],
+    "rowCount": 1816,
+    "sampleRows": [
+      "",
+      "5 psf",
+      "7.5 psf",
+      "10 psf",
+      "Member"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/header-load",
+    "headers": [
+      "Header Allowable Uniform Loads (lb/ft)"
+    ],
+    "rowCount": 721,
+    "sampleRows": [
+      "Member",
+      "Fy, Yield (ksi)",
+      "Span in Feet",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/web-crippling-load-tables",
+    "headers": [
+      "Allowable Web Crippling Loads (lbs) – Single Members"
+    ],
+    "rowCount": 1076,
+    "sampleRows": [
+      "Member",
+      "Design Thickness (in)",
+      "Inside Radius (in)",
+      "Yield Strength (ksi)",
+      "Condition 1 Fastened to Support Bearing Length (in)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/web-crippling-load-tables",
+    "headers": [
+      "Allowable Web Crippling Loads (lbs) – Back-To-Back Members"
+    ],
+    "rowCount": 1076,
+    "sampleRows": [
+      "Member",
+      "Design Thickness (in)",
+      "Inside Radius (in)",
+      "Yield Strength (ksi)",
+      "Condition 1 Fastened to Support Bearing Length (in)"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/floor-joist-span-tables",
+    "headers": [
+      "10 psf Dead Load and 20 psf Live Load"
+    ],
+    "rowCount": 920,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "Live Load Deflection L/360",
+      "Live Load Deflection L/480",
+      "Single Span"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/floor-joist-span-tables",
+    "headers": [
+      "10 psf Dead Load and 30 psf Live Load"
+    ],
+    "rowCount": 920,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "Live Load Deflection L/360",
+      "Live Load Deflection L/480",
+      "Single Span"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/floor-joist-span-tables",
+    "headers": [
+      "10 psf Dead Load and 40 psf Live Load"
+    ],
+    "rowCount": 920,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "Live Load Deflection L/360",
+      "Live Load Deflection L/480",
+      "Single Span"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/floor-joist-span-tables",
+    "headers": [
+      "10 psf Dead Load and 50 psf Live Load"
+    ],
+    "rowCount": 920,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "Live Load Deflection L/360",
+      "Live Load Deflection L/480",
+      "Single Span"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/floor-joist-span-tables",
+    "headers": [
+      "15 psf Dead Load and 50 psf Live Load"
+    ],
+    "rowCount": 920,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "Live Load Deflection L/360",
+      "Live Load Deflection L/480",
+      "Single Span"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/floor-joist-span-tables",
+    "headers": [
+      "40 psf Dead Load and 50 psf Live Load"
+    ],
+    "rowCount": 920,
+    "sampleRows": [
+      "Member",
+      "Fy (ksi)",
+      "Live Load Deflection L/360",
+      "Live Load Deflection L/480",
+      "Single Span"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/nitrostud",
+    "headers": [
+      "Nitrostud (S) Stud Section Properties"
+    ],
+    "rowCount": 490,
+    "sampleRows": [
+      "",
+      "",
+      "",
+      "Gross Properties",
+      "Effective Properties"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/nitrostud",
+    "headers": [
+      "Nitrostud (T) Track Section Properties"
+    ],
+    "rowCount": 905,
+    "sampleRows": [
+      "",
+      "",
+      "Gross Properties",
+      "Effective Properties",
+      "Torsional Properties"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-form-nh",
+    "headers": [
+      "Contractor Information"
+    ],
+    "rowCount": 19,
+    "sampleRows": [
+      "Contractor Name:",
+      "",
+      "Address:",
+      "",
+      "City:"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/leeds-form-nh",
+    "headers": [
+      "Composition",
+      "Galvanized Steel"
+    ],
+    "rowCount": 17,
+    "sampleRows": [
+      "Galvanized Steel",
+      "Manufacturer",
+      "EB Metal US",
+      "% post consumer",
+      "34.8%"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/exterior-framing",
+    "headers": [
+      "Structural (S) Stud Section Properties"
+    ],
+    "rowCount": 3755,
+    "sampleRows": [
+      "",
+      "",
+      "Gross Properties",
+      "Effective Properties",
+      "Torsional Properties"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/exterior-framing",
+    "headers": [
+      "Structural (T) Track Section Properties"
+    ],
+    "rowCount": 3625,
+    "sampleRows": [
+      "",
+      "",
+      "Gross Properties",
+      "Effective Properties",
+      "Torsional Properties"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/eb-golf-outing-sponsorship",
+    "headers": [
+      "Anchor SteelCambridge Savings BankCentury Drywall IncColliersDevine MillimetFerrosource LLCFortin Building Systems Inc.GP GypsumKloeckner Metals CompanyL&M Drywall LLCL&W SupplyMainline Metals, IncManganaro NortheastMatrix Interior Construction IncMcLane Middleton, Professional Association",
+      "Metro WallsMetro Walls NHNew England Finish Systems, LLCNLMK USANutter, McClennen & Fish LLPOlympic SteelOptiline EnterprisesPNC Private BankRiverview SteelStar Sales & Distributing Corp.Steel Dynamics – The Techs DivisionSuperior Steel Supply, LLCTEP NortheastTri-State Construction LLC"
+    ],
+    "rowCount": 1,
+    "sampleRows": [
+      "Metro WallsMetro Walls NHNew England Finish Systems, LLCNLMK USANutter, McClennen & Fish LLPOlympic SteelOptiline EnterprisesPNC Private BankRiverview SteelStar Sales & Distributing Corp.Steel Dynamics – The Techs DivisionSuperior Steel Supply, LLCTEP NortheastTri-State Construction LLC"
+    ]
+  },
+  {
+    "pageUrl": "https://ebmetal.us/eb-golf-outing-registration",
+    "headers": [
+      "Anchor SteelCambridge Savings BankCentury Drywall IncColliersDevine MillimetFerrosource LLCFortin Building Systems Inc.GP GypsumKloeckner Metals CompanyL&M Drywall LLCL&W SupplyMainline Metals, IncManganaro NortheastMatrix Interior Construction IncMcLane Middleton, Professional Association",
+      "Metro WallsMetro Walls NHNew England Finish Systems, LLCNLMK USANutter, McClennen & Fish LLPOlympic SteelOptiline EnterprisesPNC Private BankRiverview SteelStar Sales & Distributing Corp.Steel Dynamics – The Techs DivisionSuperior Steel Supply, LLCTEP NortheastTri-State Construction LLC"
+    ],
+    "rowCount": 1,
+    "sampleRows": [
+      "Metro WallsMetro Walls NHNew England Finish Systems, LLCNLMK USANutter, McClennen & Fish LLPOlympic SteelOptiline EnterprisesPNC Private BankRiverview SteelStar Sales & Distributing Corp.Steel Dynamics – The Techs DivisionSuperior Steel Supply, LLCTEP NortheastTri-State Construction LLC"
+    ]
+  }
+]

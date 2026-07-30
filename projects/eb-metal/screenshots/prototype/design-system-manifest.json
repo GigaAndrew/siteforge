@@ -1,0 +1,34 @@
+{
+  "projectSlug": "eb-metal",
+  "entries": [
+    {
+      "url": "http://localhost:3000/prototype/eb-metal/design-system",
+      "viewport": "1440x1000",
+      "filePath": "screenshots/prototype/design-system/design-system-1440x1000.png",
+      "success": true,
+      "capturedAt": "2026-07-30T18:30:54.968Z"
+    },
+    {
+      "url": "http://localhost:3000/prototype/eb-metal/design-system",
+      "viewport": "1280x800",
+      "filePath": "screenshots/prototype/design-system/design-system-1280x800.png",
+      "success": true,
+      "capturedAt": "2026-07-30T18:30:56.463Z"
+    },
+    {
+      "url": "http://localhost:3000/prototype/eb-metal/design-system",
+      "viewport": "768x1024",
+      "filePath": "screenshots/prototype/design-system/design-system-768x1024.png",
+      "success": true,
+      "capturedAt": "2026-07-30T18:30:58.088Z"
+    },
+    {
+      "url": "http://localhost:3000/prototype/eb-metal/design-system",
+      "viewport": "390x844",
+      "filePath": "screenshots/prototype/design-system/design-system-390x844.png",
+      "success": true,
+      "capturedAt": "2026-07-30T18:30:59.826Z"
+    }
+  ],
+  "updatedAt": "2026-07-30T18:30:59.932Z"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ent_SeoIssue_deb1746f05c34d2b",
+    "schemaVersion": "1.0.0",
+    "type": "SeoIssue",
+    "name": "SEO: score 5/10",
+    "normalizedKey": "seo-consistent-titles-descriptions-per-template-score-5",
+    "properties": {
+      "category": "SEO",
+      "score": 5,
+      "evidence": "Meta description coverage 0/51; Yoast indicators present.",
+      "recommendation": "Consistent titles/descriptions per template.",
+      "observationKey": "seo-seo-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e3fb403a4ec76ef8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

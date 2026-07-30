@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ent_Calculator_e4cb4514d39b6e8b",
+    "schemaVersion": "1.0.0",
+    "type": "Calculator",
+    "name": "Limiting height calculator",
+    "normalizedKey": "limiting-height",
+    "properties": {
+      "classification": "conceptual",
+      "disclaimer": "Conceptual prototype using demonstration data. Not for engineering, specification, procurement, or construction use."
+    },
+    "epistemicClass": "recommendation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_24a1727f892d6c77"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.678Z",
+    "updatedAt": "2026-07-30T19:20:20.678Z"
+  }
+]

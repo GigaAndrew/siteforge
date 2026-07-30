@@ -1,0 +1,27 @@
+---
+description: TypeScript, Next.js App Router, and accessibility standards
+globs: "**/*.{ts,tsx}"
+alwaysApply: false
+---
+
+# TypeScript and Next.js
+
+## Next.js
+Read `node_modules/next/dist/docs/` before using APIs. This project may use conventions different from training data.
+
+## TypeScript
+Strict mode. Prefer Zod-validated JSON at project boundaries. Export types from `lib/schemas/`.
+
+## App Router
+- Server components by default; `"use client"` only when needed.
+- Dynamic routes: `app/prototype/[projectSlug]/`, `app/projects/[projectSlug]/`.
+- Load project data via `lib/project.ts` helpers — never inline filesystem reads in components.
+
+## HTML and accessibility
+- Semantic elements (`nav`, `main`, `section`, `table`, `button`).
+- Visible focus states, keyboard-operable interactions, form labels tied to inputs.
+- `aria-*` only when native semantics insufficient.
+- Color contrast per WCAG AA for text and controls.
+
+## Quality
+Run `npm run typecheck`, `npm run lint`, and `npm run test` before requesting gate review.

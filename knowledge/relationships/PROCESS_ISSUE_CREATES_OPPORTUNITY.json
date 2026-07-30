@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rel_PROCESS_ISSUE_CREATES_OPPORTUNITY_38f282b2658387db",
+    "schemaVersion": "1.0.0",
+    "type": "PROCESS_ISSUE_CREATES_OPPORTUNITY",
+    "fromId": "ent_ProcessIssue_5ed51aae563eaebd",
+    "toId": "ent_DigitalOpportunity_96cbd31b8980774d",
+    "properties": {},
+    "epistemicClass": "inference",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f82c2eb579427c34"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_PROCESS_ISSUE_CREATES_OPPORTUNITY_e9e8eb92fe43f811",
+    "schemaVersion": "1.0.0",
+    "type": "PROCESS_ISSUE_CREATES_OPPORTUNITY",
+    "fromId": "ent_ProcessIssue_fddb9cc58e34ee08",
+    "toId": "ent_DigitalOpportunity_4a6ab9807ac9cadd",
+    "properties": {},
+    "epistemicClass": "inference",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_PROCESS_ISSUE_CREATES_OPPORTUNITY_54445f14b65ba283",
+    "schemaVersion": "1.0.0",
+    "type": "PROCESS_ISSUE_CREATES_OPPORTUNITY",
+    "fromId": "ent_ProcessIssue_70f4c3b8ea876530",
+    "toId": "ent_DigitalOpportunity_68fcb1ea79f08e9d",
+    "properties": {},
+    "epistemicClass": "inference",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5f915825a3198bba"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

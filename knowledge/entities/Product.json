@@ -1,0 +1,753 @@
+[
+  {
+    "id": "ent_Product_b1582b087e13eeed",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Home",
+    "normalizedKey": "home",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Home About EB Metal US EB Metal US is a full line lightweight steel framing manufacturer and fabricator with locations in Bow NH and Montgomery Alab"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ad5dc2f0427b88e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "ent_Product_e404d900016779aa",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "EB Metal Golf Outing 2024",
+    "normalizedKey": "eb-metal-golf-outing-2024",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH EB Metal Golf Outing 2024 Date: July 3, 2024 Author: Susanne Categories: Uncategorized We’re looking forward to seeing everyone who has registered f"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2c3e4fb4b1dd5704"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "ent_Product_d33311a4f7829933",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Catalog",
+    "normalizedKey": "catalog",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Catalog [gview file=”https://ebmetal.us/eb-metals-inc-catalog-revised-october-2014.pdf” height=”1200px” width=”100%” save=”1″] Copyright © Eastern M"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8fb5d6aca020f590"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "ent_Product_dfba1dade7d7fc7f",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Material Safety Data Sheet",
+    "normalizedKey": "material-safety-data-sheet",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Material Safety Data Sheet [gview file=”http://ocweb.originalcomputing.com/ebmetal/wp-content/uploads/2013/03/eb_metal_arcelorMittal_msds.pdf” heigh"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2eb2e1bba9d847ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.635Z",
+    "updatedAt": "2026-07-30T19:20:20.635Z"
+  },
+  {
+    "id": "ent_Product_f93f768177a10a6d",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "UL® Test Results",
+    "normalizedKey": "ul-test-results",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS TABLES DOCUMENTS ARCHITECTURAL SPECS. TEST RESULTS FASTENERS TYPICAL WALL AND CEILING DETAILS LEED FORMS SUBMITTAL CONTACT SEARCH Test Results You may choose to Refine Your Search. Com"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2cb870e90a017d42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "ent_Product_3177e72b99abd346",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Accessories",
+    "normalizedKey": "accessories",
+    "properties": {
+      "family": "nitrostud",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS GENERAL PRODUCT INFORMATION NITROSTUD EXTERIOR FRAMING AREA SEPARATION WALL SHAFT WALL SYSTEMS ACCESSORIES WARRANTY TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Accessories Cornerbead EB Metal "
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c145c4474da884cd",
+      "ev_e16832718e56e55e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "ent_Product_8db2cf39b7a7b746",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Home - Metal Framing Manufacturer - EB Metal",
+    "normalizedKey": "home-metal-framing-manufacturer-eb-metal",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Nous sommes homologués UL EB Métal Inc. est un fabricant d’éléments d’ossature en acier formé à froid situé à St-Mathieu de Beloeil. Nous sommes pré"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_d4979631fb358aa4"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.636Z",
+    "updatedAt": "2026-07-30T19:20:20.636Z"
+  },
+  {
+    "id": "ent_Product_e4d1584eaf7ea6d8",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Information Générale Des Produits",
+    "normalizedKey": "information-generale-des-produits",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Information Générale Des Produits Homologation Spécification Des Matériaux Aide Technique Épaisseur Des Composantes D’acier Longueur De Rebord Notes"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5cf6d6c64a31fa50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.637Z"
+  },
+  {
+    "id": "ent_Product_9f5fa653a2aed119",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Interior Framing",
+    "normalizedKey": "interior-framing",
+    "properties": {
+      "description": "[text extraction failed — raw content preserved in crawl logs; confidence degraded]"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_6763e8697744ee17"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.637Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "ent_Product_112a8cc6249ea8a9",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Shaft Wall Systems",
+    "normalizedKey": "shaft-wall-systems",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Shaft Wall Systems [gview file=”https://ebmetal.us/wp-content/uploads/2016/09/usg-shaftwall-systems-english-2016.pdf” width=”100%” height=”1200px” ]"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_458a6bd225afd541"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "ent_Product_2f371a59d4f3fac6",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Systéme De Paroi De Puits",
+    "normalizedKey": "systeme-de-paroi-de-puits",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Systéme De Paroi De Puits [gview file=”https://ebmetal.us/wp-content/uploads/2016/09/usg-shaftwall-systems-english-2016.pdf” width=”100%” height=”12"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_475a6b3e4d2b89ec"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "ent_Product_bc34be37173050a7",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Architectural Specifications",
+    "normalizedKey": "architectural-specifications",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Architectural Specifications Conformed Steel Framing General Related Sections (List appropriate related sections here) References AISI/NASPEC 2012 –"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.638Z",
+    "updatedAt": "2026-07-30T19:20:20.638Z"
+  },
+  {
+    "id": "ent_Product_2d6b5aba0880a038",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Fasteners (Screws and Welds)",
+    "normalizedKey": "fasteners-screws-and-welds",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS TABLES DOCUMENTS ARCHITECTURAL SPECS. TEST RESULTS FASTENERS TYPICAL WALL AND CEILING DETAILS LEED FORMS SUBMITTAL CONTACT SEARCH Fasteners (Screws and Welds) Table Notes AllowableStru"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_fdbf57d9561329df"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "ent_Product_abc1fc577d84d255",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Typical Wall and Ceiling Details",
+    "normalizedKey": "typical-wall-and-ceiling-details",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS TABLES DOCUMENTS ARCHITECTURAL SPECS. TEST RESULTS FASTENERS TYPICAL WALL AND CEILING DETAILS LEED FORMS SUBMITTAL CONTACT SEARCH Typical Wall and Ceiling Details Copyright © Eastern M"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_020fd04063169a81"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "ent_Product_6a9d082b31acba0e",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Hat Furring Channel Ceiling Spans",
+    "normalizedKey": "hat-furring-channel-ceiling-spans",
+    "properties": {
+      "description": "[text extraction failed — raw content preserved in crawl logs; confidence degraded]"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_6e3879bd338df6d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "ent_Product_de62efda4aff8545",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "U-Channel Ceiling",
+    "normalizedKey": "u-channel-ceiling",
+    "properties": {
+      "description": "[text extraction failed — raw content preserved in crawl logs; confidence degraded]"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61e8d32478f9e139"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.639Z",
+    "updatedAt": "2026-07-30T19:20:20.639Z"
+  },
+  {
+    "id": "ent_Product_6a5699fd3117d47e",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Brochures - Metal Framing Manufacturer - EB Metal",
+    "normalizedKey": "brochures-metal-framing-manufacturer-eb-metal",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Company Overview Download PDF Copyright © Eastern Metal Framing LLC. EB Metal Golf Outing"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_197031230d04e0d6"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "ent_Product_f7eb7966a7f4c98e",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "LEEDs Forms",
+    "normalizedKey": "leeds-forms",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH LEEDs Forms Contractor Information Nom De La Compagnie: Adresse: Ville: Province: Code Postal: Country: Nom De La Personne à Contacter: Informations"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ba608191018010b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.640Z",
+    "updatedAt": "2026-07-30T19:20:20.640Z"
+  },
+  {
+    "id": "ent_Product_0d9588b4c8771453",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Leeds Form NH",
+    "normalizedKey": "leeds-form-nh",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Leeds Form NH Go to Alabama Leeds Form Contractor Information Contractor Name: Address: City: State: Postal: Country: Attn: Project Information Proj"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_54acb10f252fb7af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "ent_Product_23c34a9dba84f6a8",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "MSDS",
+    "normalizedKey": "msds",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH MSDS SDF Zinc Coated Sheet Steele Download PDF Copyright © Eastern Metal Framing LLC. EB Metal Golf Outing"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_1358271d76d5fa9c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "ent_Product_0f0395c85128884d",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Leeds Form AL",
+    "normalizedKey": "leeds-form-al",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Leeds Form AL Go to New Hampshire Leeds Form Contractor Information Contractor Name: Address: City: State: Postal: Country: Attn: Project Informatio"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_ad628ee3b7d215de"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.642Z",
+    "updatedAt": "2026-07-30T19:20:20.642Z"
+  },
+  {
+    "id": "ent_Product_38ba733675f2f4c6",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Axial and lateral Load",
+    "normalizedKey": "axial-and-lateral-load",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS TABLES DOCUMENTS ARCHITECTURAL SPECS. TEST RESULTS FASTENERS TYPICAL WALL AND CEILING DETAILS LEED FORMS SUBMITTAL CONTACT SEARCH Axial and lateral Load Combined Axial and Lateral Load"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3dd91806788312a0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "ent_Product_63c977690f09fd0f",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Ceiling Span",
+    "normalizedKey": "ceiling-span",
+    "properties": {
+      "description": "[text extraction failed — raw content preserved in crawl logs; confidence degraded]"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_de4e5ff05d3198f7"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "ent_Product_e4cc02a249c28cb9",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Exterior Framing",
+    "normalizedKey": "exterior-framing",
+    "properties": {
+      "family": "nitrostud",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS GENERAL PRODUCT INFORMATION NITROSTUD EXTERIOR FRAMING AREA SEPARATION WALL SHAFT WALL SYSTEMS ACCESSORIES WARRANTY TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Exterior Framing Section Propert"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_3fc8e29a86c7c4b6",
+      "ev_cf73aad21faf0e51"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "ent_Product_3e5f7495d12ea4af",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "General Product Information",
+    "normalizedKey": "general-product-information",
+    "properties": {
+      "family": "nitrostud",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS GENERAL PRODUCT INFORMATION NITROSTUD EXTERIOR FRAMING AREA SEPARATION WALL SHAFT WALL SYSTEMS ACCESSORIES WARRANTY TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH General Product Information Code"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5480d280b642e203"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.643Z",
+    "updatedAt": "2026-07-30T19:20:20.643Z"
+  },
+  {
+    "id": "ent_Product_6b7a835009305b83",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Header Load",
+    "normalizedKey": "header-load",
+    "properties": {
+      "family": "header",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS TABLES DOCUMENTS ARCHITECTURAL SPECS. TEST RESULTS FASTENERS TYPICAL WALL AND CEILING DETAILS LEED FORMS SUBMITTAL CONTACT SEARCH Header Load Table Notes 1. Calculated loads are based "
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_23a68dc0b9a9f856"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "ent_Product_1c327041dc196275",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Web Crippling Load",
+    "normalizedKey": "web-crippling-load",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS TABLES DOCUMENTS ARCHITECTURAL SPECS. TEST RESULTS FASTENERS TYPICAL WALL AND CEILING DETAILS LEED FORMS SUBMITTAL CONTACT SEARCH Web Crippling Load 1. All allowable loads listed are b"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e1e6d1916fa341d9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "ent_Product_f26202af6e841377",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Floor Joist Span",
+    "normalizedKey": "floor-joist-span",
+    "properties": {
+      "description": "[text extraction failed — raw content preserved in crawl logs; confidence degraded]"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ac04d345031d4d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.644Z",
+    "updatedAt": "2026-07-30T19:20:20.644Z"
+  },
+  {
+    "id": "ent_Product_952e1a53a07818e2",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "NITROSTUD",
+    "normalizedKey": "nitrostud",
+    "properties": {
+      "family": "nitrostud",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS GENERAL PRODUCT INFORMATION NITROSTUD EXTERIOR FRAMING AREA SEPARATION WALL SHAFT WALL SYSTEMS ACCESSORIES WARRANTY TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH NITROSTUD EB Metal US is proud t"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_963b39abc8c7c2d8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.645Z",
+    "updatedAt": "2026-07-30T19:20:20.645Z"
+  },
+  {
+    "id": "ent_Product_85c91a32f95886b5",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "EB Golf Outing Sponsorship - Metal Framing Manufacturer - EB Metal",
+    "normalizedKey": "eb-golf-outing-sponsorship-metal-framing-manufacturer-eb-metal",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH EB Golf Outing Sponsorship Sponsor the EB Metal Golf Outing Many thanks to our sponsors! Anchor Steel Cambridge Savings Bank Century Drywall Inc Col"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_7f27ec0dd9cdf676"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "ent_Product_535f33343b8ac05e",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "EB Golf Outing Registration - Metal Framing Manufacturer - EB Metal",
+    "normalizedKey": "eb-golf-outing-registration-metal-framing-manufacturer-eb-metal",
+    "properties": {
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH EB Golf Outing and Showcase Registration Registration for EB Metal’s golf outing at the Manchester Country Club on July 8, 2024. You are welcome to "
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_c20ee88bcffa65af"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "ent_Product_741bcb26b69951c1",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Contact - Metal Framing Manufacturer - EB Metal",
+    "normalizedKey": "contact-metal-framing-manufacturer-eb-metal",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Request A Submittal From Our Sales Team EB Metal Support General Support: 603-216-1573 | info@ebmetal.us Technical Support: 855-932-6382 | technical"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0d2ad4bf5ff918a9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.646Z"
+  },
+  {
+    "id": "ent_Product_6e386896f96294ac",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Nothing Found",
+    "normalizedKey": "nothing-found",
+    "properties": {
+      "family": "framing",
+      "description": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Nothing Found Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post. Copyright © Eastern M"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_888d3624cf42b3cc",
+      "ev_c1c34b7cf4016616",
+      "ev_4f806102c9b6ef62"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.646Z",
+    "updatedAt": "2026-07-30T19:20:20.647Z"
+  }
+]

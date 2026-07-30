@@ -1,0 +1,76 @@
+{
+  "projectSlug": "eb-metal",
+  "meta": {
+    "concept": "Precision Mill",
+    "personality": [
+      "industrial",
+      "precise",
+      "engineered",
+      "established",
+      "dependable",
+      "contemporary",
+      "high-performance",
+      "technical",
+      "premium-not-luxurious"
+    ]
+  },
+  "color": {
+    "ink": "#121417",
+    "slate": "#2C333A",
+    "steel": "#5B6770",
+    "mist": "#E6EAEE",
+    "paper": "#F4F6F8",
+    "chalk": "#FBFCFD",
+    "signal": "#B5471D",
+    "signalHover": "#8F3816",
+    "pass": "#1F6B4A",
+    "fail": "#9B1C1C",
+    "border": "#C9D1D8",
+    "focus": "#0B5FFF"
+  },
+  "typography": {
+    "display": "\"IBM Plex Sans\", \"Segoe UI\", sans-serif",
+    "body": "\"IBM Plex Sans\", \"Segoe UI\", sans-serif",
+    "mono": "\"IBM Plex Mono\", ui-monospace, monospace",
+    "scale": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "md": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.5rem",
+      "2xl": "2rem",
+      "3xl": "2.75rem"
+    }
+  },
+  "space": {
+    "1": "4px",
+    "2": "8px",
+    "3": "12px",
+    "4": "16px",
+    "5": "24px",
+    "6": "32px",
+    "7": "48px",
+    "8": "64px"
+  },
+  "radius": {
+    "none": "0px",
+    "sm": "2px",
+    "md": "4px",
+    "lg": "6px"
+  },
+  "shadow": {
+    "none": "none",
+    "hairline": "0 1px 0 rgba(18,20,23,0.08)",
+    "panel": "0 8px 24px rgba(18,20,23,0.08)"
+  },
+  "grid": {
+    "columns": 12,
+    "gutter": "24px",
+    "maxWidth": "1200px"
+  },
+  "motion": {
+    "fast": "120ms",
+    "base": "200ms",
+    "slow": "320ms"
+  }
+}

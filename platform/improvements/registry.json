@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "1.0.0",
+  "updatedAt": "2026-07-30T19:21:20.201Z",
+  "items": [
+    {
+      "id": "IMP-001",
+      "category": "Extraction",
+      "description": "Cheerio/body text can surface binary bleed; salvageReadableText + clean DOM extract + normalizeExtractedText before inventories.",
+      "originProject": "eb-metal",
+      "evidence": "live page text ok 51/51; summary ok=true",
+      "status": "resolved",
+      "owner": "platform",
+      "priority": "P1",
+      "affectedModules": [
+        "crawler"
+      ],
+      "resolvedVersion": "sprint-2",
+      "updatedAt": "2026-07-30T19:21:20.201Z"
+    },
+    {
+      "id": "IMP-002",
+      "category": "Crawler",
+      "description": "www vs apex and tracking params created duplicate Page entities and inflated near-dup metrics.",
+      "originProject": "eb-metal",
+      "evidence": "multiple page pairs in Sprint 1 graph",
+      "status": "open",
+      "owner": "platform",
+      "priority": "P2",
+      "affectedModules": [
+        "crawler"
+      ],
+      "resolvedVersion": null,
+      "updatedAt": "2026-07-30T19:21:20.188Z"
+    },
+    {
+      "id": "IMP-003",
+      "category": "Crawler",
+      "description": "PDF/download navigations appear as failures; classify and skip document hrefs rather than counting as content failures.",
+      "originProject": "eb-metal",
+      "evidence": "12 download blocks / 12 failures",
+      "status": "open",
+      "owner": "platform",
+      "priority": "P2",
+      "affectedModules": [
+        "crawler"
+      ],
+      "resolvedVersion": null,
+      "updatedAt": "2026-07-30T19:21:20.190Z"
+    },
+    {
+      "id": "IMP-004",
+      "category": "Knowledge",
+      "description": "Homepage-backed claims need lower reliability weight than engineering tables/product sheets.",
+      "originProject": "eb-metal",
+      "evidence": "systemic",
+      "status": "open",
+      "owner": "platform",
+      "priority": "P2",
+      "affectedModules": [
+        "knowledge"
+      ],
+      "resolvedVersion": null,
+      "updatedAt": "2026-07-30T19:21:20.191Z"
+    },
+    {
+      "id": "IMP-005",
+      "category": "Knowledge",
+      "description": "DocumentType and CMS entities were created without relationships (orphan medium issues).",
+      "originProject": "eb-metal",
+      "evidence": "2 orphan types in inspect",
+      "status": "open",
+      "owner": "platform",
+      "priority": "P3",
+      "affectedModules": [
+        "knowledge"
+      ],
+      "resolvedVersion": null,
+      "updatedAt": "2026-07-30T19:21:20.193Z"
+    },
+    {
+      "id": "IMP-006",
+      "category": "Product taxonomy",
+      "description": "Page-title products (events, MSDS) pollute Product entities.",
+      "originProject": "eb-metal",
+      "evidence": "ongoing in product-inventory",
+      "status": "open",
+      "owner": "platform",
+      "priority": "P2",
+      "affectedModules": [
+        "knowledge",
+        "analyzer"
+      ],
+      "resolvedVersion": null,
+      "updatedAt": "2026-07-30T19:21:20.194Z"
+    },
+    {
+      "id": "IMP-007",
+      "category": "Graph schema",
+      "description": "UserTask / SubmittalWorkflow under-extracted; not blocking but limits query demos.",
+      "originProject": "eb-metal",
+      "evidence": "query demonstration gaps",
+      "status": "open",
+      "owner": "platform",
+      "priority": "P3",
+      "affectedModules": [],
+      "resolvedVersion": null,
+      "updatedAt": "2026-07-30T19:21:20.196Z"
+    },
+    {
+      "id": "IMP-008",
+      "category": "Automation",
+      "description": "Report generation should be one command after crawl/audit/knowledge.",
+      "originProject": "eb-metal",
+      "evidence": "ops",
+      "status": "open",
+      "owner": "platform",
+      "priority": "P3",
+      "affectedModules": [
+        "knowledge"
+      ],
+      "resolvedVersion": null,
+      "updatedAt": "2026-07-30T19:21:20.197Z"
+    }
+  ]
+}

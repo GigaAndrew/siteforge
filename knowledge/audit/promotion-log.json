@@ -1,0 +1,98 @@
+[
+  {
+    "id": "audit_ingest_eb-metal_1785436928177",
+    "at": "2026-07-30T18:42:08.178Z",
+    "action": "ingested",
+    "actor": "system",
+    "projectSlug": "eb-metal",
+    "reason": "Ingested project knowledge slice",
+    "details": {
+      "upsertedEntities": 155,
+      "upsertedRels": 359,
+      "conflictsCreated": 18,
+      "staleMarked": 0,
+      "created": 0,
+      "blocked": 0
+    }
+  },
+  {
+    "id": "audit_ingest_eb-metal_1785437001176",
+    "at": "2026-07-30T18:43:21.176Z",
+    "action": "ingested",
+    "actor": "system",
+    "projectSlug": "eb-metal",
+    "reason": "Ingested project knowledge slice",
+    "details": {
+      "upsertedEntities": 155,
+      "upsertedRels": 359,
+      "conflictsCreated": 0,
+      "staleMarked": 0,
+      "created": 0,
+      "blocked": 0
+    }
+  },
+  {
+    "id": "audit_ingest_eb-metal_1785437016334",
+    "at": "2026-07-30T18:43:36.334Z",
+    "action": "ingested",
+    "actor": "system",
+    "projectSlug": "eb-metal",
+    "reason": "Ingested project knowledge slice",
+    "details": {
+      "upsertedEntities": 155,
+      "upsertedRels": 359,
+      "conflictsCreated": 0,
+      "staleMarked": 0,
+      "created": 0,
+      "blocked": 0
+    }
+  },
+  {
+    "id": "audit_ingest_eb-metal_1785438520680",
+    "at": "2026-07-30T19:08:40.680Z",
+    "action": "ingested",
+    "actor": "system",
+    "projectSlug": "eb-metal",
+    "reason": "Ingested project knowledge slice",
+    "details": {
+      "upsertedEntities": 147,
+      "upsertedRels": 329,
+      "conflictsCreated": 0,
+      "staleMarked": 0,
+      "created": 0,
+      "blocked": 0
+    }
+  },
+  {
+    "id": "audit_ingest_eb-metal_1785438807796",
+    "at": "2026-07-30T19:13:27.796Z",
+    "action": "ingested",
+    "actor": "system",
+    "projectSlug": "eb-metal",
+    "reason": "Ingested project knowledge slice",
+    "details": {
+      "upsertedEntities": 154,
+      "upsertedRels": 355,
+      "conflictsCreated": 0,
+      "staleMarked": 0,
+      "created": 0,
+      "blocked": 0
+    }
+  },
+  {
+    "id": "audit_ingest_eb-metal_1785439220778",
+    "at": "2026-07-30T19:20:20.778Z",
+    "action": "ingested",
+    "actor": "system",
+    "projectSlug": "eb-metal",
+    "reason": "Ingested project knowledge slice",
+    "details": {
+      "upsertedEntities": 151,
+      "upsertedRels": 352,
+      "conflictsCreated": 0,
+      "staleMarked": 0,
+      "created": 0,
+      "blocked": 0
+    }
+  }
+]

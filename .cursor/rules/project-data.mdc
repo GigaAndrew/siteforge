@@ -1,0 +1,28 @@
+---
+description: Project data paths and schema conventions under projects/
+globs: projects/**
+alwaysApply: false
+---
+
+# Project data conventions
+
+## Layout
+Each prospect: `projects/<slug>/` with subdirs `source/`, `screenshots/`, `analysis/`, `strategy/`, `design/`, `data/`, `reports/`, `qa/`, `knowledge/`.
+
+## Key files
+- `config.json` — project config (Zod: `lib/schemas/project.ts`)
+- `project-status.md` — phase, artifacts, blockers, approved gates
+- `source/*.json` — crawl corpus (pages, navigation, documents, forms, tables, images, external-tools, crawl-errors)
+- `data/*.json` — structured inventories (company, products, documents, calculators)
+- `analysis/*.md` — audits and evidence reports
+- `strategy/*.md` — UX and product strategy
+- `design/*` — art direction, tokens, copy
+
+## JSON rules
+Validate against Zod schemas in `lib/schemas/`. Include `updatedAt` timestamps. Attach `sourceUrl` and `confidence` on factual records.
+
+## Traceability
+When updating inventory JSON, preserve existing source URLs. Add open questions rather than guessing missing attributes.
+
+## Status updates
+After writing artifacts, append paths to `project-status.md` completed artifacts. Do not delete prior approved content without documented reason.

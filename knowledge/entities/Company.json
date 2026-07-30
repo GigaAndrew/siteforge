@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ent_Company_a8f4eb58069d61ce",
+    "schemaVersion": "1.0.0",
+    "type": "Company",
+    "name": "EB Metal US",
+    "normalizedKey": "eb-metal-us",
+    "properties": {
+      "websiteUrl": "https://www.ebmetal.us/",
+      "industry": "Cold-formed steel framing and building products",
+      "summary": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Home About EB Metal US EB Metal US is a full line lightweight steel framing manufacturer and fabricator with locations in Bow NH and Montgomery Alabama, serving the Eastern USA market. All our product structural property standards are computed in accordance with AISI "
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0f036f93d11c50c9",
+      "ev_4944d18c51327852"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.630Z",
+    "updatedAt": "2026-07-30T19:20:20.630Z"
+  }
+]

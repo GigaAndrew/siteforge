@@ -1,0 +1,15 @@
+---
+description: Forge Knowledge graph rules — provenance, isolation, candidate patterns
+globs: knowledge/**,lib/knowledge/**,projects/**/knowledge/**,lib/schemas/knowledge.ts
+alwaysApply: false
+---
+
+# Forge Knowledge
+
+- Keep project facts in `projects/<slug>/knowledge/` before merging to `knowledge/`.
+- Every fact/edge needs provenance (project, URL when available, confidence, epistemic class, review status).
+- Never store recommendations/inferences as confirmed facts.
+- Candidate patterns are unapproved; never call them standards/best practices.
+- ≥2 distinct projects AND companies required for candidate auto-create; conflicts block promotion.
+- Use stable IDs from `lib/knowledge/ids.ts`. Bump `KNOWLEDGE_SCHEMA_VERSION` on breaking changes.
+- Rebuilds must preserve `knowledge/audit/`. Prefer idempotent ingest + `--dry-run`.

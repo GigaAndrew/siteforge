@@ -1,0 +1,82 @@
+[
+  {
+    "id": "rel_COMPANY_OFFERS_PRODUCT_FAMILY_3517022911bd2811",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_OFFERS_PRODUCT_FAMILY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_ProductFamily_94b4a026bd1b88fe",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_01cedcab6bcd5e50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_COMPANY_OFFERS_PRODUCT_FAMILY_caac72989f7c9ba2",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_OFFERS_PRODUCT_FAMILY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_ProductFamily_f0d1eb4a46fd2989",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_92c55e9915975242"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_COMPANY_OFFERS_PRODUCT_FAMILY_9a8a39f8691d7c64",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_OFFERS_PRODUCT_FAMILY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_ProductFamily_7693e630527dc0f8",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2b34aab9cb893eab"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_COMPANY_OFFERS_PRODUCT_FAMILY_8ab6e5fba6101020",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_OFFERS_PRODUCT_FAMILY",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_ProductFamily_0fcb7e2b94738898",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_691aa8b22308328d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  }
+]

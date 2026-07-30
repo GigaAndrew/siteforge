@@ -1,0 +1,102 @@
+[
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_f143d38a87684572",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_9e36b38a46d6b5dc",
+    "toId": "ent_Technology_2818be60599d7309",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_745232581b4eec69"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_aa5253179e0119e8",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_9e36b38a46d6b5dc",
+    "toId": "ent_CMS_ed24d433a8a7b9e8",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_745232581b4eec69"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_9f94146176bfbcee",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_9e36b38a46d6b5dc",
+    "toId": "ent_Technology_66e54191b8a32a50",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_26540f69c7c0ba1c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_f7f9cbc0776f75e9",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_9e36b38a46d6b5dc",
+    "toId": "ent_Technology_d4dac93b970a646b",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f479a54adf843958"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_e3dc5294da766305",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_9e36b38a46d6b5dc",
+    "toId": "ent_Technology_f52a79d7bd4f6244",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f58a7ab3c8bf857c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  }
+]

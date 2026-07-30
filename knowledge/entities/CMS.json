@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ent_CMS_ed24d433a8a7b9e8",
+    "schemaVersion": "1.0.0",
+    "type": "CMS",
+    "name": "WordPress",
+    "normalizedKey": "wordpress",
+    "properties": {
+      "technologyId": "ent_Technology_2818be60599d7309"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_745232581b4eec69"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  }
+]

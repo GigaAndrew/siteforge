@@ -1,0 +1,26 @@
+{
+  "name": "EB Metal US",
+  "slug": "eb-metal",
+  "websiteUrl": "https://www.ebmetal.us/",
+  "approvedHosts": [
+    "ebmetal.us",
+    "www.ebmetal.us"
+  ],
+  "industry": "Cold-formed steel framing and building products",
+  "maxCrawlPages": 75,
+  "crawlDelayMs": 750,
+  "prototypeDepth": "website_plus_interactive_tools",
+  "modules": [
+    "product_catalog",
+    "product_detail",
+    "calculator",
+    "document_center",
+    "submittal_builder",
+    "distributor_locator",
+    "contact_workflow"
+  ],
+  "notes": "First SiteForge prospect / MVP test case",
+  "stage": "audit_generated",
+  "createdAt": "2026-07-30T18:21:06.365Z",
+  "updatedAt": "2026-07-30T19:20:19.742Z"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rel_PAGE_EXHIBITS_SEO_ISSUE_e3044c2c0e3b9e01",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_SEO_ISSUE",
+    "fromId": "ent_Website_9e36b38a46d6b5dc",
+    "toId": "ent_SeoIssue_deb1746f05c34d2b",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_e3fb403a4ec76ef8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

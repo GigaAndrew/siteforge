@@ -1,0 +1,18 @@
+{
+  "exportedAt": "2026-07-30T19:20:20.831Z",
+  "schemaVersion": "1.0.0",
+  "files": {
+    "entities": "entities/all.json",
+    "relationships": "relationships/all.json",
+    "evidence": "evidence/all.json",
+    "patterns": "patterns/candidates.json",
+    "index": "indexes/main.json"
+  },
+  "counts": {
+    "entities": 151,
+    "relationships": 352,
+    "evidence": 203,
+    "conflicts": 0,
+    "candidatePatterns": 0
+  }
+}

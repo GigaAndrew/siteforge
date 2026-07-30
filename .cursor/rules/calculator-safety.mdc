@@ -1,0 +1,31 @@
+---
+description: Calculator classification and engineering safety rules
+globs: "**/calculator*/**,lib/calculators/**,projects/**/data/calculator*"
+alwaysApply: false
+---
+
+# Calculator safety
+
+## Classification
+1. **Conceptual** — labeled demo data; demonstrates workflow only.
+2. **Table-driven** — verified published manufacturer data with source-document references.
+3. **Production** — manufacturer-approved data, rules, validation, test cases, technical signoff.
+
+Default to conceptual unless verified structured data exists.
+
+## Prohibitions
+- Never invent formulas or engineering values.
+- Never infer capacities without documentation.
+- Never present conceptual results as approved engineering output.
+
+## Required UX
+- Visible disclaimer on every calculator page and in results.
+- Unit validation, stated assumptions, empty/error/pass/fail states.
+- Source references on table-driven results.
+
+## Data files
+- `data/calculator-requirements.json` — inputs, outputs, classification, dependencies
+- `data/calculator-demo-data.json` — demo records with `kind: "prototype"` labels
+
+## Logic location
+Deterministic calculation code in `lib/calculators/`. Components consume data via loaders — no hardcoded engineering constants in JSX.

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ent_AccessibilityIssue_82e606025a5070f5",
+    "schemaVersion": "1.0.0",
+    "type": "AccessibilityIssue",
+    "name": "Accessibility: score 3/10",
+    "normalizedKey": "accessibility-labeled-controls-focus-states-alt-text-policy-score-3",
+    "properties": {
+      "category": "Accessibility",
+      "score": 3,
+      "evidence": "Images missing alt: 32",
+      "recommendation": "Labeled controls, focus states, alt text policy.",
+      "observationKey": "accessibility-accessibility-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_71d52f0d0480f8e1"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

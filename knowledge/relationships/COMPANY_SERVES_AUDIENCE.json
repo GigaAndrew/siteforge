@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rel_COMPANY_SERVES_AUDIENCE_323062532c0b7f7e",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_SERVES_AUDIENCE",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_Audience_7f6d3bf1e32c3268",
+    "properties": {},
+    "epistemicClass": "inference",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_61a189e805a24045"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  }
+]

@@ -1,0 +1,26 @@
+---
+description: SiteForge core accuracy, safety, and gate discipline
+alwaysApply: true
+---
+
+# SiteForge core rules
+
+## Purpose
+Audit manufacturer websites and build evidence-based interactive pitch prototypes. Not a generic AI website builder.
+
+## Evidence labeling
+Every company-specific claim must be labeled: **fact**, **observation**, **inference**, **recommendation**, or **prototype**. Facts require a source URL from the crawl corpus.
+
+## Prohibitions
+- Never invent specs, engineering values, certifications, testimonials, logos, or ROI.
+- Never bypass robots.txt, authentication, or approved domain boundaries.
+- Never overwrite gate-approved artifacts without documenting reason in `projects/<slug>/project-status.md`.
+
+## Gate discipline
+Work gates sequentially. Verify required artifacts before advancing. Update `project-status.md` with phase, completed artifacts, blockers, open questions, QA failures, required revisions, and approved gates.
+
+## Delegation
+Use specialized agents in `.cursor/agents/` for specialist work. Orchestrator handles workflow only.
+
+## Project isolation
+Prospect data lives under `projects/<slug>/`. Shared code reads via `lib/project.ts` — no hardcoded prospect strings in platform logic.

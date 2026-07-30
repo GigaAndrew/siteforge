@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ent_NavigationPattern_3b70ec4f8d719161",
+    "schemaVersion": "1.0.0",
+    "type": "NavigationPattern",
+    "name": "Products / Tools / Tables / Documents IA",
+    "normalizedKey": "navigation-products-tools-tables-documents-present",
+    "properties": {
+      "observationKey": "navigation-pattern-dept-ia-products-tools-tables-documents-present"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5153ea7164bd2e18"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.679Z",
+    "updatedAt": "2026-07-30T19:20:20.679Z"
+  }
+]

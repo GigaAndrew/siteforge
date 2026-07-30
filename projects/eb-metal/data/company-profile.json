@@ -1,0 +1,90 @@
+{
+  "projectSlug": "eb-metal",
+  "companyName": "EB Metal US",
+  "websiteUrl": "https://www.ebmetal.us/",
+  "industry": "Cold-formed steel framing and building products",
+  "summary": "Technical Support: 855-932-6382 Main Line: 603-216-1573 REQUEST A SUBMITTAL HOME PRODUCTS TOOLS LEED FORMS SUBMITTAL CONTACT SEARCH Home About EB Metal US EB Metal US is a full line lightweight steel framing manufacturer and fabricator with locations in Bow NH and Montgomery Alabama, serving the Eastern USA market. All our product structural property standards are computed in accordance with AISI (North American Specification for the Design of Cold Formed Steel Structural Members, S100-16 (2020)…",
+  "locations": [
+    {
+      "claim": "Company references a New Hampshire / Bow location in public site copy.",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "high",
+      "kind": "fact"
+    },
+    {
+      "claim": "Company references a Montgomery, Alabama location in public site copy.",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "high",
+      "kind": "fact"
+    }
+  ],
+  "offerings": [
+    {
+      "claim": "Public positioning describes a lightweight / cold-formed steel framing manufacturer and fabricator.",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "high",
+      "kind": "fact"
+    }
+  ],
+  "audiences": [
+    {
+      "claim": "Site language targets construction professionals and distribution partners (distributors listed publicly).",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "medium",
+      "kind": "inference",
+      "notes": "Audience inferred from distributor listings and industry copy; not an explicit persona statement."
+    }
+  ],
+  "standards": [
+    {
+      "claim": "Site states structural property standards are computed in accordance with AISI and CSA references.",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "high",
+      "kind": "fact"
+    }
+  ],
+  "contacts": [
+    {
+      "claim": "Phone number observed on public pages: 855-932-6382",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "medium",
+      "kind": "fact"
+    },
+    {
+      "claim": "Phone number observed on public pages: 603-216-1573",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "medium",
+      "kind": "fact"
+    },
+    {
+      "claim": "Phone number observed on public pages: 334-387-9095",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "medium",
+      "kind": "fact"
+    },
+    {
+      "claim": "Phone number observed on public pages: 678-372-2635",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "medium",
+      "kind": "fact"
+    },
+    {
+      "claim": "Email address observed on public pages: info@ebmetal.us",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "medium",
+      "kind": "fact"
+    },
+    {
+      "claim": "Email address observed on public pages: technical@ebmetal.us",
+      "sourceUrl": "https://ebmetal.us/",
+      "confidence": "medium",
+      "kind": "fact"
+    }
+  ],
+  "openQuestions": [
+    "Which product families have complete structured attribute data vs PDF-only tables?",
+    "Are limiting-height tables published as downloadable files or HTML tables?",
+    "Is NITROSTUD presented as a distinct product line with dedicated technical resources?"
+  ],
+  "updatedAt": "2026-07-30T19:20:19.713Z"
+}

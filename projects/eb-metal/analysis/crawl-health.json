@@ -1,0 +1,93 @@
+{
+  "projectSlug": "eb-metal",
+  "generatedAt": "2026-07-30T19:08:31.464Z",
+  "startUrl": "https://ebmetal.us/",
+  "preferredHost": "ebmetal.us",
+  "pagesAttempted": 64,
+  "pagesSucceeded": 51,
+  "uniqueCanonicalPages": 51,
+  "retries": 0,
+  "retrySuccesses": 0,
+  "permanentFailures": 12,
+  "robotsSkipped": 0,
+  "documentLinksSkipped": 438,
+  "downloadBlocked": 12,
+  "rateLimited": 0,
+  "timeouts": 0,
+  "encodingFailures": 43,
+  "duplicatesCollapsed": 430,
+  "skippedUrls": [],
+  "permanentFailureSamples": [
+    {
+      "url": "https://ebmetal.us/architectural-specifications-2/architectural-specifications-2",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/architectural-specifications-2/architectural-specifications-2\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/acier-plat-janvier-2015",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/acier-plat-janvier-2015\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/baguette-en-l-pour-isolant-rigide",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/baguette-en-l-pour-isolant-rigide\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/barre-en-z-trouee-janvier-2015",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/barre-en-z-trouee-janvier-2015\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/bridging-clip-janvier-2015",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/bridging-clip-janvier-2015\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/coin-de-fer-90-degre-janvier-2015",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/coin-de-fer-90-degre-janvier-2015\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015_1",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015_1\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/fourrure-porteuse-janvier-2015\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/fourrure-porteuse-g90",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/fourrure-porteuse-g90\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/joint-de-controle-093",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/joint-de-controle-093\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/accessories/sabliere-trouee-janvier-2015",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/accessories/sabliere-trouee-janvier-2015\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    },
+    {
+      "url": "https://ebmetal.us/msds/sds-vertical",
+      "error": "page.goto: Download is starting\nCall log:\n  - navigating to \"https://ebmetal.us/msds/sds-vertical\", waiting until \"domcontentloaded\"\n",
+      "kind": "download"
+    }
+  ],
+  "notes": [
+    "Sprint 2 crawler: canonical host collapse, retries, encoding normalize log"
+  ],
+  "encodingFailuresLive": 0,
+  "encodingSalvagesLive": 0,
+  "encodingOkLive": 51,
+  "postRepairNotes": [
+    "encodingFailures from original crawl may be stale after repair-page-text",
+    "live page text ok 51/51"
+  ],
+  "refreshedAt": "2026-07-30T19:21:20.176Z"
+}

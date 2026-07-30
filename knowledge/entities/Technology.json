@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ent_Technology_2818be60599d7309",
+    "schemaVersion": "1.0.0",
+    "type": "Technology",
+    "name": "WordPress",
+    "normalizedKey": "wordpress",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_745232581b4eec69"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "ent_Technology_66e54191b8a32a50",
+    "schemaVersion": "1.0.0",
+    "type": "Technology",
+    "name": "Yoast SEO",
+    "normalizedKey": "yoast-seo",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_26540f69c7c0ba1c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "ent_Technology_d4dac93b970a646b",
+    "schemaVersion": "1.0.0",
+    "type": "Technology",
+    "name": "Google Fonts/CDN",
+    "normalizedKey": "google-fonts-cdn",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f479a54adf843958"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "ent_Technology_f52a79d7bd4f6244",
+    "schemaVersion": "1.0.0",
+    "type": "Technology",
+    "name": "Google Tag Manager/Analytics",
+    "normalizedKey": "google-tag-manager-analytics",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f58a7ab3c8bf857c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.675Z",
+    "updatedAt": "2026-07-30T19:20:20.675Z"
+  }
+]

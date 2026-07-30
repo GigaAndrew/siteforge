@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rel_COMPANY_HAS_PROCESS_ISSUE_63f82c69817594ef",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_PROCESS_ISSUE",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_ProcessIssue_5ed51aae563eaebd",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f82c2eb579427c34"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.676Z",
+    "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_PROCESS_ISSUE_2e3a5fe20525695d",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_PROCESS_ISSUE",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_ProcessIssue_fddb9cc58e34ee08",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_PROCESS_ISSUE_064aed8a2b058997",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_PROCESS_ISSUE",
+    "fromId": "ent_Company_a8f4eb58069d61ce",
+    "toId": "ent_ProcessIssue_70f4c3b8ea876530",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5f915825a3198bba"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.677Z",
+    "updatedAt": "2026-07-30T19:20:20.677Z"
+  }
+]

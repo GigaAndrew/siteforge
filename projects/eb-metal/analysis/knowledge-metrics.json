@@ -1,0 +1,17 @@
+{
+  "projectSlug": "eb-metal",
+  "generatedAt": "2026-07-30T19:21:20.183Z",
+  "evidenceCompleteness": 1,
+  "entityCoverage": {
+    "typesPresent": 19,
+    "entities": 151
+  },
+  "relationshipDensity": 2.3311258278145695,
+  "averageConfidence": 0.7724137931034484,
+  "averageReliability": 0.7560098522167484,
+  "normalizationQuality": 1,
+  "duplicateRate": 0.039735099337748346,
+  "extractionSuccess": 1,
+  "canonicalizationSuccess": 0.796875,
+  "brokenSourceRate": 0.1875
+}

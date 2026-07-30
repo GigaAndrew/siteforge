@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ent_Industry_70ec175cbe33aa88",
+    "schemaVersion": "1.0.0",
+    "type": "Industry",
+    "name": "Cold-formed steel framing and building products",
+    "normalizedKey": "cold-formed-steel-framing-and-building-products",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0f036f93d11c50c9"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.631Z",
+    "updatedAt": "2026-07-30T19:20:20.631Z"
+  }
+]

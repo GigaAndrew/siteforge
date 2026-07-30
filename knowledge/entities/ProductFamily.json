@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ent_ProductFamily_94b4a026bd1b88fe",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "framing",
+    "normalizedKey": "framing",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_01cedcab6bcd5e50"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "ent_ProductFamily_f0d1eb4a46fd2989",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "nitrostud",
+    "normalizedKey": "nitrostud",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_92c55e9915975242"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "ent_ProductFamily_7693e630527dc0f8",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "stud",
+    "normalizedKey": "stud",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_2b34aab9cb893eab"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "ent_ProductFamily_0fcb7e2b94738898",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "header",
+    "normalizedKey": "header",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_691aa8b22308328d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T19:20:20.634Z",
+    "updatedAt": "2026-07-30T19:20:20.634Z"
+  }
+]

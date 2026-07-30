@@ -1,0 +1,250 @@
+{
+  "projectSlug": "eb-metal",
+  "categories": [
+    {
+      "category": "Positioning",
+      "score": 6,
+      "evidence": "Homepage states manufacturer/fabricator positioning and market geography.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Users understand category quickly but task paths are secondary.",
+      "businessImpact": "Brand clarity exists; conversion tooling is underdeveloped.",
+      "recommendation": "Lead with product discovery and engineering task CTAs.",
+      "prototypeResponse": "Task-led homepage with product, calculator, submittal entry points.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Visual design",
+      "score": 4,
+      "evidence": "Public WordPress Velvet theme presentation; dated industrial brochure pattern.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Lower perceived modernity vs contemporary manufacturer sites.",
+      "businessImpact": "Credibility gap in competitive pitches.",
+      "recommendation": "Original industrial art direction, not theme restyle.",
+      "prototypeResponse": "Gate 4–5 design system.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Brand credibility",
+      "score": 6,
+      "evidence": "Standards references (AISI/CSA) and distributor network listed publicly.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Technical buyers see some trust signals.",
+      "businessImpact": "Trust present but fragmented across long homepage content.",
+      "recommendation": "Elevate standards, locations, and technical resources without inventing awards.",
+      "prototypeResponse": "Sourced trust strip + resource pathways.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Navigation",
+      "score": 5,
+      "evidence": "Products/Tools/Tables/Documents menu taxonomy observed.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Department-like IA may slow task completion.",
+      "businessImpact": "Support load increases when users cannot self-serve.",
+      "recommendation": "Task-based IA: Products, Engineering, Resources, Distributors, Contact.",
+      "prototypeResponse": "Proposed sitemap in strategy.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Product discovery",
+      "score": 4,
+      "evidence": "Product-related pages in crawl: 42",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Hard to filter by application/depth/thickness.",
+      "businessImpact": "Missed qualified engagement.",
+      "recommendation": "Structured catalog with filters.",
+      "prototypeResponse": "Products catalog module (Gate 6).",
+      "confidence": "medium"
+    },
+    {
+      "category": "Product detail",
+      "score": 4,
+      "evidence": "Product pages present but attributes largely unstructured in HTML extraction.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Engineers bounce to PDFs.",
+      "businessImpact": "PDF dependency slows specification cycles.",
+      "recommendation": "Structured attributes + related docs/tools.",
+      "prototypeResponse": "NITROSTUD detail prototype.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Technical-resource discovery",
+      "score": 5,
+      "evidence": "Tables observed: 90; document links: 1515",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Resources exist but discovery is menu-dependent.",
+      "businessImpact": "Repetitive sales engineering inquiries.",
+      "recommendation": "Unified document center with filters.",
+      "prototypeResponse": "Resources center.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Document management",
+      "score": 3,
+      "evidence": "Document inventory lacks consistent revision metadata in crawl.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Uncertainty about current vs outdated files.",
+      "businessImpact": "Risk of specifying superseded docs.",
+      "recommendation": "Revision dates + current/archived status.",
+      "prototypeResponse": "Document rows with status fields (unknown when missing).",
+      "confidence": "medium"
+    },
+    {
+      "category": "Calculators",
+      "score": 2,
+      "evidence": "No clear first-class limiting-height calculator UX dominant in crawl labels.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Manual PDF table lookup.",
+      "businessImpact": "High-friction technical qualification.",
+      "recommendation": "Conceptual calculator first; table-driven later with verified data.",
+      "prototypeResponse": "Limiting-height calculator (conceptual).",
+      "confidence": "low"
+    },
+    {
+      "category": "Submittal workflow",
+      "score": 2,
+      "evidence": "Submittal/spec language sparse; no integrated package builder observed.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Manual assembly of PDFs.",
+      "businessImpact": "Longer sales cycles.",
+      "recommendation": "Persistent submittal builder.",
+      "prototypeResponse": "Submittal drawer/sheet.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Distributor workflow",
+      "score": 6,
+      "evidence": "Extensive public distributor listings by state on homepage/content.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Useful but long static lists.",
+      "businessImpact": "Good coverage; weak findability by ZIP.",
+      "recommendation": "Searchable locator with sales fallback.",
+      "prototypeResponse": "Distributor locator concept.",
+      "confidence": "high"
+    },
+    {
+      "category": "Contact and support",
+      "score": 5,
+      "evidence": "Forms observed: 90",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Generic contact/download forms may lack routing.",
+      "businessImpact": "Lead quality variance.",
+      "recommendation": "Intent-based contact + technical support pathways.",
+      "prototypeResponse": "Contact workflow page.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Mobile usability",
+      "score": 4,
+      "evidence": "Theme includes mobile viewport meta; dense homepage content likely stressful on small screens.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Field users struggle with long pages/tables.",
+      "businessImpact": "Missed mobile self-service.",
+      "recommendation": "Mobile-first tables/filters patterns.",
+      "prototypeResponse": "Responsive design-system patterns.",
+      "confidence": "low"
+    },
+    {
+      "category": "Accessibility",
+      "score": 3,
+      "evidence": "Images missing alt: 32",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Screen reader gaps.",
+      "businessImpact": "Compliance and inclusion risk.",
+      "recommendation": "Labeled controls, focus states, alt text policy.",
+      "prototypeResponse": "Accessible component system.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Performance",
+      "score": 4,
+      "evidence": "CMS theme + third-party assets; Lighthouse pending.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Potential slow first load.",
+      "businessImpact": "SEO and bounce impact.",
+      "recommendation": "Image optimization and script hygiene.",
+      "prototypeResponse": "Lean prototype; production perf backlog.",
+      "confidence": "low"
+    },
+    {
+      "category": "SEO",
+      "score": 5,
+      "evidence": "Meta description coverage 0/51; Yoast indicators present.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Mixed SERP snippet quality.",
+      "businessImpact": "Uneven organic discovery.",
+      "recommendation": "Consistent titles/descriptions per template.",
+      "prototypeResponse": "Template-level metadata model.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Content quality",
+      "score": 5,
+      "evidence": "Technically oriented copy present; long undifferentiated blocks on homepage.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Hard to scan for tasks.",
+      "businessImpact": "Message dilution.",
+      "recommendation": "Editorial hierarchy tied to tasks.",
+      "prototypeResponse": "prototype-copy.md",
+      "confidence": "medium"
+    },
+    {
+      "category": "Content freshness",
+      "score": 4,
+      "evidence": "Revision metadata largely unknown in document inventory.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Uncertainty.",
+      "businessImpact": "Trust erosion if stale PDFs persist.",
+      "recommendation": "Publish revision dates.",
+      "prototypeResponse": "Status unknown labels when missing.",
+      "confidence": "low"
+    },
+    {
+      "category": "Conversion",
+      "score": 4,
+      "evidence": "Download form CTAs observed; weak product-to-lead progressive paths.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Friction before value.",
+      "businessImpact": "Lower qualified conversion.",
+      "recommendation": "Task completion before form gates where possible.",
+      "prototypeResponse": "Tools before gated brochure asks.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Process efficiency",
+      "score": 3,
+      "evidence": "PDF-heavy and list-heavy workflows dominate public experience.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Manual steps.",
+      "businessImpact": "Internal repetitive support.",
+      "recommendation": "Process-improvement map modules.",
+      "prototypeResponse": "Catalog + calculator + submittal.",
+      "confidence": "medium"
+    },
+    {
+      "category": "AI readiness",
+      "score": 2,
+      "evidence": "No structured product graph or document metadata layer evident for retrieval.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "No assisted search.",
+      "businessImpact": "Future AI features blocked without data model.",
+      "recommendation": "Structure products/docs first.",
+      "prototypeResponse": "Data schemas + search-ready inventories.",
+      "confidence": "medium"
+    },
+    {
+      "category": "Overall digital maturity",
+      "score": 4,
+      "evidence": "Average of category scores; brochure-site maturity with strong distributor content and weak interactive tooling.",
+      "sourceUrl": "https://ebmetal.us/",
+      "userImpact": "Informational but not operational.",
+      "businessImpact": "Opportunity for platform differentiation.",
+      "recommendation": "Phased digital product roadmap.",
+      "prototypeResponse": "Full SiteForge prototype path.",
+      "confidence": "medium"
+    }
+  ],
+  "overallScore": 4.1,
+  "overallRationale": "Weighted qualitative assessment from crawl evidence; not a lab benchmark. Scores include confidence tags.",
+  "updatedAt": "2026-07-30T19:20:19.736Z"
+}
