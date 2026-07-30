@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "eb-metal",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "status": "completed",
+  "approvalMode": "mixed",
+  "goal": "Produce a consulting-quality digital transformation assessment, interactive prototype, and executive pitch.",
+  "currentNodeId": null,
+  "activeLoops": [
+    "evidence",
+    "learning"
+  ],
+  "loopIterations": {},
+  "pauseReason": null,
+  "lastPlannerRationale": "All execution nodes passed or skipped",
+  "lastDecisionAt": "2026-07-30T19:57:47.468Z",
+  "createdAt": "2026-07-30T19:57:37.260Z",
+  "updatedAt": "2026-07-30T19:57:47.469Z"
+}

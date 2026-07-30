@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.0.0",
+  "kind": "thin_pitch",
+  "projectSlug": "eb-metal",
+  "company": "EB Metal US",
+  "industry": "Cold-formed steel framing and building products",
+  "websiteUrl": "https://www.ebmetal.us/",
+  "generatedAt": "2026-07-30T19:45:56.822Z",
+  "digitalMaturityScore": 4.1,
+  "recommendations": [
+    {
+      "id": "ent_DigitalOpportunity_ec79f7aab71ef317",
+      "name": "Gate 4–5 design system.",
+      "summary": "Gate 4–5 design system.",
+      "evidenceIds": [
+        "ev_72cbdc8946f5cc06"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_0b4cf41de70cd202",
+      "name": "Proposed sitemap in strategy.",
+      "summary": "Proposed sitemap in strategy.",
+      "evidenceIds": [
+        "ev_b6d9b1c2c1dc58f9"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_5fac2f0b42ace8fc",
+      "name": "Products catalog module (Gate 6).",
+      "summary": "Products catalog module (Gate 6).",
+      "evidenceIds": [
+        "ev_d2bb073a8665043c"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_b3b9d43d7b36e39c",
+      "name": "NITROSTUD detail prototype.",
+      "summary": "NITROSTUD detail prototype.",
+      "evidenceIds": [
+        "ev_068ffc7a7a33804e"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_37385e33d827258d",
+      "name": "Resources center.",
+      "summary": "Resources center.",
+      "evidenceIds": [
+        "ev_1663aabad85b17ae"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_bd06c7d92f51edd2",
+      "name": "Document rows with status fields (unknown when missing).",
+      "summary": "Document rows with status fields (unknown when missing).",
+      "evidenceIds": [
+        "ev_8cc9ff706ef27c82"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_96cbd31b8980774d",
+      "name": "Limiting-height calculator (conceptual).",
+      "summary": "Limiting-height calculator (conceptual).",
+      "evidenceIds": [
+        "ev_f82c2eb579427c34"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_4a6ab9807ac9cadd",
+      "name": "Submittal drawer/sheet.",
+      "summary": "Submittal drawer/sheet.",
+      "evidenceIds": [
+        "ev_2ceb8a20fc0fea8d"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_1b14bbf6aaa88938",
+      "name": "Contact workflow page.",
+      "summary": "Contact workflow page.",
+      "evidenceIds": [
+        "ev_1ebae1c4815b509a"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_11083bb46d5ab7a6",
+      "name": "Responsive design-system patterns.",
+      "summary": "Responsive design-system patterns.",
+      "evidenceIds": [
+        "ev_a0fad283cd197a7b"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_9135da6ca92f9595",
+      "name": "Accessible component system.",
+      "summary": "Accessible component system.",
+      "evidenceIds": [
+        "ev_71d52f0d0480f8e1"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_8bdabda9d95482d8",
+      "name": "Lean prototype; production perf backlog.",
+      "summary": "Lean prototype; production perf backlog.",
+      "evidenceIds": [
+        "ev_9575e05d95f80cab"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_8565c1980145cf28",
+      "name": "Template-level metadata model.",
+      "summary": "Template-level metadata model.",
+      "evidenceIds": [
+        "ev_e3fb403a4ec76ef8"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_5359f7ed8f4afbb1",
+      "name": "prototype-copy.md",
+      "summary": "prototype-copy.md",
+      "evidenceIds": [
+        "ev_61dc7ec44891b591"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_0993054393bd5c7d",
+      "name": "Status unknown labels when missing.",
+      "summary": "Status unknown labels when missing.",
+      "evidenceIds": [
+        "ev_b513ed4ae5b828d2"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_5fa62a8fd20cf6f5",
+      "name": "Tools before gated brochure asks.",
+      "summary": "Tools before gated brochure asks.",
+      "evidenceIds": [
+        "ev_4329f54fc70874d6"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_68fcb1ea79f08e9d",
+      "name": "Catalog + calculator + submittal.",
+      "summary": "Catalog + calculator + submittal.",
+      "evidenceIds": [
+        "ev_5f915825a3198bba"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_d71ac7a8e81919be",
+      "name": "Data schemas + search-ready inventories.",
+      "summary": "Data schemas + search-ready inventories.",
+      "evidenceIds": [
+        "ev_72260d6f05055a07"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_DigitalOpportunity_7e78c1dc918cf633",
+      "name": "Full SiteForge prototype path.",
+      "summary": "Full SiteForge prototype path.",
+      "evidenceIds": [
+        "ev_bde5d1021d76ec5c"
+      ],
+      "confidence": "recommendation"
+    },
+    {
+      "id": "ent_Calculator_e4cb4514d39b6e8b",
+      "name": "Limiting height calculator",
+      "summary": "Limiting height calculator",
+      "evidenceIds": [
+        "ev_24a1727f892d6c77"
+      ],
+      "confidence": "recommendation"
+    }
+  ],
+  "confidenceCap": 0.7,
+  "notes": "Thin runtime pitch package for Sprint 3. Sufficient for gates and demo; not polished sales collateral."
+}

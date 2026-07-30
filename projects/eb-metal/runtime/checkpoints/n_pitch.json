@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 25,
+  "savedAt": "2026-07-30T19:57:44.542Z",
+  "node": {
+    "id": "n_pitch",
+    "type": "Pitch",
+    "capability": "pitch.generate",
+    "inputs": {},
+    "outputs": [
+      "reports/pitch/executive-pitch.md"
+    ],
+    "dependencies": [
+      "n_prototype_approve",
+      "n_reliability"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.7,
+    "startedAt": "2026-07-30T19:57:44.534Z",
+    "completedAt": "2026-07-30T19:57:44.539Z",
+    "runtimeMs": 0,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": null,
+    "approvalKey": null,
+    "lastError": null
+  }
+}

@@ -1,6 +1,6 @@
 # Knowledge quality report — eb-metal
 
-Generated: 2026-07-30T19:21:20.159Z  
+Generated: 2026-07-30T19:57:47.210Z  
 Schema version: 1.0.0
 
 ## Totals

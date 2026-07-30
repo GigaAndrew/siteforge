@@ -36,6 +36,9 @@ export default async function ProjectDetailPage({ params }: Props) {
       </p>
 
       <div className="mt-6 flex flex-wrap gap-2 text-sm">
+        <Link href={`/runtime/${projectSlug}`} className="rounded border border-zinc-300 px-3 py-1.5">
+          Runtime dashboard
+        </Link>
         <Link href={`/prototype/${projectSlug}`} className="rounded border border-zinc-300 px-3 py-1.5">
           Prototype hub
         </Link>

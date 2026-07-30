@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 13,
+  "savedAt": "2026-07-30T19:57:38.729Z",
+  "node": {
+    "id": "n_strategy",
+    "type": "Strategy",
+    "capability": "strategy.generate",
+    "inputs": {},
+    "outputs": [
+      "design/design-tokens.json",
+      "strategy/ux-strategy.md"
+    ],
+    "dependencies": [
+      "n_audit_tech",
+      "n_audit_a11y",
+      "n_audit_seo",
+      "n_audit_perf",
+      "n_audit_ux",
+      "n_knowledge"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:38.723Z",
+    "completedAt": "2026-07-30T19:57:38.726Z",
+    "runtimeMs": 0,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": "strategy",
+    "approvalKey": null,
+    "lastError": null
+  }
+}

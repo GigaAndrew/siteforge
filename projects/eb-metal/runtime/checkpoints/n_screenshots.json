@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 9,
+  "savedAt": "2026-07-30T19:57:38.609Z",
+  "node": {
+    "id": "n_screenshots",
+    "type": "Screenshots",
+    "capability": "screenshots.capture",
+    "inputs": {},
+    "outputs": [
+      "screenshots/manifest.json"
+    ],
+    "dependencies": [
+      "n_crawl"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:38.604Z",
+    "completedAt": "2026-07-30T19:57:38.607Z",
+    "runtimeMs": 0,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": null,
+    "approvalKey": null,
+    "lastError": null
+  }
+}

@@ -104,8 +104,10 @@ function upsertImprovement(item: {
   fs.writeFileSync(indexPath, `${JSON.stringify(reg, null, 2)}\n`, "utf8");
 }
 
-async function main() {
-  const slug = arg("--slug") ?? "eb-metal";
+export async function runPlatformReports(slug: string): Promise<{
+  overallConfidence: number;
+}> {
+  // slug provided by caller
   const config = readProjectConfig(slug);
   const store = loadStore();
   const insp = inspectKnowledge({ slug });
@@ -570,6 +572,12 @@ Generated: ${new Date().toISOString()}
   });
 
   console.log(`Overall confidence ~ ${(overall * 100).toFixed(0)}%`);
+  return { overallConfidence: overall };
+}
+
+async function main() {
+  const slug = arg("--slug") ?? "eb-metal";
+  await runPlatformReports(slug);
 }
 
 function writeJsonMetrics(slug: string, metrics: Record<string, unknown>) {

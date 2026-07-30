@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 4,
+  "savedAt": "2026-07-30T19:57:38.369Z",
+  "node": {
+    "id": "n_extract",
+    "type": "Extraction",
+    "capability": "extraction.repair",
+    "inputs": {},
+    "outputs": [
+      "source/pages.json",
+      "source/text-normalize-log.json"
+    ],
+    "dependencies": [
+      "n_crawl"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:38.357Z",
+    "completedAt": "2026-07-30T19:57:38.366Z",
+    "runtimeMs": 5,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": "evidence",
+    "approvalKey": null,
+    "lastError": null
+  }
+}

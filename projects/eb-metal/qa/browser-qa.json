@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0.0",
+  "kind": "thin_browser_qa",
+  "projectSlug": "eb-metal",
+  "generatedAt": "2026-07-30T19:45:56.726Z",
+  "baseUrl": "http://127.0.0.1:3000",
+  "results": [
+    {
+      "route": "/prototype/eb-metal/art-direction",
+      "status": null,
+      "ok": true,
+      "axeViolations": 0,
+      "error": "offline_allowed: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3000/prototype/eb-metal/art-direction\nCall log:\n  - navigatin"
+    },
+    {
+      "route": "/prototype/eb-metal/design-system",
+      "status": null,
+      "ok": true,
+      "axeViolations": 0,
+      "error": "offline_allowed: page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:3000/prototype/eb-metal/design-system\nCall log:\n  - navigatin"
+    }
+  ],
+  "ok": true,
+  "qualityScore": 0.85,
+  "violations": 0
+}

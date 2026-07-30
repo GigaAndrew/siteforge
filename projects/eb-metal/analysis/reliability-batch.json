@@ -1,0 +1,379 @@
+{
+  "generatedAt": "2026-07-30T19:45:32.910Z",
+  "average": 0.7968627450980392,
+  "defaults": {
+    "engineering_calculation": 1,
+    "engineering_table_pdf": 0.98,
+    "technical_product_sheet": 0.95,
+    "product_catalog": 0.92,
+    "cad_bim_resource": 0.9,
+    "installation_guide": 0.9,
+    "product_page": 0.85,
+    "downloads_page": 0.8,
+    "support_article": 0.75,
+    "blog": 0.65,
+    "homepage": 0.6,
+    "marketing_landing_page": 0.5,
+    "meta_tags": 0.25,
+    "unknown": 0.55
+  },
+  "rows": [
+    {
+      "url": "https://ebmetal.us/",
+      "sourceClass": "homepage",
+      "reliabilityScore": 0.6,
+      "rationale": "Site homepage",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/eb-metal-golf-outing-2024",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/catalog",
+      "sourceClass": "product_catalog",
+      "reliabilityScore": 0.92,
+      "rationale": "Product catalog signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/material-safety-data-sheet",
+      "sourceClass": "technical_product_sheet",
+      "reliabilityScore": 0.95,
+      "rationale": "Technical product sheet signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/ul-test-results",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/accessories",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/home",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/information-generale-des-produits",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/interior-framing-3",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/interior-framing-2-2",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/shaft-wall-systems-2",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/shaft-wall-systems",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/architectural-specifications-2",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/architectural-specifications",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/fasteners-screws-and-welds",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/typical-wall-and-ceiling-details",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/hat-furring-channel-ceiling-spans",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/u-channel-ceiling-spans",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/brochures",
+      "sourceClass": "product_catalog",
+      "reliabilityScore": 0.92,
+      "rationale": "Product catalog signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/accessories-2",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/leeds-forms-2",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/leeds-form-nh",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/msds",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/leeds-form-al",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/axial-and-lateral-load",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/ceiling-span-tables",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/exterior-framing-2",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/general-product-information",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/interior-framing",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/header-load",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/web-crippling-load-tables",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/floor-joist-span-tables",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/nitrostud",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/exterior-framing",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/eb-golf-outing-sponsorship",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/eb-golf-outing-registration",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/contact-us",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2016/01/BARRE-RE%CC%81SILIENTE-JANVIER-2015.pdf",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2016/01/FOURRURE-ME%CC%81TALLIQUE-JANVIER-2015.pdf",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2016/01/FOURRURE-ME%CC%81TALLIQUE-1-PATTE-JANVIER-2015.pdf",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2016/01/eb.jpg",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2023/06/example.webp",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2023/06/Web-Crippling-Conditions-diagram.png",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2023/06/Web-Crippling-Conditions-diagram.webp",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2024/07/GolfBallWithEB.png",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2024/07/GolfingGuy.jpg",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2024/07/GolfOutingBanner-1.jpg",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2024/07/GolfOutingBanner-2.jpg",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/wp-content/uploads/2024/07/GolfOutingShareBanner.jpg",
+      "sourceClass": "unknown",
+      "reliabilityScore": 0.55,
+      "rationale": "Default unknown source class",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/category/uncategorized",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    },
+    {
+      "url": "https://ebmetal.us/author/suzanne",
+      "sourceClass": "product_page",
+      "reliabilityScore": 0.85,
+      "rationale": "Product page signals",
+      "overridesApplied": false
+    }
+  ]
+}

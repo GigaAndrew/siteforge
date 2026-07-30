@@ -1,0 +1,12 @@
+{
+  "maxWallClockMs": 2700000,
+  "maxInvocations": 80,
+  "maxRetriesPerNode": 2,
+  "maxTokens": 0,
+  "maxPlaywrightLaunches": 40,
+  "wallClockMsUsed": 10167,
+  "invocationsUsed": 20,
+  "tokensUsed": 0,
+  "playwrightLaunchesUsed": 4,
+  "startedAt": "2026-07-30T19:57:37.270Z"
+}
