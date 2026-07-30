@@ -51,6 +51,15 @@ Commands:
   normalization-confirm  --slug <project> --mapping <id> --concept <id>
   compare                --slugs a,b
   seed-peer              Seed second-manufacturer fixture + normalize
+  benchmark-list
+  benchmark-inspect      --benchmark <id>
+  benchmark-run          --slug <p> | --slugs a,b [--benchmark <id>] [--dry-run] [--rebuild]
+  benchmark-rebuild      --slug <p> | --slugs a,b [--benchmark <id>]
+  benchmark-status       --slug <project>
+  benchmark-report       --slug <project>
+  benchmark-compare      --slugs a,b
+  benchmark-approve      --key <approvalKey> [--benchmark <id>]
+  benchmark-seed
 
 Options:
   --slug <slug>
@@ -74,6 +83,18 @@ const NORMALIZATION_COMMANDS = new Set([
   "seed-peer",
 ]);
 
+const BENCHMARK_COMMANDS = new Set([
+  "benchmark-list",
+  "benchmark-inspect",
+  "benchmark-run",
+  "benchmark-rebuild",
+  "benchmark-status",
+  "benchmark-report",
+  "benchmark-compare",
+  "benchmark-approve",
+  "benchmark-seed",
+]);
+
 async function main() {
   const command = process.argv[2];
   if (!command || command.startsWith("--")) usage();
@@ -83,6 +104,12 @@ async function main() {
       "@/scripts/normalize-knowledge"
     );
     await runNormalizationCommand(command);
+    return;
+  }
+
+  if (BENCHMARK_COMMANDS.has(command)) {
+    const { runBenchmarkCommand } = await import("@/scripts/benchmark");
+    await runBenchmarkCommand(command);
     return;
   }
 

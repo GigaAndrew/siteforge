@@ -1,0 +1,466 @@
+[
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_document-center",
+    "label": "Document Center",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_document-center",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_engineering-calculator",
+    "label": "Engineering Calculator",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_engineering-calculator",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.95,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.050000000000000044,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_product-selector",
+    "label": "Product Selector",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_product-selector",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_submittal-workflow",
+    "label": "Submittal Workflow",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_technical-resources",
+    "label": "Technical Resources",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_technical-resources",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_product-catalog",
+    "label": "Product Catalog",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_product-catalog",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.9,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.09999999999999998,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_product-data-sheet",
+    "label": "Product Data Sheet",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_product-data-sheet",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.85,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.15000000000000002,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_installation-guide",
+    "label": "Installation Guide",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_installation-guide",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_specification",
+    "label": "Specification",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_specification",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_cad-bim-resource",
+    "label": "CAD/BIM Resource",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_cad-bim-resource",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_code-report",
+    "label": "Code Report",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_code-report",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_engineering-table",
+    "label": "Engineering Table",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_engineering-table",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_limiting-height-tool",
+    "label": "Limiting Height Tool",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_limiting-height-tool",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_product-family",
+    "label": "Product Family",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_product-family",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_product-detail",
+    "label": "Product Detail",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_product-detail",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_contact-rep-locator",
+    "label": "Contact / Rep Locator",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_contact-rep-locator",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_search-experience",
+    "label": "Search Experience",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_search-experience",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_navigation-pattern",
+    "label": "Navigation Pattern",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_navigation-pattern",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_download-workflow",
+    "label": "Download Workflow",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_download-workflow",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:eb-metal:canon_calculator-opportunity",
+    "label": "Calculator Opportunity",
+    "projectSlug": "eb-metal",
+    "canonicalConceptId": "canon_calculator-opportunity",
+    "rawScore": 25,
+    "weightedScore": 25,
+    "confidence": 0.85,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.15000000000000002,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.25 → raw=25"
+    ]
+  }
+]

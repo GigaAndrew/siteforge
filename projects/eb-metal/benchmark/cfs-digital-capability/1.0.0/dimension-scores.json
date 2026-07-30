@@ -1,0 +1,250 @@
+[
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:capability_presence",
+    "label": "Capability Presence",
+    "projectSlug": "eb-metal",
+    "dimensionId": "capability_presence",
+    "rawScore": 66.66666666666666,
+    "weightedScore": 13.333333333333332,
+    "confidence": 0.5749999999999998,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.42500000000000016,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.6667 → raw=66.67",
+      "weight=0.2 → weighted=13.33"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:discoverability",
+    "label": "Discoverability",
+    "projectSlug": "eb-metal",
+    "dimensionId": "discoverability",
+    "rawScore": 70,
+    "weightedScore": 7,
+    "confidence": 0.7225,
+    "evidenceCoverage": 0.75,
+    "completeness": 0.75,
+    "uncertainty": 0.27749999999999997,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.7000 → raw=70.00",
+      "weight=0.1 → weighted=7.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:information_completeness",
+    "label": "Information Completeness",
+    "projectSlug": "eb-metal",
+    "dimensionId": "information_completeness",
+    "rawScore": 70,
+    "weightedScore": 7,
+    "confidence": 0.59,
+    "evidenceCoverage": 0.5,
+    "completeness": 0.5,
+    "uncertainty": 0.41000000000000003,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.7000 → raw=70.00",
+      "weight=0.1 → weighted=7.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:technical_depth",
+    "label": "Technical Depth",
+    "projectSlug": "eb-metal",
+    "dimensionId": "technical_depth",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "insufficient_known_observations"
+    ],
+    "caveats": [
+      "Dimension lacks known observations — score suppressed (unknown ≠ absent)"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "no scorable values; unknowns present"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:workflow_support",
+    "label": "Workflow Support",
+    "projectSlug": "eb-metal",
+    "dimensionId": "workflow_support",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 5.500000000000001,
+    "confidence": 0.6633333333333332,
+    "evidenceCoverage": 0.6666666666666666,
+    "completeness": 0.6666666666666666,
+    "uncertainty": 0.3366666666666668,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.5500 → raw=55.00",
+      "weight=0.1 → weighted=5.50"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:document_accessibility",
+    "label": "Document Accessibility",
+    "projectSlug": "eb-metal",
+    "dimensionId": "document_accessibility",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 4.4,
+    "confidence": 0.585,
+    "evidenceCoverage": 0.5,
+    "completeness": 0.5,
+    "uncertainty": 0.41500000000000004,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.5500 → raw=55.00",
+      "weight=0.08 → weighted=4.40"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:product_navigation",
+    "label": "Product Navigation",
+    "projectSlug": "eb-metal",
+    "dimensionId": "product_navigation",
+    "rawScore": 77.5,
+    "weightedScore": 5.425000000000001,
+    "confidence": 0.605,
+    "evidenceCoverage": 0.5,
+    "completeness": 0.5,
+    "uncertainty": 0.395,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.7750 → raw=77.50",
+      "weight=0.07 → weighted=5.43"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:engineering_utility",
+    "label": "Engineering Utility",
+    "projectSlug": "eb-metal",
+    "dimensionId": "engineering_utility",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.625,
+    "evidenceCoverage": 0.5,
+    "completeness": 0.5,
+    "uncertainty": 0.375,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "engineering_utility uses tool concepts n=1",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:evidence_quality",
+    "label": "Evidence Quality",
+    "projectSlug": "eb-metal",
+    "dimensionId": "evidence_quality",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.5749999999999998,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.42500000000000016,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "evidence_quality good=9/9",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:evidence_recency",
+    "label": "Evidence Recency",
+    "projectSlug": "eb-metal",
+    "dimensionId": "evidence_recency",
+    "rawScore": 95,
+    "weightedScore": 2.85,
+    "confidence": 0.5749999999999998,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.42500000000000016,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.9500 → raw=95.00",
+      "weight=0.03 → weighted=2.85"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:eb-metal:cross_channel_consistency",
+    "label": "Cross-Channel Consistency",
+    "projectSlug": "eb-metal",
+    "dimensionId": "cross_channel_consistency",
+    "rawScore": 100,
+    "weightedScore": 2,
+    "confidence": 0.5749999999999998,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.42500000000000016,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "consistency bad=0/20",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.02 → weighted=2.00"
+    ]
+  }
+]

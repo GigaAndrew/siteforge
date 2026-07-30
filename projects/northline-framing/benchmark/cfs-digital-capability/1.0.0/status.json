@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "northline-framing",
+  "companyName": "Northline Framing",
+  "benchmarkId": "cfs-digital-capability",
+  "benchmarkVersion": "1.0.0",
+  "generatedAt": "2026-07-30T21:02:50.196Z",
+  "dryRun": false,
+  "syntheticFixture": true,
+  "observationCount": 108,
+  "presentCount": 23,
+  "absentCount": 0,
+  "partialCount": 5,
+  "unknownCount": 80,
+  "ambiguousCount": 0,
+  "conflictCount": 0,
+  "conceptScoreCount": 20,
+  "dimensionScoreCount": 11,
+  "overallEligible": false,
+  "overallRawScore": null,
+  "overallWeightedScore": null,
+  "overallConfidence": 0.462,
+  "evidenceCoverage": 0.29090909090909095,
+  "recommendationCount": 17,
+  "caveats": [
+    "Evidence coverage 0.29 below threshold — overall suppressed to avoid false precision",
+    "Candidate patterns excluded from benchmark criteria (remain unapproved)",
+    "SYNTHETIC FIXTURE: results are for validation only — not live market evidence"
+  ],
+  "runId": "b9cc3f19-12b2-4d7c-b800-dfe8ab9fa8d7",
+  "inputDigest": "17ca2535ee92f137ac7c669a"
+}

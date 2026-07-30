@@ -1,0 +1,373 @@
+[
+  {
+    "id": "brec_f93653f843f65e",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_document-center",
+    "dimensionId": "engineering_utility",
+    "kind": "optimization_opportunity",
+    "observedGap": "Partial evidence for Document Center",
+    "evidenceIds": [
+      "ev_1663aabad85b17ae"
+    ],
+    "confidence": 0.82,
+    "expectedImpact": "Stronger first-class UX for this capability improves engineering utility and discoverability",
+    "recommendedAction": "Strengthen on-site implementation and re-evidence the capability (not peer-copy)",
+    "priorityRationale": "Core digital capability with only partial evidence",
+    "dependencies": [],
+    "limitations": [
+      "Recommendation grounded in this company's evidence weakness, not peer feature parity alone"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_cb1b595b63c08d",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_product-selector",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Product Selector",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_72dbe47cd94459",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "dimensionId": "engineering_utility",
+    "kind": "optimization_opportunity",
+    "observedGap": "Partial evidence for Submittal Workflow",
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d"
+    ],
+    "confidence": 0.82,
+    "expectedImpact": "Stronger first-class UX for this capability improves engineering utility and discoverability",
+    "recommendedAction": "Strengthen on-site implementation and re-evidence the capability (not peer-copy)",
+    "priorityRationale": "Core digital capability with only partial evidence",
+    "dependencies": [],
+    "limitations": [
+      "Recommendation grounded in this company's evidence weakness, not peer feature parity alone"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_505dbc557852bf",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_technical-resources",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Technical Resources",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_f201205e23f03b",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_installation-guide",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Installation Guide",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_6b828c6c81c727",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_specification",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Specification",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_369d770b086fba",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_cad-bim-resource",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for CAD/BIM Resource",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_f8a37b0f58e5b5",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_code-report",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Code Report",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_fa2a3c7e5f292e",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_engineering-table",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Engineering Table",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_96110b1cbc89c5",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_limiting-height-tool",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Limiting Height Tool",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_0be3d735aa4af0",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_product-family",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Product Family",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_f0dcd9ac58840a",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_navigation-pattern",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Navigation Pattern",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_26f2aa3faa062a",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_download-workflow",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Download Workflow",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_863f74b3c3c353",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_document-center",
+    "dimensionId": "capability_presence",
+    "kind": "confirmed_gap",
+    "observedGap": "Weaker evidenced implementation vs cohort peer (Δ=45.0); own state=partial",
+    "evidenceIds": [
+      "ev_1663aabad85b17ae"
+    ],
+    "confidence": 0.7,
+    "expectedImpact": "Users may struggle to complete related engineering/document tasks",
+    "recommendedAction": "Improve this company's own evidenced capability — peer parity is context, not the requirement",
+    "priorityRationale": "Gap supported by this company's weak/partial evidence plus conclusive cohort delta",
+    "dependencies": [],
+    "limitations": [
+      "Limited peer comparison / validation cohort",
+      "Do not copy peer UX blindly",
+      "Synthetic fixture peers are not market proof"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  },
+  {
+    "id": "brec_7a2984283fd047",
+    "projectSlug": "eb-metal",
+    "companyName": "EB Metal US",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "dimensionId": "capability_presence",
+    "kind": "confirmed_gap",
+    "observedGap": "Weaker evidenced implementation vs cohort peer (Δ=45.0); own state=partial",
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d"
+    ],
+    "confidence": 0.7,
+    "expectedImpact": "Users may struggle to complete related engineering/document tasks",
+    "recommendedAction": "Improve this company's own evidenced capability — peer parity is context, not the requirement",
+    "priorityRationale": "Gap supported by this company's weak/partial evidence plus conclusive cohort delta",
+    "dependencies": [],
+    "limitations": [
+      "Limited peer comparison / validation cohort",
+      "Do not copy peer UX blindly",
+      "Synthetic fixture peers are not market proof"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:02:50.325Z"
+  }
+]

@@ -57,6 +57,12 @@ const TEMPLATE: SeedNode[] = [
     dependencies: ["n_knowledge"],
   },
   {
+    id: "n_benchmark",
+    type: "Benchmark",
+    capability: "benchmark.run",
+    dependencies: ["n_normalize"],
+  },
+  {
     id: "n_reliability",
     type: "Reliability",
     capability: "reliability.score",

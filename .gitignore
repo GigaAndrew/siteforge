@@ -43,3 +43,9 @@ next-env.d.ts
 # SiteForge runtime locks / temp writes
 **/.run.lock
 **/*.tmp
+
+# Ephemeral timestamped knowledge export dumps (keep latest.json tracked)
+knowledge/exports/entities-*.jsonl
+knowledge/exports/evidence-*.jsonl
+knowledge/exports/relationships-*.jsonl
+knowledge/exports/snapshot-*.json

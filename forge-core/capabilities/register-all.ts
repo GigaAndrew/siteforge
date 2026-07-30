@@ -29,7 +29,6 @@ import {
   classifySourceReliability,
   DEFAULT_RELIABILITY_WEIGHTS,
 } from "@/lib/reliability/scores";
-import { runPlatformReports } from "@/scripts/generate-platform-reports";
 import { generateThinPrototype } from "@/lib/prototype/thin";
 import { generateThinPitch } from "@/lib/pitch/thin";
 import { runThinBrowserQa } from "@/lib/qa/browser-thin";
@@ -369,6 +368,60 @@ const normalization: CapabilityHandler = {
         ambiguous: result.status.ambiguousCount,
         canonicalCandidates: patterns.created,
       },
+    });
+  },
+};
+
+const benchmark: CapabilityHandler = {
+  descriptor: {
+    name: "benchmark.run",
+    purpose:
+      "Score normalized manufacturer capabilities against a versioned benchmark definition",
+    consumes: ["knowledge/normalization/status.json"],
+    produces: ["benchmark/cfs-digital-capability/1.0.0/status.json"],
+    prerequisites: ["normalization.run"],
+    completionCriteria: ["benchmark status written"],
+    estimatedCost: 0.4,
+    estimatedRuntimeMs: 4000,
+    confidenceGain: 0.08,
+    qualityGates: [],
+    failureConditions: [],
+    retryPolicy: { maxRetries: 1, backoffMs: 200 },
+    humanApprovalRequirement: null,
+    plannerWeight: 55,
+  },
+  isComplete: (ctx) =>
+    hasArtifact(
+      ctx.slug,
+      "benchmark/cfs-digital-capability/1.0.0/status.json",
+    ) && !ctx.force,
+  execute: async (ctx) => {
+    const { runBenchmark } = await import("@/lib/benchmark/engine");
+    const { writeBenchmarkReports } = await import("@/lib/benchmark/report");
+    const result = runBenchmark({
+      slugs: [ctx.slug],
+      benchmarkId: "cfs-digital-capability",
+      rebuild: Boolean(ctx.force),
+    });
+    writeBenchmarkReports({
+      slugs: [ctx.slug],
+      peer: result.peer,
+      benchmarkId: result.benchmarkId,
+    });
+    const st = result.statuses[0];
+    return okResult({
+      artifacts: ["benchmark/cfs-digital-capability/1.0.0/status.json"],
+      qualityScore: st?.overallEligible ? 0.85 : 0.65,
+      confidenceDelta: 0.08,
+      metrics: {
+        observations: st?.observationCount ?? 0,
+        unknown: st?.unknownCount ?? 0,
+        overallEligible: st?.overallEligible ? 1 : 0,
+        confidence: st?.overallConfidence ?? 0,
+      },
+      message: st?.syntheticFixture
+        ? "Benchmark complete (synthetic fixture labeled)"
+        : "Benchmark complete",
     });
   },
 };
@@ -713,6 +766,9 @@ const reports: CapabilityHandler = {
   isComplete: (ctx) =>
     hasArtifact(ctx.slug, "reports/confidence-report.md") && !ctx.force,
   execute: async (ctx) => {
+    const { runPlatformReports } = await import(
+      "@/scripts/generate-platform-reports"
+    );
     const { overallConfidence } = await runPlatformReports(ctx.slug);
     return okResult({
       artifacts: [
@@ -746,6 +802,9 @@ const lessons: CapabilityHandler = {
     hasArtifact(ctx.slug, "reports/lessons-learned.md") && !ctx.force,
   execute: async (ctx) => {
     if (!hasArtifact(ctx.slug, "reports/lessons-learned.md")) {
+      const { runPlatformReports } = await import(
+        "@/scripts/generate-platform-reports"
+      );
       await runPlatformReports(ctx.slug);
     }
     return hasArtifact(ctx.slug, "reports/lessons-learned.md")
@@ -781,6 +840,10 @@ const improvements: CapabilityHandler = {
     return (global?.items?.length ?? 0) > 0 && !ctx.force;
   },
   execute: async (ctx) => {
+    // Dynamic import avoids CLI main() side effects during capability bootstrap
+    const { runPlatformReports } = await import(
+      "@/scripts/generate-platform-reports"
+    );
     await runPlatformReports(ctx.slug);
     const global = readJsonFile<{ items?: unknown[] }>(
       `${process.cwd()}/platform/improvements/registry.json`,
@@ -804,6 +867,7 @@ export function registerAllCapabilities(): void {
     screenshots,
     knowledge,
     normalization,
+    benchmark,
     reliability,
     makeAuditHandler("audit.technical", "analysis/technical-audit.md", 80),
     makeAuditHandler(
