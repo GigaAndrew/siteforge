@@ -605,5 +605,3155 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T20:33:30.627Z",
     "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_Document_1b1dd7e9f2a84709",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "TL21-143.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2021-04-tl21-143-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2021/04/TL21-143.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_536277485e61cbd5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.911Z",
+    "updatedAt": "2026-07-30T21:15:40.911Z"
+  },
+  {
+    "id": "ent_Document_058c0cb1ccc945e5",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "TL21-133.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2021-04-tl21-133-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2021/04/TL21-133.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_536277485e61cbd5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.912Z",
+    "updatedAt": "2026-07-30T21:15:40.912Z"
+  },
+  {
+    "id": "ent_Document_fdec8a6f618f4c2f",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "TL21-132.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2021-04-tl21-132-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2021/04/TL21-132.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_536277485e61cbd5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.912Z",
+    "updatedAt": "2026-07-30T21:15:40.912Z"
+  },
+  {
+    "id": "ent_Document_a108ef1f3257ccef",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "TL21-134.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2021-04-tl21-134-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2021/04/TL21-134.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_536277485e61cbd5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.912Z",
+    "updatedAt": "2026-07-30T21:15:40.912Z"
+  },
+  {
+    "id": "ent_Document_76169dfa82083ca9",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "m0016.01-303-11-r1.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2021-05-m0016-01-303-11-r1-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2021/05/m0016.01-303-11-r1.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_536277485e61cbd5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.913Z",
+    "updatedAt": "2026-07-30T21:15:40.913Z"
+  },
+  {
+    "id": "ent_Document_bab05738938ce941",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "No.-3-Flashing-Screed_Typical-Detail.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-11-no-3-flashing-screed-typical-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/11/No.-3-Flashing-Screed_Typical-Detail.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f30c5f8aa74e09b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.914Z",
+    "updatedAt": "2026-07-30T21:15:40.914Z"
+  },
+  {
+    "id": "ent_Document_4fb037308e99b6c2",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "No.-6-Drip-Screed_Typical-Detail.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-11-no-6-drip-screed-typical-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/11/No.-6-Drip-Screed_Typical-Detail.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f30c5f8aa74e09b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.914Z",
+    "updatedAt": "2026-07-30T21:15:40.914Z"
+  },
+  {
+    "id": "ent_Document_9ba5f7a796266ac3",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "No.-7-Extended_Typical-Detail.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-11-no-7-extended-typical-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/11/No.-7-Extended_Typical-Detail.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f30c5f8aa74e09b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.914Z",
+    "updatedAt": "2026-07-30T21:15:40.914Z"
+  },
+  {
+    "id": "ent_Document_d6889892b8a70b96",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "No.12-Soffit-Drip-Edge_Typical-Detail.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-11-no-12-soffit-drip-edge-typical-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/11/No.12-Soffit-Drip-Edge_Typical-Detail.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f30c5f8aa74e09b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.914Z",
+    "updatedAt": "2026-07-30T21:15:40.914Z"
+  },
+  {
+    "id": "ent_Document_4a82bce6b0672c55",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "No.-15-Solid-Leg_Typical-Detail.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-11-no-15-solid-leg-typical-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/11/No.-15-Solid-Leg_Typical-Detail.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f30c5f8aa74e09b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.915Z",
+    "updatedAt": "2026-07-30T21:15:40.915Z"
+  },
+  {
+    "id": "ent_Document_2b334ef224ce9ab5",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL-U375.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-ul-u375-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/UL-U375.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c23c7fb7a62d01b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.915Z",
+    "updatedAt": "2026-07-30T21:15:40.915Z"
+  },
+  {
+    "id": "ent_Document_1584a25a74044749",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "BXUV.U403-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-u403-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.U403-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c23c7fb7a62d01b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.916Z",
+    "updatedAt": "2026-07-30T21:15:40.916Z"
+  },
+  {
+    "id": "ent_Document_912b92d9ed4b15a6",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "BXUV.U408-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-u408-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.U408-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c23c7fb7a62d01b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.916Z",
+    "updatedAt": "2026-07-30T21:15:40.916Z"
+  },
+  {
+    "id": "ent_Document_8116182f0d004da9",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "BXUV.U411-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-u411-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.U411-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c23c7fb7a62d01b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.917Z",
+    "updatedAt": "2026-07-30T21:15:40.917Z"
+  },
+  {
+    "id": "ent_Document_5b971b82013ceb23",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "BXUV.U412-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-u412-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.U412-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c23c7fb7a62d01b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.917Z",
+    "updatedAt": "2026-07-30T21:15:40.917Z"
+  },
+  {
+    "id": "ent_Document_8fc38a72fdf366d0",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "Engineering-Judgment-Submission_fillable.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2023-12-engineering-judgment-submission-fillable-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2023/12/Engineering-Judgment-Submission_fillable.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6a02bdf1323769b0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.918Z",
+    "updatedAt": "2026-07-30T21:15:40.918Z"
+  },
+  {
+    "id": "ent_Document_0d02c72712c75377",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL-WW-D-0271.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2024-05-ul-ww-d-0271-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2024/05/UL-WW-D-0271.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6a02bdf1323769b0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.918Z",
+    "updatedAt": "2026-07-30T21:15:40.918Z"
+  },
+  {
+    "id": "ent_Document_10483dea48de13d0",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL-HW-S-0128_HOTROD-Wood-Framed-1hr.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-ul-hw-s-0128-hotrod-wood-framed-1hr-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/UL-HW-S-0128_HOTROD-Wood-Framed-1hr.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6a02bdf1323769b0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.918Z",
+    "updatedAt": "2026-07-30T21:15:40.918Z"
+  },
+  {
+    "id": "ent_Document_264d751cb61cc740",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL-WW-S-0094.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2023-03-ul-ww-s-0094-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2023/03/UL-WW-S-0094.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6a02bdf1323769b0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.919Z",
+    "updatedAt": "2026-07-30T21:15:40.919Z"
+  },
+  {
+    "id": "ent_Document_8c087ae3987167c3",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL-WW-S-0057_Vertical-Wall-Joint-to-Concrete-Column-1-2-HR.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2023-03-ul-ww-s-0057-vertical-wall-joint-to-concrete-column-1-2-hr-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2023/03/UL-WW-S-0057_Vertical-Wall-Joint-to-Concrete-Column-1-2-HR.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6a02bdf1323769b0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.919Z",
+    "updatedAt": "2026-07-30T21:15:40.919Z"
+  },
+  {
+    "id": "ent_Document_80f4aec4db2857d3",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "SD101_-HW-D-0525-Shaft-Wall-Perpendicular-to-Fluted-Deck-8.5x11.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-08-sd101-hw-d-0525-shaft-wall-perpendicular-to-fluted-deck-8-5x11-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/08/SD101_-HW-D-0525-Shaft-Wall-Perpendicular-to-Fluted-Deck-8.5x11.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bc2f5e0100ef8b79"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.920Z",
+    "updatedAt": "2026-07-30T21:15:40.920Z"
+  },
+  {
+    "id": "ent_Document_60f68f53766d9488",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "SD101.1_-HW-D-0525-Shaft-Wall-Perpendicular-to-Fluted-Deck-8.5x11.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-08-sd101-1-hw-d-0525-shaft-wall-perpendicular-to-fluted-deck-8-5x11-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/08/SD101.1_-HW-D-0525-Shaft-Wall-Perpendicular-to-Fluted-Deck-8.5x11.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bc2f5e0100ef8b79"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.920Z",
+    "updatedAt": "2026-07-30T21:15:40.920Z"
+  },
+  {
+    "id": "ent_Document_8fc6dccf6437db60",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "SD100_-HW-D-0622-Shaft-Wall-Offset-Under-Beam-8.5x11.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-08-sd100-hw-d-0622-shaft-wall-offset-under-beam-8-5x11-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/08/SD100_-HW-D-0622-Shaft-Wall-Offset-Under-Beam-8.5x11.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bc2f5e0100ef8b79"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.921Z",
+    "updatedAt": "2026-07-30T21:15:40.921Z"
+  },
+  {
+    "id": "ent_Document_234c598c22ab5a3b",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "SD99_-HW-D-0622-Shaft-Wall-Directly-Under-Beam-8.5x11.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-08-sd99-hw-d-0622-shaft-wall-directly-under-beam-8-5x11-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/08/SD99_-HW-D-0622-Shaft-Wall-Directly-Under-Beam-8.5x11.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bc2f5e0100ef8b79"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.921Z",
+    "updatedAt": "2026-07-30T21:15:40.921Z"
+  },
+  {
+    "id": "ent_Document_c3b7c5ffa0728ed7",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "SD98_-HW-D-0623-Shaft-Wall-@-Fluted-Deck-Beam-Penetration-8.5x11.pdf",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-08-sd98-hw-d-0623-shaft-wall-fluted-deck-beam-penetration-8-5x11-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/08/SD98_-HW-D-0623-Shaft-Wall-@-Fluted-Deck-Beam-Penetration-8.5x11.pdf"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bc2f5e0100ef8b79"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.921Z",
+    "updatedAt": "2026-07-30T21:15:40.921Z"
+  },
+  {
+    "id": "ent_Document_9f80c447a04e35ab",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "STC-60 CEMCO Ceramic Tile/DAL Crack Isolation Membrane on LEVELROCK with Insulated Suspended Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-stc-60-cemco-ceramic-tile-on-dal-crack-isolation-membrane-on-levelrock-w-insulated-suspended-ceiling-tl07-161-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/STC-60-CEMCO-Ceramic-Tile-on-DAL-Crack-Isolation-Membrane-on-Levelrock-w-Insulated-Suspended-Ceiling-TL07-161.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7166914505c28ab7",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.921Z",
+    "updatedAt": "2026-07-30T21:15:40.926Z"
+  },
+  {
+    "id": "ent_Document_b77cd23c84c160b5",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "STC-60 CEMCO Bare LEVELROCK with Insulated Suspended Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-stc-60-cemco-bare-levelrock-w-insulated-suspended-ceiling-tl07-132-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/STC-60-CEMCO-Bare-Levelrock-w-Insulated-Suspended-Ceiling-TL07-132.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_96871d523afa8d22",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.935Z",
+    "updatedAt": "2026-07-30T21:15:40.937Z"
+  },
+  {
+    "id": "ent_Document_2d0717fe44aed95d",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "STC-59 CEMCO Carpet & Pad on LEVELROCK with Insulated Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-stc-59-cemco-carpet-pad-on-levelrock-w-insulated-ceiling-tl07-133-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/STC-59-CEMCO-Carpet-Pad-on-Levelrock-w-Insulated-Ceiling-TL07-133.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_d0dafa50c6837944",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.950Z",
+    "updatedAt": "2026-07-30T21:15:40.953Z"
+  },
+  {
+    "id": "ent_Document_a68fe97f72d92c4a",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "STC-59 CEMCO Bare LEVELROCK with Insulated Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-stc-59-cemco-bare-levelrock-w-insulated-ceiling-tl07-132-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/STC-59-CEMCO-Bare-Levelrock-w-Insulated-Ceiling-TL07-132.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5e8ba243a8fc90f2",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.955Z",
+    "updatedAt": "2026-07-30T21:15:40.957Z"
+  },
+  {
+    "id": "ent_Document_64027d9935dc3c35",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "STC-58 CEMCO Hardwood Floor on Pergo Soundbloc on LEVELROCK with Insulated Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-stc-58-cemco-hardwood-floor-on-pergo-soundbloc-on-levelrock-w-insulated-ceiling-tl07-138-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/STC-58-CEMCO-Hardwood-Floor-on-Pergo-Soundbloc-on-Levelrock-w-Insulated-Ceiling-TL07-138.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_3a43182eab5cabe4",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.959Z",
+    "updatedAt": "2026-07-30T21:15:40.961Z"
+  },
+  {
+    "id": "ent_Document_328faf46b71ed7e4",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "IIC-85 CEMCO Carpet & Pad on LEVELROCK with Insulated Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-iic-85-cemco-carpet-pad-on-levelrock-w-insulated-ceiling-in07-006-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/IIC-85-CEMCO-Carpet-Pad-on-Levelrock-w-Insulated-Ceiling-IN07-006.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_1b500ff5359b1a84",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.962Z",
+    "updatedAt": "2026-07-30T21:15:40.964Z"
+  },
+  {
+    "id": "ent_Document_f8be74f733d52bfe",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "IIC-59 CEMCO Hardwood Flooring on Pergo Soundbloc on LEVELROCK with Insulated Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-iic-59-cemco-hardwood-flooring-on-pergo-soundbloc-on-levelrock-insulated-ceiling-in07-008-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/IIC-59-CEMCO-Hardwood-Flooring-on-Pergo-Soundbloc-on-Levelrock-Insulated-Ceiling-IN07-008.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7d7f226c5df7537a",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.964Z",
+    "updatedAt": "2026-07-30T21:15:40.966Z"
+  },
+  {
+    "id": "ent_Document_70615acc15bea12c",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "IIC-55 CEMCO Ceramic Tile/DAL Crack Isolation Membrane/LEVELROCK with Insulated Suspended Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-iic-55-cemco-ceramic-tile-on-dal-crack-isolation-membrane-on-levelrock-w-insulated-suspended-ceiling-in07-010-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/IIC-55-CEMCO-Ceramic-Tile-on-DAL-Crack-Isolation-Membrane-on-Levelrock-w-Insulated-Suspended-Ceiling-IN07-010.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8064d851dd0ed86f",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.967Z",
+    "updatedAt": "2026-07-30T21:15:40.970Z"
+  },
+  {
+    "id": "ent_Document_cf9161b52880265c",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "IIC-54 CEMCO Vinyl Flooring on LEVELROCK with Insulated Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-iic-54-cemco-vinyl-flooring-on-levelrock-w-insulated-ceiling-in07-007-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/IIC-54-CEMCO-Vinyl-Flooring-on-Levelrock-w-Insulated-Ceiling-IN07-007.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e6200599e5ca801f",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.971Z",
+    "updatedAt": "2026-07-30T21:15:40.973Z"
+  },
+  {
+    "id": "ent_Document_9f8457ceec79fee3",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "IIC-54 CEMCO Bare LEVELROCK with Insulated Suspended Ceiling",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-iic-54-cemco-bare-levelrock-w-insulated-suspended-ceiling-in07-009-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/IIC-54-CEMCO-Bare-Levelrock-w-Insulated-Suspended-Ceiling-IN07-009.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_993f94572e17ebf8",
+      "ev_5a251cacfd75936e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.975Z",
+    "updatedAt": "2026-07-30T21:15:40.980Z"
+  },
+  {
+    "id": "ent_Document_2d5cfb3c15c9ca59",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G556-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g556-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G556-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_88f8a046db842c85",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.984Z",
+    "updatedAt": "2026-07-30T21:15:40.988Z"
+  },
+  {
+    "id": "ent_Document_5ccaf3d2c51f745a",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G557-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g557-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G557-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_9430564aa71340ff",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.991Z",
+    "updatedAt": "2026-07-30T21:15:40.993Z"
+  },
+  {
+    "id": "ent_Document_7c4df1362c3d290b",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G559-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g559-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G559-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_665ed9beda00330b",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.994Z",
+    "updatedAt": "2026-07-30T21:15:40.995Z"
+  },
+  {
+    "id": "ent_Document_8d3b3245c1809576",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G560-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g560-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G560-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f41ef9004731b77f",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.995Z",
+    "updatedAt": "2026-07-30T21:15:40.999Z"
+  },
+  {
+    "id": "ent_Document_13a9acbb2ddb0ecf",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G565-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g565-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G565-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4df25312a9405710",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.999Z",
+    "updatedAt": "2026-07-30T21:15:41.001Z"
+  },
+  {
+    "id": "ent_Document_1af3295b60ff9408",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G574-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g574-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G574-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_316aab38c7115d9a",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.002Z",
+    "updatedAt": "2026-07-30T21:15:41.003Z"
+  },
+  {
+    "id": "ent_Document_90c48d3f094c0fe4",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G580-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g580-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G580-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4ac54eb5487bdd79",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.004Z",
+    "updatedAt": "2026-07-30T21:15:41.006Z"
+  },
+  {
+    "id": "ent_Document_ad090f47004fc3ba",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G588-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g588-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G588-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_804caecba78405aa",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.007Z",
+    "updatedAt": "2026-07-30T21:15:41.008Z"
+  },
+  {
+    "id": "ent_Document_ec3210aec354ab68",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL G595-Sure-Span",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-g595-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.G595-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7b1bb371051c029c",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.009Z",
+    "updatedAt": "2026-07-30T21:15:41.009Z"
+  },
+  {
+    "id": "ent_Document_ea2bc7ffede64e9b",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL H503-Sure-Span/Sure-Board Series 200S",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-h503-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.H503-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_d15c7fb29406d33a",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.010Z",
+    "updatedAt": "2026-07-30T21:15:41.011Z"
+  },
+  {
+    "id": "ent_Document_d91847c1e52fb262",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL H508-Sure-Span/Sure-Board Series 200S",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-h508-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.H508-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ae0d70bc24d06e8b",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.012Z",
+    "updatedAt": "2026-07-30T21:15:41.013Z"
+  },
+  {
+    "id": "ent_Document_ce493ac44f1614d9",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL P546-Sure-Span Roof",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-p546-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.P546-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ffe2830ea78b31bc",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.014Z",
+    "updatedAt": "2026-07-30T21:15:41.015Z"
+  },
+  {
+    "id": "ent_Document_931181d20faf6024",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL P561-Sure-Span Roof",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-p561-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.P561-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_384c12d1b3557560",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.016Z",
+    "updatedAt": "2026-07-30T21:15:41.019Z"
+  },
+  {
+    "id": "ent_Document_7728e94edd9280c2",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "UL P562-Sure-Span Roof",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-04-bxuv-p562-fire-resistance-ratings-ansi-ul-263-ul-product-iq-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/04/BXUV.P562-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c1a018a204f61f38",
+      "ev_f2a14ea6f6947f10"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.020Z",
+    "updatedAt": "2026-07-30T21:15:41.022Z"
+  },
+  {
+    "id": "ent_Document_e2076faa571adcc8",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-13 CORNER STUDS – TRACK CONNECTION DETAIL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-13-corner-studs-track-connection-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-13-CORNER-STUDS-TRACK-CONNECTION-DETAIL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_fe0e9287e2fb01f6",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.023Z",
+    "updatedAt": "2026-07-30T21:15:41.024Z"
+  },
+  {
+    "id": "ent_Document_233447755c6d5cbf",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-12 WALL INTERSECTION STUDS – TRACK CONNECTION DETAIL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-12-wall-intersection-studs-track-connection-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-12-WALL-INTERSECTION-STUDS-TRACK-CONNECTION-DETAIL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8e754e92c2e016c9",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.026Z",
+    "updatedAt": "2026-07-30T21:15:41.027Z"
+  },
+  {
+    "id": "ent_Document_70cdd69da0b7ac4a",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-11 BOXED STUDS – TRACK CONNECTION DETAILS",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-11-boxed-studs-track-connection-details-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-11-BOXED-STUDS-TRACK-CONNECTION-DETAILS.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6c66d3d8e092ffc5",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.028Z",
+    "updatedAt": "2026-07-30T21:15:41.029Z"
+  },
+  {
+    "id": "ent_Document_14d6888cb04b894c",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-10 BACK TO BACK STUDS – TRACK CONNECTION DETAILS",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-10-back-to-back-studs-track-connection-details-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-10-BACK-TO-BACK-STUDS-TRACK-CONNECTION-DETAILS.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_0bbb83d16e0d5965",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.030Z",
+    "updatedAt": "2026-07-30T21:15:41.032Z"
+  },
+  {
+    "id": "ent_Document_2678e331f9832a41",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-9 SINGLE STUD – TRACK CONNECTION DETAILS",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-9-single-stud-track-connection-details-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-9-SINGLE-STUD-TRACK-CONNECTION-DETAILS.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6c3825f13f669c9c",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.033Z",
+    "updatedAt": "2026-07-30T21:15:41.034Z"
+  },
+  {
+    "id": "ent_Document_17894442da993dbc",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-8 JOIST BRIDGING – DOUBLE STRAP WITH DIAGONAL BRIDGING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-8-joist-bridging-double-strap-with-diagonal-bridging-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-8-JOIST-BRIDGING-DOUBLE-STRAP-WITH-DIAGONAL-BRIDGING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_596f5fe5e47713c6",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.035Z",
+    "updatedAt": "2026-07-30T21:15:41.036Z"
+  },
+  {
+    "id": "ent_Document_b7acfa3f9ccda446",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-7 CEILING JOIST BRIDGING – DOUBLE STRAP WITH STUD OR TRACK BLOCKING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-7-ceiling-joist-bridging-double-strap-with-stud-or-track-blocking-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-7-CEILING-JOIST-BRIDGING-DOUBLE-STRAP-WITH-STUD-OR-TRACK-BLOCKING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b1722ea10c1c2afb",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.037Z",
+    "updatedAt": "2026-07-30T21:15:41.038Z"
+  },
+  {
+    "id": "ent_Document_937068fb11ea0820",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-6 CRC BRIDGING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-6-crc-bridging-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-6-CRC-BRIDGING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_912a5573fcd7f956",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.039Z",
+    "updatedAt": "2026-07-30T21:15:41.041Z"
+  },
+  {
+    "id": "ent_Document_8dd92885579718cb",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-5 STUD BRIDGING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-5-stud-bridging-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-5-STUD-BRIDGING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ac54c9c06291120d",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.043Z",
+    "updatedAt": "2026-07-30T21:15:41.044Z"
+  },
+  {
+    "id": "ent_Document_bf119935ac9bed36",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-4 DROP-RECESS CEILING – JOIST LAP JOINT TO STUD",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-4-drop-recess-ceiling-joist-lap-joint-to-stud-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-4-DROP-RECESS-CEILING-JOIST-LAP-JOINT-TO-STUD.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_178ea392ee42a31d",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.045Z",
+    "updatedAt": "2026-07-30T21:15:41.049Z"
+  },
+  {
+    "id": "ent_Document_638e5729a68dbd57",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-3 Drop-Recess Ceiling with Ledger",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-3-drop-recess-ceiling-with-ledger-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-3-Drop-Recess-Ceiling-with-Ledger.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8acbb9c9b03910d9",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.050Z",
+    "updatedAt": "2026-07-30T21:15:41.051Z"
+  },
+  {
+    "id": "ent_Document_e2677a2294a07ece",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-2 Flush Ceiling – Ceiling Parallel to Stud Wall",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-2-flush-ceiling-ceiling-parallel-to-stud-wall-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-2-Flush-Ceiling-Ceiling-Parallel-to-Stud-Wall.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f2aa516c08c59431",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.052Z",
+    "updatedAt": "2026-07-30T21:15:41.053Z"
+  },
+  {
+    "id": "ent_Document_7cdfe4221f3fd855",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CSS-1 Flush Ceiling – Ceiling Joist Perpendicular & Bearing on Stud Wall",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-css-1-flush-ceiling-ceiling-joist-perpendicular-bearing-on-stud-wall-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CSS-1-Flush-Ceiling-Ceiling-Joist-Perpendicular-Bearing-on-Stud-Wall.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ebddcae39e7b9760",
+      "ev_d753627696329fcd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.053Z",
+    "updatedAt": "2026-07-30T21:15:41.055Z"
+  },
+  {
+    "id": "ent_Document_37a8360f7e94c04b",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-1 DEFLECTION TRACK ASSEMBLY – SINGLE TRACK WITH DOUBLE FLAT STRAP",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-1-deflection-track-assembly-single-track-with-double-flat-strap-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-1-DEFLECTION-TRACK-ASSEMBLY-SINGLE-TRACK-WITH-DOUBLE-FLAT-STRAP.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_08087b9ae8a5a4af",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.056Z",
+    "updatedAt": "2026-07-30T21:15:41.057Z"
+  },
+  {
+    "id": "ent_Document_61576b8228c7a5c8",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-1A DEFLECTION TRACK ASSEMBLY – FAS TRACK DL2 WITH DOUBLE FLAT STRAP",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-1a-deflection-track-assembly-fas-track-dl2-with-double-flat-strap-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-1A-DEFLECTION-TRACK-ASSEMBLY-FAS-TRACK-DL2-WITH-DOUBLE-FLAT-STRAP.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4331a8309f980b6a",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.059Z",
+    "updatedAt": "2026-07-30T21:15:41.060Z"
+  },
+  {
+    "id": "ent_Document_c69ec39d4691d8d3",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-2 DEFLECTION TRACK ASSEMBLY – SINGLE TRACK WITH CRC",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-2-deflection-track-assembly-single-track-with-crc-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-2-DEFLECTION-TRACK-ASSEMBLY-SINGLE-TRACK-WITH-CRC.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c2423bde2448696a",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.061Z",
+    "updatedAt": "2026-07-30T21:15:41.062Z"
+  },
+  {
+    "id": "ent_Document_b81acef838e0105b",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-2A DEFLECTION TRACK ASSEMBLY – FAS TRACK DL2 WITH CRC",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-2a-deflection-track-assembly-fas-track-dl2-with-crc-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-2A-DEFLECTION-TRACK-ASSEMBLY-FAS-TRACK-DL2-WITH-CRC.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_09b809b9d351e140",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.062Z",
+    "updatedAt": "2026-07-30T21:15:41.063Z"
+  },
+  {
+    "id": "ent_Document_29825080b330a2ce",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-3 DEFLECTION TRACK ASSEMBLY – DOUBLE DEFLECTION TRACK",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-3-deflection-track-assembly-double-deflection-track-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-3-DEFLECTION-TRACK-ASSEMBLY-DOUBLE-DEFLECTION-TRACK.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_fc707a8d5edd0316",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.064Z",
+    "updatedAt": "2026-07-30T21:15:41.066Z"
+  },
+  {
+    "id": "ent_Document_883511eaac04a6e6",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-3A DEFLECTION TRACK ASSEMBLY – DOUBLE DEFLECTION TRACK WITH CEMCO FAS TRACK DL2",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-3a-deflection-track-assembly-double-deflection-track-with-cemco-fas-track-dl2-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-3A-DEFLECTION-TRACK-ASSEMBLY-DOUBLE-DEFLECTION-TRACK-WITH-CEMCO-FAS-TRACK-DL2.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_eb9cdfdca66d87d3",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.066Z",
+    "updatedAt": "2026-07-30T21:15:41.068Z"
+  },
+  {
+    "id": "ent_Document_473f58a1e3f847ad",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-4 DEFLECTION TRACK ASSEMBLY – SINGLE SLOTTED TRACK",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-4-deflection-track-assembly-single-slotted-track-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-4-DEFLECTION-TRACK-ASSEMBLY-SINGLE-SLOTTED-TRACK.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ed67d29b634d705d",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.068Z",
+    "updatedAt": "2026-07-30T21:15:41.069Z"
+  },
+  {
+    "id": "ent_Document_f3ec6e66f72fc690",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-4A DEFLECTION TRACK ASSEMBLY – FAS TRACK DL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-4a-deflection-track-assembly-fas-track-dl-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-4A-DEFLECTION-TRACK-ASSEMBLY-FAS-TRACK-DL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_eb98c3f628c2f3a4",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.070Z",
+    "updatedAt": "2026-07-30T21:15:41.071Z"
+  },
+  {
+    "id": "ent_Document_f6d6867aefcdaca2",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-5 BRIDGING – SINGLE FLAT STRAP WITH BLOCKING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-5-bridging-single-flat-strap-with-blocking-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-5-BRIDGING-SINGLE-FLAT-STRAP-WITH-BLOCKING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_32fd98702b3481ad",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.072Z",
+    "updatedAt": "2026-07-30T21:15:41.073Z"
+  },
+  {
+    "id": "ent_Document_d3a138a7a419ded8",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-6 BRIDGING – DOUBLE FLAT STRAP WITH BLOCKING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-6-bridging-double-flat-strap-with-blocking-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-6-BRIDGING-DOUBLE-FLAT-STRAP-WITH-BLOCKING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8995071926f8aa2e",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.073Z",
+    "updatedAt": "2026-07-30T21:15:41.074Z"
+  },
+  {
+    "id": "ent_Document_ca3217896a2f83c6",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-7 BRIDGING – CRC WITH CLIP ANGLE",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-7-bridging-crc-with-clip-angle-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-7-BRIDGING-CRC-WITH-CLIP-ANGLE.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c50a0a166bd6e071",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.075Z",
+    "updatedAt": "2026-07-30T21:15:41.076Z"
+  },
+  {
+    "id": "ent_Document_c59a5141bd57a1ab",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-8 LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-8-large-opening-boxed-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-8-LARGE-OPENING-BOXED-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_16ff10bfa8f9fc92",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.077Z",
+    "updatedAt": "2026-07-30T21:15:41.079Z"
+  },
+  {
+    "id": "ent_Document_bd6bef0c4c9a210f",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-8A LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-8a-large-opening-boxed-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-8A-LARGE-OPENING-BOXED-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_fd28977d04307d67",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.080Z",
+    "updatedAt": "2026-07-30T21:15:41.082Z"
+  },
+  {
+    "id": "ent_Document_081b43fc17735aaf",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-9 LARGE OPENING (BACK TO BACK HEADER BOXED JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-9-large-opening-back-to-back-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-9-LARGE-OPENING-BACK-TO-BACK-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_fa3677a91549ab5d",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.082Z",
+    "updatedAt": "2026-07-30T21:15:41.083Z"
+  },
+  {
+    "id": "ent_Document_4ebed6906d7361be",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-10 LARGE OPENING (BACK TO BACK HEADER – BACK TO BACK JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-10-large-opening-back-to-back-header-back-to-back-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-10-LARGE-OPENING-BACK-TO-BACK-HEADER-BACK-TO-BACK-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_d6af9fd933b32a46",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.084Z",
+    "updatedAt": "2026-07-30T21:15:41.085Z"
+  },
+  {
+    "id": "ent_Document_3c1419c3b2185af2",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-11 LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-11-large-opening-boxed-header-back-to-back-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-11-LARGE-OPENING-BOXED-HEADER-BACK-TO-BACK-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_0e79d08437f54243",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.086Z",
+    "updatedAt": "2026-07-30T21:15:41.087Z"
+  },
+  {
+    "id": "ent_Document_753f4d5b0e61bd9c",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-11A LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-11a-large-opening-boxed-header-back-to-back-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-11A-LARGE-OPENING-BOXED-HEADER-BACK-TO-BACK-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_a24bc8b19f5303cd",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.087Z",
+    "updatedAt": "2026-07-30T21:15:41.088Z"
+  },
+  {
+    "id": "ent_Document_a98cd1a4290ea715",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-12 LARGE OPENING BOXED SILL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-12-large-opening-boxed-sill-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-12-LARGE-OPENING-BOXED-SILL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_02cc1e087567bed9",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.089Z",
+    "updatedAt": "2026-07-30T21:15:41.090Z"
+  },
+  {
+    "id": "ent_Document_0692344db3d11549",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-13 SMALL OPENING SINGLE TRACK HEADER AND SILL, SINGLE JAMB",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-13-small-opening-single-track-header-and-sill-single-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-13-SMALL-OPENING-SINGLE-TRACK-HEADER-AND-SILL-SINGLE-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7f6027bdf817cd6a",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.091Z",
+    "updatedAt": "2026-07-30T21:15:41.092Z"
+  },
+  {
+    "id": "ent_Document_e9d6939e40b101a9",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-14 STIFFENED KNEEWALL-PARAPET",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-14-stiffened-kneewall-parapet-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-14-STIFFENED-KNEEWALL-PARAPET.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f3ea590be0b6ae0d",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.093Z",
+    "updatedAt": "2026-07-30T21:15:41.094Z"
+  },
+  {
+    "id": "ent_Document_4acceb78ff8dca2a",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-15 JAMB BASE CONNECTION DETAIL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-15-jamb-base-connection-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-15-JAMB-BASE-CONNECTION-DETAIL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_3ea0ec5814bd0d03",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.096Z",
+    "updatedAt": "2026-07-30T21:15:41.097Z"
+  },
+  {
+    "id": "ent_Document_3bef608bf6235d17",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-16 WALL DEFLECTION – VERTICAL SLIDE CLIP",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-16-wall-deflection-vertical-slide-clip-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-16-WALL-DEFLECTION-VERTICAL-SLIDE-CLIP.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_33b045e15b36071f",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.098Z",
+    "updatedAt": "2026-07-30T21:15:41.099Z"
+  },
+  {
+    "id": "ent_Document_471d4f4fe0c0d942",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-17 WALL DEFLECTION – VERTICAL SLIDE CLIP WITH TRACK PIECE EXTENSION",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-17-wall-deflection-vertical-slide-clip-with-track-piece-extension-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-17-WALL-DEFLECTION-VERTICAL-SLIDE-CLIP-WITH-TRACK-PIECE-EXTENSION.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_35350fb7f43c364b",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.100Z",
+    "updatedAt": "2026-07-30T21:15:41.101Z"
+  },
+  {
+    "id": "ent_Document_1999fc009486f46e",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-18 WALL DEFLECTION – BYPASS VERTICAL SLIDE CLIP WITH EXTENDED LEG",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-18-wall-deflection-bypass-vertical-slide-clip-with-extended-leg-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-18-WALL-DEFLECTION-BYPASS-VERTICAL-SLIDE-CLIP-WITH-EXTENDED-LEG.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_356f2164b7a7a427",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.102Z",
+    "updatedAt": "2026-07-30T21:15:41.103Z"
+  },
+  {
+    "id": "ent_Document_d24a8c0a08229c0d",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-19 WALL DEFLECTION – BYPASS OUTRIGGER VERTICAL SLIDE CLIP",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-19-wall-deflection-bypass-outrigger-vertical-slide-clip-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-19-WALL-DEFLECTION-BYPASS-OUTRIGGER-VERTICAL-SLIDE-CLIP.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_9548c226a0220933",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.103Z",
+    "updatedAt": "2026-07-30T21:15:41.104Z"
+  },
+  {
+    "id": "ent_Document_71a9a724104c0043",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-20 WALL DEFLECTION – BYPASS VERTICAL SLIDE CLIP NON-CONTINUOUS STUD ATTACHMENT",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-20-wall-deflection-bypass-vertical-slide-clip-non-continuous-stud-attachment-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-20-WALL-DEFLECTION-BYPASS-VERTICAL-SLIDE-CLIP-NON-CONTINUOUS-STUD-ATTACHMENT.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_926eb3adbae22cbf",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.104Z",
+    "updatedAt": "2026-07-30T21:15:41.105Z"
+  },
+  {
+    "id": "ent_Document_e4f0de6cb9d036a5",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-21 WALL DEFLECTION – HEAD OF WALL – VERTICAL SLIDE CLIP",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-21-wall-deflection-head-of-wall-vertical-slide-clip-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-21-WALL-DEFLECTION-HEAD-OF-WALL-VERTICAL-SLIDE-CLIP.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6f72c126e183d730",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.105Z",
+    "updatedAt": "2026-07-30T21:15:41.106Z"
+  },
+  {
+    "id": "ent_Document_12b59dcb140ae438",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-22 RIGID STUD ATTACHMENT",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-22-rigid-stud-attachment-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-22-RIGID-STUD-ATTACHMENT.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bef3caafaf5185c5",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.107Z",
+    "updatedAt": "2026-07-30T21:15:41.109Z"
+  },
+  {
+    "id": "ent_Document_b05339c1c7f2c8b6",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "CWS-23 SPANDREL STUD ATTACHMENT WITH DIAGNONAL BRACE",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-cws-23-spandrel-stud-attachment-with-diagnonal-brace-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/CWS-23-SPANDREL-STUD-ATTACHMENT-WITH-DIAGNONAL-BRACE.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c09aa94ea9eccc39",
+      "ev_8f570993fee04db5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.109Z",
+    "updatedAt": "2026-07-30T21:15:41.110Z"
+  },
+  {
+    "id": "ent_Document_0b3e0359af714344",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-1-SINGLE STUD – TRACK CONNECTION DETAILS",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-1-single-stud-track-connection-details-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-1-SINGLE-STUD-TRACK-CONNECTION-DETAILS.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_0b6ac66bf8afbaec",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.111Z",
+    "updatedAt": "2026-07-30T21:15:41.112Z"
+  },
+  {
+    "id": "ent_Document_fb39105eb27b1c60",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-2_BACK-TO-BACK STUDS – TRACK CONNECTION DETAILS",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-2-back-to-back-studs-track-connection-details-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-2_BACK-TO-BACK-STUDS-TRACK-CONNECTION-DETAILS.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c25c02ca59a6e106",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.113Z",
+    "updatedAt": "2026-07-30T21:15:41.115Z"
+  },
+  {
+    "id": "ent_Document_1806affb182d7bfa",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-3_BOXED STUDS – TRACK CONNECTION DETAILS",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-3-boxed-studs-track-connection-details-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-3_BOXED-STUDS-TRACK-CONNECTION-DETAILS.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8ad3db62a0f8b304",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.116Z",
+    "updatedAt": "2026-07-30T21:15:41.116Z"
+  },
+  {
+    "id": "ent_Document_2000ee3c1ecd675f",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-4_BUILT-UP MEMBER – TRACK CONNECTION DETAIL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-4-built-up-member-track-connection-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-4_BUILT-UP-MEMBER-TRACK-CONNECTION-DETAIL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_930741323b2f7c1e",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.117Z",
+    "updatedAt": "2026-07-30T21:15:41.123Z"
+  },
+  {
+    "id": "ent_Document_1c9fa7cdb957c2f9",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-4_BUILT-UP MEMBER – TRACK CONNECTION DETAIL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-5-wall-intersection-studs-track-connection-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-5_WALL-INTERSECTION-STUDS-TRACK-CONNECTION-DETAIL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_930741323b2f7c1e",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.124Z",
+    "updatedAt": "2026-07-30T21:15:41.124Z"
+  },
+  {
+    "id": "ent_Document_beb6228b3eb7899d",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-6_CORNER STUDS – TRACK CONNECTION DETAIL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-6-corner-studs-track-connection-detail-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-6_CORNER-STUDS-TRACK-CONNECTION-DETAIL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f1b538dcd8c1d169",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.125Z",
+    "updatedAt": "2026-07-30T21:15:41.126Z"
+  },
+  {
+    "id": "ent_Document_f24236bd8a5bf074",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-7_BRIDGING – SINGLE FLAT STRAP WITH BLOCKING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-7-bridging-single-flat-strap-with-blocking-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-7_BRIDGING-SINGLE-FLAT-STRAP-WITH-BLOCKING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4208f6471892603c",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.126Z",
+    "updatedAt": "2026-07-30T21:15:41.127Z"
+  },
+  {
+    "id": "ent_Document_bd10ae91dab9ac01",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-8_BRIDGING – DOUBLE FLAT STRAP WITH BLOCKING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-8-bridging-double-flat-strap-with-blocking-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-8_BRIDGING-DOUBLE-FLAT-STRAP-WITH-BLOCKING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_07de26101584e361",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.127Z",
+    "updatedAt": "2026-07-30T21:15:41.127Z"
+  },
+  {
+    "id": "ent_Document_d8b1447970caa790",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-9_BRIDGING – COLD ROLLED CHANNEL WITH CLIP ANGLE",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-9-bridging-cold-rolled-channel-with-clip-angle-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-9_BRIDGING-COLD-ROLLED-CHANNEL-WITH-CLIP-ANGLE.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ae5a69885e193a21",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.128Z",
+    "updatedAt": "2026-07-30T21:15:41.128Z"
+  },
+  {
+    "id": "ent_Document_6c93f88d8f9942ad",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-10_TOP OF WALL BEARING – BOXED HEADER, BACK-TO BACK JAMB",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-10-top-of-wall-bearing-boxed-header-back-to-back-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-10_TOP-OF-WALL-BEARING-BOXED-HEADER-BACK-TO-BACK-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7ce552d3870ea0d1",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.129Z",
+    "updatedAt": "2026-07-30T21:15:41.129Z"
+  },
+  {
+    "id": "ent_Document_46d0c31128bc7248",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-11_TOP OF WALL BEARING – BACK-TO-BACK HEADER, BACK-TO-BACK JAMB",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-11-top-of-wall-bearing-back-to-back-header-back-to-back-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-11_TOP-OF-WALL-BEARING-BACK-TO-BACK-HEADER-BACK-TO-BACK-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_d6c93aa1d7b24e9b",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.130Z",
+    "updatedAt": "2026-07-30T21:15:41.130Z"
+  },
+  {
+    "id": "ent_Document_5d9160ac0cc27720",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-12_TOP OF WALL BEARING – BOXED HEADER, BOXED JAMB",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-12-top-of-wall-bearing-boxed-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-12_TOP-OF-WALL-BEARING-BOXED-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ff0a52969309aa87",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.131Z",
+    "updatedAt": "2026-07-30T21:15:41.131Z"
+  },
+  {
+    "id": "ent_Document_958c3a41e05462d8",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-13_TOP OF WALL BEARING – BACK TO BACK HEADER, BOXED JAMB",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-13-top-of-wall-bearing-back-to-back-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-13_TOP-OF-WALL-BEARING-BACK-TO-BACK-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_2fe41e12c2a5c767",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.131Z",
+    "updatedAt": "2026-07-30T21:15:41.132Z"
+  },
+  {
+    "id": "ent_Document_284278ca0dc13dff",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-14_TOP OF WALL BEARING – BOXED HEADER, BOXED JAMB",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-14-top-of-wall-bearing-boxed-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-14_TOP-OF-WALL-BEARING-BOXED-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b96113ad51d887e0",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.132Z",
+    "updatedAt": "2026-07-30T21:15:41.133Z"
+  },
+  {
+    "id": "ent_Document_b91464c333296e8f",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-15_LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-15-large-opening-boxed-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-15_LARGE-OPENING-BOXED-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_539417c4edb59b90",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.133Z",
+    "updatedAt": "2026-07-30T21:15:41.133Z"
+  },
+  {
+    "id": "ent_Document_c7dee5d2e3366601",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-16_LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-16-large-opening-boxed-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-16_LARGE-OPENING-BOXED-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c358b5071ce8a983",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.134Z",
+    "updatedAt": "2026-07-30T21:15:41.134Z"
+  },
+  {
+    "id": "ent_Document_a80efe72c42416f5",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-17_LARGE OPENING (BACK TO BACK HEADER-BOXED JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-17-large-opening-back-to-back-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-17_LARGE-OPENING-BACK-TO-BACK-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5cbeb4789b16a988",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.135Z",
+    "updatedAt": "2026-07-30T21:15:41.136Z"
+  },
+  {
+    "id": "ent_Document_6a60e7fd086c412b",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-18_LARGE OPENING (BACK TO BACK HEADER-BOXED JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-18-large-opening-back-to-back-header-boxed-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-18_LARGE-OPENING-BACK-TO-BACK-HEADER-BOXED-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4d25414d82145c46",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.136Z",
+    "updatedAt": "2026-07-30T21:15:41.137Z"
+  },
+  {
+    "id": "ent_Document_5298b661097a369f",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-19_LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-19-large-opening-boxed-header-back-to-back-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-19_LARGE-OPENING-BOXED-HEADER-BACK-TO-BACK-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4ba950289a6608e4",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.138Z",
+    "updatedAt": "2026-07-30T21:15:41.139Z"
+  },
+  {
+    "id": "ent_Document_df60daa55ff02142",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-20_LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-20-large-opening-boxed-header-back-to-back-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-20_LARGE-OPENING-BOXED-HEADER-BACK-TO-BACK-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_89d7e8828d1cfb42",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.139Z",
+    "updatedAt": "2026-07-30T21:15:41.140Z"
+  },
+  {
+    "id": "ent_Document_79aecb06819a23f7",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-21_LARGE OPENING – BOXED SILL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-21-large-opening-boxed-sill-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-21_LARGE-OPENING-BOXED-SILL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7e14d4de2c4eb48c",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.140Z",
+    "updatedAt": "2026-07-30T21:15:41.140Z"
+  },
+  {
+    "id": "ent_Document_cca5365266691632",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-22_SMALL OPENING – SINGLE TRACK HEADER AND SILL, SINGLE JAMB",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-22-small-opening-single-track-header-and-sill-single-jamb-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-22_SMALL-OPENING-SINGLE-TRACK-HEADER-AND-SILL-SINGLE-JAMB.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b98b20db5bf52014",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.140Z",
+    "updatedAt": "2026-07-30T21:15:41.141Z"
+  },
+  {
+    "id": "ent_Document_8cbd2b43d8ced7f2",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-23_EXTERIOR WALL – JOIST PERPENDICULAR TO WALL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-23-exterior-wall-joist-perpendicular-to-wall-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-23_EXTERIOR-WALL-JOIST-PERPENDICULAR-TO-WALL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6482237d30ba8cf0",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.141Z",
+    "updatedAt": "2026-07-30T21:15:41.142Z"
+  },
+  {
+    "id": "ent_Document_aa6d57bd84a6f111",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-24_EXTERIOR WALL – JOIST PARALLEL TO WALL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-24-exterior-wall-joist-parallel-to-wall-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-24_EXTERIOR-WALL-JOIST-PARALLEL-TO-WALL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8d71897f2788c51f",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.143Z",
+    "updatedAt": "2026-07-30T21:15:41.143Z"
+  },
+  {
+    "id": "ent_Document_93c1432f16651ffd",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-25_EXTERIOR WALL – PRECAST CONCRETE HOLLOW CORE PLANKS",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-25-exterior-wall-precast-concrete-hollow-core-planks-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-25_EXTERIOR-WALL-PRECAST-CONCRETE-HOLLOW-CORE-PLANKS.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_9aba99ad52299cc1",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.144Z",
+    "updatedAt": "2026-07-30T21:15:41.145Z"
+  },
+  {
+    "id": "ent_Document_53335d59ab929295",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-26_EXTERIOR WALL – BAR JOIST OVER STUD",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-26-exterior-wall-bar-joist-over-stud-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-26_EXTERIOR-WALL-BAR-JOIST-OVER-STUD.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b661935b122284a6",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.145Z",
+    "updatedAt": "2026-07-30T21:15:41.146Z"
+  },
+  {
+    "id": "ent_Document_3a2af420fd232e47",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-28_EXTERIOR WALL – CORNER TIE",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-28-exterior-wall-corner-tie-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-28_EXTERIOR-WALL-CORNER-TIE.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_0475b0a7eb7058d4",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.146Z",
+    "updatedAt": "2026-07-30T21:15:41.147Z"
+  },
+  {
+    "id": "ent_Document_5c91315753318126",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-29_INTERIOR WALL – CONTINUOUS JOISTS BEARING OVER STUD WALL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-29-interior-wall-continuous-joists-bearing-over-stud-wall-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-29_INTERIOR-WALL-CONTINUOUS-JOISTS-BEARING-OVER-STUD-WALL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e34b858c84376f0c",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.148Z",
+    "updatedAt": "2026-07-30T21:15:41.149Z"
+  },
+  {
+    "id": "ent_Document_ee30da4df609f30b",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-30_INTERIOR WALL – LAPPED JOISTS BEARING OVER STUD WALL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-30-interior-wall-lapped-joists-bearing-over-stud-wall-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-30_INTERIOR-WALL-LAPPED-JOISTS-BEARING-OVER-STUD-WALL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_9c5f9e55ce07f019",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.150Z",
+    "updatedAt": "2026-07-30T21:15:41.150Z"
+  },
+  {
+    "id": "ent_Document_33550b56985287e3",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-31_INTERIOR WALL – CORNER TIE",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-31-interior-wall-corner-tie-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-31_INTERIOR-WALL-CORNER-TIE.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f41dff8f987e91ef",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.151Z",
+    "updatedAt": "2026-07-30T21:15:41.151Z"
+  },
+  {
+    "id": "ent_Document_9119490868a4d915",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-32_SHEARWALL – CEMCO SURE-BOARD STRUCTURAL PANEL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-32-shearwall-cemco-sure-board-structural-panel-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-32_SHEARWALL-CEMCO-SURE-BOARD-STRUCTURAL-PANEL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_3ba4cfc8a326b7b8",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.152Z",
+    "updatedAt": "2026-07-30T21:15:41.153Z"
+  },
+  {
+    "id": "ent_Document_653f831b6e3c3332",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-33_SHEARWALL – CEMCO SURE-BOARD STRUCTURAL PANEL",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-33-shearwall-cemco-sure-board-structural-panel-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-33_SHEARWALL-CEMCO-SURE-BOARD-STRUCTURAL-PANEL.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_1b3c614f02b4b6b9",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.154Z",
+    "updatedAt": "2026-07-30T21:15:41.155Z"
+  },
+  {
+    "id": "ent_Document_471c613ebf98d6a9",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-34_SHEARWALL – X-BRACING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-34-shearwall-x-bracing-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-34_SHEARWALL-X-BRACING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_38e749b27eb486f0",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.156Z",
+    "updatedAt": "2026-07-30T21:15:41.157Z"
+  },
+  {
+    "id": "ent_Document_831b0b3b6467033e",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "LBS-35_SHEARWALL – X-BRACING",
+    "normalizedKey": "https-cemcosteel-com-app-uploads-2020-05-lbs-35-shearwall-x-bracing-pdf",
+    "properties": {
+      "href": "https://cemcosteel.com/app/uploads/2020/05/LBS-35_SHEARWALL-X-BRACING.pdf",
+      "fileType": "pdf",
+      "status": "unknown",
+      "documentTypeId": "ent_DocumentType_6a74daf6a0617051"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_77a1988c1f467d36",
+      "ev_d6007e32dab8e90f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.157Z",
+    "updatedAt": "2026-07-30T21:15:41.158Z"
   }
 ]

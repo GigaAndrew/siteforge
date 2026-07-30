@@ -749,5 +749,186 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.646Z",
     "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "ent_Product_c468e9b25f804d9a",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty Products and Accessories in the United States.",
+    "normalizedKey": "cemco-is-the-premier-manufacturer-of-steel-framing-metal-lath-and-specialty-products-and-accessories-in-the-united-states",
+    "properties": {
+      "family": "framing",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty Products and Accessories in the United States. Explore Our Products Create a Sub"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ccfe4ecc42ed7a66"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.907Z",
+    "updatedAt": "2026-07-30T21:15:40.907Z"
+  },
+  {
+    "id": "ent_Product_6a0e5feb098af246",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Products",
+    "normalizedKey": "products",
+    "properties": {
+      "family": "framing",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Products Home›Products Steel Framing Products CEMCO’s structural framing products are manufactured to the strict tolerances set forth by the 2021, 2018, and "
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e5381ab5cda70d8a"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.908Z",
+    "updatedAt": "2026-07-30T21:15:40.908Z"
+  },
+  {
+    "id": "ent_Product_044f2d2122a04502",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "CST Slotted Track UL Assemblies",
+    "normalizedKey": "cst-slotted-track-ul-assemblies",
+    "properties": {
+      "family": "track",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CST Slotted Track UL Assemblies Home›Resources›UL Fire Rated Assemblies›CST Slotted Track UL Assemblies UL Fire Rated Assemblies Using CEMCO's CST, CST325 Br"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_71c585b54cb89e38"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.909Z",
+    "updatedAt": "2026-07-30T21:15:40.909Z"
+  },
+  {
+    "id": "ent_Product_0d575f4703b39e0e",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "ViperStud Sound Test Reports",
+    "normalizedKey": "viperstud-sound-test-reports",
+    "properties": {
+      "family": "stud",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL ViperStud Sound Test Reports Home›Resources›Sound Test Reports›ViperStud Sound Test Reports ViperStud Sound Test Reports STC-57 2_layer_2_layer_ViperStud_16 "
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_536277485e61cbd5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.910Z",
+    "updatedAt": "2026-07-30T21:15:40.910Z"
+  },
+  {
+    "id": "ent_Product_0b151aab8dbac5e4",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Typical Details-Water Management Products",
+    "normalizedKey": "typical-details-water-management-products",
+    "properties": {
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Water Management Products Home›Resources›Typical Details & REVIT Files›Typical Details- Water Management Products Typical Details for Water M"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f30c5f8aa74e09b2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.913Z",
+    "updatedAt": "2026-07-30T21:15:40.913Z"
+  },
+  {
+    "id": "ent_Product_0f46e49a18a0dac2",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "ViperStud UL Assemblies",
+    "normalizedKey": "viperstud-ul-assemblies",
+    "properties": {
+      "family": "stud",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL ViperStud UL Assemblies Home›Resources›UL Fire Rated Assemblies›ViperStud UL Assemblies UL Fire Rated Wall Assemblies for CEMCO's ViperStud Interior Non-Load"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c23c7fb7a62d01b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.915Z",
+    "updatedAt": "2026-07-30T21:15:40.915Z"
+  },
+  {
+    "id": "ent_Product_37d30d317a33ca95",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Firestop Solutions and UL Assemblies",
+    "normalizedKey": "firestop-solutions-and-ul-assemblies",
+    "properties": {
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Firestop Solutions and UL Assemblies Home›Resources›UL Fire Rated Assemblies›Firestop Solutions and UL Assemblies UL Fire Rated Assemblies for Pre-Formed Fir"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6a02bdf1323769b0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.917Z",
+    "updatedAt": "2026-07-30T21:15:40.917Z"
+  },
+  {
+    "id": "ent_Product_d8b6c1768cc49265",
+    "schemaVersion": "1.0.0",
+    "type": "Product",
+    "name": "Typical Details-FAS Products",
+    "normalizedKey": "typical-details-fas-products",
+    "properties": {
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-FAS Products Home›Resources›Typical Details & REVIT Files›Typical Details-FAS Products Download Typical Details for FAS Products SD101-HW-D-0"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bc2f5e0100ef8b79"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.919Z",
+    "updatedAt": "2026-07-30T21:15:40.919Z"
   }
 ]

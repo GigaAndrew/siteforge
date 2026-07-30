@@ -2,6 +2,9 @@ import type { CapabilityHandler } from "@/forge-core/capabilities/types";
 
 const handlers = new Map<string, CapabilityHandler>();
 let bootstrapped = false;
+/** Serializes bootstrap; survives parallel vitest contention. */
+let bootstrapPromise: Promise<void> | null = null;
+let bootstrapEpoch = 0;
 
 export function registerCapability(handler: CapabilityHandler): void {
   const name = handler.descriptor.name;
@@ -33,13 +36,32 @@ export function listCapabilities(): CapabilityHandler[] {
 export function clearRegistryForTests(): void {
   handlers.clear();
   bootstrapped = false;
+  bootstrapPromise = null;
+  bootstrapEpoch += 1;
 }
 
 export async function ensureCapabilitiesRegistered(): Promise<void> {
   if (bootstrapped && handlers.size > 0) return;
-  const { registerAllCapabilities } = await import(
-    "@/forge-core/capabilities/register-all"
-  );
-  registerAllCapabilities();
-  bootstrapped = true;
+  const epoch = bootstrapEpoch;
+  if (!bootstrapPromise) {
+    bootstrapPromise = (async () => {
+      const { registerAllCapabilities } = await import(
+        "@/forge-core/capabilities/register-all"
+      );
+      // A parallel clearRegistryForTests() invalidates this attempt.
+      if (epoch !== bootstrapEpoch) return;
+      registerAllCapabilities();
+      if (epoch === bootstrapEpoch) bootstrapped = true;
+    })().catch((err) => {
+      if (epoch === bootstrapEpoch) {
+        bootstrapPromise = null;
+        bootstrapped = false;
+      }
+      throw err;
+    });
+  }
+  await bootstrapPromise;
+  if ((!bootstrapped || handlers.size === 0) && epoch !== bootstrapEpoch) {
+    return ensureCapabilitiesRegistered();
+  }
 }

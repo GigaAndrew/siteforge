@@ -1,0 +1,24 @@
+[
+  {
+    "id": "orev_ac713f9416aa0a",
+    "projectSlug": "cemco",
+    "observationId": "bobs_6b65b2e7bef0d8a6",
+    "decision": "accepted",
+    "reviewer": "sprint6-reviewer",
+    "rationale": "Present state supported by normalization mapping and evidence IDs; no override",
+    "originalState": "present",
+    "resultingState": "present",
+    "originalNormalized": 1,
+    "resultingNormalized": 1,
+    "evidenceIds": [
+      "ev_e5ebe582fa80bdbf"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "artifactDigest": "97f3c227c023f9f30c540f95",
+    "timestamp": "2026-07-30T21:18:16.455Z",
+    "valid": true,
+    "invalidatedReason": null,
+    "materialOverride": false
+  }
+]

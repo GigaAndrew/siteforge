@@ -1,0 +1,18 @@
+{
+  "name": "CEMCO",
+  "slug": "cemco",
+  "websiteUrl": "https://cemcosteel.com/",
+  "approvedHosts": [
+    "cemcosteel.com",
+    "www.cemcosteel.com"
+  ],
+  "industry": "Cold-formed steel framing and building products",
+  "maxCrawlPages": 40,
+  "crawlDelayMs": 750,
+  "prototypeDepth": "website_plus_interactive_tools",
+  "modules": [],
+  "notes": "Live Sprint 6 peer manufacturer for validation cohort. Not synthetic.",
+  "stage": "audit_generated",
+  "createdAt": "2026-07-30T21:12:44.487Z",
+  "updatedAt": "2026-07-30T21:15:32.866Z"
+}

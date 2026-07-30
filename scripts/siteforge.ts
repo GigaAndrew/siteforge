@@ -47,8 +47,10 @@ Commands:
   reset-node  --node <nodeId>
   normalize              --slug <project> [--dry-run] [--rebuild]
   normalization-status   --slug <project>
-  normalization-review   --slug <project>
-  normalization-confirm  --slug <project> --mapping <id> --concept <id>
+  normalization-review   --slug <project> [--status queue|ambiguous|...] [--method ...]
+  normalization-confirm  --slug <project> --mapping <id> --concept <id> [--reason ...]
+  normalization-reject   --slug <project> --mapping <id> [--reason ...]
+  normalization-unresolve --slug <project> --mapping <id> [--reason ...]
   compare                --slugs a,b
   seed-peer              Seed second-manufacturer fixture + normalize
   benchmark-list
@@ -60,6 +62,8 @@ Commands:
   benchmark-compare      --slugs a,b
   benchmark-approve      --key <approvalKey> [--benchmark <id>]
   benchmark-seed
+  benchmark-observation-review --slug <p> --observation <id> --decision <d>
+  benchmark-cohort       --live-cohort | --slugs a,b
 
 Options:
   --slug <slug>
@@ -79,6 +83,8 @@ const NORMALIZATION_COMMANDS = new Set([
   "normalization-status",
   "normalization-review",
   "normalization-confirm",
+  "normalization-reject",
+  "normalization-unresolve",
   "compare",
   "seed-peer",
 ]);
@@ -93,6 +99,8 @@ const BENCHMARK_COMMANDS = new Set([
   "benchmark-compare",
   "benchmark-approve",
   "benchmark-seed",
+  "benchmark-observation-review",
+  "benchmark-cohort",
 ]);
 
 async function main() {

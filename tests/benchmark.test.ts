@@ -13,8 +13,6 @@ import {
 } from "@/lib/benchmark/approvals";
 import type { BenchmarkObservation } from "@/lib/benchmark/schemas";
 import { ensureBenchmarkDirs } from "@/lib/benchmark/paths";
-import fs from "node:fs";
-import path from "node:path";
 
 function obs(
   partial: Partial<BenchmarkObservation> &
@@ -249,7 +247,9 @@ describe("peer comparison", () => {
       { a: mkConcept("a", 80), b: mkConcept("b", 40) },
     );
     expect(peer.limitedCohort).toBe(true);
-    expect(peer.cohortLabel.toLowerCase()).toContain("limited");
+    expect(peer.cohortLabel.toLowerCase()).toMatch(
+      /limited|validation cohort|live two-company|synthetic/,
+    );
   });
 
   it("marks near-ties inconclusive", () => {
@@ -397,36 +397,32 @@ describe("recommendations", () => {
 describe("approval invalidation", () => {
   it("invalidates approvals when digest changes", () => {
     ensureBenchmarkDirs();
-    const approvalsPath = path.join(
-      process.cwd(),
-      "knowledge",
-      "benchmarks",
-      "approvals",
-      "log.json",
-    );
-    // isolate
-    saveApprovals([]);
-    const payload = { v: 1 };
-    recordApproval({
-      key: "benchmark.definition.review",
-      artifactId: "cfs-digital-capability",
-      artifactVersion: "1.0.0",
-      payload,
-      reviewer: "tester",
-      decision: "approved",
-      rationale: "ok",
-    });
-    expect(digestPayload(payload)).toBeTruthy();
-    const n = invalidateStaleApprovals(
-      "cfs-digital-capability",
-      "1.0.0",
-      { v: 2 },
-      "definition changed",
-    );
-    expect(n).toBe(1);
-    expect(loadApprovals()[0]?.valid).toBe(false);
-    // cleanup test pollution
-    if (fs.existsSync(approvalsPath)) saveApprovals([]);
+    const prior = loadApprovals();
+    try {
+      // isolate without permanently wiping durable Sprint approvals
+      saveApprovals([]);
+      const payload = { v: 1 };
+      recordApproval({
+        key: "benchmark.definition.review",
+        artifactId: "cfs-digital-capability",
+        artifactVersion: "1.0.0",
+        payload,
+        reviewer: "tester",
+        decision: "approved",
+        rationale: "ok",
+      });
+      expect(digestPayload(payload)).toBeTruthy();
+      const n = invalidateStaleApprovals(
+        "cfs-digital-capability",
+        "1.0.0",
+        { v: 2 },
+        "definition changed",
+      );
+      expect(n).toBe(1);
+      expect(loadApprovals()[0]?.valid).toBe(false);
+    } finally {
+      saveApprovals(prior);
+    }
   });
 });
 

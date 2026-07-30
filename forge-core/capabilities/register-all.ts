@@ -1,4 +1,7 @@
-import { registerCapability } from "@/forge-core/capabilities/registry";
+import {
+  getCapability,
+  registerCapability,
+} from "@/forge-core/capabilities/registry";
 import type {
   CapabilityContext,
   CapabilityHandler,
@@ -887,5 +890,8 @@ export function registerAllCapabilities(): void {
     lessons,
     improvements,
   ];
-  for (const h of all) registerCapability(h);
+  // Idempotent: parallel test files may race into bootstrap after a clear.
+  for (const h of all) {
+    if (!getCapability(h.descriptor.name)) registerCapability(h);
+  }
 }

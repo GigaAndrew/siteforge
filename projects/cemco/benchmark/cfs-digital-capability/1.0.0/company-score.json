@@ -1,0 +1,23 @@
+{
+  "level": "company",
+  "id": "company:cemco:cfs-digital-capability:1.0.0",
+  "label": "cemco",
+  "projectSlug": "cemco",
+  "rawScore": 75.08333333333333,
+  "weightedScore": 75.08333333333333,
+  "confidence": 0.6203030303030301,
+  "evidenceCoverage": 0.5000000000000001,
+  "completeness": 0.5000000000000001,
+  "uncertainty": 0.37969696969696987,
+  "exclusions": [],
+  "caveats": [
+    "Overall score is weighted across eligible dimensions only; see component scores",
+    "Candidate patterns excluded from benchmark criteria (remain unapproved)"
+  ],
+  "benchmarkId": "cfs-digital-capability",
+  "benchmarkVersion": "1.0.0",
+  "eligible": true,
+  "calculationTrace": [
+    "eligibleDims=11 weightSum=1.000 overall=75.08"
+  ]
+}

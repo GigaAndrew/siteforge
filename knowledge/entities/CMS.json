@@ -20,5 +20,27 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.675Z",
     "updatedAt": "2026-07-30T19:20:20.675Z"
+  },
+  {
+    "id": "ent_CMS_337d28b021748f04",
+    "schemaVersion": "1.0.0",
+    "type": "CMS",
+    "name": "WordPress",
+    "normalizedKey": "wordpress",
+    "properties": {
+      "technologyId": "ent_Technology_2818be60599d7309"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7fc4e7017d8c52ce"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.209Z",
+    "updatedAt": "2026-07-30T21:15:41.209Z"
   }
 ]

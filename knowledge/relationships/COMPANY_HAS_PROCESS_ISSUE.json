@@ -58,5 +58,65 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_PROCESS_ISSUE_e83dfc3cc05f1b5b",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_PROCESS_ISSUE",
+    "fromId": "ent_Company_99f3a7b461683d8a",
+    "toId": "ent_ProcessIssue_7afc3e26a724168e",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e9c2642c95e0a50f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.256Z",
+    "updatedAt": "2026-07-30T21:15:41.256Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_PROCESS_ISSUE_72330b7247b5a40c",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_PROCESS_ISSUE",
+    "fromId": "ent_Company_99f3a7b461683d8a",
+    "toId": "ent_ProcessIssue_ea8eb50b3e31f3ba",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_28dc3122aa6a1a82"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.257Z",
+    "updatedAt": "2026-07-30T21:15:41.257Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_PROCESS_ISSUE_099c1de74939af0d",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_PROCESS_ISSUE",
+    "fromId": "ent_Company_99f3a7b461683d8a",
+    "toId": "ent_ProcessIssue_eaf5d40306df6f7c",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5560c8f5f47fefc8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.262Z",
+    "updatedAt": "2026-07-30T21:15:41.262Z"
   }
 ]

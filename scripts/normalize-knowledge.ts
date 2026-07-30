@@ -13,7 +13,10 @@ import {
   normalizationReviewQueue,
   normalizationStatus,
   confirmMapping,
+  rejectMapping,
+  unresolveMapping,
 } from "@/lib/normalization/engine";
+import { loadMappingReviewLog } from "@/lib/normalization/review-audit";
 import { compareProjects } from "@/lib/normalization/compare";
 import { refreshCanonicalCandidatePatterns } from "@/lib/normalization/patterns";
 import { ensureConceptRegistry } from "@/lib/normalization/registry";
@@ -85,21 +88,50 @@ export async function runNormalizationCommand(command: string): Promise<void> {
       const slug = arg("--slug");
       if (!slug) throw new Error("--slug required");
       assertValidProjectSlug(slug);
-      const queue = normalizationReviewQueue(slug);
+      const statusArg = arg("--status") as
+        | "queue"
+        | "ambiguous"
+        | "unreviewed"
+        | "confirmed"
+        | "rejected"
+        | "below_threshold"
+        | "all"
+        | undefined;
+      const queue = normalizationReviewQueue(slug, {
+        status: statusArg ?? "queue",
+        method: arg("--method") as
+          | "exact"
+          | "alias"
+          | "semantic"
+          | "structural"
+          | "manually_reviewed"
+          | undefined,
+        minConfidence: arg("--min-confidence")
+          ? Number(arg("--min-confidence"))
+          : undefined,
+        maxConfidence: arg("--max-confidence")
+          ? Number(arg("--max-confidence"))
+          : undefined,
+      });
+      const limit = arg("--limit") ? Number(arg("--limit")) : 40;
       console.log(
         JSON.stringify(
           {
             slug: queue.slug,
             count: queue.count,
-            items: queue.items.slice(0, 40).map((m) => ({
+            filter: statusArg ?? "queue",
+            items: queue.items.slice(0, limit).map((m) => ({
               id: m.id,
               label: m.originalLabel,
               concept: m.canonicalConceptId,
               confidence: m.mappingConfidence,
               method: m.mappingMethod,
               status: m.reviewStatus,
+              belowThreshold: m.belowThreshold,
+              evidenceIds: m.evidenceIds,
               notes: m.ambiguityNotes,
             })),
+            auditCount: loadMappingReviewLog(slug).length,
           },
           null,
           2,
@@ -120,6 +152,35 @@ export async function runNormalizationCommand(command: string): Promise<void> {
         mappingId,
         conceptId,
         arg("--actor") ?? "human",
+        arg("--reason") ?? "",
+      );
+      console.log(JSON.stringify(m, null, 2));
+      break;
+    }
+    case "normalization-reject": {
+      const slug = arg("--slug");
+      const mappingId = arg("--mapping");
+      if (!slug || !mappingId) throw new Error("--slug --mapping required");
+      assertValidProjectSlug(slug);
+      const m = rejectMapping(
+        slug,
+        mappingId,
+        arg("--actor") ?? "human",
+        arg("--reason") ?? "Rejected by reviewer",
+      );
+      console.log(JSON.stringify(m, null, 2));
+      break;
+    }
+    case "normalization-unresolve": {
+      const slug = arg("--slug");
+      const mappingId = arg("--mapping");
+      if (!slug || !mappingId) throw new Error("--slug --mapping required");
+      assertValidProjectSlug(slug);
+      const m = unresolveMapping(
+        slug,
+        mappingId,
+        arg("--actor") ?? "human",
+        arg("--reason") ?? "Left unresolved pending better evidence",
       );
       console.log(JSON.stringify(m, null, 2));
       break;

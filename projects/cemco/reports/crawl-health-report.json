@@ -1,0 +1,26 @@
+{
+  "projectSlug": "cemco",
+  "generatedAt": "2026-07-30T21:15:17.481Z",
+  "startUrl": "https://cemcosteel.com/",
+  "preferredHost": "cemcosteel.com",
+  "pagesAttempted": 40,
+  "pagesSucceeded": 40,
+  "uniqueCanonicalPages": 40,
+  "retries": 0,
+  "retrySuccesses": 0,
+  "permanentFailures": 0,
+  "robotsSkipped": 0,
+  "documentLinksSkipped": 0,
+  "downloadBlocked": 0,
+  "rateLimited": 0,
+  "timeouts": 0,
+  "encodingFailures": 0,
+  "encodingSalvages": 0,
+  "duplicatesCollapsed": 0,
+  "queueDuplicatesSkipped": 1,
+  "skippedUrls": [],
+  "permanentFailureSamples": [],
+  "notes": [
+    "Sprint 2 crawler: canonical host collapse, retries, encoding normalize log"
+  ]
+}

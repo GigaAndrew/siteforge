@@ -26,6 +26,10 @@ import {
   projectNormalizationDir,
 } from "@/lib/normalization/paths";
 import { readProjectConfig } from "@/lib/project";
+import {
+  appendMappingReview,
+  mappingDigest,
+} from "@/lib/normalization/review-audit";
 
 export type NormalizeOptions = {
   slug: string;
@@ -261,27 +265,60 @@ export function normalizationStatus(slug: string): ProjectNormalizationStatus {
   return result.status;
 }
 
-export function normalizationReviewQueue(slug: string): {
+export type NormalizationReviewFilter = {
+  status?: AliasMapping["reviewStatus"] | "queue" | "below_threshold" | "all";
+  method?: AliasMapping["mappingMethod"];
+  minConfidence?: number;
+  maxConfidence?: number;
+};
+
+export function normalizationReviewQueue(
+  slug: string,
+  filter: NormalizationReviewFilter = {},
+): {
   slug: string;
   count: number;
   items: AliasMapping[];
 } {
-  const mappings = loadExistingMappings(slug);
+  let mappings = loadExistingMappings(slug);
   if (!mappings.length) {
     const result = normalizeProject({ slug, dryRun: true });
-    return {
-      slug,
-      count: result.reviewQueue.length,
-      items: result.reviewQueue,
-    };
+    mappings = result.mappings;
   }
-  const items = mappings.filter(
-    (m) =>
-      m.reviewStatus === "ambiguous" ||
-      (m.belowThreshold && m.mappingConfidence > 0) ||
-      (m.reviewStatus === "unreviewed" && m.mappingConfidence > 0 && !m.canonicalConceptId),
-  );
+
+  const status = filter.status ?? "queue";
+  let items = mappings;
+  if (status === "queue") {
+    items = mappings.filter(
+      (m) =>
+        m.reviewStatus === "ambiguous" ||
+        (m.belowThreshold && m.mappingConfidence > 0) ||
+        (m.reviewStatus === "unreviewed" &&
+          m.mappingConfidence > 0 &&
+          !m.canonicalConceptId),
+    );
+  } else if (status === "below_threshold") {
+    items = mappings.filter((m) => m.belowThreshold);
+  } else if (status !== "all") {
+    items = mappings.filter((m) => m.reviewStatus === status);
+  }
+  if (filter.method) {
+    items = items.filter((m) => m.mappingMethod === filter.method);
+  }
+  if (typeof filter.minConfidence === "number") {
+    items = items.filter((m) => m.mappingConfidence >= filter.minConfidence!);
+  }
+  if (typeof filter.maxConfidence === "number") {
+    items = items.filter((m) => m.mappingConfidence <= filter.maxConfidence!);
+  }
   return { slug, count: items.length, items };
+}
+
+function persistReviewedMappings(slug: string, mappings: AliasMapping[]): void {
+  persistProjectMappings(slug, mappings);
+  const status = buildStatus(slug, mappings, projectEntities(slug).length, false);
+  persistGlobalProjectIndex(slug, mappings, status);
+  writeJson(`${projectNormalizationDir(slug)}/status.json`, status);
 }
 
 export function confirmMapping(
@@ -289,26 +326,124 @@ export function confirmMapping(
   mappingIdValue: string,
   conceptId: string,
   reviewer = "human",
+  rationale = "",
 ): AliasMapping {
   const mappings = loadExistingMappings(slug);
   const idx = mappings.findIndex((m) => m.id === mappingIdValue);
   if (idx === -1) throw new Error(`Mapping not found: ${mappingIdValue}`);
+  const prev = mappings[idx]!;
   const ts = new Date().toISOString();
   const next: AliasMapping = {
-    ...mappings[idx]!,
+    ...prev,
     canonicalConceptId: conceptId,
     mappingMethod: "manually_reviewed",
-    mappingConfidence: Math.max(mappings[idx]!.mappingConfidence, 0.95),
+    mappingConfidence: Math.max(prev.mappingConfidence, 0.95),
     reviewStatus: "confirmed",
     belowThreshold: false,
-    ambiguityNotes: `Confirmed by ${reviewer}`,
+    ambiguityNotes: rationale || `Confirmed by ${reviewer}`,
     updatedAt: ts,
   };
   mappings[idx] = next;
-  persistProjectMappings(slug, mappings);
-  const status = buildStatus(slug, mappings, projectEntities(slug).length, false);
-  persistGlobalProjectIndex(slug, mappings, status);
-  writeJson(`${projectNormalizationDir(slug)}/status.json`, status);
+  persistReviewedMappings(slug, mappings);
+  appendMappingReview(slug, {
+    projectSlug: slug,
+    mappingId: next.id,
+    decision: "confirmed",
+    reviewer,
+    rationale: rationale || `Confirmed concept ${conceptId}`,
+    originalStatus: prev.reviewStatus,
+    resultingStatus: "confirmed",
+    originalConceptId: prev.canonicalConceptId,
+    resultingConceptId: conceptId,
+    evidenceIds: [...next.evidenceIds],
+    artifactDigest: mappingDigest(next),
+    mappingVersion: next.version,
+    timestamp: ts,
+    valid: true,
+    invalidatedReason: null,
+  });
+  return next;
+}
+
+export function rejectMapping(
+  slug: string,
+  mappingIdValue: string,
+  reviewer = "human",
+  rationale = "Rejected by reviewer",
+): AliasMapping {
+  const mappings = loadExistingMappings(slug);
+  const idx = mappings.findIndex((m) => m.id === mappingIdValue);
+  if (idx === -1) throw new Error(`Mapping not found: ${mappingIdValue}`);
+  const prev = mappings[idx]!;
+  const ts = new Date().toISOString();
+  const next: AliasMapping = {
+    ...prev,
+    reviewStatus: "rejected",
+    belowThreshold: true,
+    ambiguityNotes: rationale,
+    updatedAt: ts,
+  };
+  mappings[idx] = next;
+  persistReviewedMappings(slug, mappings);
+  appendMappingReview(slug, {
+    projectSlug: slug,
+    mappingId: next.id,
+    decision: "rejected",
+    reviewer,
+    rationale,
+    originalStatus: prev.reviewStatus,
+    resultingStatus: "rejected",
+    originalConceptId: prev.canonicalConceptId,
+    resultingConceptId: prev.canonicalConceptId,
+    evidenceIds: [...next.evidenceIds],
+    artifactDigest: mappingDigest(next),
+    mappingVersion: next.version,
+    timestamp: ts,
+    valid: true,
+    invalidatedReason: null,
+  });
+  return next;
+}
+
+/** Return mapping to unreviewed/unresolved without inventing a concept. */
+export function unresolveMapping(
+  slug: string,
+  mappingIdValue: string,
+  reviewer = "human",
+  rationale = "Left unresolved pending better evidence",
+): AliasMapping {
+  const mappings = loadExistingMappings(slug);
+  const idx = mappings.findIndex((m) => m.id === mappingIdValue);
+  if (idx === -1) throw new Error(`Mapping not found: ${mappingIdValue}`);
+  const prev = mappings[idx]!;
+  const ts = new Date().toISOString();
+  const next: AliasMapping = {
+    ...prev,
+    reviewStatus: prev.ambiguityNotes.toLowerCase().includes("ambiguous")
+      ? "ambiguous"
+      : "unreviewed",
+    ambiguityNotes: rationale,
+    updatedAt: ts,
+  };
+  mappings[idx] = next;
+  persistReviewedMappings(slug, mappings);
+  appendMappingReview(slug, {
+    projectSlug: slug,
+    mappingId: next.id,
+    decision: "unresolved",
+    reviewer,
+    rationale,
+    originalStatus: prev.reviewStatus,
+    resultingStatus: next.reviewStatus,
+    originalConceptId: prev.canonicalConceptId,
+    resultingConceptId: next.canonicalConceptId,
+    evidenceIds: [...next.evidenceIds],
+    artifactDigest: mappingDigest(next),
+    mappingVersion: next.version,
+    timestamp: ts,
+    valid: true,
+    invalidatedReason: null,
+  });
   return next;
 }
 

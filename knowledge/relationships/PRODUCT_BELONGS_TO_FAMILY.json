@@ -381,5 +381,105 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.647Z",
     "updatedAt": "2026-07-30T19:20:20.647Z"
+  },
+  {
+    "id": "rel_PRODUCT_BELONGS_TO_FAMILY_453ad4ff5d4e5f8f",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_BELONGS_TO_FAMILY",
+    "fromId": "ent_Product_c468e9b25f804d9a",
+    "toId": "ent_ProductFamily_ee57f74a6e7cb020",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_ccfe4ecc42ed7a66"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.908Z",
+    "updatedAt": "2026-07-30T21:15:40.908Z"
+  },
+  {
+    "id": "rel_PRODUCT_BELONGS_TO_FAMILY_921a7e05d1ea3835",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_BELONGS_TO_FAMILY",
+    "fromId": "ent_Product_6a0e5feb098af246",
+    "toId": "ent_ProductFamily_ee57f74a6e7cb020",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e5381ab5cda70d8a"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.909Z",
+    "updatedAt": "2026-07-30T21:15:40.909Z"
+  },
+  {
+    "id": "rel_PRODUCT_BELONGS_TO_FAMILY_5c0ad8cc30df2650",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_BELONGS_TO_FAMILY",
+    "fromId": "ent_Product_044f2d2122a04502",
+    "toId": "ent_ProductFamily_5741adc2c5b6c76b",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_71c585b54cb89e38"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.910Z",
+    "updatedAt": "2026-07-30T21:15:40.910Z"
+  },
+  {
+    "id": "rel_PRODUCT_BELONGS_TO_FAMILY_13284ca0a2bd864c",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_BELONGS_TO_FAMILY",
+    "fromId": "ent_Product_0d575f4703b39e0e",
+    "toId": "ent_ProductFamily_85ec8c01ef397da5",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_536277485e61cbd5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.911Z",
+    "updatedAt": "2026-07-30T21:15:40.911Z"
+  },
+  {
+    "id": "rel_PRODUCT_BELONGS_TO_FAMILY_302e89a59e61d63d",
+    "schemaVersion": "1.0.0",
+    "type": "PRODUCT_BELONGS_TO_FAMILY",
+    "fromId": "ent_Product_0f46e49a18a0dac2",
+    "toId": "ent_ProductFamily_85ec8c01ef397da5",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_c23c7fb7a62d01b3"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.915Z",
+    "updatedAt": "2026-07-30T21:15:40.915Z"
   }
 ]

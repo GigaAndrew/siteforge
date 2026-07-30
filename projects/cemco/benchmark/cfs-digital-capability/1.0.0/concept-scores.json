@@ -1,0 +1,466 @@
+[
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_document-center",
+    "label": "Document Center",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_document-center",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.95,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.050000000000000044,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_engineering-calculator",
+    "label": "Engineering Calculator",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_engineering-calculator",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_product-selector",
+    "label": "Product Selector",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_product-selector",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_submittal-workflow",
+    "label": "Submittal Workflow",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.95,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.050000000000000044,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_technical-resources",
+    "label": "Technical Resources",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_technical-resources",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_product-catalog",
+    "label": "Product Catalog",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_product-catalog",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_product-data-sheet",
+    "label": "Product Data Sheet",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_product-data-sheet",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_installation-guide",
+    "label": "Installation Guide",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_installation-guide",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_specification",
+    "label": "Specification",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_specification",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_cad-bim-resource",
+    "label": "CAD/BIM Resource",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_cad-bim-resource",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_code-report",
+    "label": "Code Report",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_code-report",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_engineering-table",
+    "label": "Engineering Table",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_engineering-table",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_limiting-height-tool",
+    "label": "Limiting Height Tool",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_limiting-height-tool",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_product-family",
+    "label": "Product Family",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_product-family",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_product-detail",
+    "label": "Product Detail",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_product-detail",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_contact-rep-locator",
+    "label": "Contact / Rep Locator",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_contact-rep-locator",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.95,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.050000000000000044,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_search-experience",
+    "label": "Search Experience",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_search-experience",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 55.00000000000001,
+    "confidence": 0.82,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.18000000000000005,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.55 → raw=55.00000000000001"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_navigation-pattern",
+    "label": "Navigation Pattern",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_navigation-pattern",
+    "rawScore": 100,
+    "weightedScore": 100,
+    "confidence": 0.95,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.050000000000000044,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=present normalized=1 → raw=100"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_download-workflow",
+    "label": "Download Workflow",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_download-workflow",
+    "rawScore": null,
+    "weightedScore": null,
+    "confidence": 0.35,
+    "evidenceCoverage": 0,
+    "completeness": 0,
+    "uncertainty": 0.65,
+    "exclusions": [
+      "unknown_not_scored_as_absent"
+    ],
+    "caveats": [
+      "Unknown — insufficient evidence; not treated as absent"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": false,
+    "calculationTrace": [
+      "state=unknown → performance null, confidence retained"
+    ]
+  },
+  {
+    "level": "canonical_concept",
+    "id": "concept:cemco:canon_calculator-opportunity",
+    "label": "Calculator Opportunity",
+    "projectSlug": "cemco",
+    "canonicalConceptId": "canon_calculator-opportunity",
+    "rawScore": 25,
+    "weightedScore": 25,
+    "confidence": 0.85,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.15000000000000002,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "state=partial normalized=0.25 → raw=25"
+    ]
+  }
+]

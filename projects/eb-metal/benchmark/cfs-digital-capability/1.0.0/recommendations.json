@@ -20,7 +20,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_cb1b595b63c08d",
@@ -45,7 +45,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_72dbe47cd94459",
@@ -68,7 +68,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_505dbc557852bf",
@@ -93,7 +93,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_f201205e23f03b",
@@ -118,7 +118,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_6b828c6c81c727",
@@ -143,7 +143,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_369d770b086fba",
@@ -168,7 +168,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_f8a37b0f58e5b5",
@@ -193,7 +193,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_fa2a3c7e5f292e",
@@ -218,7 +218,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_96110b1cbc89c5",
@@ -243,7 +243,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_0be3d735aa4af0",
@@ -268,7 +268,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_f0dcd9ac58840a",
@@ -293,7 +293,7 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   },
   {
     "id": "brec_26f2aa3faa062a",
@@ -318,56 +318,6 @@
     ],
     "benchmarkId": "cfs-digital-capability",
     "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
-  },
-  {
-    "id": "brec_863f74b3c3c353",
-    "projectSlug": "eb-metal",
-    "companyName": "EB Metal US",
-    "canonicalConceptId": "canon_document-center",
-    "dimensionId": "capability_presence",
-    "kind": "confirmed_gap",
-    "observedGap": "Weaker evidenced implementation vs cohort peer (Δ=45.0); own state=partial",
-    "evidenceIds": [
-      "ev_1663aabad85b17ae"
-    ],
-    "confidence": 0.7,
-    "expectedImpact": "Users may struggle to complete related engineering/document tasks",
-    "recommendedAction": "Improve this company's own evidenced capability — peer parity is context, not the requirement",
-    "priorityRationale": "Gap supported by this company's weak/partial evidence plus conclusive cohort delta",
-    "dependencies": [],
-    "limitations": [
-      "Limited peer comparison / validation cohort",
-      "Do not copy peer UX blindly",
-      "Synthetic fixture peers are not market proof"
-    ],
-    "benchmarkId": "cfs-digital-capability",
-    "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
-  },
-  {
-    "id": "brec_7a2984283fd047",
-    "projectSlug": "eb-metal",
-    "companyName": "EB Metal US",
-    "canonicalConceptId": "canon_submittal-workflow",
-    "dimensionId": "capability_presence",
-    "kind": "confirmed_gap",
-    "observedGap": "Weaker evidenced implementation vs cohort peer (Δ=45.0); own state=partial",
-    "evidenceIds": [
-      "ev_2ceb8a20fc0fea8d"
-    ],
-    "confidence": 0.7,
-    "expectedImpact": "Users may struggle to complete related engineering/document tasks",
-    "recommendedAction": "Improve this company's own evidenced capability — peer parity is context, not the requirement",
-    "priorityRationale": "Gap supported by this company's weak/partial evidence plus conclusive cohort delta",
-    "dependencies": [],
-    "limitations": [
-      "Limited peer comparison / validation cohort",
-      "Do not copy peer UX blindly",
-      "Synthetic fixture peers are not market proof"
-    ],
-    "benchmarkId": "cfs-digital-capability",
-    "benchmarkVersion": "1.0.0",
-    "generatedAt": "2026-07-30T21:02:50.325Z"
+    "generatedAt": "2026-07-30T21:36:26.625Z"
   }
 ]

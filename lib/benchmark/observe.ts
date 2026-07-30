@@ -18,11 +18,12 @@ function obsId(parts: string[]): string {
 function isSyntheticFixture(slug: string): boolean {
   try {
     const cfg = readProjectConfig(slug);
-    return (
-      cfg.notes.toLowerCase().includes("synthetic") ||
-      cfg.notes.toLowerCase().includes("fixture") ||
-      cfg.websiteUrl.includes(".example")
-    );
+    const notes = cfg.notes.toLowerCase();
+    // .example hosts are always fixtures
+    if (cfg.websiteUrl.includes(".example")) return true;
+    // "Not synthetic" must win over a naive substring/word match on "synthetic"
+    if (/\bnot\s+synthetic\b/.test(notes)) return false;
+    return /\bsynthetic\b/.test(notes) || /\bfixture\b/.test(notes);
   } catch {
     return false;
   }

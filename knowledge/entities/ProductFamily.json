@@ -98,5 +98,125 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T20:33:30.627Z",
     "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_ProductFamily_ee57f74a6e7cb020",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "framing",
+    "normalizedKey": "framing",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_6529f55f4f4597f8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.902Z",
+    "updatedAt": "2026-07-30T21:15:40.902Z"
+  },
+  {
+    "id": "ent_ProductFamily_15fecf553f33ec11",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "joist",
+    "normalizedKey": "joist",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4a362d7f5e45894b"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.902Z",
+    "updatedAt": "2026-07-30T21:15:40.902Z"
+  },
+  {
+    "id": "ent_ProductFamily_5741adc2c5b6c76b",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "track",
+    "normalizedKey": "track",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8cf977ef8c50c864"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.903Z",
+    "updatedAt": "2026-07-30T21:15:40.903Z"
+  },
+  {
+    "id": "ent_ProductFamily_85ec8c01ef397da5",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "stud",
+    "normalizedKey": "stud",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_1558f1ef44d91790"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.904Z",
+    "updatedAt": "2026-07-30T21:15:40.904Z"
+  },
+  {
+    "id": "ent_ProductFamily_c88f44de456d1bdc",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "header",
+    "normalizedKey": "header",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_431e26097d004680"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.904Z",
+    "updatedAt": "2026-07-30T21:15:40.904Z"
+  },
+  {
+    "id": "ent_ProductFamily_da0a11fddb6ab102",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "clip",
+    "normalizedKey": "clip",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_0094b9f07e1662d2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.905Z",
+    "updatedAt": "2026-07-30T21:15:40.905Z"
   }
 ]

@@ -18,5 +18,25 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_SEO_ISSUE_9b080399b598da5e",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_SEO_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_SeoIssue_a7abb49e37a90f7b",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b355ffbc3f85a601"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.260Z",
+    "updatedAt": "2026-07-30T21:15:41.260Z"
   }
 ]

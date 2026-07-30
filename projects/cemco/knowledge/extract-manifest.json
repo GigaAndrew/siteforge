@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "cemco",
+  "extractedAt": "2026-07-30T21:15:41.302Z",
+  "sourceArtifactHashes": {
+    "data/company-profile.json": "02255efa1202215d",
+    "data/product-inventory.json": "3a1f50d1e56ba1eb",
+    "data/document-inventory.json": "b3ef34e7972a3978",
+    "analysis/digital-maturity.json": "5087fec9effffbe2",
+    "source/pages.json": "37aabdd379240074"
+  },
+  "counts": {
+    "entities": 229,
+    "relationships": 227,
+    "evidence": 186,
+    "conflicts": 0
+  },
+  "mergedAt": "2026-07-30T21:15:42.166Z"
+}

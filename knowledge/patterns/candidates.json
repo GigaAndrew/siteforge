@@ -9,15 +9,18 @@
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
     "supportingCompanyIds": [
       "ent_Company_a8f4eb58069d61ce",
-      "ent_Company_e66e358a84112db0"
+      "ent_Company_e66e358a84112db0",
+      "ent_Company_99f3a7b461683d8a"
     ],
     "supportingProjectSlugs": [
       "eb-metal",
-      "northline-framing"
+      "northline-framing",
+      "cemco"
     ],
     "evidenceIds": [
       "ev_8cc9ff706ef27c82",
-      "ev_089381e2a98ae459"
+      "ev_089381e2a98ae459",
+      "ev_4f3d1c2efbf7a6f7"
     ],
     "confidenceSummary": "medium",
     "exceptions": [],
@@ -26,7 +29,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:32:48.864Z",
-    "updatedAt": "2026-07-30T20:33:30.660Z"
+    "updatedAt": "2026-07-30T21:15:41.458Z"
   },
   {
     "id": "cpat_0f6d9bcf7730adfa",
@@ -38,15 +41,18 @@
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
     "supportingCompanyIds": [
       "ent_Company_a8f4eb58069d61ce",
-      "ent_Company_e66e358a84112db0"
+      "ent_Company_e66e358a84112db0",
+      "ent_Company_99f3a7b461683d8a"
     ],
     "supportingProjectSlugs": [
       "eb-metal",
-      "northline-framing"
+      "northline-framing",
+      "cemco"
     ],
     "evidenceIds": [
       "ev_f82c2eb579427c34",
-      "ev_089381e2a98ae459"
+      "ev_089381e2a98ae459",
+      "ev_e9c2642c95e0a50f"
     ],
     "confidenceSummary": "low",
     "exceptions": [],
@@ -55,7 +61,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:32:48.864Z",
-    "updatedAt": "2026-07-30T20:33:30.660Z"
+    "updatedAt": "2026-07-30T21:15:41.458Z"
   },
   {
     "id": "cpat_440f37b637530597",
@@ -67,15 +73,18 @@
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
     "supportingCompanyIds": [
       "ent_Company_a8f4eb58069d61ce",
-      "ent_Company_e66e358a84112db0"
+      "ent_Company_e66e358a84112db0",
+      "ent_Company_99f3a7b461683d8a"
     ],
     "supportingProjectSlugs": [
       "eb-metal",
-      "northline-framing"
+      "northline-framing",
+      "cemco"
     ],
     "evidenceIds": [
       "ev_2ceb8a20fc0fea8d",
-      "ev_093897e217dcfbd8"
+      "ev_093897e217dcfbd8",
+      "ev_28dc3122aa6a1a82"
     ],
     "confidenceSummary": "medium",
     "exceptions": [],
@@ -84,7 +93,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:32:48.864Z",
-    "updatedAt": "2026-07-30T20:33:30.660Z"
+    "updatedAt": "2026-07-30T21:15:41.458Z"
   },
   {
     "id": "cpat_da800947e225539a",
@@ -96,15 +105,18 @@
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
     "supportingCompanyIds": [
       "ent_Company_a8f4eb58069d61ce",
-      "ent_Company_e66e358a84112db0"
+      "ent_Company_e66e358a84112db0",
+      "ent_Company_99f3a7b461683d8a"
     ],
     "supportingProjectSlugs": [
       "eb-metal",
-      "northline-framing"
+      "northline-framing",
+      "cemco"
     ],
     "evidenceIds": [
       "ev_71d52f0d0480f8e1",
-      "ev_089381e2a98ae459"
+      "ev_089381e2a98ae459",
+      "ev_9b4b533111aaa042"
     ],
     "confidenceSummary": "medium",
     "exceptions": [],
@@ -113,7 +125,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:32:48.864Z",
-    "updatedAt": "2026-07-30T20:33:30.660Z"
+    "updatedAt": "2026-07-30T21:15:41.458Z"
   },
   {
     "id": "cpat_e0d6fa986a2beff5",
@@ -215,19 +227,23 @@
     "status": "candidate_unapproved",
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
     "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
       "ent_Company_a8f4eb58069d61ce",
       "ent_Company_e66e358a84112db0"
     ],
     "supportingProjectSlugs": [
+      "cemco",
       "eb-metal",
       "northline-framing"
     ],
     "evidenceIds": [
+      "ev_e5ebe582fa80bdbf",
       "ev_1663aabad85b17ae",
       "ev_d07df11295e03360"
     ],
     "confidenceSummary": "medium",
     "exceptions": [
+      "CEMCO: \"Technical-resource discovery: score 5/10\"",
       "EB Metal US: \"Technical-resource discovery: score 5/10\"",
       "Northline Framing: \"Engineering Resources\""
     ],
@@ -236,7 +252,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:32:49.076Z",
-    "updatedAt": "2026-07-30T20:33:30.881Z"
+    "updatedAt": "2026-07-30T21:15:47.109Z"
   },
   {
     "id": "cpat_2d96485f3a665c98",
@@ -247,19 +263,23 @@
     "status": "candidate_unapproved",
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
     "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
       "ent_Company_a8f4eb58069d61ce",
       "ent_Company_e66e358a84112db0"
     ],
     "supportingProjectSlugs": [
+      "cemco",
       "eb-metal",
       "northline-framing"
     ],
     "evidenceIds": [
+      "ev_28dc3122aa6a1a82",
       "ev_2ceb8a20fc0fea8d",
       "ev_093897e217dcfbd8"
     ],
     "confidenceSummary": "medium",
     "exceptions": [
+      "CEMCO: \"Submittal workflow: score 2/10\"",
       "EB Metal US: \"Submittal workflow: score 2/10\"",
       "Northline Framing: \"Submittal Builder\""
     ],
@@ -268,7 +288,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:32:49.076Z",
-    "updatedAt": "2026-07-30T20:33:30.881Z"
+    "updatedAt": "2026-07-30T21:15:47.109Z"
   },
   {
     "id": "cpat_0da5ce11377ff625",
@@ -279,19 +299,23 @@
     "status": "candidate_unapproved",
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
     "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
       "ent_Company_a8f4eb58069d61ce",
       "ent_Company_e66e358a84112db0"
     ],
     "supportingProjectSlugs": [
+      "cemco",
       "eb-metal",
       "northline-framing"
     ],
     "evidenceIds": [
+      "ev_9b4b533111aaa042",
       "ev_71d52f0d0480f8e1",
       "ev_089381e2a98ae459"
     ],
     "confidenceSummary": "medium",
     "exceptions": [
+      "CEMCO: \"Accessibility: score 3/10\"",
       "EB Metal US: \"Accessibility: score 3/10\"",
       "Northline Framing: \"Accessibility: score 3/10\""
     ],
@@ -300,7 +324,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:32:49.076Z",
-    "updatedAt": "2026-07-30T20:33:30.881Z"
+    "updatedAt": "2026-07-30T21:15:47.109Z"
   },
   {
     "id": "cpat_372ca7be591e56d6",
@@ -311,19 +335,23 @@
     "status": "candidate_unapproved",
     "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
     "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
       "ent_Company_a8f4eb58069d61ce",
       "ent_Company_e66e358a84112db0"
     ],
     "supportingProjectSlugs": [
+      "cemco",
       "eb-metal",
       "northline-framing"
     ],
     "evidenceIds": [
+      "ev_e9c2642c95e0a50f",
       "ev_f82c2eb579427c34",
       "ev_089381e2a98ae459"
     ],
     "confidenceSummary": "medium",
     "exceptions": [
+      "CEMCO: \"Calculators: score 2/10\"",
       "EB Metal US: \"Calculators: score 2/10\"",
       "Northline Framing: \"Calculators: score 2/10\""
     ],
@@ -332,7 +360,7 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:33:30.881Z",
-    "updatedAt": "2026-07-30T20:33:30.881Z"
+    "updatedAt": "2026-07-30T21:15:47.109Z"
   },
   {
     "id": "cpat_c9a77497953fccfe",
@@ -364,6 +392,681 @@
     "blockedByConflicts": false,
     "reviewStatus": "unreviewed",
     "createdAt": "2026-07-30T20:33:30.881Z",
-    "updatedAt": "2026-07-30T20:33:30.881Z"
+    "updatedAt": "2026-07-30T21:15:47.109Z"
+  },
+  {
+    "id": "cpat_99f05a006ad7f4a6",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Visual design: score 4/10",
+    "normalizedObservationKey": "visual-design-visual-design-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_72cbdc8946f5cc06",
+      "ev_f906abf21ebbf195"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_55010c905e865051",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Navigation: score 5/10",
+    "normalizedObservationKey": "navigation-navigation-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b6d9b1c2c1dc58f9",
+      "ev_462d14267d8c9726"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_2a8af04502325787",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Product discovery: score 4/10",
+    "normalizedObservationKey": "product-discovery-product-discovery-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_d2bb073a8665043c",
+      "ev_f113111e2443786e"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_8bb5cd25ac477997",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Product detail: score 4/10",
+    "normalizedObservationKey": "product-detail-product-detail-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_068ffc7a7a33804e",
+      "ev_cf865ebd1bb4bcf5"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_a172b5442c78fd1b",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Technical-resource discovery: score 5/10",
+    "normalizedObservationKey": "technical-resource-discovery-technical-resource-discovery-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_1663aabad85b17ae",
+      "ev_e5ebe582fa80bdbf"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_795362507493b6f7",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Contact and support: score 5/10",
+    "normalizedObservationKey": "contact-and-support-contact-and-support-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_1ebae1c4815b509a",
+      "ev_0223aa53ddb4085a"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_60761588e3743ede",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Mobile usability: score 4/10",
+    "normalizedObservationKey": "mobile-usability-mobile-usability-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_a0fad283cd197a7b",
+      "ev_841a3c2de2b5669b"
+    ],
+    "confidenceSummary": "low",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_3d647f20e4ebce0c",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Performance: score 4/10",
+    "normalizedObservationKey": "performance-performance-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_9575e05d95f80cab",
+      "ev_5e67a8171e7ca8c0"
+    ],
+    "confidenceSummary": "low",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_d81b22f83997c430",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: SEO: score 5/10",
+    "normalizedObservationKey": "seo-seo-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e3fb403a4ec76ef8",
+      "ev_b355ffbc3f85a601"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_1cae0bf3c6d00614",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Content quality: score 5/10",
+    "normalizedObservationKey": "content-quality-content-quality-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_61dc7ec44891b591",
+      "ev_71304e467cf635a2"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_81f5420fff52556e",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Content freshness: score 4/10",
+    "normalizedObservationKey": "content-freshness-content-freshness-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b513ed4ae5b828d2",
+      "ev_39d4108a1f0300dd"
+    ],
+    "confidenceSummary": "low",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_6e211fc72dad3abc",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Conversion: score 4/10",
+    "normalizedObservationKey": "conversion-conversion-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4329f54fc70874d6",
+      "ev_f4a2e92c2dc76dd1"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_e76a9a97d7b9d814",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Process efficiency: score 3/10",
+    "normalizedObservationKey": "process-efficiency-process-efficiency-weak",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5f915825a3198bba",
+      "ev_5560c8f5f47fefc8"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_e578a122e3709f99",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: AI readiness: score 2/10",
+    "normalizedObservationKey": "ai-readiness-ai-readiness-weak",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_72260d6f05055a07",
+      "ev_198f6c3e40e28871"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_104088226af0b73e",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Overall digital maturity: score 4/10",
+    "normalizedObservationKey": "overall-digital-maturity-overall-digital-maturity-moderate",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_bde5d1021d76ec5c",
+      "ev_a351147eddc5da1d"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_dbce6e0b72ea8884",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Products / Tools / Tables / Documents IA",
+    "normalizedObservationKey": "navigation-pattern-dept-ia-products-tools-tables-documents-present",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5153ea7164bd2e18",
+      "ev_0730bf6c5ee6f2da"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:41.458Z",
+    "updatedAt": "2026-07-30T21:15:41.458Z"
+  },
+  {
+    "id": "cpat_f197b71349ccbdfc",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Product Catalog",
+    "normalizedObservationKey": "canonical-canon-product-catalog",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
+      "ent_Company_a8f4eb58069d61ce"
+    ],
+    "supportingProjectSlugs": [
+      "cemco",
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_f113111e2443786e",
+      "ev_2ad5dc2f0427b88e",
+      "ev_2c3e4fb4b1dd5704",
+      "ev_8fb5d6aca020f590",
+      "ev_2eb2e1bba9d847ec",
+      "ev_2cb870e90a017d42",
+      "ev_c145c4474da884cd",
+      "ev_d4979631fb358aa4",
+      "ev_5cf6d6c64a31fa50",
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_458a6bd225afd541",
+      "ev_475a6b3e4d2b89ec",
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3",
+      "ev_fdbf57d9561329df",
+      "ev_020fd04063169a81",
+      "ev_6e3879bd338df6d6",
+      "ev_61e8d32478f9e139",
+      "ev_197031230d04e0d6",
+      "ev_e16832718e56e55e",
+      "ev_ba608191018010b2",
+      "ev_54acb10f252fb7af",
+      "ev_1358271d76d5fa9c",
+      "ev_ad628ee3b7d215de",
+      "ev_3dd91806788312a0",
+      "ev_de4e5ff05d3198f7",
+      "ev_3fc8e29a86c7c4b6",
+      "ev_5480d280b642e203",
+      "ev_6763e8697744ee17",
+      "ev_23a68dc0b9a9f856",
+      "ev_e1e6d1916fa341d9",
+      "ev_2ac04d345031d4d2",
+      "ev_963b39abc8c7c2d8",
+      "ev_cf73aad21faf0e51",
+      "ev_7f27ec0dd9cdf676",
+      "ev_c20ee88bcffa65af",
+      "ev_0d2ad4bf5ff918a9",
+      "ev_888d3624cf42b3cc",
+      "ev_c1c34b7cf4016616",
+      "ev_4f806102c9b6ef62",
+      "ev_2c1b22bc6ad66634",
+      "ev_3380fe1f4a5729c7",
+      "ev_0f0fd8c580475e9e",
+      "ev_a79c9ce66b51dcfe",
+      "ev_9c248d576ccdf225",
+      "ev_fe9b2c995e13adb3",
+      "ev_2feb80796d023af0",
+      "ev_1ea0204bccfb993f",
+      "ev_c4cbce5a4e1cd1ca",
+      "ev_5eb2ee3a15afd17a",
+      "ev_9ee6912c4057f607",
+      "ev_31760b376d0e3d63"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "CEMCO: \"Product discovery: score 4/10\"",
+      "EB Metal US: \"usg-area-separation-walls-catalog-en-SA925.pdf\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:47.109Z",
+    "updatedAt": "2026-07-30T21:15:47.109Z"
+  },
+  {
+    "id": "cpat_d82af82dc5d05a1d",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Product Detail",
+    "normalizedObservationKey": "canonical-canon-product-detail",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
+      "ent_Company_a8f4eb58069d61ce"
+    ],
+    "supportingProjectSlugs": [
+      "cemco",
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_cf865ebd1bb4bcf5",
+      "ev_068ffc7a7a33804e"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "CEMCO: \"Product detail: score 4/10\"",
+      "EB Metal US: \"Product detail: score 4/10\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:47.109Z",
+    "updatedAt": "2026-07-30T21:15:47.109Z"
+  },
+  {
+    "id": "cpat_020bb840492841f6",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Contact / Rep Locator",
+    "normalizedObservationKey": "canonical-canon-contact-rep-locator",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
+      "ent_Company_a8f4eb58069d61ce"
+    ],
+    "supportingProjectSlugs": [
+      "cemco",
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_0223aa53ddb4085a",
+      "ev_1ebae1c4815b509a"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "CEMCO: \"Contact workflow page.\"",
+      "EB Metal US: \"Contact workflow page.\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:47.109Z",
+    "updatedAt": "2026-07-30T21:15:47.109Z"
+  },
+  {
+    "id": "cpat_b23a99d6a4caf99e",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Performance Gap",
+    "normalizedObservationKey": "canonical-canon-performance-gap",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
+      "ent_Company_a8f4eb58069d61ce"
+    ],
+    "supportingProjectSlugs": [
+      "cemco",
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_5e67a8171e7ca8c0",
+      "ev_9575e05d95f80cab"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "CEMCO: \"Performance: score 4/10\"",
+      "EB Metal US: \"Performance: score 4/10\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:47.109Z",
+    "updatedAt": "2026-07-30T21:15:47.109Z"
+  },
+  {
+    "id": "cpat_ada45331765c3026",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Search Experience",
+    "normalizedObservationKey": "canonical-canon-search-experience",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_99f3a7b461683d8a",
+      "ent_Company_a8f4eb58069d61ce"
+    ],
+    "supportingProjectSlugs": [
+      "cemco",
+      "eb-metal"
+    ],
+    "evidenceIds": [
+      "ev_198f6c3e40e28871",
+      "ev_72260d6f05055a07"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "CEMCO: \"Data schemas + search-ready inventories.\"",
+      "EB Metal US: \"Data schemas + search-ready inventories.\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T21:15:47.109Z",
+    "updatedAt": "2026-07-30T21:15:47.109Z"
   }
 ]

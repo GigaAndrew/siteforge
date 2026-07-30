@@ -1,0 +1,15 @@
+{
+  "projectSlug": "cemco",
+  "entries": [
+    {
+      "competitor": "Peer CFS framing manufacturers (placeholder slot)",
+      "status": "empty",
+      "notes": "Populate only when explicitly configured to research a named competitor.",
+      "observedStrengths": [],
+      "observedWeaknesses": []
+    }
+  ],
+  "status": "partial",
+  "notes": "MVP framework only. Competitor domains are not auto-crawled unless explicitly configured.",
+  "updatedAt": "2026-07-30T21:15:32.859Z"
+}

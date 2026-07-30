@@ -47,5 +47,31 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T20:33:30.627Z",
     "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_AccessibilityIssue_809798503ca676ae",
+    "schemaVersion": "1.0.0",
+    "type": "AccessibilityIssue",
+    "name": "Accessibility: score 3/10",
+    "normalizedKey": "accessibility-labeled-controls-focus-states-alt-text-policy-score-3",
+    "properties": {
+      "category": "Accessibility",
+      "score": 3,
+      "evidence": "Images missing alt: 2",
+      "recommendation": "Labeled controls, focus states, alt text policy.",
+      "observationKey": "accessibility-accessibility-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_9b4b533111aaa042"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.259Z",
+    "updatedAt": "2026-07-30T21:15:41.259Z"
   }
 ]

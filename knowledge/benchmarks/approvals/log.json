@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "key": "benchmark.definition.review",
+    "artifactId": "cfs-digital-capability",
+    "artifactVersion": "1.0.0",
+    "digest": "5d03f23a0d042ac4bc135f10",
+    "reviewer": "sprint6-reviewer",
+    "timestamp": "2026-07-30T21:35:28.076Z",
+    "decision": "approved",
+    "rationale": "CFS digital capability v1.0.0 remains appropriate seed definition for live two-company validation; not an industry standard",
+    "valid": true,
+    "invalidatedReason": null
+  },
+  {
+    "key": "benchmark.observation.review",
+    "artifactId": "cfs-digital-capability",
+    "artifactVersion": "1.0.0",
+    "digest": "5d03f23a0d042ac4bc135f10",
+    "reviewer": "sprint6-reviewer",
+    "timestamp": "2026-07-30T21:35:29.004Z",
+    "decision": "approved",
+    "rationale": "Reviewed CEMCO ambiguous mappings and sample observations; unknowns retained where evidence insufficient; overrides not used to hide weak data",
+    "valid": true,
+    "invalidatedReason": null
+  }
+]
