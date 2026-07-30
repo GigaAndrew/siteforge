@@ -11,7 +11,8 @@ This is not a generic AI website builder. Recommendations must solve documented 
 - **Playwright** crawl + screenshots
 - **Zod** schemas for stored artifacts
 - **Cursor agents / skills / rules** enforce stage gates and specialist roles
-- CLI scripts under `scripts/` for local pipeline execution (future job runner compatible)
+- **Forge Core Runtime** (`forge-core/`) graph-driven orchestrator — see [docs/runtime-architecture.md](./docs/runtime-architecture.md)
+- CLI scripts under `scripts/` for local pipeline execution
 
 ## Installation
 
@@ -54,6 +55,26 @@ Do not skip gates. Do not build the full prototype before Gate 5 passes.
 
 ## Commands
 
+### Forge Core Runtime (preferred)
+
+```bash
+npm run siteforge -- run --slug eb-metal --mode mixed
+npm run siteforge -- status --slug eb-metal
+npm run siteforge -- approve --slug eb-metal --key strategy.accept
+npm run siteforge -- resume --slug eb-metal
+npm run siteforge -- approve --slug eb-metal --key prototype.approve
+npm run siteforge -- resume --slug eb-metal
+npm run siteforge -- approve --slug eb-metal --key pitch.approve
+npm run siteforge -- resume --slug eb-metal
+npm run siteforge -- graph --slug eb-metal
+npm run siteforge -- history --slug eb-metal
+npm run siteforge -- replay --slug eb-metal
+```
+
+Internal dashboard: [/runtime/eb-metal](http://localhost:3000/runtime/eb-metal)
+
+### Legacy capability CLIs
+
 ```bash
 npm run project:create -- --name "EB Metal US" --url "https://www.ebmetal.us/" --slug "eb-metal" --industry "Cold-formed steel framing"
 npm run project:crawl -- --slug eb-metal
@@ -65,7 +86,7 @@ npm run project:qa -- --slug eb-metal
 npm run project:all -- --slug eb-metal
 ```
 
-`project:all` resumes safely and does not erase approved artifacts. It stops before full Gate 6 page builds.
+`project:all` resumes safely and does not erase approved artifacts. Prefer `siteforge run` for orchestrated execution.
 
 ## Data storage & traceability
 

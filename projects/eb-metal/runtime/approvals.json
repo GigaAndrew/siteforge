@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "eb-metal",
+  "decisions": [
+    {
+      "key": "strategy.accept",
+      "status": "approved",
+      "actor": "audit",
+      "reason": "hardening validation",
+      "decidedAt": "2026-07-30T19:57:39.647Z",
+      "nodeId": "n_strategy_accept",
+      "graphRevision": 14,
+      "artifactDigest": "0b2ec2b13641b158",
+      "invalidated": false,
+      "invalidatedReason": null
+    },
+    {
+      "key": "prototype.approve",
+      "status": "approved",
+      "actor": "audit",
+      "reason": "hardening validation",
+      "decidedAt": "2026-07-30T19:57:42.679Z",
+      "nodeId": "n_prototype_approve",
+      "graphRevision": 20,
+      "artifactDigest": "81249e8de64f3abb",
+      "invalidated": false,
+      "invalidatedReason": null
+    },
+    {
+      "key": "pitch.approve",
+      "status": "approved",
+      "actor": "audit",
+      "reason": "hardening validation",
+      "decidedAt": "2026-07-30T19:57:45.449Z",
+      "nodeId": "n_pitch_approve",
+      "graphRevision": 26,
+      "artifactDigest": "9b73c2d71c94eed9",
+      "invalidated": false,
+      "invalidatedReason": null
+    }
+  ],
+  "updatedAt": "2026-07-30T19:57:45.449Z"
+}

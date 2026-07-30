@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 17,
+  "savedAt": "2026-07-30T19:57:41.729Z",
+  "node": {
+    "id": "n_strategy_accept",
+    "type": "Approval",
+    "capability": "approval.gate",
+    "inputs": {},
+    "outputs": [],
+    "dependencies": [
+      "n_strategy"
+    ],
+    "status": "passed",
+    "confidence": 0.05,
+    "qualityScore": 1,
+    "startedAt": "2026-07-30T19:57:41.721Z",
+    "completedAt": "2026-07-30T19:57:41.727Z",
+    "runtimeMs": 2,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": null,
+    "approvalKey": "strategy.accept",
+    "lastError": null
+  }
+}

@@ -1,8 +1,8 @@
 #!/usr/bin/env tsx
 /**
- * Gate 6 scaffold hook. Full prototype pages are deferred until Gate 5 passes.
+ * Thin prototype generator (Sprint 3). Full Gate 6 pages remain out of scope.
  */
-import { fileExists } from "@/lib/project";
+import { generateThinPrototype } from "@/lib/prototype/thin";
 
 function arg(flag: string): string | undefined {
   const idx = process.argv.indexOf(flag);
@@ -16,14 +16,12 @@ async function main() {
     console.error("Usage: npm run project:prototype -- --slug <slug>");
     process.exit(1);
   }
-
-  if (!fileExists(slug, "design/design-tokens.json")) {
-    throw new Error("Art direction tokens missing. Pass Gate 4 first.");
+  const result = generateThinPrototype(slug);
+  if (!result.ok) {
+    console.error(result.message);
+    process.exit(1);
   }
-
-  console.log(
-    `Prototype generator for ${slug}: design-system/art-direction routes are available. Full page set waits for Gate 5 visual QA approval.`,
-  );
+  console.log(JSON.stringify(result, null, 2));
 }
 
 main().catch((err) => {

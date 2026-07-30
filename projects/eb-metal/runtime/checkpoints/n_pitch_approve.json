@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 29,
+  "savedAt": "2026-07-30T19:57:47.362Z",
+  "node": {
+    "id": "n_pitch_approve",
+    "type": "Approval",
+    "capability": "approval.gate",
+    "inputs": {},
+    "outputs": [],
+    "dependencies": [
+      "n_pitch"
+    ],
+    "status": "passed",
+    "confidence": 0.05,
+    "qualityScore": 1,
+    "startedAt": "2026-07-30T19:57:47.354Z",
+    "completedAt": "2026-07-30T19:57:47.359Z",
+    "runtimeMs": 1,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": null,
+    "approvalKey": "pitch.approve",
+    "lastError": null
+  }
+}

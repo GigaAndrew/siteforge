@@ -24,7 +24,8 @@
     "knowledge:inspect": "tsx scripts/inspect-knowledge.ts",
     "knowledge:reports": "tsx scripts/generate-knowledge-reports.ts",
     "knowledge:platform-reports": "tsx scripts/generate-platform-reports.ts",
-    "project:repair-text": "tsx scripts/repair-page-text.ts"
+    "project:repair-text": "tsx scripts/repair-page-text.ts",
+    "siteforge": "tsx scripts/siteforge.ts"
   },
   "dependencies": {
     "cheerio": "^1.2.0",

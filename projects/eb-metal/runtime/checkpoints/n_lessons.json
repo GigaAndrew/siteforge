@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 30,
+  "savedAt": "2026-07-30T19:57:47.400Z",
+  "node": {
+    "id": "n_lessons",
+    "type": "Lessons",
+    "capability": "lessons.derive",
+    "inputs": {},
+    "outputs": [
+      "reports/lessons-learned.md"
+    ],
+    "dependencies": [
+      "n_pitch_approve",
+      "n_reports"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:47.394Z",
+    "completedAt": "2026-07-30T19:57:47.397Z",
+    "runtimeMs": 0,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": "learning",
+    "approvalKey": null,
+    "lastError": null
+  }
+}

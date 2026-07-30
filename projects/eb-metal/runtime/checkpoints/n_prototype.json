@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 18,
+  "savedAt": "2026-07-30T19:57:41.767Z",
+  "node": {
+    "id": "n_prototype",
+    "type": "Prototype",
+    "capability": "prototype.generate",
+    "inputs": {},
+    "outputs": [
+      "prototype/manifest.json"
+    ],
+    "dependencies": [
+      "n_strategy_accept"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.62,
+    "startedAt": "2026-07-30T19:57:41.761Z",
+    "completedAt": "2026-07-30T19:57:41.765Z",
+    "runtimeMs": 0,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": "prototype",
+    "approvalKey": null,
+    "lastError": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 11,
+  "savedAt": "2026-07-30T19:57:38.666Z",
+  "node": {
+    "id": "n_audit_ux",
+    "type": "Audit",
+    "capability": "audit.ux",
+    "inputs": {},
+    "outputs": [
+      "analysis/executive-audit.md"
+    ],
+    "dependencies": [
+      "n_audit_tech"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:38.662Z",
+    "completedAt": "2026-07-30T19:57:38.664Z",
+    "runtimeMs": 0,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": "audit",
+    "approvalKey": null,
+    "lastError": null
+  }
+}

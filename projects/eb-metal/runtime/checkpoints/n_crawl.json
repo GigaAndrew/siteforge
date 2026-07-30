@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 3,
+  "savedAt": "2026-07-30T19:57:38.320Z",
+  "node": {
+    "id": "n_crawl",
+    "type": "Crawl",
+    "capability": "crawl.run",
+    "inputs": {},
+    "outputs": [
+      "source/pages.json",
+      "reports/crawl-health-report.md"
+    ],
+    "dependencies": [],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:38.310Z",
+    "completedAt": "2026-07-30T19:57:38.317Z",
+    "runtimeMs": 3,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": null,
+    "approvalKey": null,
+    "lastError": null
+  }
+}

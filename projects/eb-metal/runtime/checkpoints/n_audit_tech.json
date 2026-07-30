@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 10,
+  "savedAt": "2026-07-30T19:57:38.638Z",
+  "node": {
+    "id": "n_audit_tech",
+    "type": "Audit",
+    "capability": "audit.technical",
+    "inputs": {},
+    "outputs": [
+      "analysis/technical-audit.md"
+    ],
+    "dependencies": [
+      "n_crawl",
+      "n_screenshots"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:38.632Z",
+    "completedAt": "2026-07-30T19:57:38.636Z",
+    "runtimeMs": 0,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": "audit",
+    "approvalKey": null,
+    "lastError": null
+  }
+}

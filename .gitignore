@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# SiteForge runtime locks / temp writes
+**/.run.lock
+**/*.tmp

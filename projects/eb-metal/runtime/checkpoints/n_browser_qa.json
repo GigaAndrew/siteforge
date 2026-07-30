@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "runId": "39f25bfd-3ee1-482a-b2c9-adab5a77668d",
+  "graphRevision": 19,
+  "savedAt": "2026-07-30T19:57:41.805Z",
+  "node": {
+    "id": "n_browser_qa",
+    "type": "BrowserQA",
+    "capability": "qa.browser",
+    "inputs": {},
+    "outputs": [
+      "qa/browser-qa.json"
+    ],
+    "dependencies": [
+      "n_prototype"
+    ],
+    "status": "passed",
+    "confidence": 0.01,
+    "qualityScore": 0.8,
+    "startedAt": "2026-07-30T19:57:41.798Z",
+    "completedAt": "2026-07-30T19:57:41.802Z",
+    "runtimeMs": 1,
+    "cost": 0,
+    "retries": 0,
+    "blockingIssues": [],
+    "nextActions": [],
+    "loopId": "prototype",
+    "approvalKey": null,
+    "lastError": null
+  }
+}

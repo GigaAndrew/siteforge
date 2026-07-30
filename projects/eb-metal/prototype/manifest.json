@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "1.0.0",
+  "kind": "thin_prototype",
+  "projectSlug": "eb-metal",
+  "company": "EB Metal US",
+  "generatedAt": "2026-07-30T19:45:38.871Z",
+  "depth": "website_plus_interactive_tools",
+  "modules": [
+    "product_catalog",
+    "product_detail",
+    "calculator",
+    "document_center",
+    "submittal_builder",
+    "distributor_locator",
+    "contact_workflow"
+  ],
+  "routes": [
+    "/prototype/eb-metal/art-direction",
+    "/prototype/eb-metal/design-system"
+  ],
+  "notes": "Thin runtime prototype package. Design-system and art-direction routes are the executable surfaces; full Gate 6 pages are out of scope for Sprint 3.",
+  "confidenceCap": 0.65
+}

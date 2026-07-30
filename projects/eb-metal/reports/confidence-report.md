@@ -1,6 +1,6 @@
 # Confidence report — EB Metal US
 
-Generated: 2026-07-30T19:21:20.180Z
+Generated: 2026-07-30T19:57:47.231Z
 
 ## Overall confidence score
 

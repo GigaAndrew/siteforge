@@ -20,10 +20,32 @@ export const PROJECT_SUBDIRS = [
   "reports",
   "qa",
   "knowledge",
+  "runtime",
+  "runtime/history",
+  "runtime/checkpoints",
+  "prototype",
+  "reports/pitch",
 ] as const;
 
+const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+
+/** Reject path traversal / invalid project identifiers. */
+export function assertValidProjectSlug(slug: string): string {
+  if (!slug || !SLUG_RE.test(slug)) {
+    throw new Error(
+      `Invalid project slug "${slug}". Expected lowercase kebab-case (e.g. eb-metal).`,
+    );
+  }
+  const resolved = path.resolve(PROJECTS_ROOT, slug);
+  const root = path.resolve(PROJECTS_ROOT) + path.sep;
+  if (resolved !== path.resolve(PROJECTS_ROOT) && !resolved.startsWith(root)) {
+    throw new Error(`Slug escapes projects root: ${slug}`);
+  }
+  return slug;
+}
+
 export function projectDir(slug: string): string {
-  return path.join(PROJECTS_ROOT, slug);
+  return path.join(PROJECTS_ROOT, assertValidProjectSlug(slug));
 }
 
 export function projectPath(slug: string, ...parts: string[]): string {
@@ -76,9 +98,13 @@ export function readJsonFile<T>(filePath: string): T | null {
   return JSON.parse(fs.readFileSync(filePath, "utf8")) as T;
 }
 
+/** Atomic JSON write: temp file + rename to avoid partial reads. */
 export function writeJsonFile(filePath: string, data: unknown): void {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+  const payload = `${JSON.stringify(data, null, 2)}\n`;
+  const tmp = `${filePath}.${process.pid}.${Date.now()}.tmp`;
+  fs.writeFileSync(tmp, payload, "utf8");
+  fs.renameSync(tmp, filePath);
 }
 
 export function fileExists(slug: string, ...parts: string[]): boolean {
