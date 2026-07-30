@@ -2,17 +2,13 @@
   "benchmarkId": "cfs-digital-capability",
   "version": "1.0.0",
   "slugs": [
-    "eb-metal",
-    "northline-framing"
+    "eb-metal"
   ],
   "written": [
     "/Users/andrewkoonce/Downloads/SiteForge/reports/benchmark-framework.md",
     "/Users/andrewkoonce/Downloads/SiteForge/reports/benchmark-eb-metal.md",
     "/Users/andrewkoonce/Downloads/SiteForge/projects/eb-metal/reports/benchmark-report.md",
-    "/Users/andrewkoonce/Downloads/SiteForge/reports/benchmark-northline-framing.md",
-    "/Users/andrewkoonce/Downloads/SiteForge/projects/northline-framing/reports/benchmark-report.md",
-    "/Users/andrewkoonce/Downloads/SiteForge/reports/benchmark-peer-comparison.md",
     "/Users/andrewkoonce/Downloads/SiteForge/reports/benchmark-evidence-gaps.md"
   ],
-  "generatedAt": "2026-07-30T21:02:50.462Z"
+  "generatedAt": "2026-07-30T21:36:26.669Z"
 }

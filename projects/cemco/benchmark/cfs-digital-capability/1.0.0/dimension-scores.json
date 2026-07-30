@@ -1,0 +1,249 @@
+[
+  {
+    "level": "dimension",
+    "id": "dim:cemco:capability_presence",
+    "label": "Capability Presence",
+    "projectSlug": "cemco",
+    "dimensionId": "capability_presence",
+    "rawScore": 71.66666666666666,
+    "weightedScore": 14.333333333333332,
+    "confidence": 0.5889999999999997,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.41100000000000025,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.7167 → raw=71.67",
+      "weight=0.2 → weighted=14.33"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:discoverability",
+    "label": "Discoverability",
+    "projectSlug": "cemco",
+    "dimensionId": "discoverability",
+    "rawScore": 77.5,
+    "weightedScore": 7.75,
+    "confidence": 0.885,
+    "evidenceCoverage": 1,
+    "completeness": 1,
+    "uncertainty": 0.11499999999999999,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.7750 → raw=77.50",
+      "weight=0.1 → weighted=7.75"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:information_completeness",
+    "label": "Information Completeness",
+    "projectSlug": "cemco",
+    "dimensionId": "information_completeness",
+    "rawScore": 77.5,
+    "weightedScore": 7.75,
+    "confidence": 0.5283333333333333,
+    "evidenceCoverage": 0.3333333333333333,
+    "completeness": 0.3333333333333333,
+    "uncertainty": 0.4716666666666667,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.7750 → raw=77.50",
+      "weight=0.1 → weighted=7.75"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:technical_depth",
+    "label": "Technical Depth",
+    "projectSlug": "cemco",
+    "dimensionId": "technical_depth",
+    "rawScore": 55.00000000000001,
+    "weightedScore": 5.500000000000001,
+    "confidence": 0.44400000000000006,
+    "evidenceCoverage": 0.2,
+    "completeness": 0.2,
+    "uncertainty": 0.5559999999999999,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.5500 → raw=55.00",
+      "weight=0.1 → weighted=5.50"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:workflow_support",
+    "label": "Workflow Support",
+    "projectSlug": "cemco",
+    "dimensionId": "workflow_support",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.75,
+    "evidenceCoverage": 0.6666666666666666,
+    "completeness": 0.6666666666666666,
+    "uncertainty": 0.25,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:document_accessibility",
+    "label": "Document Accessibility",
+    "projectSlug": "cemco",
+    "dimensionId": "document_accessibility",
+    "rawScore": 100,
+    "weightedScore": 8,
+    "confidence": 0.6499999999999999,
+    "evidenceCoverage": 0.5,
+    "completeness": 0.5,
+    "uncertainty": 0.3500000000000001,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.08 → weighted=8.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:product_navigation",
+    "label": "Product Navigation",
+    "projectSlug": "cemco",
+    "dimensionId": "product_navigation",
+    "rawScore": 70,
+    "weightedScore": 4.9,
+    "confidence": 0.7349999999999999,
+    "evidenceCoverage": 0.75,
+    "completeness": 0.75,
+    "uncertainty": 0.2650000000000001,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.7000 → raw=70.00",
+      "weight=0.07 → weighted=4.90"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:engineering_utility",
+    "label": "Engineering Utility",
+    "projectSlug": "cemco",
+    "dimensionId": "engineering_utility",
+    "rawScore": 20,
+    "weightedScore": 2,
+    "confidence": 0.475,
+    "evidenceCoverage": 0.25,
+    "completeness": 0.25,
+    "uncertainty": 0.525,
+    "exclusions": [],
+    "caveats": [
+      "Only calculator opportunity/gap signal present — low engineering utility"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "engineering_utility gap-only → 0.2",
+      "mean(normalized)=0.2000 → raw=20.00",
+      "weight=0.1 → weighted=2.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:evidence_quality",
+    "label": "Evidence Quality",
+    "projectSlug": "cemco",
+    "dimensionId": "evidence_quality",
+    "rawScore": 100,
+    "weightedScore": 10,
+    "confidence": 0.5889999999999997,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.41100000000000025,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "evidence_quality good=9/9",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.1 → weighted=10.00"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:evidence_recency",
+    "label": "Evidence Recency",
+    "projectSlug": "cemco",
+    "dimensionId": "evidence_recency",
+    "rawScore": 95,
+    "weightedScore": 2.85,
+    "confidence": 0.5889999999999997,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.41100000000000025,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "mean(normalized)=0.9500 → raw=95.00",
+      "weight=0.03 → weighted=2.85"
+    ]
+  },
+  {
+    "level": "dimension",
+    "id": "dim:cemco:cross_channel_consistency",
+    "label": "Cross-Channel Consistency",
+    "projectSlug": "cemco",
+    "dimensionId": "cross_channel_consistency",
+    "rawScore": 100,
+    "weightedScore": 2,
+    "confidence": 0.5889999999999997,
+    "evidenceCoverage": 0.45,
+    "completeness": 0.45,
+    "uncertainty": 0.41100000000000025,
+    "exclusions": [],
+    "caveats": [],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "eligible": true,
+    "calculationTrace": [
+      "consistency bad=0/20",
+      "mean(normalized)=1.0000 → raw=100.00",
+      "weight=0.02 → weighted=2.00"
+    ]
+  }
+]

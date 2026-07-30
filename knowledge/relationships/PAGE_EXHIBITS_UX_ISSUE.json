@@ -258,5 +258,265 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_a29b4b0a20160c8e",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_14695e4b95c60713",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f906abf21ebbf195"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.227Z",
+    "updatedAt": "2026-07-30T21:15:41.227Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_40abb81a7e3a9420",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_dbbe4282847a6d8b",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_462d14267d8c9726"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.242Z",
+    "updatedAt": "2026-07-30T21:15:41.242Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_e449693d57ce92af",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_37a799c4f324869c",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f113111e2443786e"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.243Z",
+    "updatedAt": "2026-07-30T21:15:41.243Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_25d3210328dbfdcc",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_9e10337feb7bef12",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_cf865ebd1bb4bcf5"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.247Z",
+    "updatedAt": "2026-07-30T21:15:41.247Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_c2f865ce540be893",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_986cb2d098873d5a",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e5ebe582fa80bdbf"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.253Z",
+    "updatedAt": "2026-07-30T21:15:41.253Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_32040e9ce1f71815",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_a18f3ae9e2de49fe",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4f3d1c2efbf7a6f7"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.254Z",
+    "updatedAt": "2026-07-30T21:15:41.254Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_a50f71cb7733c51d",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_40e0a00a6e428723",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_0223aa53ddb4085a"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.258Z",
+    "updatedAt": "2026-07-30T21:15:41.258Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_20397d421e969c67",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_8fdb580adaeeddb7",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_841a3c2de2b5669b"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.259Z",
+    "updatedAt": "2026-07-30T21:15:41.259Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_f92ff436eab4cc85",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_14f1386a73fe23c2",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_71304e467cf635a2"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.260Z",
+    "updatedAt": "2026-07-30T21:15:41.260Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_9523b623a0ca5fb9",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_36d592e22770f1d2",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_39d4108a1f0300dd"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.261Z",
+    "updatedAt": "2026-07-30T21:15:41.261Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_feb37737c305d9ef",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_50ad85aaae1d6bf8",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f4a2e92c2dc76dd1"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.261Z",
+    "updatedAt": "2026-07-30T21:15:41.261Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_46a0c2887cb8c798",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_8e9ef8198ac6410d",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_198f6c3e40e28871"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.262Z",
+    "updatedAt": "2026-07-30T21:15:41.262Z"
+  },
+  {
+    "id": "rel_PAGE_EXHIBITS_UX_ISSUE_a6eb04fde1b5f748",
+    "schemaVersion": "1.0.0",
+    "type": "PAGE_EXHIBITS_UX_ISSUE",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_UxIssue_5e42661bf866a4e2",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_a351147eddc5da1d"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.263Z",
+    "updatedAt": "2026-07-30T21:15:41.263Z"
   }
 ]

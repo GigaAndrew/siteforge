@@ -268,5 +268,358 @@
         "alias"
       ]
     }
+  },
+  {
+    "id": "audit_cpat-99f05a006ad7f4a62026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_99f05a006ad7f4a6",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "visual-design-visual-design-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-55010c905e8650512026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_55010c905e865051",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "navigation-navigation-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-2a8af045023257872026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_2a8af04502325787",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "product-discovery-product-discovery-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-8bb5cd25ac4779972026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_8bb5cd25ac477997",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "product-detail-product-detail-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-a172b5442c78fd1b2026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_a172b5442c78fd1b",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "technical-resource-discovery-technical-resource-discovery-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-795362507493b6f72026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_795362507493b6f7",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "contact-and-support-contact-and-support-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-60761588e3743ede2026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_60761588e3743ede",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "mobile-usability-mobile-usability-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-3d647f20e4ebce0c2026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_3d647f20e4ebce0c",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "performance-performance-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-d81b22f83997c4302026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_d81b22f83997c430",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "seo-seo-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-1cae0bf3c6d006142026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_1cae0bf3c6d00614",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "content-quality-content-quality-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-81f5420fff52556e2026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_81f5420fff52556e",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "content-freshness-content-freshness-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-6e211fc72dad3abc2026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_6e211fc72dad3abc",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "conversion-conversion-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-e76a9a97d7b9d8142026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_e76a9a97d7b9d814",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "process-efficiency-process-efficiency-weak",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-e578a122e3709f992026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_e578a122e3709f99",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "ai-readiness-ai-readiness-weak",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-104088226af0b73e2026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_104088226af0b73e",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "overall-digital-maturity-overall-digital-maturity-moderate",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-dbce6e0b72ea88842026-07-30t",
+    "at": "2026-07-30T21:15:41.458Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_dbce6e0b72ea8884",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "navigation-pattern-dept-ia-products-tools-tables-documents-present",
+      "projects": [
+        "eb-metal",
+        "cemco"
+      ]
+    }
+  },
+  {
+    "id": "audit_ingest_cemco_1785446141956",
+    "at": "2026-07-30T21:15:41.956Z",
+    "action": "ingested",
+    "actor": "system",
+    "projectSlug": "cemco",
+    "reason": "Ingested project knowledge slice",
+    "details": {
+      "upsertedEntities": 229,
+      "upsertedRels": 227,
+      "conflictsCreated": 0,
+      "staleMarked": 0,
+      "created": 16,
+      "blocked": 0,
+      "canonicalCandidatesCreated": 0,
+      "canonicalCandidatesBlocked": 0
+    }
+  },
+  {
+    "id": "audit_conflict_3a0b227d7d250062",
+    "at": "2026-07-30T21:15:47.109Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_f197b71349ccbdfc",
+    "reason": "Canonical concept \"Product Catalog\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_product-catalog",
+      "projects": [
+        "cemco",
+        "eb-metal"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_fdd19a5ec9210320",
+    "at": "2026-07-30T21:15:47.109Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_d82af82dc5d05a1d",
+    "reason": "Canonical concept \"Product Detail\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_product-detail",
+      "projects": [
+        "cemco",
+        "eb-metal"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_c0286016c4aee5ab",
+    "at": "2026-07-30T21:15:47.109Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_020bb840492841f6",
+    "reason": "Canonical concept \"Contact / Rep Locator\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_contact-rep-locator",
+      "projects": [
+        "cemco",
+        "eb-metal"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_255f9b709eacda4e",
+    "at": "2026-07-30T21:15:47.109Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_b23a99d6a4caf99e",
+    "reason": "Canonical concept \"Performance Gap\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_performance-gap",
+      "projects": [
+        "cemco",
+        "eb-metal"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_a346758bae67cf21",
+    "at": "2026-07-30T21:15:47.109Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_ada45331765c3026",
+    "reason": "Canonical concept \"Search Experience\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_search-experience",
+      "projects": [
+        "cemco",
+        "eb-metal"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
   }
 ]

@@ -2,8 +2,8 @@
 
 - Benchmark: **CFS Digital Capability Benchmark** (`cfs-digital-capability`) v1.0.0
 - Status: accepted — Accepted for engine use within SiteForge. Human review still required before external publication. Candidate patterns are excluded from criteria.
-- Generated: 2026-07-30T21:02:50.092Z
-- Run ID: `b9cc3f19-12b2-4d7c-b800-dfe8ab9fa8d7`
+- Generated: 2026-07-30T21:36:26.629Z
+- Run ID: `d10cd6af-71ef-47cc-a192-db9b87e34628`
 - Input digest: `219e5e6b62338c3af116b16d`
 
 ## Overall
@@ -161,20 +161,6 @@ Total observations: 108. Unknown is never converted to absent.
 - Confidence: 35%
 - Impact: Cannot judge capability quality until evidence is collected
 - Limitations: Do not treat unknown as confirmed absence; Peer presence alone is not a recommendation trigger
-
-### confirmed_gap — canon_document-center
-- Gap: Weaker evidenced implementation vs cohort peer (Δ=45.0); own state=partial
-- Action: Improve this company's own evidenced capability — peer parity is context, not the requirement
-- Confidence: 70%
-- Impact: Users may struggle to complete related engineering/document tasks
-- Limitations: Limited peer comparison / validation cohort; Do not copy peer UX blindly; Synthetic fixture peers are not market proof
-
-### confirmed_gap — canon_submittal-workflow
-- Gap: Weaker evidenced implementation vs cohort peer (Δ=45.0); own state=partial
-- Action: Improve this company's own evidenced capability — peer parity is context, not the requirement
-- Confidence: 70%
-- Impact: Users may struggle to complete related engineering/document tasks
-- Limitations: Limited peer comparison / validation cohort; Do not copy peer UX blindly; Synthetic fixture peers are not market proof
 
 ## Unresolved review
 

@@ -98,5 +98,125 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.676Z",
     "updatedAt": "2026-07-30T19:20:20.676Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_73fee3e3173c9f7c",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_Technology_2818be60599d7309",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7fc4e7017d8c52ce"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.209Z",
+    "updatedAt": "2026-07-30T21:15:41.209Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_65652f26aea1d995",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_CMS_337d28b021748f04",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_7fc4e7017d8c52ce"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.209Z",
+    "updatedAt": "2026-07-30T21:15:41.209Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_ac16cf14f5292ce5",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_Technology_66e54191b8a32a50",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_8dd46544d4302fbc"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.210Z",
+    "updatedAt": "2026-07-30T21:15:41.210Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_3ba84923e7dbe0e6",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_Technology_d4dac93b970a646b",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_a6a4ad306e2d3c40"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.214Z",
+    "updatedAt": "2026-07-30T21:15:41.214Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_7c45ac8d59509508",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_Technology_f52a79d7bd4f6244",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_4471c9e845383b16"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.214Z",
+    "updatedAt": "2026-07-30T21:15:41.214Z"
+  },
+  {
+    "id": "rel_WEBSITE_USES_TECHNOLOGY_59eac9fdf30b02ef",
+    "schemaVersion": "1.0.0",
+    "type": "WEBSITE_USES_TECHNOLOGY",
+    "fromId": "ent_Website_7a5b8db0f266fb7f",
+    "toId": "ent_Technology_01f1cbdfe51844a1",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f4d30add3108a68f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.215Z",
+    "updatedAt": "2026-07-30T21:15:41.215Z"
   }
 ]

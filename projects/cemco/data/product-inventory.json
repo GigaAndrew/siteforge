@@ -1,0 +1,121 @@
+{
+  "projectSlug": "cemco",
+  "products": [
+    {
+      "name": "CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty Products and Accessories in the United States.",
+      "family": "framing",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty Products and Accessories in the United States. Explore Our Products Create a Sub",
+      "sourceUrl": "https://cemcosteel.com/",
+      "attributes": {},
+      "documents": [],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    },
+    {
+      "name": "Products",
+      "family": "framing",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Products Home›Products Steel Framing Products CEMCO’s structural framing products are manufactured to the strict tolerances set forth by the 2021, 2018, and ",
+      "sourceUrl": "https://cemcosteel.com/products",
+      "attributes": {},
+      "documents": [],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    },
+    {
+      "name": "CST Slotted Track UL Assemblies",
+      "family": "track",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CST Slotted Track UL Assemblies Home›Resources›UL Fire Rated Assemblies›CST Slotted Track UL Assemblies UL Fire Rated Assemblies Using CEMCO's CST, CST325 Br",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/cst-slotted-track-ul-assemblies",
+      "attributes": {},
+      "documents": [],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    },
+    {
+      "name": "ViperStud Sound Test Reports",
+      "family": "stud",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL ViperStud Sound Test Reports Home›Resources›Sound Test Reports›ViperStud Sound Test Reports ViperStud Sound Test Reports STC-57 2_layer_2_layer_ViperStud_16 ",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/viper-stud-sound-test-reports",
+      "attributes": {},
+      "documents": [
+        "https://cemcosteel.com/app/uploads/2021/04/TL21-143.pdf",
+        "https://cemcosteel.com/app/uploads/2021/04/TL21-133.pdf",
+        "https://cemcosteel.com/app/uploads/2021/04/TL21-132.pdf",
+        "https://cemcosteel.com/app/uploads/2021/04/TL21-134.pdf",
+        "https://cemcosteel.com/app/uploads/2021/05/m0016.01-303-11-r1.pdf"
+      ],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    },
+    {
+      "name": "Typical Details-Water Management Products",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Water Management Products Home›Resources›Typical Details & REVIT Files›Typical Details- Water Management Products Typical Details for Water M",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/typical-details-water-management-details",
+      "attributes": {},
+      "documents": [
+        "https://cemcosteel.com/app/uploads/2020/11/No.-3-Flashing-Screed_Typical-Detail.pdf",
+        "https://cemcosteel.com/app/uploads/2020/11/No.-6-Drip-Screed_Typical-Detail.pdf",
+        "https://cemcosteel.com/app/uploads/2020/11/No.-7-Extended_Typical-Detail.pdf",
+        "https://cemcosteel.com/app/uploads/2020/11/No.12-Soffit-Drip-Edge_Typical-Detail.pdf",
+        "https://cemcosteel.com/app/uploads/2020/11/No.-15-Solid-Leg_Typical-Detail.pdf"
+      ],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    },
+    {
+      "name": "ViperStud UL Assemblies",
+      "family": "stud",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL ViperStud UL Assemblies Home›Resources›UL Fire Rated Assemblies›ViperStud UL Assemblies UL Fire Rated Wall Assemblies for CEMCO's ViperStud Interior Non-Load",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/viperstud-ul-assemblies",
+      "attributes": {},
+      "documents": [
+        "https://cemcosteel.com/app/uploads/2020/04/UL-U375.pdf",
+        "https://cemcosteel.com/app/uploads/2020/04/BXUV.U403-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+        "https://cemcosteel.com/app/uploads/2020/04/BXUV.U408-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+        "https://cemcosteel.com/app/uploads/2020/04/BXUV.U411-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf",
+        "https://cemcosteel.com/app/uploads/2020/04/BXUV.U412-Fire-resistance-Ratings-ANSI_UL-263-_-UL-Product-iQ.pdf"
+      ],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    },
+    {
+      "name": "Firestop Solutions and UL Assemblies",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Firestop Solutions and UL Assemblies Home›Resources›UL Fire Rated Assemblies›Firestop Solutions and UL Assemblies UL Fire Rated Assemblies for Pre-Formed Fir",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/firestop-products-ul-assemblies",
+      "attributes": {},
+      "documents": [
+        "https://cemcosteel.com/app/uploads/2023/12/Engineering-Judgment-Submission_fillable.pdf",
+        "https://cemcosteel.com/app/uploads/2024/05/UL-WW-D-0271.pdf",
+        "https://cemcosteel.com/app/uploads/2020/04/UL-HW-S-0128_HOTROD-Wood-Framed-1hr.pdf",
+        "https://cemcosteel.com/app/uploads/2023/03/UL-WW-S-0094.pdf",
+        "https://cemcosteel.com/app/uploads/2023/03/UL-WW-S-0057_Vertical-Wall-Joint-to-Concrete-Column-1-2-HR.pdf"
+      ],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    },
+    {
+      "name": "Typical Details-FAS Products",
+      "description": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-FAS Products Home›Resources›Typical Details & REVIT Files›Typical Details-FAS Products Download Typical Details for FAS Products SD101-HW-D-0",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/fas-products",
+      "attributes": {},
+      "documents": [
+        "https://cemcosteel.com/app/uploads/2020/08/SD101_-HW-D-0525-Shaft-Wall-Perpendicular-to-Fluted-Deck-8.5x11.pdf",
+        "https://cemcosteel.com/app/uploads/2020/08/SD101.1_-HW-D-0525-Shaft-Wall-Perpendicular-to-Fluted-Deck-8.5x11.pdf",
+        "https://cemcosteel.com/app/uploads/2020/08/SD100_-HW-D-0622-Shaft-Wall-Offset-Under-Beam-8.5x11.pdf",
+        "https://cemcosteel.com/app/uploads/2020/08/SD99_-HW-D-0622-Shaft-Wall-Directly-Under-Beam-8.5x11.pdf",
+        "https://cemcosteel.com/app/uploads/2020/08/SD98_-HW-D-0623-Shaft-Wall-@-Fluted-Deck-Beam-Penetration-8.5x11.pdf"
+      ],
+      "confidence": "medium",
+      "notes": "Extracted from public page inventory; attributes require structured table parsing."
+    }
+  ],
+  "families": [
+    "framing",
+    "joist",
+    "track",
+    "stud",
+    "header",
+    "clip"
+  ],
+  "updatedAt": "2026-07-30T21:15:32.809Z"
+}

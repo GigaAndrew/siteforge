@@ -4,6 +4,7 @@ import type {
 } from "@/lib/benchmark/schemas";
 import { ScoreOutputSchema } from "@/lib/benchmark/schemas";
 import { getConceptById, loadConcepts } from "@/lib/normalization/registry";
+import { cohortLabel } from "@/lib/benchmark/cohort";
 
 export type PeerComparisonResult = {
   cohortLabel: string;
@@ -34,13 +35,20 @@ export function compareBenchmarkPeers(
   conceptScoresBySlug: Record<string, ScoreOutput[]>,
 ): PeerComparisonResult {
   const slugs = companyScores.map((c) => c.projectSlug!).filter(Boolean);
-  const limited = slugs.length < 3;
+  const cohort = cohortLabel(slugs);
+  const limited = slugs.length < 3 || cohort.synthetic.length > 0;
   const warnings: string[] = [
     "Candidate patterns are not used as accepted peer criteria.",
+    cohort.label,
   ];
-  if (limited) {
+  if (cohort.synthetic.length) {
     warnings.push(
-      `Limited peer comparison / validation cohort (n=${slugs.length}). Not a statistically representative industry benchmark.`,
+      `Synthetic fixture(s) present: ${cohort.synthetic.join(", ")} — exclude from live market claims`,
+    );
+  }
+  if (slugs.length < 3) {
+    warnings.push(
+      `Cohort size n=${slugs.length}. Not a statistically representative industry benchmark.`,
     );
   }
 
@@ -172,9 +180,7 @@ export function compareBenchmarkPeers(
     : "Insufficient conclusive gaps";
 
   return {
-    cohortLabel: limited
-      ? "Limited peer comparison / validation cohort"
-      : "Peer comparison cohort",
+    cohortLabel: cohort.label,
     limitedCohort: limited,
     projects: slugs,
     benchmarkId: def.id,

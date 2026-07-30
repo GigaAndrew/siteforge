@@ -24,5 +24,31 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_PerformanceIssue_07dc2f89d35b5c49",
+    "schemaVersion": "1.0.0",
+    "type": "PerformanceIssue",
+    "name": "Performance: score 4/10",
+    "normalizedKey": "performance-image-optimization-and-script-hygiene-score-4",
+    "properties": {
+      "category": "Performance",
+      "score": 4,
+      "evidence": "CMS theme + third-party assets; Lighthouse pending.",
+      "recommendation": "Image optimization and script hygiene.",
+      "observationKey": "performance-performance-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5e67a8171e7ca8c0"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.259Z",
+    "updatedAt": "2026-07-30T21:15:41.259Z"
   }
 ]

@@ -38,5 +38,25 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T20:33:30.627Z",
     "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "rel_COMPANY_HAS_WEBSITE_12de9ecf10fb13ee",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_HAS_WEBSITE",
+    "fromId": "ent_Company_99f3a7b461683d8a",
+    "toId": "ent_Website_7a5b8db0f266fb7f",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5461bf499a465958"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.897Z",
+    "updatedAt": "2026-07-30T21:15:40.897Z"
   }
 ]

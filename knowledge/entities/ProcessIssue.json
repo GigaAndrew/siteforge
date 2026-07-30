@@ -122,5 +122,83 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T20:33:30.627Z",
     "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_ProcessIssue_7afc3e26a724168e",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Calculators: score 2/10",
+    "normalizedKey": "calculators-conceptual-calculator-first-table-driven-later-with-verified-data-score-2",
+    "properties": {
+      "category": "Calculators",
+      "score": 2,
+      "evidence": "No clear first-class limiting-height calculator UX dominant in crawl labels.",
+      "recommendation": "Conceptual calculator first; table-driven later with verified data.",
+      "observationKey": "calculators-calculators-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_e9c2642c95e0a50f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.254Z",
+    "updatedAt": "2026-07-30T21:15:41.254Z"
+  },
+  {
+    "id": "ent_ProcessIssue_ea8eb50b3e31f3ba",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Submittal workflow: score 2/10",
+    "normalizedKey": "submittal-workflow-persistent-submittal-builder-score-2",
+    "properties": {
+      "category": "Submittal workflow",
+      "score": 2,
+      "evidence": "Submittal/spec language sparse; no integrated package builder observed.",
+      "recommendation": "Persistent submittal builder.",
+      "observationKey": "submittal-workflow-submittal-workflow-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_28dc3122aa6a1a82"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.257Z",
+    "updatedAt": "2026-07-30T21:15:41.257Z"
+  },
+  {
+    "id": "ent_ProcessIssue_eaf5d40306df6f7c",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Process efficiency: score 3/10",
+    "normalizedKey": "process-efficiency-process-improvement-map-modules-score-3",
+    "properties": {
+      "category": "Process efficiency",
+      "score": 3,
+      "evidence": "PDF-heavy and list-heavy workflows dominate public experience.",
+      "recommendation": "Process-improvement map modules.",
+      "observationKey": "process-efficiency-process-efficiency-weak"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5560c8f5f47fefc8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.262Z",
+    "updatedAt": "2026-07-30T21:15:41.262Z"
   }
 ]

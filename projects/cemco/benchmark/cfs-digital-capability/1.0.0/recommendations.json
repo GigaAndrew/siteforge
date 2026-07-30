@@ -1,0 +1,377 @@
+[
+  {
+    "id": "brec_69f1d9d763731c",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_engineering-calculator",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Engineering Calculator",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_d17e00436798ce",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_product-selector",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Product Selector",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_ea13ded836b772",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_technical-resources",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Technical Resources",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_f4f43365f27eb5",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_product-data-sheet",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Product Data Sheet",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_a3eec2ab3c1ae0",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_installation-guide",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Installation Guide",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_7cdea4ea1d4063",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_specification",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Specification",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_89781697025f0f",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_code-report",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Code Report",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_ee592a25c92edf",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_engineering-table",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Engineering Table",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_8fd7aa5b8f14a0",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_limiting-height-tool",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Limiting Height Tool",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_f7ceb3c37b3dc0",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_product-family",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Product Family",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_e1dc118b1ca67c",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_download-workflow",
+    "dimensionId": "capability_presence",
+    "kind": "evidence_gap",
+    "observedGap": "Unknown status for Download Workflow",
+    "evidenceIds": [],
+    "confidence": 0.35,
+    "expectedImpact": "Cannot judge capability quality until evidence is collected",
+    "recommendedAction": "Capture or map authoritative page/document evidence for this concept, then re-run normalization and benchmark",
+    "priorityRationale": "Unknown blocks safe conclusions",
+    "dependencies": [
+      "normalization mapping",
+      "source evidence"
+    ],
+    "limitations": [
+      "Do not treat unknown as confirmed absence",
+      "Peer presence alone is not a recommendation trigger"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_686ecbb67fc649",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_document-center",
+    "dimensionId": "capability_presence",
+    "kind": "peer_relative_advantage",
+    "observedGap": "Relative strength vs limited cohort (Δ=45.0)",
+    "evidenceIds": [
+      "ev_e5ebe582fa80bdbf"
+    ],
+    "confidence": 0.75,
+    "expectedImpact": "Potential differentiator within this validation cohort",
+    "recommendedAction": "Preserve and document this capability; do not over-generalize beyond cohort",
+    "priorityRationale": "Evidence-backed relative strength in limited cohort",
+    "dependencies": [],
+    "limitations": [
+      "Live two-company validation cohort — not an industry benchmark",
+      "Not proof of market leadership",
+      "Synthetic peers further limit external validity"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_2526ed15544357",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "dimensionId": "capability_presence",
+    "kind": "peer_relative_advantage",
+    "observedGap": "Relative strength vs limited cohort (Δ=45.0)",
+    "evidenceIds": [
+      "ev_28dc3122aa6a1a82"
+    ],
+    "confidence": 0.75,
+    "expectedImpact": "Potential differentiator within this validation cohort",
+    "recommendedAction": "Preserve and document this capability; do not over-generalize beyond cohort",
+    "priorityRationale": "Evidence-backed relative strength in limited cohort",
+    "dependencies": [],
+    "limitations": [
+      "Live two-company validation cohort — not an industry benchmark",
+      "Not proof of market leadership",
+      "Synthetic peers further limit external validity"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_a76a3b56275dbc",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_contact-rep-locator",
+    "dimensionId": "capability_presence",
+    "kind": "peer_relative_advantage",
+    "observedGap": "Relative strength vs limited cohort (Δ=45.0)",
+    "evidenceIds": [
+      "ev_0223aa53ddb4085a"
+    ],
+    "confidence": 0.75,
+    "expectedImpact": "Potential differentiator within this validation cohort",
+    "recommendedAction": "Preserve and document this capability; do not over-generalize beyond cohort",
+    "priorityRationale": "Evidence-backed relative strength in limited cohort",
+    "dependencies": [],
+    "limitations": [
+      "Live two-company validation cohort — not an industry benchmark",
+      "Not proof of market leadership",
+      "Synthetic peers further limit external validity"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  },
+  {
+    "id": "brec_f23516e32058f6",
+    "projectSlug": "cemco",
+    "companyName": "CEMCO",
+    "canonicalConceptId": "canon_product-catalog",
+    "dimensionId": "capability_presence",
+    "kind": "confirmed_gap",
+    "observedGap": "Weaker evidenced implementation vs cohort peer (Δ=45.0); own state=partial",
+    "evidenceIds": [
+      "ev_f113111e2443786e"
+    ],
+    "confidence": 0.7,
+    "expectedImpact": "Users may struggle to complete related engineering/document tasks",
+    "recommendedAction": "Improve this company's own evidenced capability — peer parity is context, not the requirement",
+    "priorityRationale": "Gap supported by this company's weak/partial evidence plus conclusive cohort delta",
+    "dependencies": [],
+    "limitations": [
+      "Live two-company validation cohort — not an industry benchmark",
+      "Do not copy peer UX blindly",
+      "Synthetic fixture peers are not market proof"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "generatedAt": "2026-07-30T21:18:21.616Z"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "projectSlug": "cemco",
+  "companyName": "CEMCO",
+  "websiteUrl": "https://cemcosteel.com/",
+  "industry": "Cold-formed steel framing and building products",
+  "summary": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty Products and Accessories in the United States. Explore Our Products Create a Submittal Easily create a submittal by selecting the components which apply to your specific project materials list. Create a New Submittal Find a Distributor CEMCO distributes our products throughout the Western United Sta…",
+  "locations": [],
+  "offerings": [
+    {
+      "claim": "Public positioning describes a lightweight / cold-formed steel framing manufacturer and fabricator.",
+      "sourceUrl": "https://cemcosteel.com/",
+      "confidence": "high",
+      "kind": "fact"
+    }
+  ],
+  "audiences": [
+    {
+      "claim": "Site language targets construction professionals and distribution partners (distributors listed publicly).",
+      "sourceUrl": "https://cemcosteel.com/",
+      "confidence": "medium",
+      "kind": "inference",
+      "notes": "Audience inferred from distributor listings and industry copy; not an explicit persona statement."
+    }
+  ],
+  "standards": [],
+  "contacts": [
+    {
+      "claim": "Phone number observed on public pages: 1-800-775-2362",
+      "sourceUrl": "https://cemcosteel.com/",
+      "confidence": "medium",
+      "kind": "fact"
+    },
+    {
+      "claim": "Email address observed on public pages: ccpa@cemcosteel.com",
+      "sourceUrl": "https://cemcosteel.com/",
+      "confidence": "medium",
+      "kind": "fact"
+    }
+  ],
+  "openQuestions": [
+    "Which product families have complete structured attribute data vs PDF-only tables?",
+    "Are limiting-height tables published as downloadable files or HTML tables?",
+    "Is NITROSTUD presented as a distinct product line with dedicated technical resources?"
+  ],
+  "updatedAt": "2026-07-30T21:15:32.789Z"
+}

@@ -47,5 +47,30 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T20:33:30.627Z",
     "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_Company_99f3a7b461683d8a",
+    "schemaVersion": "1.0.0",
+    "type": "Company",
+    "name": "CEMCO",
+    "normalizedKey": "cemco",
+    "properties": {
+      "websiteUrl": "https://cemcosteel.com/",
+      "industry": "Cold-formed steel framing and building products",
+      "summary": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty Products and Accessories in the United States. Explore Our Products Create a Submittal Easily create a submittal by selecting the components which apply to your specific project materials list. Create"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_5461bf499a465958",
+      "ev_f317d595e822dd06"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.882Z",
+    "updatedAt": "2026-07-30T21:15:40.882Z"
   }
 ]

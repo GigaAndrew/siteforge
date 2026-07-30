@@ -1,0 +1,5384 @@
+[
+  {
+    "id": "ev_5461bf499a465958",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.891Z",
+      "evidenceExcerpt": "Company profile for CEMCO",
+      "confidence": "high",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.891Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Company_99f3a7b461683d8a",
+      "ent_Industry_70ec175cbe33aa88",
+      "ent_Website_7a5b8db0f266fb7f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.891Z",
+    "updatedAt": "2026-07-30T21:15:40.891Z"
+  },
+  {
+    "id": "ev_f317d595e822dd06",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.898Z",
+      "evidenceExcerpt": "Public positioning describes a lightweight / cold-formed steel framing manufacturer and fabricator.",
+      "confidence": "high",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.898Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.898Z",
+    "updatedAt": "2026-07-30T21:15:40.898Z"
+  },
+  {
+    "id": "ev_91a4eaee9a336f35",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.901Z",
+      "evidenceExcerpt": "Site language targets construction professionals and distribution partners (distributors listed publicly).",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.901Z",
+      "epistemicClass": "inference",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Audience_f208b1aea2b19915",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.901Z",
+    "updatedAt": "2026-07-30T21:15:40.901Z"
+  },
+  {
+    "id": "ev_6529f55f4f4597f8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.902Z",
+      "evidenceExcerpt": "Product family term observed: framing",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.902Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProductFamily_ee57f74a6e7cb020"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.902Z",
+    "updatedAt": "2026-07-30T21:15:40.902Z"
+  },
+  {
+    "id": "ev_4a362d7f5e45894b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.903Z",
+      "evidenceExcerpt": "Product family term observed: joist",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.903Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProductFamily_15fecf553f33ec11"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.903Z",
+    "updatedAt": "2026-07-30T21:15:40.903Z"
+  },
+  {
+    "id": "ev_8cf977ef8c50c864",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.903Z",
+      "evidenceExcerpt": "Product family term observed: track",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.903Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProductFamily_5741adc2c5b6c76b"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.903Z",
+    "updatedAt": "2026-07-30T21:15:40.903Z"
+  },
+  {
+    "id": "ev_1558f1ef44d91790",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.904Z",
+      "evidenceExcerpt": "Product family term observed: stud",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.904Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProductFamily_85ec8c01ef397da5"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.904Z",
+    "updatedAt": "2026-07-30T21:15:40.904Z"
+  },
+  {
+    "id": "ev_431e26097d004680",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.904Z",
+      "evidenceExcerpt": "Product family term observed: header",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.904Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProductFamily_c88f44de456d1bdc"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.904Z",
+    "updatedAt": "2026-07-30T21:15:40.904Z"
+  },
+  {
+    "id": "ev_0094b9f07e1662d2",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.906Z",
+      "evidenceExcerpt": "Product family term observed: clip",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.906Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProductFamily_da0a11fddb6ab102"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.906Z",
+    "updatedAt": "2026-07-30T21:15:40.906Z"
+  },
+  {
+    "id": "ev_ccfe4ecc42ed7a66",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:40.907Z",
+      "evidenceExcerpt": "Product inventory: CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty Products and Accessories in the United States.",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.907Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_c468e9b25f804d9a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.907Z",
+    "updatedAt": "2026-07-30T21:15:40.907Z"
+  },
+  {
+    "id": "ev_e5381ab5cda70d8a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/products",
+      "captureDate": "2026-07-30T21:15:40.908Z",
+      "evidenceExcerpt": "Product inventory: Products",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.908Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_6a0e5feb098af246"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.908Z",
+    "updatedAt": "2026-07-30T21:15:40.908Z"
+  },
+  {
+    "id": "ev_71c585b54cb89e38",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/cst-slotted-track-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.909Z",
+      "evidenceExcerpt": "Product inventory: CST Slotted Track UL Assemblies",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.909Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_044f2d2122a04502"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.909Z",
+    "updatedAt": "2026-07-30T21:15:40.909Z"
+  },
+  {
+    "id": "ev_536277485e61cbd5",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/viper-stud-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.910Z",
+      "evidenceExcerpt": "Product inventory: ViperStud Sound Test Reports",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.910Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_0d575f4703b39e0e"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.910Z",
+    "updatedAt": "2026-07-30T21:15:40.910Z"
+  },
+  {
+    "id": "ev_f30c5f8aa74e09b2",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/typical-details-water-management-details",
+      "captureDate": "2026-07-30T21:15:40.913Z",
+      "evidenceExcerpt": "Product inventory: Typical Details-Water Management Products",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.913Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_0b151aab8dbac5e4"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.913Z",
+    "updatedAt": "2026-07-30T21:15:40.913Z"
+  },
+  {
+    "id": "ev_c23c7fb7a62d01b3",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/viperstud-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.915Z",
+      "evidenceExcerpt": "Product inventory: ViperStud UL Assemblies",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.915Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_0f46e49a18a0dac2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.915Z",
+    "updatedAt": "2026-07-30T21:15:40.915Z"
+  },
+  {
+    "id": "ev_6a02bdf1323769b0",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/firestop-products-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.917Z",
+      "evidenceExcerpt": "Product inventory: Firestop Solutions and UL Assemblies",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.917Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_37d30d317a33ca95"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.917Z",
+    "updatedAt": "2026-07-30T21:15:40.917Z"
+  },
+  {
+    "id": "ev_bc2f5e0100ef8b79",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/fas-products",
+      "captureDate": "2026-07-30T21:15:40.919Z",
+      "evidenceExcerpt": "Product inventory: Typical Details-FAS Products",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.919Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Product_d8b6c1768cc49265"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.919Z",
+    "updatedAt": "2026-07-30T21:15:40.919Z"
+  },
+  {
+    "id": "ev_7166914505c28ab7",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.921Z",
+      "evidenceExcerpt": "Document: STC-60 CEMCO Ceramic Tile/DAL Crack Isolation Membrane on LEVELROCK with Insulated Suspended Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.921Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_9f80c447a04e35ab"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.921Z",
+    "updatedAt": "2026-07-30T21:15:40.921Z"
+  },
+  {
+    "id": "ev_5a251cacfd75936e",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.926Z",
+      "evidenceExcerpt": "Document: ↓Download",
+      "confidence": "low",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.926Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": false,
+      "textQualityIssues": [
+        "uncommon_unicode_density"
+      ]
+    },
+    "relatedEntityIds": [
+      "ent_Document_9f80c447a04e35ab",
+      "ent_Document_b77cd23c84c160b5",
+      "ent_Document_2d0717fe44aed95d",
+      "ent_Document_a68fe97f72d92c4a",
+      "ent_Document_64027d9935dc3c35",
+      "ent_Document_328faf46b71ed7e4",
+      "ent_Document_f8be74f733d52bfe",
+      "ent_Document_70615acc15bea12c",
+      "ent_Document_cf9161b52880265c",
+      "ent_Document_9f8457ceec79fee3"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.926Z",
+    "updatedAt": "2026-07-30T21:15:40.980Z"
+  },
+  {
+    "id": "ev_96871d523afa8d22",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.936Z",
+      "evidenceExcerpt": "Document: STC-60 CEMCO Bare LEVELROCK with Insulated Suspended Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.936Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_b77cd23c84c160b5"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.936Z",
+    "updatedAt": "2026-07-30T21:15:40.936Z"
+  },
+  {
+    "id": "ev_d0dafa50c6837944",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.950Z",
+      "evidenceExcerpt": "Document: STC-59 CEMCO Carpet & Pad on LEVELROCK with Insulated Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.950Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_2d0717fe44aed95d"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.950Z",
+    "updatedAt": "2026-07-30T21:15:40.950Z"
+  },
+  {
+    "id": "ev_5e8ba243a8fc90f2",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.956Z",
+      "evidenceExcerpt": "Document: STC-59 CEMCO Bare LEVELROCK with Insulated Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.956Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_a68fe97f72d92c4a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.956Z",
+    "updatedAt": "2026-07-30T21:15:40.956Z"
+  },
+  {
+    "id": "ev_3a43182eab5cabe4",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.959Z",
+      "evidenceExcerpt": "Document: STC-58 CEMCO Hardwood Floor on Pergo Soundbloc on LEVELROCK with Insulated Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.959Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_64027d9935dc3c35"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.959Z",
+    "updatedAt": "2026-07-30T21:15:40.959Z"
+  },
+  {
+    "id": "ev_1b500ff5359b1a84",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.962Z",
+      "evidenceExcerpt": "Document: IIC-85 CEMCO Carpet & Pad on LEVELROCK with Insulated Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.962Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_328faf46b71ed7e4"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.962Z",
+    "updatedAt": "2026-07-30T21:15:40.962Z"
+  },
+  {
+    "id": "ev_7d7f226c5df7537a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.965Z",
+      "evidenceExcerpt": "Document: IIC-59 CEMCO Hardwood Flooring on Pergo Soundbloc on LEVELROCK with Insulated Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.965Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_f8be74f733d52bfe"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.965Z",
+    "updatedAt": "2026-07-30T21:15:40.965Z"
+  },
+  {
+    "id": "ev_8064d851dd0ed86f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.968Z",
+      "evidenceExcerpt": "Document: IIC-55 CEMCO Ceramic Tile/DAL Crack Isolation Membrane/LEVELROCK with Insulated Suspended Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.968Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_70615acc15bea12c"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.968Z",
+    "updatedAt": "2026-07-30T21:15:40.968Z"
+  },
+  {
+    "id": "ev_e6200599e5ca801f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.971Z",
+      "evidenceExcerpt": "Document: IIC-54 CEMCO Vinyl Flooring on LEVELROCK with Insulated Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.971Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_cf9161b52880265c"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.971Z",
+    "updatedAt": "2026-07-30T21:15:40.971Z"
+  },
+  {
+    "id": "ev_993f94572e17ebf8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "captureDate": "2026-07-30T21:15:40.975Z",
+      "evidenceExcerpt": "Document: IIC-54 CEMCO Bare LEVELROCK with Insulated Suspended Ceiling",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.975Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_9f8457ceec79fee3"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.975Z",
+    "updatedAt": "2026-07-30T21:15:40.975Z"
+  },
+  {
+    "id": "ev_88f8a046db842c85",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.984Z",
+      "evidenceExcerpt": "Document: UL G556-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.984Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_2d5cfb3c15c9ca59"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.984Z",
+    "updatedAt": "2026-07-30T21:15:40.984Z"
+  },
+  {
+    "id": "ev_f2a14ea6f6947f10",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.988Z",
+      "evidenceExcerpt": "Document: ↓Download",
+      "confidence": "low",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.988Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": false,
+      "textQualityIssues": [
+        "uncommon_unicode_density"
+      ]
+    },
+    "relatedEntityIds": [
+      "ent_Document_2d5cfb3c15c9ca59",
+      "ent_Document_5ccaf3d2c51f745a",
+      "ent_Document_7c4df1362c3d290b",
+      "ent_Document_8d3b3245c1809576",
+      "ent_Document_13a9acbb2ddb0ecf",
+      "ent_Document_1af3295b60ff9408",
+      "ent_Document_90c48d3f094c0fe4",
+      "ent_Document_ad090f47004fc3ba",
+      "ent_Document_ec3210aec354ab68",
+      "ent_Document_ea2bc7ffede64e9b",
+      "ent_Document_d91847c1e52fb262",
+      "ent_Document_ce493ac44f1614d9",
+      "ent_Document_931181d20faf6024",
+      "ent_Document_7728e94edd9280c2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.988Z",
+    "updatedAt": "2026-07-30T21:15:41.022Z"
+  },
+  {
+    "id": "ev_9430564aa71340ff",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.991Z",
+      "evidenceExcerpt": "Document: UL G557-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.991Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_5ccaf3d2c51f745a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.991Z",
+    "updatedAt": "2026-07-30T21:15:40.991Z"
+  },
+  {
+    "id": "ev_665ed9beda00330b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.994Z",
+      "evidenceExcerpt": "Document: UL G559-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.994Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_7c4df1362c3d290b"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.994Z",
+    "updatedAt": "2026-07-30T21:15:40.994Z"
+  },
+  {
+    "id": "ev_f41ef9004731b77f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.996Z",
+      "evidenceExcerpt": "Document: UL G560-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.996Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_8d3b3245c1809576"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.996Z",
+    "updatedAt": "2026-07-30T21:15:40.996Z"
+  },
+  {
+    "id": "ev_4df25312a9405710",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:40.999Z",
+      "evidenceExcerpt": "Document: UL G565-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:40.999Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_13a9acbb2ddb0ecf"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:40.999Z",
+    "updatedAt": "2026-07-30T21:15:40.999Z"
+  },
+  {
+    "id": "ev_316aab38c7115d9a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.002Z",
+      "evidenceExcerpt": "Document: UL G574-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.002Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_1af3295b60ff9408"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.002Z",
+    "updatedAt": "2026-07-30T21:15:41.002Z"
+  },
+  {
+    "id": "ev_4ac54eb5487bdd79",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.005Z",
+      "evidenceExcerpt": "Document: UL G580-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.005Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_90c48d3f094c0fe4"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.005Z",
+    "updatedAt": "2026-07-30T21:15:41.005Z"
+  },
+  {
+    "id": "ev_804caecba78405aa",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.007Z",
+      "evidenceExcerpt": "Document: UL G588-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.007Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_ad090f47004fc3ba"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.007Z",
+    "updatedAt": "2026-07-30T21:15:41.007Z"
+  },
+  {
+    "id": "ev_7b1bb371051c029c",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.009Z",
+      "evidenceExcerpt": "Document: UL G595-Sure-Span",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.009Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_ec3210aec354ab68"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.009Z",
+    "updatedAt": "2026-07-30T21:15:41.009Z"
+  },
+  {
+    "id": "ev_d15c7fb29406d33a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.010Z",
+      "evidenceExcerpt": "Document: UL H503-Sure-Span/Sure-Board Series 200S",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.010Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_ea2bc7ffede64e9b"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.010Z",
+    "updatedAt": "2026-07-30T21:15:41.010Z"
+  },
+  {
+    "id": "ev_ae0d70bc24d06e8b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.012Z",
+      "evidenceExcerpt": "Document: UL H508-Sure-Span/Sure-Board Series 200S",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.012Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_d91847c1e52fb262"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.012Z",
+    "updatedAt": "2026-07-30T21:15:41.012Z"
+  },
+  {
+    "id": "ev_ffe2830ea78b31bc",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.014Z",
+      "evidenceExcerpt": "Document: UL P546-Sure-Span Roof",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.014Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_ce493ac44f1614d9"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.014Z",
+    "updatedAt": "2026-07-30T21:15:41.014Z"
+  },
+  {
+    "id": "ev_384c12d1b3557560",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.016Z",
+      "evidenceExcerpt": "Document: UL P561-Sure-Span Roof",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.016Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_931181d20faf6024"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.016Z",
+    "updatedAt": "2026-07-30T21:15:41.016Z"
+  },
+  {
+    "id": "ev_c1a018a204f61f38",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "captureDate": "2026-07-30T21:15:41.021Z",
+      "evidenceExcerpt": "Document: UL P562-Sure-Span Roof",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.021Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_7728e94edd9280c2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.021Z",
+    "updatedAt": "2026-07-30T21:15:41.021Z"
+  },
+  {
+    "id": "ev_fe0e9287e2fb01f6",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.023Z",
+      "evidenceExcerpt": "Document: CSS-13 CORNER STUDS – TRACK CONNECTION DETAIL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.023Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_e2076faa571adcc8"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.023Z",
+    "updatedAt": "2026-07-30T21:15:41.023Z"
+  },
+  {
+    "id": "ev_d753627696329fcd",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.025Z",
+      "evidenceExcerpt": "Document: ↓Download",
+      "confidence": "low",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.025Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": false,
+      "textQualityIssues": [
+        "uncommon_unicode_density"
+      ]
+    },
+    "relatedEntityIds": [
+      "ent_Document_e2076faa571adcc8",
+      "ent_Document_233447755c6d5cbf",
+      "ent_Document_70cdd69da0b7ac4a",
+      "ent_Document_14d6888cb04b894c",
+      "ent_Document_2678e331f9832a41",
+      "ent_Document_17894442da993dbc",
+      "ent_Document_b7acfa3f9ccda446",
+      "ent_Document_937068fb11ea0820",
+      "ent_Document_8dd92885579718cb",
+      "ent_Document_bf119935ac9bed36",
+      "ent_Document_638e5729a68dbd57",
+      "ent_Document_e2677a2294a07ece",
+      "ent_Document_7cdfe4221f3fd855"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.025Z",
+    "updatedAt": "2026-07-30T21:15:41.055Z"
+  },
+  {
+    "id": "ev_8e754e92c2e016c9",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.026Z",
+      "evidenceExcerpt": "Document: CSS-12 WALL INTERSECTION STUDS – TRACK CONNECTION DETAIL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.026Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_233447755c6d5cbf"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.026Z",
+    "updatedAt": "2026-07-30T21:15:41.026Z"
+  },
+  {
+    "id": "ev_6c66d3d8e092ffc5",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.028Z",
+      "evidenceExcerpt": "Document: CSS-11 BOXED STUDS – TRACK CONNECTION DETAILS",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.028Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_70cdd69da0b7ac4a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.028Z",
+    "updatedAt": "2026-07-30T21:15:41.028Z"
+  },
+  {
+    "id": "ev_0bbb83d16e0d5965",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.030Z",
+      "evidenceExcerpt": "Document: CSS-10 BACK TO BACK STUDS – TRACK CONNECTION DETAILS",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.030Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_14d6888cb04b894c"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.030Z",
+    "updatedAt": "2026-07-30T21:15:41.030Z"
+  },
+  {
+    "id": "ev_6c3825f13f669c9c",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.033Z",
+      "evidenceExcerpt": "Document: CSS-9 SINGLE STUD – TRACK CONNECTION DETAILS",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.033Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_2678e331f9832a41"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.033Z",
+    "updatedAt": "2026-07-30T21:15:41.033Z"
+  },
+  {
+    "id": "ev_596f5fe5e47713c6",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.035Z",
+      "evidenceExcerpt": "Document: CSS-8 JOIST BRIDGING – DOUBLE STRAP WITH DIAGONAL BRIDGING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.035Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_17894442da993dbc"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.035Z",
+    "updatedAt": "2026-07-30T21:15:41.035Z"
+  },
+  {
+    "id": "ev_b1722ea10c1c2afb",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.037Z",
+      "evidenceExcerpt": "Document: CSS-7 CEILING JOIST BRIDGING – DOUBLE STRAP WITH STUD OR TRACK BLOCKING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.037Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_b7acfa3f9ccda446"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.037Z",
+    "updatedAt": "2026-07-30T21:15:41.037Z"
+  },
+  {
+    "id": "ev_912a5573fcd7f956",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.039Z",
+      "evidenceExcerpt": "Document: CSS-6 CRC BRIDGING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.039Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_937068fb11ea0820"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.039Z",
+    "updatedAt": "2026-07-30T21:15:41.039Z"
+  },
+  {
+    "id": "ev_ac54c9c06291120d",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.043Z",
+      "evidenceExcerpt": "Document: CSS-5 STUD BRIDGING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.043Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_8dd92885579718cb"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.043Z",
+    "updatedAt": "2026-07-30T21:15:41.043Z"
+  },
+  {
+    "id": "ev_178ea392ee42a31d",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.045Z",
+      "evidenceExcerpt": "Document: CSS-4 DROP-RECESS CEILING – JOIST LAP JOINT TO STUD",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.045Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_bf119935ac9bed36"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.045Z",
+    "updatedAt": "2026-07-30T21:15:41.045Z"
+  },
+  {
+    "id": "ev_8acbb9c9b03910d9",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.050Z",
+      "evidenceExcerpt": "Document: CSS-3 Drop-Recess Ceiling with Ledger",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.050Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_638e5729a68dbd57"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.050Z",
+    "updatedAt": "2026-07-30T21:15:41.050Z"
+  },
+  {
+    "id": "ev_f2aa516c08c59431",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.052Z",
+      "evidenceExcerpt": "Document: CSS-2 Flush Ceiling – Ceiling Parallel to Stud Wall",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.052Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_e2677a2294a07ece"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.052Z",
+    "updatedAt": "2026-07-30T21:15:41.052Z"
+  },
+  {
+    "id": "ev_ebddcae39e7b9760",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "captureDate": "2026-07-30T21:15:41.054Z",
+      "evidenceExcerpt": "Document: CSS-1 Flush Ceiling – Ceiling Joist Perpendicular & Bearing on Stud Wall",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.054Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_7cdfe4221f3fd855"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.054Z",
+    "updatedAt": "2026-07-30T21:15:41.054Z"
+  },
+  {
+    "id": "ev_08087b9ae8a5a4af",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.056Z",
+      "evidenceExcerpt": "Document: CWS-1 DEFLECTION TRACK ASSEMBLY – SINGLE TRACK WITH DOUBLE FLAT STRAP",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.056Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_37a8360f7e94c04b"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.056Z",
+    "updatedAt": "2026-07-30T21:15:41.056Z"
+  },
+  {
+    "id": "ev_8f570993fee04db5",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.057Z",
+      "evidenceExcerpt": "Document: ↓Download",
+      "confidence": "low",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.057Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": false,
+      "textQualityIssues": [
+        "uncommon_unicode_density"
+      ]
+    },
+    "relatedEntityIds": [
+      "ent_Document_37a8360f7e94c04b",
+      "ent_Document_61576b8228c7a5c8",
+      "ent_Document_c69ec39d4691d8d3",
+      "ent_Document_b81acef838e0105b",
+      "ent_Document_29825080b330a2ce",
+      "ent_Document_883511eaac04a6e6",
+      "ent_Document_473f58a1e3f847ad",
+      "ent_Document_f3ec6e66f72fc690",
+      "ent_Document_f6d6867aefcdaca2",
+      "ent_Document_d3a138a7a419ded8",
+      "ent_Document_ca3217896a2f83c6",
+      "ent_Document_c59a5141bd57a1ab",
+      "ent_Document_bd6bef0c4c9a210f",
+      "ent_Document_081b43fc17735aaf",
+      "ent_Document_4ebed6906d7361be",
+      "ent_Document_3c1419c3b2185af2",
+      "ent_Document_753f4d5b0e61bd9c",
+      "ent_Document_a98cd1a4290ea715",
+      "ent_Document_0692344db3d11549",
+      "ent_Document_e9d6939e40b101a9",
+      "ent_Document_4acceb78ff8dca2a",
+      "ent_Document_3bef608bf6235d17",
+      "ent_Document_471d4f4fe0c0d942",
+      "ent_Document_1999fc009486f46e",
+      "ent_Document_d24a8c0a08229c0d",
+      "ent_Document_71a9a724104c0043",
+      "ent_Document_e4f0de6cb9d036a5",
+      "ent_Document_12b59dcb140ae438",
+      "ent_Document_b05339c1c7f2c8b6"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.057Z",
+    "updatedAt": "2026-07-30T21:15:41.110Z"
+  },
+  {
+    "id": "ev_4331a8309f980b6a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.059Z",
+      "evidenceExcerpt": "Document: CWS-1A DEFLECTION TRACK ASSEMBLY – FAS TRACK DL2 WITH DOUBLE FLAT STRAP",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.059Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_61576b8228c7a5c8"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.059Z",
+    "updatedAt": "2026-07-30T21:15:41.059Z"
+  },
+  {
+    "id": "ev_c2423bde2448696a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.061Z",
+      "evidenceExcerpt": "Document: CWS-2 DEFLECTION TRACK ASSEMBLY – SINGLE TRACK WITH CRC",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.061Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_c69ec39d4691d8d3"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.061Z",
+    "updatedAt": "2026-07-30T21:15:41.061Z"
+  },
+  {
+    "id": "ev_09b809b9d351e140",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.063Z",
+      "evidenceExcerpt": "Document: CWS-2A DEFLECTION TRACK ASSEMBLY – FAS TRACK DL2 WITH CRC",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.063Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_b81acef838e0105b"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.063Z",
+    "updatedAt": "2026-07-30T21:15:41.063Z"
+  },
+  {
+    "id": "ev_fc707a8d5edd0316",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.064Z",
+      "evidenceExcerpt": "Document: CWS-3 DEFLECTION TRACK ASSEMBLY – DOUBLE DEFLECTION TRACK",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.064Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_29825080b330a2ce"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.064Z",
+    "updatedAt": "2026-07-30T21:15:41.064Z"
+  },
+  {
+    "id": "ev_eb9cdfdca66d87d3",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.066Z",
+      "evidenceExcerpt": "Document: CWS-3A DEFLECTION TRACK ASSEMBLY – DOUBLE DEFLECTION TRACK WITH CEMCO FAS TRACK DL2",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.066Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_883511eaac04a6e6"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.066Z",
+    "updatedAt": "2026-07-30T21:15:41.066Z"
+  },
+  {
+    "id": "ev_ed67d29b634d705d",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.068Z",
+      "evidenceExcerpt": "Document: CWS-4 DEFLECTION TRACK ASSEMBLY – SINGLE SLOTTED TRACK",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.068Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_473f58a1e3f847ad"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.068Z",
+    "updatedAt": "2026-07-30T21:15:41.068Z"
+  },
+  {
+    "id": "ev_eb98c3f628c2f3a4",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.070Z",
+      "evidenceExcerpt": "Document: CWS-4A DEFLECTION TRACK ASSEMBLY – FAS TRACK DL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.070Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_f3ec6e66f72fc690"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.070Z",
+    "updatedAt": "2026-07-30T21:15:41.070Z"
+  },
+  {
+    "id": "ev_32fd98702b3481ad",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.072Z",
+      "evidenceExcerpt": "Document: CWS-5 BRIDGING – SINGLE FLAT STRAP WITH BLOCKING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.072Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_f6d6867aefcdaca2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.072Z",
+    "updatedAt": "2026-07-30T21:15:41.072Z"
+  },
+  {
+    "id": "ev_8995071926f8aa2e",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.074Z",
+      "evidenceExcerpt": "Document: CWS-6 BRIDGING – DOUBLE FLAT STRAP WITH BLOCKING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.074Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_d3a138a7a419ded8"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.074Z",
+    "updatedAt": "2026-07-30T21:15:41.074Z"
+  },
+  {
+    "id": "ev_c50a0a166bd6e071",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.075Z",
+      "evidenceExcerpt": "Document: CWS-7 BRIDGING – CRC WITH CLIP ANGLE",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.075Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_ca3217896a2f83c6"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.075Z",
+    "updatedAt": "2026-07-30T21:15:41.075Z"
+  },
+  {
+    "id": "ev_16ff10bfa8f9fc92",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.077Z",
+      "evidenceExcerpt": "Document: CWS-8 LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.077Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_c59a5141bd57a1ab"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.077Z",
+    "updatedAt": "2026-07-30T21:15:41.077Z"
+  },
+  {
+    "id": "ev_fd28977d04307d67",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.080Z",
+      "evidenceExcerpt": "Document: CWS-8A LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.080Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_bd6bef0c4c9a210f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.080Z",
+    "updatedAt": "2026-07-30T21:15:41.080Z"
+  },
+  {
+    "id": "ev_fa3677a91549ab5d",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.083Z",
+      "evidenceExcerpt": "Document: CWS-9 LARGE OPENING (BACK TO BACK HEADER BOXED JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.083Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_081b43fc17735aaf"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.083Z",
+    "updatedAt": "2026-07-30T21:15:41.083Z"
+  },
+  {
+    "id": "ev_d6af9fd933b32a46",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.084Z",
+      "evidenceExcerpt": "Document: CWS-10 LARGE OPENING (BACK TO BACK HEADER – BACK TO BACK JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.084Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_4ebed6906d7361be"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.084Z",
+    "updatedAt": "2026-07-30T21:15:41.084Z"
+  },
+  {
+    "id": "ev_0e79d08437f54243",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.086Z",
+      "evidenceExcerpt": "Document: CWS-11 LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.086Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_3c1419c3b2185af2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.086Z",
+    "updatedAt": "2026-07-30T21:15:41.086Z"
+  },
+  {
+    "id": "ev_a24bc8b19f5303cd",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.087Z",
+      "evidenceExcerpt": "Document: CWS-11A LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.087Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_753f4d5b0e61bd9c"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.087Z",
+    "updatedAt": "2026-07-30T21:15:41.087Z"
+  },
+  {
+    "id": "ev_02cc1e087567bed9",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.089Z",
+      "evidenceExcerpt": "Document: CWS-12 LARGE OPENING BOXED SILL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.089Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_a98cd1a4290ea715"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.089Z",
+    "updatedAt": "2026-07-30T21:15:41.089Z"
+  },
+  {
+    "id": "ev_7f6027bdf817cd6a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.091Z",
+      "evidenceExcerpt": "Document: CWS-13 SMALL OPENING SINGLE TRACK HEADER AND SILL, SINGLE JAMB",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.091Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_0692344db3d11549"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.091Z",
+    "updatedAt": "2026-07-30T21:15:41.091Z"
+  },
+  {
+    "id": "ev_f3ea590be0b6ae0d",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.093Z",
+      "evidenceExcerpt": "Document: CWS-14 STIFFENED KNEEWALL-PARAPET",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.093Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_e9d6939e40b101a9"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.093Z",
+    "updatedAt": "2026-07-30T21:15:41.093Z"
+  },
+  {
+    "id": "ev_3ea0ec5814bd0d03",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.096Z",
+      "evidenceExcerpt": "Document: CWS-15 JAMB BASE CONNECTION DETAIL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.096Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_4acceb78ff8dca2a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.096Z",
+    "updatedAt": "2026-07-30T21:15:41.096Z"
+  },
+  {
+    "id": "ev_33b045e15b36071f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.098Z",
+      "evidenceExcerpt": "Document: CWS-16 WALL DEFLECTION – VERTICAL SLIDE CLIP",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.098Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_3bef608bf6235d17"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.098Z",
+    "updatedAt": "2026-07-30T21:15:41.098Z"
+  },
+  {
+    "id": "ev_35350fb7f43c364b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.100Z",
+      "evidenceExcerpt": "Document: CWS-17 WALL DEFLECTION – VERTICAL SLIDE CLIP WITH TRACK PIECE EXTENSION",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.100Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_471d4f4fe0c0d942"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.100Z",
+    "updatedAt": "2026-07-30T21:15:41.100Z"
+  },
+  {
+    "id": "ev_356f2164b7a7a427",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.102Z",
+      "evidenceExcerpt": "Document: CWS-18 WALL DEFLECTION – BYPASS VERTICAL SLIDE CLIP WITH EXTENDED LEG",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.102Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_1999fc009486f46e"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.102Z",
+    "updatedAt": "2026-07-30T21:15:41.102Z"
+  },
+  {
+    "id": "ev_9548c226a0220933",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.103Z",
+      "evidenceExcerpt": "Document: CWS-19 WALL DEFLECTION – BYPASS OUTRIGGER VERTICAL SLIDE CLIP",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.103Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_d24a8c0a08229c0d"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.103Z",
+    "updatedAt": "2026-07-30T21:15:41.103Z"
+  },
+  {
+    "id": "ev_926eb3adbae22cbf",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.104Z",
+      "evidenceExcerpt": "Document: CWS-20 WALL DEFLECTION – BYPASS VERTICAL SLIDE CLIP NON-CONTINUOUS STUD ATTACHMENT",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.104Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_71a9a724104c0043"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.104Z",
+    "updatedAt": "2026-07-30T21:15:41.104Z"
+  },
+  {
+    "id": "ev_6f72c126e183d730",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.105Z",
+      "evidenceExcerpt": "Document: CWS-21 WALL DEFLECTION – HEAD OF WALL – VERTICAL SLIDE CLIP",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.105Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_e4f0de6cb9d036a5"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.105Z",
+    "updatedAt": "2026-07-30T21:15:41.105Z"
+  },
+  {
+    "id": "ev_bef3caafaf5185c5",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.108Z",
+      "evidenceExcerpt": "Document: CWS-22 RIGID STUD ATTACHMENT",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.108Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_12b59dcb140ae438"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.108Z",
+    "updatedAt": "2026-07-30T21:15:41.108Z"
+  },
+  {
+    "id": "ev_c09aa94ea9eccc39",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "captureDate": "2026-07-30T21:15:41.109Z",
+      "evidenceExcerpt": "Document: CWS-23 SPANDREL STUD ATTACHMENT WITH DIAGNONAL BRACE",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.109Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_b05339c1c7f2c8b6"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.109Z",
+    "updatedAt": "2026-07-30T21:15:41.109Z"
+  },
+  {
+    "id": "ev_0b6ac66bf8afbaec",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.111Z",
+      "evidenceExcerpt": "Document: LBS-1-SINGLE STUD – TRACK CONNECTION DETAILS",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.111Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_0b3e0359af714344"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.111Z",
+    "updatedAt": "2026-07-30T21:15:41.111Z"
+  },
+  {
+    "id": "ev_d6007e32dab8e90f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.112Z",
+      "evidenceExcerpt": "Document: ↓Download",
+      "confidence": "low",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.112Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": false,
+      "textQualityIssues": [
+        "uncommon_unicode_density"
+      ]
+    },
+    "relatedEntityIds": [
+      "ent_Document_0b3e0359af714344",
+      "ent_Document_fb39105eb27b1c60",
+      "ent_Document_1806affb182d7bfa",
+      "ent_Document_2000ee3c1ecd675f",
+      "ent_Document_1c9fa7cdb957c2f9",
+      "ent_Document_beb6228b3eb7899d",
+      "ent_Document_f24236bd8a5bf074",
+      "ent_Document_bd10ae91dab9ac01",
+      "ent_Document_d8b1447970caa790",
+      "ent_Document_6c93f88d8f9942ad",
+      "ent_Document_46d0c31128bc7248",
+      "ent_Document_5d9160ac0cc27720",
+      "ent_Document_958c3a41e05462d8",
+      "ent_Document_284278ca0dc13dff",
+      "ent_Document_b91464c333296e8f",
+      "ent_Document_c7dee5d2e3366601",
+      "ent_Document_a80efe72c42416f5",
+      "ent_Document_6a60e7fd086c412b",
+      "ent_Document_5298b661097a369f",
+      "ent_Document_df60daa55ff02142",
+      "ent_Document_79aecb06819a23f7",
+      "ent_Document_cca5365266691632",
+      "ent_Document_8cbd2b43d8ced7f2",
+      "ent_Document_aa6d57bd84a6f111",
+      "ent_Document_93c1432f16651ffd",
+      "ent_Document_53335d59ab929295",
+      "ent_Document_3a2af420fd232e47",
+      "ent_Document_5c91315753318126",
+      "ent_Document_ee30da4df609f30b",
+      "ent_Document_33550b56985287e3",
+      "ent_Document_9119490868a4d915",
+      "ent_Document_653f831b6e3c3332",
+      "ent_Document_471c613ebf98d6a9",
+      "ent_Document_831b0b3b6467033e"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.112Z",
+    "updatedAt": "2026-07-30T21:15:41.158Z"
+  },
+  {
+    "id": "ev_c25c02ca59a6e106",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.113Z",
+      "evidenceExcerpt": "Document: LBS-2_BACK-TO-BACK STUDS – TRACK CONNECTION DETAILS",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.113Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_fb39105eb27b1c60"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.113Z",
+    "updatedAt": "2026-07-30T21:15:41.113Z"
+  },
+  {
+    "id": "ev_8ad3db62a0f8b304",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.116Z",
+      "evidenceExcerpt": "Document: LBS-3_BOXED STUDS – TRACK CONNECTION DETAILS",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.116Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_1806affb182d7bfa"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.116Z",
+    "updatedAt": "2026-07-30T21:15:41.116Z"
+  },
+  {
+    "id": "ev_930741323b2f7c1e",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.117Z",
+      "evidenceExcerpt": "Document: LBS-4_BUILT-UP MEMBER – TRACK CONNECTION DETAIL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.117Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_2000ee3c1ecd675f",
+      "ent_Document_1c9fa7cdb957c2f9"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.117Z",
+    "updatedAt": "2026-07-30T21:15:41.124Z"
+  },
+  {
+    "id": "ev_f1b538dcd8c1d169",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.125Z",
+      "evidenceExcerpt": "Document: LBS-6_CORNER STUDS – TRACK CONNECTION DETAIL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.125Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_beb6228b3eb7899d"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.125Z",
+    "updatedAt": "2026-07-30T21:15:41.125Z"
+  },
+  {
+    "id": "ev_4208f6471892603c",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.126Z",
+      "evidenceExcerpt": "Document: LBS-7_BRIDGING – SINGLE FLAT STRAP WITH BLOCKING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.126Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_f24236bd8a5bf074"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.126Z",
+    "updatedAt": "2026-07-30T21:15:41.126Z"
+  },
+  {
+    "id": "ev_07de26101584e361",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.127Z",
+      "evidenceExcerpt": "Document: LBS-8_BRIDGING – DOUBLE FLAT STRAP WITH BLOCKING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.127Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_bd10ae91dab9ac01"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.127Z",
+    "updatedAt": "2026-07-30T21:15:41.127Z"
+  },
+  {
+    "id": "ev_ae5a69885e193a21",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.128Z",
+      "evidenceExcerpt": "Document: LBS-9_BRIDGING – COLD ROLLED CHANNEL WITH CLIP ANGLE",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.128Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_d8b1447970caa790"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.128Z",
+    "updatedAt": "2026-07-30T21:15:41.128Z"
+  },
+  {
+    "id": "ev_7ce552d3870ea0d1",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.129Z",
+      "evidenceExcerpt": "Document: LBS-10_TOP OF WALL BEARING – BOXED HEADER, BACK-TO BACK JAMB",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.129Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_6c93f88d8f9942ad"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.129Z",
+    "updatedAt": "2026-07-30T21:15:41.129Z"
+  },
+  {
+    "id": "ev_d6c93aa1d7b24e9b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.130Z",
+      "evidenceExcerpt": "Document: LBS-11_TOP OF WALL BEARING – BACK-TO-BACK HEADER, BACK-TO-BACK JAMB",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.130Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_46d0c31128bc7248"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.130Z",
+    "updatedAt": "2026-07-30T21:15:41.130Z"
+  },
+  {
+    "id": "ev_ff0a52969309aa87",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.131Z",
+      "evidenceExcerpt": "Document: LBS-12_TOP OF WALL BEARING – BOXED HEADER, BOXED JAMB",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.131Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_5d9160ac0cc27720"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.131Z",
+    "updatedAt": "2026-07-30T21:15:41.131Z"
+  },
+  {
+    "id": "ev_2fe41e12c2a5c767",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.132Z",
+      "evidenceExcerpt": "Document: LBS-13_TOP OF WALL BEARING – BACK TO BACK HEADER, BOXED JAMB",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.132Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_958c3a41e05462d8"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.132Z",
+    "updatedAt": "2026-07-30T21:15:41.132Z"
+  },
+  {
+    "id": "ev_b96113ad51d887e0",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.132Z",
+      "evidenceExcerpt": "Document: LBS-14_TOP OF WALL BEARING – BOXED HEADER, BOXED JAMB",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.132Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_284278ca0dc13dff"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.132Z",
+    "updatedAt": "2026-07-30T21:15:41.132Z"
+  },
+  {
+    "id": "ev_539417c4edb59b90",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.133Z",
+      "evidenceExcerpt": "Document: LBS-15_LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.133Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_b91464c333296e8f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.133Z",
+    "updatedAt": "2026-07-30T21:15:41.133Z"
+  },
+  {
+    "id": "ev_c358b5071ce8a983",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.134Z",
+      "evidenceExcerpt": "Document: LBS-16_LARGE OPENING (BOXED HEADER-BOXED JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.134Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_c7dee5d2e3366601"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.134Z",
+    "updatedAt": "2026-07-30T21:15:41.134Z"
+  },
+  {
+    "id": "ev_5cbeb4789b16a988",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.135Z",
+      "evidenceExcerpt": "Document: LBS-17_LARGE OPENING (BACK TO BACK HEADER-BOXED JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.135Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_a80efe72c42416f5"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.135Z",
+    "updatedAt": "2026-07-30T21:15:41.135Z"
+  },
+  {
+    "id": "ev_4d25414d82145c46",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.136Z",
+      "evidenceExcerpt": "Document: LBS-18_LARGE OPENING (BACK TO BACK HEADER-BOXED JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.136Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_6a60e7fd086c412b"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.136Z",
+    "updatedAt": "2026-07-30T21:15:41.136Z"
+  },
+  {
+    "id": "ev_4ba950289a6608e4",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.138Z",
+      "evidenceExcerpt": "Document: LBS-19_LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.138Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_5298b661097a369f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.138Z",
+    "updatedAt": "2026-07-30T21:15:41.138Z"
+  },
+  {
+    "id": "ev_89d7e8828d1cfb42",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.139Z",
+      "evidenceExcerpt": "Document: LBS-20_LARGE OPENING (BOXED HEADER-BACK TO BACK JAMB)",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.139Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_df60daa55ff02142"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.139Z",
+    "updatedAt": "2026-07-30T21:15:41.139Z"
+  },
+  {
+    "id": "ev_7e14d4de2c4eb48c",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.140Z",
+      "evidenceExcerpt": "Document: LBS-21_LARGE OPENING – BOXED SILL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.140Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_79aecb06819a23f7"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.140Z",
+    "updatedAt": "2026-07-30T21:15:41.140Z"
+  },
+  {
+    "id": "ev_b98b20db5bf52014",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.141Z",
+      "evidenceExcerpt": "Document: LBS-22_SMALL OPENING – SINGLE TRACK HEADER AND SILL, SINGLE JAMB",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.141Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_cca5365266691632"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.141Z",
+    "updatedAt": "2026-07-30T21:15:41.141Z"
+  },
+  {
+    "id": "ev_6482237d30ba8cf0",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.141Z",
+      "evidenceExcerpt": "Document: LBS-23_EXTERIOR WALL – JOIST PERPENDICULAR TO WALL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.141Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_8cbd2b43d8ced7f2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.141Z",
+    "updatedAt": "2026-07-30T21:15:41.141Z"
+  },
+  {
+    "id": "ev_8d71897f2788c51f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.143Z",
+      "evidenceExcerpt": "Document: LBS-24_EXTERIOR WALL – JOIST PARALLEL TO WALL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.143Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_aa6d57bd84a6f111"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.143Z",
+    "updatedAt": "2026-07-30T21:15:41.143Z"
+  },
+  {
+    "id": "ev_9aba99ad52299cc1",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.144Z",
+      "evidenceExcerpt": "Document: LBS-25_EXTERIOR WALL – PRECAST CONCRETE HOLLOW CORE PLANKS",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.144Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_93c1432f16651ffd"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.144Z",
+    "updatedAt": "2026-07-30T21:15:41.144Z"
+  },
+  {
+    "id": "ev_b661935b122284a6",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.145Z",
+      "evidenceExcerpt": "Document: LBS-26_EXTERIOR WALL – BAR JOIST OVER STUD",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.145Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_53335d59ab929295"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.145Z",
+    "updatedAt": "2026-07-30T21:15:41.145Z"
+  },
+  {
+    "id": "ev_0475b0a7eb7058d4",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.147Z",
+      "evidenceExcerpt": "Document: LBS-28_EXTERIOR WALL – CORNER TIE",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.147Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_3a2af420fd232e47"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.147Z",
+    "updatedAt": "2026-07-30T21:15:41.147Z"
+  },
+  {
+    "id": "ev_e34b858c84376f0c",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.148Z",
+      "evidenceExcerpt": "Document: LBS-29_INTERIOR WALL – CONTINUOUS JOISTS BEARING OVER STUD WALL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.148Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_5c91315753318126"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.148Z",
+    "updatedAt": "2026-07-30T21:15:41.148Z"
+  },
+  {
+    "id": "ev_9c5f9e55ce07f019",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.150Z",
+      "evidenceExcerpt": "Document: LBS-30_INTERIOR WALL – LAPPED JOISTS BEARING OVER STUD WALL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.150Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_ee30da4df609f30b"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.150Z",
+    "updatedAt": "2026-07-30T21:15:41.150Z"
+  },
+  {
+    "id": "ev_f41dff8f987e91ef",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.151Z",
+      "evidenceExcerpt": "Document: LBS-31_INTERIOR WALL – CORNER TIE",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.151Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_33550b56985287e3"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.151Z",
+    "updatedAt": "2026-07-30T21:15:41.151Z"
+  },
+  {
+    "id": "ev_3ba4cfc8a326b7b8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.152Z",
+      "evidenceExcerpt": "Document: LBS-32_SHEARWALL – CEMCO SURE-BOARD STRUCTURAL PANEL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.152Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_9119490868a4d915"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.152Z",
+    "updatedAt": "2026-07-30T21:15:41.152Z"
+  },
+  {
+    "id": "ev_1b3c614f02b4b6b9",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.154Z",
+      "evidenceExcerpt": "Document: LBS-33_SHEARWALL – CEMCO SURE-BOARD STRUCTURAL PANEL",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.154Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_653f831b6e3c3332"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.154Z",
+    "updatedAt": "2026-07-30T21:15:41.154Z"
+  },
+  {
+    "id": "ev_38e749b27eb486f0",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.156Z",
+      "evidenceExcerpt": "Document: LBS-34_SHEARWALL – X-BRACING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.156Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_471c613ebf98d6a9"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.156Z",
+    "updatedAt": "2026-07-30T21:15:41.156Z"
+  },
+  {
+    "id": "ev_77a1988c1f467d36",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "captureDate": "2026-07-30T21:15:41.157Z",
+      "evidenceExcerpt": "Document: LBS-35_SHEARWALL – X-BRACING",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.157Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "unknown",
+      "reliabilityScore": 0.55,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Document_831b0b3b6467033e"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.157Z",
+    "updatedAt": "2026-07-30T21:15:41.157Z"
+  },
+  {
+    "id": "ev_4d7a3ec155183e91",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "sourcePageTitle": "CEMCO | Expanding Your Solutions",
+      "captureDate": "2026-07-30T21:15:41.159Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CEMCO is the Premier Manufacturer of Steel Framing, Metal Lath and Specialty",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.159Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_0e5ea10c2abeecf5"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.159Z",
+    "updatedAt": "2026-07-30T21:15:41.159Z"
+  },
+  {
+    "id": "ev_43e63b4cbaa4dec4",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/products",
+      "sourcePageTitle": "Products | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.160Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Products Home›Products Steel Framing Products CEMCO’s structural framing prod",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.160Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_37fc1f11dea7e906"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.160Z",
+    "updatedAt": "2026-07-30T21:15:41.160Z"
+  },
+  {
+    "id": "ev_77b74e4a19e8bc97",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/california-transparency-in-supply-chains-act",
+      "sourcePageTitle": "California Transparency in Supply Chains Act | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.161Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL California Transparency in Supply Chains Act Home›Resources›California Transp",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.161Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_ba50e0324f1e8228"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.161Z",
+    "updatedAt": "2026-07-30T21:15:41.161Z"
+  },
+  {
+    "id": "ev_db9ada4f3a2366f8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/california-prop-65",
+      "sourcePageTitle": "California’s Proposition 65 Warning | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.162Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL California’s Proposition 65 Warning Home›Resources›California’s Proposition 6",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.162Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_8b5684e6e98f76ab"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.162Z",
+    "updatedAt": "2026-07-30T21:15:41.162Z"
+  },
+  {
+    "id": "ev_5e4b84a8ba4e20ac",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-span-sound-test-reports",
+      "sourcePageTitle": "Sure-Span Sound Test Reports | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.163Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Sure Span Sound Test Reports Home›Resources›Sound Test Reports›Sure-Span Soun",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.163Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_e504be724a8e09ed"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.163Z",
+    "updatedAt": "2026-07-30T21:15:41.163Z"
+  },
+  {
+    "id": "ev_01bd77e6be591cc3",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/sure-span-ul-assemblies",
+      "sourcePageTitle": "Sure-Span UL Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.163Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Sure-Span UL Assemblies Home›Resources›UL Fire Rated Assemblies›Sure-Span UL",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.163Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_68a30d034b3efe0a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.163Z",
+    "updatedAt": "2026-07-30T21:15:41.163Z"
+  },
+  {
+    "id": "ev_efb802597a04c166",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/cst-slotted-track-ul-assemblies",
+      "sourcePageTitle": "CST Slotted Track UL Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.163Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CST Slotted Track UL Assemblies Home›Resources›UL Fire Rated Assemblies›CST S",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.163Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_b322f25462b8cc43"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.163Z",
+    "updatedAt": "2026-07-30T21:15:41.163Z"
+  },
+  {
+    "id": "ev_0b295c338750322e",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/ceilings",
+      "sourcePageTitle": "Typical Details-Ceilings | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.164Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Ceilings Home›Resources›Typical Details & REVIT Files›Typical",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.164Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_1b20d023f8079e5d"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.164Z",
+    "updatedAt": "2026-07-30T21:15:41.164Z"
+  },
+  {
+    "id": "ev_b1007ac9813c49e3",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/curtain-walls",
+      "sourcePageTitle": "Typical Details-Curtain Walls | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.164Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Curtain Walls Home›Resources›Typical Details & REVIT Files›Ty",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.164Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_9847195e848b047d"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.164Z",
+    "updatedAt": "2026-07-30T21:15:41.164Z"
+  },
+  {
+    "id": "ev_36e35c43f6761bc0",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/load-bearing-assemblies",
+      "sourcePageTitle": "Typical Details-Load-Bearing Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.165Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Load-Bearing Assemblies Home›Resources›Typical Details & REVI",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.165Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_a5c426dd27c5f3f7"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.165Z",
+    "updatedAt": "2026-07-30T21:15:41.165Z"
+  },
+  {
+    "id": "ev_0930163ae364f5ab",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/non-load-bearing-assemblies",
+      "sourcePageTitle": "Typical Details-Non-Load Bearing Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.165Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Non-Load Bearing Assemblies Home›Resources›Typical Details &",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.165Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_88fe196d57acd3d6"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.165Z",
+    "updatedAt": "2026-07-30T21:15:41.165Z"
+  },
+  {
+    "id": "ev_01add6bc98774d38",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/sure-board-sound-test-reports",
+      "sourcePageTitle": "Sure-Board Sound Test Reports | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.166Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Sure-Board Sound Test Reports Home›Resources›Sound Test Reports›Sure-Board So",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.166Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_5e03692679cc2534"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.166Z",
+    "updatedAt": "2026-07-30T21:15:41.166Z"
+  },
+  {
+    "id": "ev_47e18c6de5c174c4",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/sure-span-floor-system",
+      "sourcePageTitle": "Typical Details-Sure-Span Floor System | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.166Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Sure-Span Floor System Home›Resources›Typical Details & REVIT",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.166Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_e3bd5b04d1c0ce06"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.166Z",
+    "updatedAt": "2026-07-30T21:15:41.166Z"
+  },
+  {
+    "id": "ev_7117d902dae2e38b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/typical-details-prox-header",
+      "sourcePageTitle": "Typical Details-ProX Header | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.167Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-ProX Header Home›Resources›Typical Details & REVIT Files›Typi",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.167Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_be87314834014884"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.167Z",
+    "updatedAt": "2026-07-30T21:15:41.167Z"
+  },
+  {
+    "id": "ev_238e30491e0df52d",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/company/find-a-distributor",
+      "sourcePageTitle": "Find a Distributor | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.167Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Find a Distributor Home›Company›Find a Distributor Find a Distributor: Select",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.167Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_9c1459ddd27a93c2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.167Z",
+    "updatedAt": "2026-07-30T21:15:41.167Z"
+  },
+  {
+    "id": "ev_e61a2691d573c824",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/company/news",
+      "sourcePageTitle": "News & Press Releases | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.168Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL News & Press Releases Home›Company›News & Press Releases CEMCO® Announces Thr",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.168Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "blog",
+      "reliabilityScore": 0.65,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_248bf5c997088d46"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.168Z",
+    "updatedAt": "2026-07-30T21:15:41.168Z"
+  },
+  {
+    "id": "ev_a2371df1de48f591",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/services",
+      "sourcePageTitle": "Services | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.168Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Services Home›Services Structural Engineering The CEMCO Structural Engineerin",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.168Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_214c0a2f101bf707"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.168Z",
+    "updatedAt": "2026-07-30T21:15:41.168Z"
+  },
+  {
+    "id": "ev_be919c74cc188364",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/services/ias-accredited-testing-laboratory",
+      "sourcePageTitle": "IAS Accredited Testing Laboratory | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.169Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL IAS Certified Testing Laboratory Home›Services›IAS Accredited Testing Laborat",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.169Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_05c3485d99a89ac5"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.169Z",
+    "updatedAt": "2026-07-30T21:15:41.169Z"
+  },
+  {
+    "id": "ev_6999e666a6e9daba",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/services/structural-engineering",
+      "sourcePageTitle": "Structural Engineering | Services | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.169Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Structural Engineering Home›Services›Structural Engineering The CEMCO Structu",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.169Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_4d5a7e9d4796ae0d"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.169Z",
+    "updatedAt": "2026-07-30T21:15:41.169Z"
+  },
+  {
+    "id": "ev_6f7553375dab6ce5",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/services/technical-services",
+      "sourcePageTitle": "Technical Services | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.169Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Technical Services Home›Services›Technical Services CEMCO’s technical service",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.169Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_7e45b9d43d0963c0"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.169Z",
+    "updatedAt": "2026-07-30T21:15:41.169Z"
+  },
+  {
+    "id": "ev_dda0b124a1f688c8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/submittal-creator",
+      "sourcePageTitle": "Submittal Creator | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.170Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Submittal Creator Steel Framing Sure-Board for Shear TSN Clips and Connectors",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.170Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_f55ad537895bb4e2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.170Z",
+    "updatedAt": "2026-07-30T21:15:41.170Z"
+  },
+  {
+    "id": "ev_b1440f47e801d298",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/company/terms-of-service/privacy-policy",
+      "sourcePageTitle": "Privacy Policy | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.170Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Privacy Policy Home›Company›Terms of Service›Privacy Policy California Expand",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.170Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_9af521483cacc237"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.170Z",
+    "updatedAt": "2026-07-30T21:15:41.170Z"
+  },
+  {
+    "id": "ev_39d20090d2fea156",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/projects",
+      "sourcePageTitle": "Projects | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.175Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Projects Home›Projects Recent Project Profiles Visit a few of our past projec",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.175Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_8d7ef5944c5942a0"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.175Z",
+    "updatedAt": "2026-07-30T21:15:41.175Z"
+  },
+  {
+    "id": "ev_e676d32b06b8b131",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/company/cemco-covid-19-protocol",
+      "sourcePageTitle": "CEMCO COVID-19 PROTOCOL | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.176Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Create a Submittal Easily create a submittal by selecting the components whic",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.176Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_1663beebcc8dbeb2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.176Z",
+    "updatedAt": "2026-07-30T21:15:41.176Z"
+  },
+  {
+    "id": "ev_a603b006dba98ff9",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/viper-x-sound-test-reports",
+      "sourcePageTitle": "Viper-X Sound Test Reports | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.177Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Viper-X Sound Test Reports Home›Resources›Sound Test Reports›Viper-X Sound Te",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.177Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_a65b6a43e8f9f620"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.177Z",
+    "updatedAt": "2026-07-30T21:15:41.177Z"
+  },
+  {
+    "id": "ev_a4137ad2e28cc93f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/viper-stud-sound-test-reports",
+      "sourcePageTitle": "ViperStud Sound Test Reports | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.178Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL ViperStud Sound Test Reports Home›Resources›Sound Test Reports›ViperStud Soun",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.178Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_58ccab536746a653"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.178Z",
+    "updatedAt": "2026-07-30T21:15:41.178Z"
+  },
+  {
+    "id": "ev_f689d0c91b8e0bd1",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/typical-details-water-management-details",
+      "sourcePageTitle": "Typical Details- Water Management Products | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.178Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-Water Management Products Home›Resources›Typical Details & RE",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.178Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_feaef6493fe7d2c4"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.178Z",
+    "updatedAt": "2026-07-30T21:15:41.178Z"
+  },
+  {
+    "id": "ev_1caaa1b67e43c24e",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/company/careers",
+      "sourcePageTitle": "Careers | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.179Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Careers Home›Company›Careers CEMCO is always looking for the very best and br",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.179Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_a51d46844e8716e0"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.179Z",
+    "updatedAt": "2026-07-30T21:15:41.179Z"
+  },
+  {
+    "id": "ev_1ac6db8015d54512",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/submittal-creator/download",
+      "sourcePageTitle": "Submittal Download | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.179Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Your Submittal is Ready! Email Need more information? Fill out the form below",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.179Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "downloads_page",
+      "reliabilityScore": 0.8,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_6b2a423e03efb8ae"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.179Z",
+    "updatedAt": "2026-07-30T21:15:41.179Z"
+  },
+  {
+    "id": "ev_6acafb98f4441e46",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/rc1-xd-sound-test-reports",
+      "sourcePageTitle": "RC1-XD Sound Test Reports | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.180Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL RC1-XD Sound Test Reports Home›Resources›Sound Test Reports›RC1-XD Sound Test",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.180Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_2f570ca7ba3d1c33"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.180Z",
+    "updatedAt": "2026-07-30T21:15:41.180Z"
+  },
+  {
+    "id": "ev_4ac2acbe550afbdd",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/fire-bead-fire-gasket-sound-gasket-sound-test-reports",
+      "sourcePageTitle": "Fire Bead, Fire Gasket, Sound Gasket Sound Test Reports | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.181Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Sound Test Reports for Fire Bead, Fire Gasket, Sound Gasket, etc... Home›Reso",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.181Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_1617af4151ef9587"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.181Z",
+    "updatedAt": "2026-07-30T21:15:41.181Z"
+  },
+  {
+    "id": "ev_1e62a9c37244fa0b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/sound-test-reports/hotrod-hotrod-xl-sound-test-reports",
+      "sourcePageTitle": "HOTROD and HOTROD XL Sound Test Reports | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.182Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL HOTROD and HOTROD XL Sound Test Reports Home›Resources›Sound Test Reports›HOT",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.182Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_61f2b298bd62a95c"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.182Z",
+    "updatedAt": "2026-07-30T21:15:41.182Z"
+  },
+  {
+    "id": "ev_9686814118dd4a53",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/viperstud-ul-assemblies",
+      "sourcePageTitle": "ViperStud UL Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.183Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL ViperStud UL Assemblies Home›Resources›UL Fire Rated Assemblies›ViperStud UL",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.183Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_9b43d9b1d5c27ec6"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.183Z",
+    "updatedAt": "2026-07-30T21:15:41.183Z"
+  },
+  {
+    "id": "ev_2e15690bb2b1da4a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/viper-x-ul-assemblies",
+      "sourcePageTitle": "Viper-X UL Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.184Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Viper-X UL Assemblies Home›Resources›UL Fire Rated Assemblies›Viper-X UL Asse",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.184Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_a06430f82919a381"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.184Z",
+    "updatedAt": "2026-07-30T21:15:41.184Z"
+  },
+  {
+    "id": "ev_65431d633ba30cd8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/company",
+      "sourcePageTitle": "Company | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.184Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Company Home›Company About Us Founded in 1974, CEMCO is recognized as one of",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.184Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_734eb0aef2a635b2"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.184Z",
+    "updatedAt": "2026-07-30T21:15:41.184Z"
+  },
+  {
+    "id": "ev_3ca3b00498109e82",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/cemco-privacy-policy",
+      "sourcePageTitle": "CALIFORNIA CONSUMER PRIVACY ACT NOTICE | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.185Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL CALIFORNIA CONSUMER PRIVACY ACT NOTICE Thank you for choosing to be part of o",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.185Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_ee3b4ffa1eb1d05f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.185Z",
+    "updatedAt": "2026-07-30T21:15:41.185Z"
+  },
+  {
+    "id": "ev_03ce23be391027c9",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies",
+      "sourcePageTitle": "UL Fire Rated Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.200Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL UL Fire Rated Assemblies Home›Resources›UL Fire Rated Assemblies Sure-Span UL",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.200Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_7c5b563e00fb7195"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.200Z",
+    "updatedAt": "2026-07-30T21:15:41.200Z"
+  },
+  {
+    "id": "ev_b6083ae346de0907",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/ul-fire-rated-assemblies/firestop-products-ul-assemblies",
+      "sourcePageTitle": "Firestop Solutions and UL Assemblies | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.201Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Firestop Solutions and UL Assemblies Home›Resources›UL Fire Rated Assemblies›",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.201Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_8e9e9a5783b6e3fc"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.201Z",
+    "updatedAt": "2026-07-30T21:15:41.201Z"
+  },
+  {
+    "id": "ev_840e9205ff011a02",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/resources/typical-details-revit-files/fas-products",
+      "sourcePageTitle": "Typical Details-FAS Products | Resources | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.201Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Typical Details-FAS Products Home›Resources›Typical Details & REVIT Files›Typ",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.201Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_page",
+      "reliabilityScore": 0.85,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_a85bb887b72ddc21"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.201Z",
+    "updatedAt": "2026-07-30T21:15:41.201Z"
+  },
+  {
+    "id": "ev_bb33b8b1d2d98fcc",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/services/architectural-support",
+      "sourcePageTitle": "Architectural Support | Services | CEMCO",
+      "captureDate": "2026-07-30T21:15:41.202Z",
+      "evidenceExcerpt": "Expanding Your Solutions 1-800-775-2362 Create Submittal PRODUCTSSERVICESPROJECTSRESOURCESCOMPANYCONTACT USCUSTOMER PORTAL Architectural Support Home›Services›Architectural Support CEMCO’s products ar",
+      "confidence": "high",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.202Z",
+      "epistemicClass": "fact",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "support_article",
+      "reliabilityScore": 0.75,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Page_ece31e9ee7f25078"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.202Z",
+    "updatedAt": "2026-07-30T21:15:41.202Z"
+  },
+  {
+    "id": "ev_7fc4e7017d8c52ce",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.209Z",
+      "evidenceExcerpt": "Technology indicator: WordPress",
+      "confidence": "medium",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.209Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Technology_2818be60599d7309",
+      "ent_Website_7a5b8db0f266fb7f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.209Z",
+    "updatedAt": "2026-07-30T21:15:41.209Z"
+  },
+  {
+    "id": "ev_8dd46544d4302fbc",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.210Z",
+      "evidenceExcerpt": "Technology indicator: Yoast SEO",
+      "confidence": "medium",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.210Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Technology_66e54191b8a32a50",
+      "ent_Website_7a5b8db0f266fb7f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.210Z",
+    "updatedAt": "2026-07-30T21:15:41.210Z"
+  },
+  {
+    "id": "ev_a6a4ad306e2d3c40",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.211Z",
+      "evidenceExcerpt": "Technology indicator: Google Fonts/CDN",
+      "confidence": "medium",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.211Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Technology_d4dac93b970a646b",
+      "ent_Website_7a5b8db0f266fb7f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.211Z",
+    "updatedAt": "2026-07-30T21:15:41.211Z"
+  },
+  {
+    "id": "ev_4471c9e845383b16",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.214Z",
+      "evidenceExcerpt": "Technology indicator: Google Tag Manager/Analytics",
+      "confidence": "medium",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.214Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Technology_f52a79d7bd4f6244",
+      "ent_Website_7a5b8db0f266fb7f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.214Z",
+    "updatedAt": "2026-07-30T21:15:41.214Z"
+  },
+  {
+    "id": "ev_f4d30add3108a68f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.214Z",
+      "evidenceExcerpt": "Technology indicator: Cloudflare indicators",
+      "confidence": "medium",
+      "extractionMethod": "crawl_extract",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.214Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_Technology_01f1cbdfe51844a1",
+      "ent_Website_7a5b8db0f266fb7f"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.214Z",
+    "updatedAt": "2026-07-30T21:15:41.214Z"
+  },
+  {
+    "id": "ev_f906abf21ebbf195",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.216Z",
+      "evidenceExcerpt": "Public WordPress Velvet theme presentation; dated industrial brochure pattern.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.216Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_catalog",
+      "reliabilityScore": 0.92,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_14695e4b95c60713",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.216Z",
+    "updatedAt": "2026-07-30T21:15:41.216Z"
+  },
+  {
+    "id": "ev_462d14267d8c9726",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.242Z",
+      "evidenceExcerpt": "Products/Tools/Tables/Documents menu taxonomy observed.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.242Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_dbbe4282847a6d8b",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.242Z",
+    "updatedAt": "2026-07-30T21:15:41.242Z"
+  },
+  {
+    "id": "ev_f113111e2443786e",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.243Z",
+      "evidenceExcerpt": "Product-related pages in crawl: 7",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.243Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_37a799c4f324869c",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.243Z",
+    "updatedAt": "2026-07-30T21:15:41.243Z"
+  },
+  {
+    "id": "ev_cf865ebd1bb4bcf5",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.247Z",
+      "evidenceExcerpt": "Product pages present but attributes largely unstructured in HTML extraction.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.247Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_9e10337feb7bef12",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.247Z",
+    "updatedAt": "2026-07-30T21:15:41.247Z"
+  },
+  {
+    "id": "ev_e5ebe582fa80bdbf",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.253Z",
+      "evidenceExcerpt": "Tables observed: 0; document links: 782",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.253Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_986cb2d098873d5a",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.253Z",
+    "updatedAt": "2026-07-30T21:15:41.253Z"
+  },
+  {
+    "id": "ev_4f3d1c2efbf7a6f7",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.254Z",
+      "evidenceExcerpt": "Document inventory lacks consistent revision metadata in crawl.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.254Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_a18f3ae9e2de49fe",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.254Z",
+    "updatedAt": "2026-07-30T21:15:41.254Z"
+  },
+  {
+    "id": "ev_e9c2642c95e0a50f",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.255Z",
+      "evidenceExcerpt": "No clear first-class limiting-height calculator UX dominant in crawl labels.",
+      "confidence": "low",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.255Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "engineering_calculation",
+      "reliabilityScore": 1,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProcessIssue_7afc3e26a724168e",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.255Z",
+    "updatedAt": "2026-07-30T21:15:41.255Z"
+  },
+  {
+    "id": "ev_28dc3122aa6a1a82",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.257Z",
+      "evidenceExcerpt": "Submittal/spec language sparse; no integrated package builder observed.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.257Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProcessIssue_ea8eb50b3e31f3ba",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.257Z",
+    "updatedAt": "2026-07-30T21:15:41.257Z"
+  },
+  {
+    "id": "ev_0223aa53ddb4085a",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.258Z",
+      "evidenceExcerpt": "Forms observed: 160",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.258Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_40e0a00a6e428723",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.258Z",
+    "updatedAt": "2026-07-30T21:15:41.258Z"
+  },
+  {
+    "id": "ev_841a3c2de2b5669b",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.258Z",
+      "evidenceExcerpt": "Theme includes mobile viewport meta; dense homepage content likely stressful on small screens.",
+      "confidence": "low",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.258Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_8fdb580adaeeddb7",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.258Z",
+    "updatedAt": "2026-07-30T21:15:41.258Z"
+  },
+  {
+    "id": "ev_9b4b533111aaa042",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.259Z",
+      "evidenceExcerpt": "Images missing alt: 2",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.259Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_AccessibilityIssue_809798503ca676ae",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.259Z",
+    "updatedAt": "2026-07-30T21:15:41.259Z"
+  },
+  {
+    "id": "ev_5e67a8171e7ca8c0",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.259Z",
+      "evidenceExcerpt": "CMS theme + third-party assets; Lighthouse pending.",
+      "confidence": "low",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.259Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_PerformanceIssue_07dc2f89d35b5c49",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.259Z",
+    "updatedAt": "2026-07-30T21:15:41.259Z"
+  },
+  {
+    "id": "ev_b355ffbc3f85a601",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.260Z",
+      "evidenceExcerpt": "Meta description coverage 40/40; Yoast indicators present.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.260Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_SeoIssue_a7abb49e37a90f7b",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.260Z",
+    "updatedAt": "2026-07-30T21:15:41.260Z"
+  },
+  {
+    "id": "ev_71304e467cf635a2",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.260Z",
+      "evidenceExcerpt": "Technically oriented copy present; long undifferentiated blocks on homepage.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.260Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_14f1386a73fe23c2",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.260Z",
+    "updatedAt": "2026-07-30T21:15:41.260Z"
+  },
+  {
+    "id": "ev_39d4108a1f0300dd",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.260Z",
+      "evidenceExcerpt": "Revision metadata largely unknown in document inventory.",
+      "confidence": "low",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.260Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_36d592e22770f1d2",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.260Z",
+    "updatedAt": "2026-07-30T21:15:41.260Z"
+  },
+  {
+    "id": "ev_f4a2e92c2dc76dd1",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.261Z",
+      "evidenceExcerpt": "Download form CTAs observed; weak product-to-lead progressive paths.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.261Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_50ad85aaae1d6bf8",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.261Z",
+    "updatedAt": "2026-07-30T21:15:41.261Z"
+  },
+  {
+    "id": "ev_5560c8f5f47fefc8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.262Z",
+      "evidenceExcerpt": "PDF-heavy and list-heavy workflows dominate public experience.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.262Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_ProcessIssue_eaf5d40306df6f7c",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.262Z",
+    "updatedAt": "2026-07-30T21:15:41.262Z"
+  },
+  {
+    "id": "ev_198f6c3e40e28871",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.262Z",
+      "evidenceExcerpt": "No structured product graph or document metadata layer evident for retrieval.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.262Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_8e9ef8198ac6410d",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.262Z",
+    "updatedAt": "2026-07-30T21:15:41.262Z"
+  },
+  {
+    "id": "ev_a351147eddc5da1d",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.263Z",
+      "evidenceExcerpt": "Average of category scores; brochure-site maturity with strong distributor content and weak interactive tooling.",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.263Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "product_catalog",
+      "reliabilityScore": 0.92,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_UxIssue_5e42661bf866a4e2",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.263Z",
+    "updatedAt": "2026-07-30T21:15:41.263Z"
+  },
+  {
+    "id": "ev_0730bf6c5ee6f2da",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "CEMCO",
+      "sourceProject": "cemco",
+      "sourceUrl": "https://cemcosteel.com/",
+      "captureDate": "2026-07-30T21:15:41.264Z",
+      "evidenceExcerpt": "Navigation themes Products/Tools/Tables/Documents observed in public IA",
+      "confidence": "medium",
+      "extractionMethod": "audit_map",
+      "reviewStatus": "unreviewed",
+      "lastVerifiedAt": "2026-07-30T21:15:41.264Z",
+      "epistemicClass": "observation",
+      "visibility": "project_private",
+      "sourceReliabilityClass": "homepage",
+      "reliabilityScore": 0.6,
+      "textQualityOk": true,
+      "textQualityIssues": []
+    },
+    "relatedEntityIds": [
+      "ent_NavigationPattern_acf375b485a959f3",
+      "ent_Company_99f3a7b461683d8a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T21:15:41.264Z",
+    "updatedAt": "2026-07-30T21:15:41.264Z"
+  }
+]

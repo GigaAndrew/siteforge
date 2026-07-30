@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "cemco",
+  "generatedAt": "2026-07-30T21:17:19.940Z",
+  "entityCount": 229,
+  "mappedCount": 26,
+  "unmappedCount": 145,
+  "ambiguousCount": 1,
+  "belowThresholdCount": 145,
+  "averageConfidence": 0.8431,
+  "conceptCoverage": {
+    "canon_cad-bim-resource": 6,
+    "canon_product-catalog": 4,
+    "canon_product-detail": 2,
+    "canon_document-center": 2,
+    "canon_calculator-opportunity": 2,
+    "canon_submittal-workflow": 2,
+    "canon_contact-rep-locator": 2,
+    "canon_accessibility-gap": 2,
+    "canon_performance-gap": 2,
+    "canon_search-experience": 1,
+    "canon_navigation-pattern": 1
+  },
+  "dryRun": false
+}

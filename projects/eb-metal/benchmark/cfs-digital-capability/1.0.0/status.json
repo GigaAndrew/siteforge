@@ -4,7 +4,7 @@
   "companyName": "EB Metal US",
   "benchmarkId": "cfs-digital-capability",
   "benchmarkVersion": "1.0.0",
-  "generatedAt": "2026-07-30T21:02:50.092Z",
+  "generatedAt": "2026-07-30T21:36:26.629Z",
   "dryRun": false,
   "syntheticFixture": false,
   "observationCount": 108,
@@ -21,11 +21,11 @@
   "overallWeightedScore": 75.00925925925928,
   "overallConfidence": 0.6090833333333333,
   "evidenceCoverage": 0.47424242424242424,
-  "recommendationCount": 15,
+  "recommendationCount": 13,
   "caveats": [
     "Overall score is weighted across eligible dimensions only; see component scores",
     "Candidate patterns excluded from benchmark criteria (remain unapproved)"
   ],
-  "runId": "b9cc3f19-12b2-4d7c-b800-dfe8ab9fa8d7",
+  "runId": "d10cd6af-71ef-47cc-a192-db9b87e34628",
   "inputDigest": "219e5e6b62338c3af116b16d"
 }

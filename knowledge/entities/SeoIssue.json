@@ -24,5 +24,31 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_SeoIssue_a7abb49e37a90f7b",
+    "schemaVersion": "1.0.0",
+    "type": "SeoIssue",
+    "name": "SEO: score 5/10",
+    "normalizedKey": "seo-consistent-titles-descriptions-per-template-score-5",
+    "properties": {
+      "category": "SEO",
+      "score": 5,
+      "evidence": "Meta description coverage 40/40; Yoast indicators present.",
+      "recommendation": "Consistent titles/descriptions per template.",
+      "observationKey": "seo-seo-moderate"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_b355ffbc3f85a601"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.260Z",
+    "updatedAt": "2026-07-30T21:15:41.260Z"
   }
 ]

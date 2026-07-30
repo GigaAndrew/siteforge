@@ -9,15 +9,17 @@
     "epistemicClass": "observation",
     "visibility": "shared_unreviewed",
     "sourceProjects": [
-      "eb-metal"
+      "eb-metal",
+      "cemco"
     ],
     "evidenceIds": [
-      "ev_745232581b4eec69"
+      "ev_745232581b4eec69",
+      "ev_7fc4e7017d8c52ce"
     ],
     "reviewStatus": "unreviewed",
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.675Z",
-    "updatedAt": "2026-07-30T19:20:20.675Z"
+    "updatedAt": "2026-07-30T21:15:41.454Z"
   },
   {
     "id": "ent_Technology_66e54191b8a32a50",
@@ -29,15 +31,17 @@
     "epistemicClass": "observation",
     "visibility": "shared_unreviewed",
     "sourceProjects": [
-      "eb-metal"
+      "eb-metal",
+      "cemco"
     ],
     "evidenceIds": [
-      "ev_26540f69c7c0ba1c"
+      "ev_26540f69c7c0ba1c",
+      "ev_8dd46544d4302fbc"
     ],
     "reviewStatus": "unreviewed",
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.675Z",
-    "updatedAt": "2026-07-30T19:20:20.675Z"
+    "updatedAt": "2026-07-30T21:15:41.454Z"
   },
   {
     "id": "ent_Technology_d4dac93b970a646b",
@@ -49,15 +53,17 @@
     "epistemicClass": "observation",
     "visibility": "shared_unreviewed",
     "sourceProjects": [
-      "eb-metal"
+      "eb-metal",
+      "cemco"
     ],
     "evidenceIds": [
-      "ev_f479a54adf843958"
+      "ev_f479a54adf843958",
+      "ev_a6a4ad306e2d3c40"
     ],
     "reviewStatus": "unreviewed",
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.675Z",
-    "updatedAt": "2026-07-30T19:20:20.675Z"
+    "updatedAt": "2026-07-30T21:15:41.454Z"
   },
   {
     "id": "ent_Technology_f52a79d7bd4f6244",
@@ -69,14 +75,36 @@
     "epistemicClass": "observation",
     "visibility": "shared_unreviewed",
     "sourceProjects": [
-      "eb-metal"
+      "eb-metal",
+      "cemco"
     ],
     "evidenceIds": [
-      "ev_f58a7ab3c8bf857c"
+      "ev_f58a7ab3c8bf857c",
+      "ev_4471c9e845383b16"
     ],
     "reviewStatus": "unreviewed",
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.675Z",
-    "updatedAt": "2026-07-30T19:20:20.675Z"
+    "updatedAt": "2026-07-30T21:15:41.454Z"
+  },
+  {
+    "id": "ent_Technology_01f1cbdfe51844a1",
+    "schemaVersion": "1.0.0",
+    "type": "Technology",
+    "name": "Cloudflare indicators",
+    "normalizedKey": "cloudflare-indicators",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_f4d30add3108a68f"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:41.214Z",
+    "updatedAt": "2026-07-30T21:15:41.214Z"
   }
 ]

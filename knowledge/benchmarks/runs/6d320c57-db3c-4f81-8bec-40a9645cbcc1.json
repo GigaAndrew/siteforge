@@ -1,0 +1,916 @@
+{
+  "runId": "6d320c57-db3c-4f81-8bec-40a9645cbcc1",
+  "benchmarkId": "cfs-digital-capability",
+  "benchmarkVersion": "1.0.0",
+  "slugs": [
+    "eb-metal",
+    "cemco"
+  ],
+  "statuses": [
+    {
+      "schemaVersion": "1.0.0",
+      "projectSlug": "eb-metal",
+      "companyName": "EB Metal US",
+      "benchmarkId": "cfs-digital-capability",
+      "benchmarkVersion": "1.0.0",
+      "generatedAt": "2026-07-30T21:18:02.651Z",
+      "dryRun": false,
+      "syntheticFixture": false,
+      "observationCount": 108,
+      "presentCount": 16,
+      "absentCount": 0,
+      "partialCount": 33,
+      "unknownCount": 59,
+      "ambiguousCount": 0,
+      "conflictCount": 0,
+      "conceptScoreCount": 20,
+      "dimensionScoreCount": 11,
+      "overallEligible": true,
+      "overallRawScore": 75.00925925925928,
+      "overallWeightedScore": 75.00925925925928,
+      "overallConfidence": 0.6090833333333333,
+      "evidenceCoverage": 0.47424242424242424,
+      "recommendationCount": 17,
+      "caveats": [
+        "Overall score is weighted across eligible dimensions only; see component scores",
+        "Candidate patterns excluded from benchmark criteria (remain unapproved)"
+      ],
+      "runId": "6d320c57-db3c-4f81-8bec-40a9645cbcc1",
+      "inputDigest": "219e5e6b62338c3af116b16d"
+    },
+    {
+      "schemaVersion": "1.0.0",
+      "projectSlug": "cemco",
+      "companyName": "CEMCO",
+      "benchmarkId": "cfs-digital-capability",
+      "benchmarkVersion": "1.0.0",
+      "generatedAt": "2026-07-30T21:18:02.829Z",
+      "dryRun": false,
+      "syntheticFixture": false,
+      "observationCount": 108,
+      "presentCount": 23,
+      "absentCount": 0,
+      "partialCount": 27,
+      "unknownCount": 58,
+      "ambiguousCount": 0,
+      "conflictCount": 0,
+      "conceptScoreCount": 20,
+      "dimensionScoreCount": 11,
+      "overallEligible": true,
+      "overallRawScore": 75.08333333333333,
+      "overallWeightedScore": 75.08333333333333,
+      "overallConfidence": 0.6203030303030301,
+      "evidenceCoverage": 0.5000000000000001,
+      "recommendationCount": 15,
+      "caveats": [
+        "Overall score is weighted across eligible dimensions only; see component scores",
+        "Candidate patterns excluded from benchmark criteria (remain unapproved)"
+      ],
+      "runId": "6d320c57-db3c-4f81-8bec-40a9645cbcc1",
+      "inputDigest": "d0be8dfbcc76350a9f0fd98f"
+    }
+  ],
+  "peer": {
+    "cohortLabel": "Live two-company validation cohort — not an industry benchmark",
+    "limitedCohort": true,
+    "projects": [
+      "eb-metal",
+      "cemco"
+    ],
+    "benchmarkId": "cfs-digital-capability",
+    "benchmarkVersion": "1.0.0",
+    "conceptComparisons": [
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_document-center",
+        "label": "Document Center",
+        "canonicalConceptId": "canon_document-center",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.885,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "known=2",
+          "median=55.00000000000001",
+          "range=55.00000000000001-100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_engineering-calculator",
+        "label": "Engineering Calculator",
+        "canonicalConceptId": "canon_engineering-calculator",
+        "rawScore": 100,
+        "weightedScore": 100,
+        "confidence": 0.95,
+        "evidenceCoverage": 0.5,
+        "completeness": 0.5,
+        "uncertainty": 0.5,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "1 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=1",
+          "median=100",
+          "range=100-100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_product-selector",
+        "label": "Product Selector",
+        "canonicalConceptId": "canon_product-selector",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_submittal-workflow",
+        "label": "Submittal Workflow",
+        "canonicalConceptId": "canon_submittal-workflow",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.885,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "known=2",
+          "median=55.00000000000001",
+          "range=55.00000000000001-100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_technical-resources",
+        "label": "Technical Resources",
+        "canonicalConceptId": "canon_technical-resources",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_product-catalog",
+        "label": "Product Catalog",
+        "canonicalConceptId": "canon_product-catalog",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.86,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "known=2",
+          "median=55.00000000000001",
+          "range=55.00000000000001-100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_product-data-sheet",
+        "label": "Product Data Sheet",
+        "canonicalConceptId": "canon_product-data-sheet",
+        "rawScore": 100,
+        "weightedScore": 100,
+        "confidence": 0.85,
+        "evidenceCoverage": 0.5,
+        "completeness": 0.5,
+        "uncertainty": 0.5,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "1 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=1",
+          "median=100",
+          "range=100-100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_installation-guide",
+        "label": "Installation Guide",
+        "canonicalConceptId": "canon_installation-guide",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_specification",
+        "label": "Specification",
+        "canonicalConceptId": "canon_specification",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_cad-bim-resource",
+        "label": "CAD/BIM Resource",
+        "canonicalConceptId": "canon_cad-bim-resource",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.82,
+        "evidenceCoverage": 0.5,
+        "completeness": 0.5,
+        "uncertainty": 0.5,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "1 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=1",
+          "median=55.00000000000001",
+          "range=55.00000000000001-55.00000000000001"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_code-report",
+        "label": "Code Report",
+        "canonicalConceptId": "canon_code-report",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_engineering-table",
+        "label": "Engineering Table",
+        "canonicalConceptId": "canon_engineering-table",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_limiting-height-tool",
+        "label": "Limiting Height Tool",
+        "canonicalConceptId": "canon_limiting-height-tool",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_product-family",
+        "label": "Product Family",
+        "canonicalConceptId": "canon_product-family",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_product-detail",
+        "label": "Product Detail",
+        "canonicalConceptId": "canon_product-detail",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.82,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "known=2",
+          "median=55.00000000000001",
+          "range=55.00000000000001-55.00000000000001"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_contact-rep-locator",
+        "label": "Contact / Rep Locator",
+        "canonicalConceptId": "canon_contact-rep-locator",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.885,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "known=2",
+          "median=55.00000000000001",
+          "range=55.00000000000001-100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_search-experience",
+        "label": "Search Experience",
+        "canonicalConceptId": "canon_search-experience",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.82,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "known=2",
+          "median=55.00000000000001",
+          "range=55.00000000000001-55.00000000000001"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_navigation-pattern",
+        "label": "Navigation Pattern",
+        "canonicalConceptId": "canon_navigation-pattern",
+        "rawScore": 100,
+        "weightedScore": 100,
+        "confidence": 0.95,
+        "evidenceCoverage": 0.5,
+        "completeness": 0.5,
+        "uncertainty": 0.5,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "1 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=1",
+          "median=100",
+          "range=100-100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_download-workflow",
+        "label": "Download Workflow",
+        "canonicalConceptId": "canon_download-workflow",
+        "rawScore": null,
+        "weightedScore": null,
+        "confidence": 0.3,
+        "evidenceCoverage": 0,
+        "completeness": 0,
+        "uncertainty": 1,
+        "exclusions": [
+          "unknown_data_in_cohort"
+        ],
+        "caveats": [
+          "2 company(ies) unknown for this concept",
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "known=0",
+          "median=n/a",
+          "range=n/a"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:concept:canon_calculator-opportunity",
+        "label": "Calculator Opportunity",
+        "canonicalConceptId": "canon_calculator-opportunity",
+        "rawScore": 25,
+        "weightedScore": 25,
+        "confidence": 0.85,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited cohort — do not generalize"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "known=2",
+          "median=25",
+          "range=25-25"
+        ]
+      }
+    ],
+    "dimensionComparisons": [
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:capability_presence",
+        "label": "Capability Presence",
+        "dimensionId": "capability_presence",
+        "rawScore": 66.66666666666666,
+        "weightedScore": 66.66666666666666,
+        "confidence": 0.5819999999999999,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=66.66666666666666"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:discoverability",
+        "label": "Discoverability",
+        "dimensionId": "discoverability",
+        "rawScore": 70,
+        "weightedScore": 70,
+        "confidence": 0.80375,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=70"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:information_completeness",
+        "label": "Information Completeness",
+        "dimensionId": "information_completeness",
+        "rawScore": 70,
+        "weightedScore": 70,
+        "confidence": 0.5591666666666666,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=70"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:technical_depth",
+        "label": "Technical Depth",
+        "dimensionId": "technical_depth",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.44400000000000006,
+        "evidenceCoverage": 0.5,
+        "completeness": 0.5,
+        "uncertainty": 0.5,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": false,
+        "calculationTrace": [
+          "median=55.00000000000001"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:workflow_support",
+        "label": "Workflow Support",
+        "dimensionId": "workflow_support",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.7066666666666666,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=55.00000000000001"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:document_accessibility",
+        "label": "Document Accessibility",
+        "dimensionId": "document_accessibility",
+        "rawScore": 55.00000000000001,
+        "weightedScore": 55.00000000000001,
+        "confidence": 0.6174999999999999,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=55.00000000000001"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:product_navigation",
+        "label": "Product Navigation",
+        "dimensionId": "product_navigation",
+        "rawScore": 70,
+        "weightedScore": 70,
+        "confidence": 0.6699999999999999,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=70"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:engineering_utility",
+        "label": "Engineering Utility",
+        "dimensionId": "engineering_utility",
+        "rawScore": 20,
+        "weightedScore": 20,
+        "confidence": 0.55,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=20"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:evidence_quality",
+        "label": "Evidence Quality",
+        "dimensionId": "evidence_quality",
+        "rawScore": 100,
+        "weightedScore": 100,
+        "confidence": 0.5819999999999999,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=100"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:evidence_recency",
+        "label": "Evidence Recency",
+        "dimensionId": "evidence_recency",
+        "rawScore": 95,
+        "weightedScore": 95,
+        "confidence": 0.5819999999999999,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=95"
+        ]
+      },
+      {
+        "level": "peer_comparison",
+        "id": "peer:dim:cross_channel_consistency",
+        "label": "Cross-Channel Consistency",
+        "dimensionId": "cross_channel_consistency",
+        "rawScore": 100,
+        "weightedScore": 100,
+        "confidence": 0.5819999999999999,
+        "evidenceCoverage": 1,
+        "completeness": 1,
+        "uncertainty": 0,
+        "exclusions": [],
+        "caveats": [
+          "Limited peer comparison — not industry-representative"
+        ],
+        "benchmarkId": "cfs-digital-capability",
+        "benchmarkVersion": "1.0.0",
+        "eligible": true,
+        "calculationTrace": [
+          "median=100"
+        ]
+      }
+    ],
+    "gaps": [
+      {
+        "conceptId": "canon_document-center",
+        "stronger": "cemco",
+        "weaker": "eb-metal",
+        "delta": 44.99999999999999,
+        "inconclusive": false,
+        "note": "Relative gap of 45.0 points (cohort-limited)"
+      },
+      {
+        "conceptId": "canon_submittal-workflow",
+        "stronger": "cemco",
+        "weaker": "eb-metal",
+        "delta": 44.99999999999999,
+        "inconclusive": false,
+        "note": "Relative gap of 45.0 points (cohort-limited)"
+      },
+      {
+        "conceptId": "canon_product-catalog",
+        "stronger": "eb-metal",
+        "weaker": "cemco",
+        "delta": 44.99999999999999,
+        "inconclusive": false,
+        "note": "Relative gap of 45.0 points (cohort-limited)"
+      },
+      {
+        "conceptId": "canon_product-detail",
+        "stronger": "eb-metal",
+        "weaker": "cemco",
+        "delta": 0,
+        "inconclusive": true,
+        "note": "Tied or inconclusive given confidence/coverage"
+      },
+      {
+        "conceptId": "canon_contact-rep-locator",
+        "stronger": "cemco",
+        "weaker": "eb-metal",
+        "delta": 44.99999999999999,
+        "inconclusive": false,
+        "note": "Relative gap of 45.0 points (cohort-limited)"
+      },
+      {
+        "conceptId": "canon_search-experience",
+        "stronger": "eb-metal",
+        "weaker": "cemco",
+        "delta": 0,
+        "inconclusive": true,
+        "note": "Tied or inconclusive given confidence/coverage"
+      },
+      {
+        "conceptId": "canon_calculator-opportunity",
+        "stronger": "eb-metal",
+        "weaker": "cemco",
+        "delta": 0,
+        "inconclusive": true,
+        "note": "Tied or inconclusive given confidence/coverage"
+      }
+    ],
+    "strongestSupported": "cemco leads on canon_document-center (Δ=45.0)",
+    "weakestSupported": "eb-metal trails on canon_contact-rep-locator",
+    "warnings": [
+      "Candidate patterns are not used as accepted peer criteria.",
+      "Live two-company validation cohort — not an industry benchmark",
+      "Cohort size n=2. Not a statistically representative industry benchmark."
+    ],
+    "generatedAt": "2026-07-30T21:18:02.874Z"
+  },
+  "inputDigest": "bf081893a8128e6471484cd7",
+  "generatedAt": "2026-07-30T21:18:02.918Z"
+}

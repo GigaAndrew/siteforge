@@ -49,3 +49,9 @@ knowledge/exports/entities-*.jsonl
 knowledge/exports/evidence-*.jsonl
 knowledge/exports/relationships-*.jsonl
 knowledge/exports/snapshot-*.json
+
+# Local review-workflow test scratch project (if created)
+/projects/review-fixture-co/
+/knowledge/normalization/indexes/status-review-fixture-co.json
+/knowledge/normalization/mappings/review-fixture-co.json
+/knowledge/normalization/reviews/review-fixture-co-log.json

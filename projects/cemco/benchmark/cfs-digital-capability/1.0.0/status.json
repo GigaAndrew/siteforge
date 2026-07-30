@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectSlug": "cemco",
+  "companyName": "CEMCO",
+  "benchmarkId": "cfs-digital-capability",
+  "benchmarkVersion": "1.0.0",
+  "generatedAt": "2026-07-30T21:18:21.444Z",
+  "dryRun": false,
+  "syntheticFixture": false,
+  "observationCount": 108,
+  "presentCount": 23,
+  "absentCount": 0,
+  "partialCount": 27,
+  "unknownCount": 58,
+  "ambiguousCount": 0,
+  "conflictCount": 0,
+  "conceptScoreCount": 20,
+  "dimensionScoreCount": 11,
+  "overallEligible": true,
+  "overallRawScore": 75.08333333333333,
+  "overallWeightedScore": 75.08333333333333,
+  "overallConfidence": 0.6203030303030301,
+  "evidenceCoverage": 0.5000000000000001,
+  "recommendationCount": 15,
+  "caveats": [
+    "Overall score is weighted across eligible dimensions only; see component scores",
+    "Candidate patterns excluded from benchmark criteria (remain unapproved)"
+  ],
+  "runId": "6997ad3c-900e-41bf-9eda-de84c0970fe3",
+  "inputDigest": "d0be8dfbcc76350a9f0fd98f"
+}

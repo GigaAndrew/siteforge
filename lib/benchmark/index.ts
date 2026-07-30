@@ -9,3 +9,5 @@ export * from "@/lib/benchmark/recommend";
 export * from "@/lib/benchmark/approvals";
 export * from "@/lib/benchmark/engine";
 export * from "@/lib/benchmark/report";
+export * from "@/lib/benchmark/cohort";
+export * from "@/lib/benchmark/observation-review";

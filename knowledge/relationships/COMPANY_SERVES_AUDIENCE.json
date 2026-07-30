@@ -18,5 +18,25 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.634Z",
     "updatedAt": "2026-07-30T19:20:20.634Z"
+  },
+  {
+    "id": "rel_COMPANY_SERVES_AUDIENCE_b4267fa12eb9939b",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_SERVES_AUDIENCE",
+    "fromId": "ent_Company_99f3a7b461683d8a",
+    "toId": "ent_Audience_f208b1aea2b19915",
+    "properties": {},
+    "epistemicClass": "inference",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "cemco"
+    ],
+    "evidenceIds": [
+      "ev_91a4eaee9a336f35"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T21:15:40.902Z",
+    "updatedAt": "2026-07-30T21:15:40.902Z"
   }
 ]
