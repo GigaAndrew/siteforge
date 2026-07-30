@@ -23,5 +23,29 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.630Z",
     "updatedAt": "2026-07-30T19:20:20.630Z"
+  },
+  {
+    "id": "ent_Company_e66e358a84112db0",
+    "schemaVersion": "1.0.0",
+    "type": "Company",
+    "name": "Northline Framing",
+    "normalizedKey": "northline-framing",
+    "properties": {
+      "websiteUrl": "https://www.northline-framing.example/",
+      "industry": "Cold-formed steel framing and building products",
+      "fixture": true
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

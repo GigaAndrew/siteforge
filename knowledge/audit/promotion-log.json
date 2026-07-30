@@ -94,5 +94,179 @@
       "created": 0,
       "blocked": 0
     }
+  },
+  {
+    "id": "audit_cpat-2141679f816caef32026-07-30t",
+    "at": "2026-07-30T20:32:48.864Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_2141679f816caef3",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "document-management-document-management-weak",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-0f6d9bcf7730adfa2026-07-30t",
+    "at": "2026-07-30T20:32:48.864Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_0f6d9bcf7730adfa",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "calculators-calculators-weak",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-440f37b6375305972026-07-30t",
+    "at": "2026-07-30T20:32:48.864Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_440f37b637530597",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "submittal-workflow-submittal-workflow-weak",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ]
+    }
+  },
+  {
+    "id": "audit_cpat-da800947e225539a2026-07-30t",
+    "at": "2026-07-30T20:32:48.864Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_da800947e225539a",
+    "reason": "Same normalized observation in 2 projects / 2 companies",
+    "details": {
+      "observationKey": "accessibility-accessibility-weak",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_8117cc961b8b5106",
+    "at": "2026-07-30T20:32:49.076Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_e0d6fa986a2beff5",
+    "reason": "Canonical concept \"Product Family\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_product-family",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_2c69c1ba265e3e03",
+    "at": "2026-07-30T20:32:49.076Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_a6f6c7ffa0b5e568",
+    "reason": "Canonical concept \"Document Center\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_document-center",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ],
+      "methods": [
+        "semantic",
+        "alias"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_6b297c679e7ef4a4",
+    "at": "2026-07-30T20:32:49.076Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_2d96485f3a665c98",
+    "reason": "Canonical concept \"Submittal Workflow\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_submittal-workflow",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ],
+      "methods": [
+        "semantic",
+        "alias"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_4827a943835d3152",
+    "at": "2026-07-30T20:32:49.076Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_0da5ce11377ff625",
+    "reason": "Canonical concept \"Accessibility Gap\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_accessibility-gap",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_a695c2721dc17801",
+    "at": "2026-07-30T20:33:30.881Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_372ca7be591e56d6",
+    "reason": "Canonical concept \"Calculator Opportunity\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_calculator-opportunity",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ],
+      "methods": [
+        "semantic",
+        "semantic"
+      ]
+    }
+  },
+  {
+    "id": "audit_conflict_e5498f1829e2ff4d",
+    "at": "2026-07-30T20:33:30.881Z",
+    "action": "candidate_created",
+    "actor": "system",
+    "patternId": "cpat_c9a77497953fccfe",
+    "reason": "Canonical concept \"Engineering Calculator\" present in 2 projects / 2 companies",
+    "details": {
+      "canonicalConceptId": "canon_engineering-calculator",
+      "projects": [
+        "eb-metal",
+        "northline-framing"
+      ],
+      "methods": [
+        "alias",
+        "alias"
+      ]
+    }
   }
 ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "updatedAt": "2026-07-30T19:57:47.250Z",
+  "updatedAt": "2026-07-30T20:33:38.362Z",
   "items": [
     {
       "id": "IMP-001",
@@ -15,7 +15,7 @@
         "crawler"
       ],
       "resolvedVersion": "sprint-2",
-      "updatedAt": "2026-07-30T19:57:47.250Z"
+      "updatedAt": "2026-07-30T20:33:38.362Z"
     },
     {
       "id": "IMP-002",
@@ -30,7 +30,7 @@
         "crawler"
       ],
       "resolvedVersion": null,
-      "updatedAt": "2026-07-30T19:57:47.239Z"
+      "updatedAt": "2026-07-30T20:33:38.339Z"
     },
     {
       "id": "IMP-003",
@@ -45,7 +45,7 @@
         "crawler"
       ],
       "resolvedVersion": null,
-      "updatedAt": "2026-07-30T19:57:47.241Z"
+      "updatedAt": "2026-07-30T20:33:38.345Z"
     },
     {
       "id": "IMP-004",
@@ -60,7 +60,7 @@
         "knowledge"
       ],
       "resolvedVersion": null,
-      "updatedAt": "2026-07-30T19:57:47.242Z"
+      "updatedAt": "2026-07-30T20:33:38.347Z"
     },
     {
       "id": "IMP-005",
@@ -104,7 +104,7 @@
       "priority": "P3",
       "affectedModules": [],
       "resolvedVersion": null,
-      "updatedAt": "2026-07-30T19:57:47.245Z"
+      "updatedAt": "2026-07-30T20:33:38.352Z"
     },
     {
       "id": "IMP-008",
@@ -119,7 +119,7 @@
         "knowledge"
       ],
       "resolvedVersion": null,
-      "updatedAt": "2026-07-30T19:57:47.247Z"
+      "updatedAt": "2026-07-30T20:33:38.357Z"
     }
   ]
 }

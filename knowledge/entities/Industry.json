@@ -9,14 +9,16 @@
     "epistemicClass": "fact",
     "visibility": "shared_unreviewed",
     "sourceProjects": [
-      "eb-metal"
+      "eb-metal",
+      "northline-framing"
     ],
     "evidenceIds": [
-      "ev_0f036f93d11c50c9"
+      "ev_0f036f93d11c50c9",
+      "ev_d07df11295e03360"
     ],
     "reviewStatus": "unreviewed",
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.631Z",
-    "updatedAt": "2026-07-30T19:20:20.631Z"
+    "updatedAt": "2026-07-30T20:33:30.659Z"
   }
 ]

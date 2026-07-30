@@ -76,5 +76,51 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.677Z",
     "updatedAt": "2026-07-30T19:20:20.677Z"
+  },
+  {
+    "id": "ent_ProcessIssue_edf950ad0d45d2c0",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Calculators: score 2/10",
+    "normalizedKey": "calculators-calculators-weak",
+    "properties": {
+      "observationKey": "calculators-calculators-weak",
+      "score": 2
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_ProcessIssue_fc95659fb0568643",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Submittal workflow: score 2/10",
+    "normalizedKey": "submittal-workflow-submittal-workflow-weak",
+    "properties": {
+      "observationKey": "submittal-workflow-submittal-workflow-weak",
+      "score": 2
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_093897e217dcfbd8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

@@ -1,1 +1,369 @@
-[]
+[
+  {
+    "id": "cpat_2141679f816caef3",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Document management: score 3/10",
+    "normalizedObservationKey": "document-management-document-management-weak",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_8cc9ff706ef27c82",
+      "ev_089381e2a98ae459"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:48.864Z",
+    "updatedAt": "2026-07-30T20:33:30.660Z"
+  },
+  {
+    "id": "cpat_0f6d9bcf7730adfa",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Calculators: score 2/10",
+    "normalizedObservationKey": "calculators-calculators-weak",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_f82c2eb579427c34",
+      "ev_089381e2a98ae459"
+    ],
+    "confidenceSummary": "low",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:48.864Z",
+    "updatedAt": "2026-07-30T20:33:30.660Z"
+  },
+  {
+    "id": "cpat_440f37b637530597",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Submittal workflow: score 2/10",
+    "normalizedObservationKey": "submittal-workflow-submittal-workflow-weak",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d",
+      "ev_093897e217dcfbd8"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:48.864Z",
+    "updatedAt": "2026-07-30T20:33:30.660Z"
+  },
+  {
+    "id": "cpat_da800947e225539a",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Accessibility: score 3/10",
+    "normalizedObservationKey": "accessibility-accessibility-weak",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_71d52f0d0480f8e1",
+      "ev_089381e2a98ae459"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [],
+    "normalizationLogic": "observationKey = normalize(category:signal:polarity). Counts distinct projects and companies only. Duplicate pages within one project do not increase independence.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:48.864Z",
+    "updatedAt": "2026-07-30T20:33:30.660Z"
+  },
+  {
+    "id": "cpat_e0d6fa986a2beff5",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Product Family",
+    "normalizedObservationKey": "canonical-canon-product-family",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_2ad5dc2f0427b88e",
+      "ev_2c3e4fb4b1dd5704",
+      "ev_8fb5d6aca020f590",
+      "ev_2eb2e1bba9d847ec",
+      "ev_2cb870e90a017d42",
+      "ev_c145c4474da884cd",
+      "ev_d4979631fb358aa4",
+      "ev_5cf6d6c64a31fa50",
+      "ev_8b3b8f18574a93ce",
+      "ev_f6b9242afd3777d0",
+      "ev_458a6bd225afd541",
+      "ev_475a6b3e4d2b89ec",
+      "ev_f72bed4d5b756d9b",
+      "ev_fbcf48357a9b70b3",
+      "ev_fdbf57d9561329df",
+      "ev_020fd04063169a81",
+      "ev_6e3879bd338df6d6",
+      "ev_61e8d32478f9e139",
+      "ev_197031230d04e0d6",
+      "ev_e16832718e56e55e",
+      "ev_ba608191018010b2",
+      "ev_54acb10f252fb7af",
+      "ev_1358271d76d5fa9c",
+      "ev_ad628ee3b7d215de",
+      "ev_3dd91806788312a0",
+      "ev_de4e5ff05d3198f7",
+      "ev_3fc8e29a86c7c4b6",
+      "ev_5480d280b642e203",
+      "ev_6763e8697744ee17",
+      "ev_23a68dc0b9a9f856",
+      "ev_e1e6d1916fa341d9",
+      "ev_2ac04d345031d4d2",
+      "ev_963b39abc8c7c2d8",
+      "ev_cf73aad21faf0e51",
+      "ev_7f27ec0dd9cdf676",
+      "ev_c20ee88bcffa65af",
+      "ev_0d2ad4bf5ff918a9",
+      "ev_888d3624cf42b3cc",
+      "ev_c1c34b7cf4016616",
+      "ev_4f806102c9b6ef62",
+      "ev_f87ae6d9a7ae3f6a",
+      "ev_bccbb66245ca61d6",
+      "ev_35698139a266eeda",
+      "ev_380c4d1c10d9fda1",
+      "ev_ecca1c9696661939",
+      "ev_b726ed17cd3f42c0",
+      "ev_836af80135a7c861",
+      "ev_189eabc4968495d2",
+      "ev_fc3f9bc23a150cde",
+      "ev_c42c46e35044bc14",
+      "ev_9da84d31bcc1a163",
+      "ev_97408567910f6815",
+      "ev_ad1ab299a101a831",
+      "ev_fce353b127a5beec",
+      "ev_13eab91f23cd770c",
+      "ev_e07c10908a4e74ee",
+      "ev_b8ee06e94dbc12a9",
+      "ev_db942a61a25992c5",
+      "ev_e5d3a0b39fb6d592",
+      "ev_3e1ac27d41307301",
+      "ev_d07df11295e03360"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "EB Metal US: \"USG Shaftwall Systems User Guide\"",
+      "Northline Framing: \"ProStud Series\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:49.076Z",
+    "updatedAt": "2026-07-30T20:32:49.076Z"
+  },
+  {
+    "id": "cpat_a6f6c7ffa0b5e568",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Document Center",
+    "normalizedObservationKey": "canonical-canon-document-center",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_1663aabad85b17ae",
+      "ev_d07df11295e03360"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "EB Metal US: \"Technical-resource discovery: score 5/10\"",
+      "Northline Framing: \"Engineering Resources\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:49.076Z",
+    "updatedAt": "2026-07-30T20:33:30.881Z"
+  },
+  {
+    "id": "cpat_2d96485f3a665c98",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Submittal Workflow",
+    "normalizedObservationKey": "canonical-canon-submittal-workflow",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_2ceb8a20fc0fea8d",
+      "ev_093897e217dcfbd8"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "EB Metal US: \"Submittal workflow: score 2/10\"",
+      "Northline Framing: \"Submittal Builder\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:49.076Z",
+    "updatedAt": "2026-07-30T20:33:30.881Z"
+  },
+  {
+    "id": "cpat_0da5ce11377ff625",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Accessibility Gap",
+    "normalizedObservationKey": "canonical-canon-accessibility-gap",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_71d52f0d0480f8e1",
+      "ev_089381e2a98ae459"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "EB Metal US: \"Accessibility: score 3/10\"",
+      "Northline Framing: \"Accessibility: score 3/10\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:32:49.076Z",
+    "updatedAt": "2026-07-30T20:33:30.881Z"
+  },
+  {
+    "id": "cpat_372ca7be591e56d6",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Calculator Opportunity",
+    "normalizedObservationKey": "canonical-canon-calculator-opportunity",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_f82c2eb579427c34",
+      "ev_089381e2a98ae459"
+    ],
+    "confidenceSummary": "medium",
+    "exceptions": [
+      "EB Metal US: \"Calculators: score 2/10\"",
+      "Northline Framing: \"Calculators: score 2/10\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:33:30.881Z",
+    "updatedAt": "2026-07-30T20:33:30.881Z"
+  },
+  {
+    "id": "cpat_c9a77497953fccfe",
+    "schemaVersion": "1.0.0",
+    "type": "CandidatePattern",
+    "name": "Candidate: Engineering Calculator",
+    "normalizedObservationKey": "canonical-canon-engineering-calculator",
+    "status": "candidate_unapproved",
+    "label": "Candidate pattern — unapproved. Not an industry standard, best practice, or verified conclusion. Sourced from cross-company canonical normalization.",
+    "supportingCompanyIds": [
+      "ent_Company_a8f4eb58069d61ce",
+      "ent_Company_e66e358a84112db0"
+    ],
+    "supportingProjectSlugs": [
+      "eb-metal",
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_24a1727f892d6c77",
+      "ev_be2366d89f533f42"
+    ],
+    "confidenceSummary": "high",
+    "exceptions": [
+      "EB Metal US: \"Limiting height calculator\"",
+      "Northline Framing: \"Wall Selector\""
+    ],
+    "normalizationLogic": "Entities mapped to the same canonical concept via alias/exact/structural/semantic/manual methods with evidence; independence requires distinct projects and Company entities. Human promotion still required.",
+    "conflictIds": [],
+    "blockedByConflicts": false,
+    "reviewStatus": "unreviewed",
+    "createdAt": "2026-07-30T20:33:30.881Z",
+    "updatedAt": "2026-07-30T20:33:30.881Z"
+  }
+]

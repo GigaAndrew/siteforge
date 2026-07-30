@@ -18,5 +18,25 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.678Z",
     "updatedAt": "2026-07-30T19:20:20.678Z"
+  },
+  {
+    "id": "rel_COMPANY_PROVIDES_CALCULATOR_3ca16f24e5264492",
+    "schemaVersion": "1.0.0",
+    "type": "COMPANY_PROVIDES_CALCULATOR",
+    "fromId": "ent_Company_e66e358a84112db0",
+    "toId": "ent_Calculator_7715f13f68300c83",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_be2366d89f533f42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

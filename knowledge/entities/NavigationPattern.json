@@ -20,5 +20,27 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.679Z",
     "updatedAt": "2026-07-30T19:20:20.679Z"
+  },
+  {
+    "id": "ent_NavigationPattern_ae90b0247e8dc745",
+    "schemaVersion": "1.0.0",
+    "type": "NavigationPattern",
+    "name": "Products / Tools / Resources IA",
+    "normalizedKey": "navigation-products-tools-resources-present",
+    "properties": {
+      "observationKey": "navigation-pattern-dept-ia-products-tools-resources-present"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_ea2a7f9bf7701a6c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

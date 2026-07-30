@@ -1,7 +1,7 @@
 # Crawl health report — eb-metal
 
 Generated: 2026-07-30T19:08:31.464Z
-Refreshed: 2026-07-30T19:57:47.228Z
+Refreshed: 2026-07-30T20:33:38.317Z
 
 | Metric | Value |
 |---|---|

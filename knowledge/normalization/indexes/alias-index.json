@@ -1,0 +1,749 @@
+{
+  "updatedAt": "2026-07-30T20:33:36.936Z",
+  "entries": [
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Document Center",
+      "lexicalKey": "document-center",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Engineering Resources",
+      "lexicalKey": "engineering-resources",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Technical Documents",
+      "lexicalKey": "technical-documents",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Downloads",
+      "lexicalKey": "downloads",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Literature",
+      "lexicalKey": "literature",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Resources",
+      "lexicalKey": "resources",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Technical Library",
+      "lexicalKey": "technical-library",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_document-center",
+      "alias": "Document Library",
+      "lexicalKey": "document-library",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Engineering Calculator",
+      "lexicalKey": "engineering-calculator",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Wall Selector",
+      "lexicalKey": "wall-selector",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Stud Selector",
+      "lexicalKey": "stud-selector",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Limiting Height Calculator",
+      "lexicalKey": "limiting-height-calculator",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Limiting Height Tool",
+      "lexicalKey": "limiting-height-tool",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Span Calculator",
+      "lexicalKey": "span-calculator",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Load Calculator",
+      "lexicalKey": "load-calculator",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-calculator",
+      "alias": "Engineering Tools",
+      "lexicalKey": "engineering-tools",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-selector",
+      "alias": "Product Selector",
+      "lexicalKey": "product-selector",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_product-selector",
+      "alias": "Product Finder",
+      "lexicalKey": "product-finder",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-selector",
+      "alias": "Selector Tool",
+      "lexicalKey": "selector-tool",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-selector",
+      "alias": "Choose a Product",
+      "lexicalKey": "choose-a-product",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_submittal-workflow",
+      "alias": "Submittal Workflow",
+      "lexicalKey": "submittal-workflow",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_submittal-workflow",
+      "alias": "Submittals",
+      "lexicalKey": "submittals",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_submittal-workflow",
+      "alias": "Submittal Builder",
+      "lexicalKey": "submittal-builder",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_submittal-workflow",
+      "alias": "Package Builder",
+      "lexicalKey": "package-builder",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_submittal-workflow",
+      "alias": "Request a Submittal",
+      "lexicalKey": "request-a-submittal",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_submittal-workflow",
+      "alias": "Submittal Package",
+      "lexicalKey": "submittal-package",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_technical-resources",
+      "alias": "Technical Resources",
+      "lexicalKey": "technical-resources",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_technical-resources",
+      "alias": "Tech Resources",
+      "lexicalKey": "tech-resources",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_technical-resources",
+      "alias": "Engineering Support",
+      "lexicalKey": "engineering-support",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_technical-resources",
+      "alias": "Technical Support",
+      "lexicalKey": "technical-support",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-catalog",
+      "alias": "Product Catalog",
+      "lexicalKey": "product-catalog",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_product-catalog",
+      "alias": "Products",
+      "lexicalKey": "products",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-catalog",
+      "alias": "Product Line",
+      "lexicalKey": "product-line",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-catalog",
+      "alias": "Catalog",
+      "lexicalKey": "catalog",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-catalog",
+      "alias": "Our Products",
+      "lexicalKey": "our-products",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-data-sheet",
+      "alias": "Product Data Sheet",
+      "lexicalKey": "product-data-sheet",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_product-data-sheet",
+      "alias": "Data Sheet",
+      "lexicalKey": "data-sheet",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-data-sheet",
+      "alias": "Datasheet",
+      "lexicalKey": "datasheet",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-data-sheet",
+      "alias": "Product Sheet",
+      "lexicalKey": "product-sheet",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-data-sheet",
+      "alias": "Tech Sheet",
+      "lexicalKey": "tech-sheet",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_installation-guide",
+      "alias": "Installation Guide",
+      "lexicalKey": "installation-guide",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_installation-guide",
+      "alias": "Install Guide",
+      "lexicalKey": "install-guide",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_installation-guide",
+      "alias": "Installation Instructions",
+      "lexicalKey": "installation-instructions",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_installation-guide",
+      "alias": "How to Install",
+      "lexicalKey": "how-to-install",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_specification",
+      "alias": "Specification",
+      "lexicalKey": "specification",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_specification",
+      "alias": "Specs",
+      "lexicalKey": "specs",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_specification",
+      "alias": "Architectural Specifications",
+      "lexicalKey": "architectural-specifications",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_specification",
+      "alias": "Guide Spec",
+      "lexicalKey": "guide-spec",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_specification",
+      "alias": "CSI Spec",
+      "lexicalKey": "csi-spec",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_cad-bim-resource",
+      "alias": "CAD/BIM Resource",
+      "lexicalKey": "cad-bim-resource",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_cad-bim-resource",
+      "alias": "CAD",
+      "lexicalKey": "cad",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_cad-bim-resource",
+      "alias": "BIM",
+      "lexicalKey": "bim",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_cad-bim-resource",
+      "alias": "Revit Families",
+      "lexicalKey": "revit-families",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_cad-bim-resource",
+      "alias": "Details",
+      "lexicalKey": "details",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_cad-bim-resource",
+      "alias": "Drawings",
+      "lexicalKey": "drawings",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_cad-bim-resource",
+      "alias": "DWG",
+      "lexicalKey": "dwg",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_code-report",
+      "alias": "Code Report",
+      "lexicalKey": "code-report",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_code-report",
+      "alias": "ESR",
+      "lexicalKey": "esr",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_code-report",
+      "alias": "Code Compliance",
+      "lexicalKey": "code-compliance",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_code-report",
+      "alias": "Evaluation Report",
+      "lexicalKey": "evaluation-report",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_code-report",
+      "alias": "ICC Report",
+      "lexicalKey": "icc-report",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-table",
+      "alias": "Engineering Table",
+      "lexicalKey": "engineering-table",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_engineering-table",
+      "alias": "Load Tables",
+      "lexicalKey": "load-tables",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-table",
+      "alias": "Span Tables",
+      "lexicalKey": "span-tables",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-table",
+      "alias": "Limiting Height Tables",
+      "lexicalKey": "limiting-height-tables",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-table",
+      "alias": "Engineering Tables",
+      "lexicalKey": "engineering-tables",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_engineering-table",
+      "alias": "Allowable Height",
+      "lexicalKey": "allowable-height",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_limiting-height-tool",
+      "alias": "Limiting Height Tool",
+      "lexicalKey": "limiting-height-tool",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_limiting-height-tool",
+      "alias": "Limiting Heights",
+      "lexicalKey": "limiting-heights",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_limiting-height-tool",
+      "alias": "Wall Height Tool",
+      "lexicalKey": "wall-height-tool",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_limiting-height-tool",
+      "alias": "Stud Height",
+      "lexicalKey": "stud-height",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-family",
+      "alias": "Product Family",
+      "lexicalKey": "product-family",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_product-family",
+      "alias": "Product Line",
+      "lexicalKey": "product-line",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-family",
+      "alias": "Product Series",
+      "lexicalKey": "product-series",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-family",
+      "alias": "Product Family",
+      "lexicalKey": "product-family",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-detail",
+      "alias": "Product Detail",
+      "lexicalKey": "product-detail",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_product-detail",
+      "alias": "Product Page",
+      "lexicalKey": "product-page",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-detail",
+      "alias": "SKU Detail",
+      "lexicalKey": "sku-detail",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_product-detail",
+      "alias": "Item Detail",
+      "lexicalKey": "item-detail",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_project-resource",
+      "alias": "Project Resource",
+      "lexicalKey": "project-resource",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_project-resource",
+      "alias": "Projects",
+      "lexicalKey": "projects",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_project-resource",
+      "alias": "Case Studies",
+      "lexicalKey": "case-studies",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_project-resource",
+      "alias": "Project Gallery",
+      "lexicalKey": "project-gallery",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_contact-rep-locator",
+      "alias": "Contact / Rep Locator",
+      "lexicalKey": "contact-rep-locator",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_contact-rep-locator",
+      "alias": "Contact",
+      "lexicalKey": "contact",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_contact-rep-locator",
+      "alias": "Find a Rep",
+      "lexicalKey": "find-a-rep",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_contact-rep-locator",
+      "alias": "Rep Locator",
+      "lexicalKey": "rep-locator",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_contact-rep-locator",
+      "alias": "Distributor Locator",
+      "lexicalKey": "distributor-locator",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_contact-rep-locator",
+      "alias": "Sales Contact",
+      "lexicalKey": "sales-contact",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_search-experience",
+      "alias": "Search Experience",
+      "lexicalKey": "search-experience",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_search-experience",
+      "alias": "Search",
+      "lexicalKey": "search",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_search-experience",
+      "alias": "Site Search",
+      "lexicalKey": "site-search",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_search-experience",
+      "alias": "Find",
+      "lexicalKey": "find",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_navigation-pattern",
+      "alias": "Navigation Pattern",
+      "lexicalKey": "navigation-pattern",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_navigation-pattern",
+      "alias": "Main Menu",
+      "lexicalKey": "main-menu",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_navigation-pattern",
+      "alias": "Primary Navigation",
+      "lexicalKey": "primary-navigation",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_navigation-pattern",
+      "alias": "Header Navigation",
+      "lexicalKey": "header-navigation",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_download-workflow",
+      "alias": "Download Workflow",
+      "lexicalKey": "download-workflow",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_download-workflow",
+      "alias": "Download",
+      "lexicalKey": "download",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_download-workflow",
+      "alias": "File Download",
+      "lexicalKey": "file-download",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_download-workflow",
+      "alias": "Get the PDF",
+      "lexicalKey": "get-the-pdf",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_mobile-experience-gap",
+      "alias": "Mobile Experience Gap",
+      "lexicalKey": "mobile-experience-gap",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_mobile-experience-gap",
+      "alias": "mobile stress",
+      "lexicalKey": "mobile-stress",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_mobile-experience-gap",
+      "alias": "mobile viewport",
+      "lexicalKey": "mobile-viewport",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_mobile-experience-gap",
+      "alias": "dense homepage mobile",
+      "lexicalKey": "dense-homepage-mobile",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_seo-metadata-gap",
+      "alias": "SEO Metadata Gap",
+      "lexicalKey": "seo-metadata-gap",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_seo-metadata-gap",
+      "alias": "seo weak",
+      "lexicalKey": "seo-weak",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_seo-metadata-gap",
+      "alias": "meta description",
+      "lexicalKey": "meta-description",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_seo-metadata-gap",
+      "alias": "template metadata",
+      "lexicalKey": "template-metadata",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_accessibility-gap",
+      "alias": "Accessibility Gap",
+      "lexicalKey": "accessibility-gap",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_accessibility-gap",
+      "alias": "accessibility",
+      "lexicalKey": "accessibility",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_accessibility-gap",
+      "alias": "a11y",
+      "lexicalKey": "a11y",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_accessibility-gap",
+      "alias": "accessible components",
+      "lexicalKey": "accessible-components",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_performance-gap",
+      "alias": "Performance Gap",
+      "lexicalKey": "performance-gap",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_performance-gap",
+      "alias": "performance",
+      "lexicalKey": "performance",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_performance-gap",
+      "alias": "lighthouse",
+      "lexicalKey": "lighthouse",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_performance-gap",
+      "alias": "third-party assets",
+      "lexicalKey": "third-party-assets",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_calculator-opportunity",
+      "alias": "Calculator Opportunity",
+      "lexicalKey": "calculator-opportunity",
+      "source": "canonical_name"
+    },
+    {
+      "conceptId": "canon_calculator-opportunity",
+      "alias": "no clear first-class limiting-height calculator",
+      "lexicalKey": "no-clear-first-class-limiting-height-calculator",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_calculator-opportunity",
+      "alias": "calculator opportunity",
+      "lexicalKey": "calculator-opportunity",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_calculator-opportunity",
+      "alias": "calculator ux gap",
+      "lexicalKey": "calculator-ux-gap",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_calculator-opportunity",
+      "alias": "weak calculator experience",
+      "lexicalKey": "weak-calculator-experience",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_calculator-opportunity",
+      "alias": "Calculators",
+      "lexicalKey": "calculators",
+      "source": "alias"
+    },
+    {
+      "conceptId": "canon_calculator-opportunity",
+      "alias": "calculator maturity",
+      "lexicalKey": "calculator-maturity",
+      "source": "alias"
+    }
+  ]
+}

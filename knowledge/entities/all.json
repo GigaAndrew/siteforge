@@ -34,15 +34,17 @@
     "epistemicClass": "fact",
     "visibility": "shared_unreviewed",
     "sourceProjects": [
-      "eb-metal"
+      "eb-metal",
+      "northline-framing"
     ],
     "evidenceIds": [
-      "ev_0f036f93d11c50c9"
+      "ev_0f036f93d11c50c9",
+      "ev_d07df11295e03360"
     ],
     "reviewStatus": "unreviewed",
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.631Z",
-    "updatedAt": "2026-07-30T19:20:20.631Z"
+    "updatedAt": "2026-07-30T20:33:30.659Z"
   },
   {
     "id": "ent_Website_9e36b38a46d6b5dc",
@@ -4010,5 +4012,273 @@
     "conflictIds": [],
     "createdAt": "2026-07-30T19:20:20.679Z",
     "updatedAt": "2026-07-30T19:20:20.679Z"
+  },
+  {
+    "id": "ent_Company_e66e358a84112db0",
+    "schemaVersion": "1.0.0",
+    "type": "Company",
+    "name": "Northline Framing",
+    "normalizedKey": "northline-framing",
+    "properties": {
+      "websiteUrl": "https://www.northline-framing.example/",
+      "industry": "Cold-formed steel framing and building products",
+      "fixture": true
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_Website_4811adfb7dcf9801",
+    "schemaVersion": "1.0.0",
+    "type": "Website",
+    "name": "https://www.northline-framing.example/",
+    "normalizedKey": "https-www-northline-framing-example",
+    "properties": {
+      "approvedHosts": [
+        "northline-framing.example"
+      ]
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_TechnicalResource_e59dc7ed5caf35f6",
+    "schemaVersion": "1.0.0",
+    "type": "TechnicalResource",
+    "name": "Engineering Resources",
+    "normalizedKey": "engineering-resources",
+    "properties": {
+      "role": "document_center"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_Calculator_7715f13f68300c83",
+    "schemaVersion": "1.0.0",
+    "type": "Calculator",
+    "name": "Wall Selector",
+    "normalizedKey": "wall-selector",
+    "properties": {
+      "classification": "table_driven"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_be2366d89f533f42"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_SubmittalWorkflow_2d6e21070d73ea24",
+    "schemaVersion": "1.0.0",
+    "type": "SubmittalWorkflow",
+    "name": "Submittal Builder",
+    "normalizedKey": "submittal-builder",
+    "properties": {},
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_093897e217dcfbd8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_ProductFamily_bf2507a5d08440e7",
+    "schemaVersion": "1.0.0",
+    "type": "ProductFamily",
+    "name": "ProStud Series",
+    "normalizedKey": "prostud-series",
+    "properties": {},
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_Document_b39f2ac25b4e2470",
+    "schemaVersion": "1.0.0",
+    "type": "Document",
+    "name": "Limiting Height Tables",
+    "normalizedKey": "limiting-height-tables",
+    "properties": {
+      "documentKind": "engineering_table"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_NavigationPattern_ae90b0247e8dc745",
+    "schemaVersion": "1.0.0",
+    "type": "NavigationPattern",
+    "name": "Products / Tools / Resources IA",
+    "normalizedKey": "navigation-products-tools-resources-present",
+    "properties": {
+      "observationKey": "navigation-pattern-dept-ia-products-tools-resources-present"
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_ea2a7f9bf7701a6c"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_ProcessIssue_edf950ad0d45d2c0",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Calculators: score 2/10",
+    "normalizedKey": "calculators-calculators-weak",
+    "properties": {
+      "observationKey": "calculators-calculators-weak",
+      "score": 2
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_UxIssue_a6edfee0f6a06f3d",
+    "schemaVersion": "1.0.0",
+    "type": "UxIssue",
+    "name": "Document management: score 3/10",
+    "normalizedKey": "document-management-document-management-weak",
+    "properties": {
+      "observationKey": "document-management-document-management-weak",
+      "score": 3
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+    "schemaVersion": "1.0.0",
+    "type": "AccessibilityIssue",
+    "name": "Accessibility: score 3/10",
+    "normalizedKey": "accessibility-accessibility-weak",
+    "properties": {
+      "observationKey": "accessibility-accessibility-weak",
+      "score": 3
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ent_ProcessIssue_fc95659fb0568643",
+    "schemaVersion": "1.0.0",
+    "type": "ProcessIssue",
+    "name": "Submittal workflow: score 2/10",
+    "normalizedKey": "submittal-workflow-submittal-workflow-weak",
+    "properties": {
+      "observationKey": "submittal-workflow-submittal-workflow-weak",
+      "score": 2
+    },
+    "epistemicClass": "observation",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_093897e217dcfbd8"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
   }
 ]

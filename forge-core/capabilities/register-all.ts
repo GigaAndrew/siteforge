@@ -318,6 +318,61 @@ const knowledge: CapabilityHandler = {
   },
 };
 
+const normalization: CapabilityHandler = {
+  descriptor: {
+    name: "normalization.run",
+    purpose:
+      "Map project entities to canonical industry concepts for cross-company comparison",
+    consumes: ["knowledge/extract-manifest.json"],
+    produces: ["knowledge/normalization/status.json"],
+    prerequisites: ["knowledge.build"],
+    completionCriteria: ["normalization status written"],
+    estimatedCost: 0.3,
+    estimatedRuntimeMs: 3000,
+    confidenceGain: 0.1,
+    qualityGates: [],
+    failureConditions: [],
+    retryPolicy: { maxRetries: 1, backoffMs: 200 },
+    humanApprovalRequirement: null,
+    plannerWeight: 70,
+  },
+  isComplete: (ctx) =>
+    hasArtifact(ctx.slug, "knowledge/normalization/status.json") && !ctx.force,
+  execute: async (ctx) => {
+    const { ensureConceptRegistry } = await import(
+      "@/lib/normalization/registry"
+    );
+    const { normalizeProject } = await import("@/lib/normalization/engine");
+    const { refreshCanonicalCandidatePatterns } = await import(
+      "@/lib/normalization/patterns"
+    );
+    const { loadStore, persistStore } = await import("@/lib/knowledge/store");
+    const { buildIndex } = await import("@/lib/knowledge/merge");
+    ensureConceptRegistry();
+    const result = normalizeProject({
+      slug: ctx.slug,
+      rebuild: Boolean(ctx.force),
+    });
+    const store = loadStore();
+    const patterns = refreshCanonicalCandidatePatterns(store);
+    persistStore(store, buildIndex(store));
+    return okResult({
+      artifacts: ["knowledge/normalization/status.json"],
+      qualityScore:
+        result.status.mappedCount > 0
+          ? Math.min(0.95, 0.55 + result.status.averageConfidence * 0.4)
+          : 0.5,
+      confidenceDelta: 0.1,
+      metrics: {
+        mapped: result.status.mappedCount,
+        unmapped: result.status.unmappedCount,
+        ambiguous: result.status.ambiguousCount,
+        canonicalCandidates: patterns.created,
+      },
+    });
+  },
+};
+
 const reliability: CapabilityHandler = {
   descriptor: {
     name: "reliability.score",
@@ -748,6 +803,7 @@ export function registerAllCapabilities(): void {
     extraction,
     screenshots,
     knowledge,
+    normalization,
     reliability,
     makeAuditHandler("audit.technical", "analysis/technical-audit.md", 80),
     makeAuditHandler(

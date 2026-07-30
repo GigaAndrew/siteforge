@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ev_d07df11295e03360",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "Northline Framing",
+      "sourceProject": "northline-framing",
+      "sourceUrl": "https://www.northline-framing.example/resources",
+      "sourcePageTitle": "Northline Framing",
+      "captureDate": "2026-07-30",
+      "evidenceExcerpt": "Engineering Resources hosts load tables and literature downloads.",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "epistemicClass": "fact",
+      "visibility": "shared_unreviewed"
+    },
+    "relatedEntityIds": [
+      "ent_Company_e66e358a84112db0",
+      "ent_Industry_70ec175cbe33aa88",
+      "ent_Website_4811adfb7dcf9801",
+      "ent_TechnicalResource_e59dc7ed5caf35f6",
+      "ent_ProductFamily_bf2507a5d08440e7",
+      "ent_Document_b39f2ac25b4e2470"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ev_be2366d89f533f42",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "Northline Framing",
+      "sourceProject": "northline-framing",
+      "sourceUrl": "https://www.northline-framing.example/tools/wall-selector",
+      "sourcePageTitle": "Northline Framing",
+      "captureDate": "2026-07-30",
+      "evidenceExcerpt": "Wall Selector helps size studs for limiting height conditions.",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "epistemicClass": "fact",
+      "visibility": "shared_unreviewed"
+    },
+    "relatedEntityIds": [
+      "ent_Calculator_7715f13f68300c83"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ev_093897e217dcfbd8",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "Northline Framing",
+      "sourceProject": "northline-framing",
+      "sourceUrl": "https://www.northline-framing.example/submittals",
+      "sourcePageTitle": "Northline Framing",
+      "captureDate": "2026-07-30",
+      "evidenceExcerpt": "Submittal Builder assembles product packages for bid documents.",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "epistemicClass": "fact",
+      "visibility": "shared_unreviewed"
+    },
+    "relatedEntityIds": [
+      "ent_SubmittalWorkflow_2d6e21070d73ea24",
+      "ent_ProcessIssue_fc95659fb0568643"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ev_ea2a7f9bf7701a6c",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "Northline Framing",
+      "sourceProject": "northline-framing",
+      "sourceUrl": "https://www.northline-framing.example/",
+      "sourcePageTitle": "Northline Framing",
+      "captureDate": "2026-07-30",
+      "evidenceExcerpt": "Primary nav: Products, Tools, Resources, Contact.",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "epistemicClass": "observation",
+      "visibility": "shared_unreviewed"
+    },
+    "relatedEntityIds": [
+      "ent_NavigationPattern_ae90b0247e8dc745"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ev_521ca973f083b392",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "Northline Framing",
+      "sourceProject": "northline-framing",
+      "sourceUrl": "https://www.northline-framing.example/",
+      "sourcePageTitle": "Northline Framing",
+      "captureDate": "2026-07-30",
+      "evidenceExcerpt": "Mobile homepage is dense; calculator entry is weak on small viewports.",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "epistemicClass": "observation",
+      "visibility": "shared_unreviewed"
+    },
+    "relatedEntityIds": [],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  },
+  {
+    "id": "ev_089381e2a98ae459",
+    "schemaVersion": "1.0.0",
+    "provenance": {
+      "sourceCompany": "Northline Framing",
+      "sourceProject": "northline-framing",
+      "sourceUrl": "https://www.northline-framing.example/",
+      "sourcePageTitle": "Northline Framing",
+      "captureDate": "2026-07-30",
+      "evidenceExcerpt": "Maturity: calculators weak; document management weak; accessibility weak.",
+      "confidence": "medium",
+      "extractionMethod": "inventory_map",
+      "reviewStatus": "unreviewed",
+      "epistemicClass": "observation",
+      "visibility": "shared_unreviewed"
+    },
+    "relatedEntityIds": [
+      "ent_ProcessIssue_edf950ad0d45d2c0",
+      "ent_UxIssue_a6edfee0f6a06f3d",
+      "ent_AccessibilityIssue_ecedd7ec08cc0c6a"
+    ],
+    "relatedRelationshipIds": [],
+    "stale": false,
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  }
+]

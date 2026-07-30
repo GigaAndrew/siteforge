@@ -1,0 +1,212 @@
+[
+  {
+    "id": "nmap_339cb143b5cdeee2",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_TechnicalResource_e59dc7ed5caf35f6",
+    "originalLabel": "Engineering Resources",
+    "lexicalKey": "engineering-resources",
+    "canonicalConceptId": "canon_document-center",
+    "mappingConfidence": 0.98,
+    "mappingMethod": "alias",
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": false
+  },
+  {
+    "id": "nmap_fb7499f9e968ce19",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_Calculator_7715f13f68300c83",
+    "originalLabel": "Wall Selector",
+    "lexicalKey": "wall-selector",
+    "canonicalConceptId": "canon_engineering-calculator",
+    "mappingConfidence": 0.98,
+    "mappingMethod": "alias",
+    "evidenceIds": [
+      "ev_be2366d89f533f42"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": false
+  },
+  {
+    "id": "nmap_894a555ecf269080",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_SubmittalWorkflow_2d6e21070d73ea24",
+    "originalLabel": "Submittal Builder",
+    "lexicalKey": "submittal-builder",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "mappingConfidence": 0.99,
+    "mappingMethod": "alias",
+    "evidenceIds": [
+      "ev_093897e217dcfbd8"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": false
+  },
+  {
+    "id": "nmap_a841f7978ad90ffd",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_ProductFamily_bf2507a5d08440e7",
+    "originalLabel": "ProStud Series",
+    "lexicalKey": "prostud-series",
+    "canonicalConceptId": null,
+    "mappingConfidence": 0,
+    "mappingMethod": "semantic",
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "No registry-backed candidate (alias/structural/semantic)",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": true
+  },
+  {
+    "id": "nmap_583555967ee014f5",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_Document_b39f2ac25b4e2470",
+    "originalLabel": "Limiting Height Tables",
+    "lexicalKey": "limiting-height-tables",
+    "canonicalConceptId": "canon_engineering-table",
+    "mappingConfidence": 0.9500000000000001,
+    "mappingMethod": "alias",
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": false
+  },
+  {
+    "id": "nmap_60fe67fce65ce895",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_NavigationPattern_ae90b0247e8dc745",
+    "originalLabel": "Products / Tools / Resources IA",
+    "lexicalKey": "products-tools-resources-ia",
+    "canonicalConceptId": null,
+    "mappingConfidence": 0.82,
+    "mappingMethod": "semantic",
+    "evidenceIds": [
+      "ev_ea2a7f9bf7701a6c"
+    ],
+    "reviewStatus": "ambiguous",
+    "ambiguityNotes": "Ambiguous between Document Center (0.82) and Product Catalog (0.82)",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": true
+  },
+  {
+    "id": "nmap_10e5a98a78663c73",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_ProcessIssue_edf950ad0d45d2c0",
+    "originalLabel": "Calculators: score 2/10",
+    "lexicalKey": "calculators-score-2-10",
+    "canonicalConceptId": "canon_calculator-opportunity",
+    "mappingConfidence": 0.82,
+    "mappingMethod": "semantic",
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": false
+  },
+  {
+    "id": "nmap_c10535dfb80a5e67",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_UxIssue_a6edfee0f6a06f3d",
+    "originalLabel": "Document management: score 3/10",
+    "lexicalKey": "document-management-score-3-10",
+    "canonicalConceptId": null,
+    "mappingConfidence": 0,
+    "mappingMethod": "semantic",
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "No registry-backed candidate (alias/structural/semantic)",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": true
+  },
+  {
+    "id": "nmap_ce42434b9162ded2",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_AccessibilityIssue_ecedd7ec08cc0c6a",
+    "originalLabel": "Accessibility: score 3/10",
+    "lexicalKey": "accessibility-score-3-10",
+    "canonicalConceptId": "canon_accessibility-gap",
+    "mappingConfidence": 0.82,
+    "mappingMethod": "semantic",
+    "evidenceIds": [
+      "ev_089381e2a98ae459"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": false
+  },
+  {
+    "id": "nmap_72771cc0ecc44581",
+    "schemaVersion": "1.0.0",
+    "sourceCompany": "Northline Framing",
+    "sourceProject": "northline-framing",
+    "sourceEntityId": "ent_ProcessIssue_fc95659fb0568643",
+    "originalLabel": "Submittal workflow: score 2/10",
+    "lexicalKey": "submittal-workflow-score-2-10",
+    "canonicalConceptId": "canon_submittal-workflow",
+    "mappingConfidence": 0.82,
+    "mappingMethod": "semantic",
+    "evidenceIds": [
+      "ev_093897e217dcfbd8"
+    ],
+    "reviewStatus": "unreviewed",
+    "ambiguityNotes": "",
+    "version": "1.0.0",
+    "createdAt": "2026-07-30T20:33:30.844Z",
+    "updatedAt": "2026-07-30T20:33:30.844Z",
+    "belowThreshold": false
+  }
+]

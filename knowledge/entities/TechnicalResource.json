@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ent_TechnicalResource_e59dc7ed5caf35f6",
+    "schemaVersion": "1.0.0",
+    "type": "TechnicalResource",
+    "name": "Engineering Resources",
+    "normalizedKey": "engineering-resources",
+    "properties": {
+      "role": "document_center"
+    },
+    "epistemicClass": "fact",
+    "visibility": "shared_unreviewed",
+    "sourceProjects": [
+      "northline-framing"
+    ],
+    "evidenceIds": [
+      "ev_d07df11295e03360"
+    ],
+    "reviewStatus": "unreviewed",
+    "conflictIds": [],
+    "createdAt": "2026-07-30T20:33:30.627Z",
+    "updatedAt": "2026-07-30T20:33:30.627Z"
+  }
+]
